@@ -1,10 +1,11 @@
 from __future__ import annotations
 
+import base64
 import os
 import time
 from dataclasses import dataclass
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 
 import requests
 from youtube_transcript_api import (
@@ -46,6 +47,124 @@ class ProviderTranscript:
     language_code: str
     is_generated: bool | None
     provider: str
+
+
+class InnerTubeTranscriptPanelProvider:
+    ENDPOINT = "https://www.youtube.com/youtubei/v1/get_transcript"
+    CLIENTS = (
+        {
+            "name": "ANDROID",
+            "id": "3",
+            "version": "20.10.38",
+            "key": "AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
+            "user_agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
+            "extra": {"osName": "Android", "osVersion": "11"},
+        },
+        {
+            "name": "IOS",
+            "id": "5",
+            "version": "19.45.4",
+            "key": "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "user_agent": (
+                "com.google.ios.youtube/19.45.4 "
+                "(iPhone16,2; U; CPU iOS 18_1_0 like Mac OS X;)"
+            ),
+            "extra": {"deviceModel": "iPhone16,2", "osName": "iPhone", "osVersion": "18.1.0"},
+        },
+    )
+
+    @staticmethod
+    def _params(video_id: str, language_code: str) -> str:
+        inner = b"\n\x03asr\x12\x02" + language_code.encode() + b"\x1a\x00"
+        encoded_language = quote(base64.b64encode(inner).decode(), safe="").encode()
+        outer = b"\n\x0b" + video_id.encode() + b"\x12\x12" + encoded_language + b"\x18\x01"
+        return base64.b64encode(outer).decode().rstrip("=")
+
+    @staticmethod
+    def _text(value: dict[str, Any]) -> str:
+        if value.get("simpleText"):
+            return str(value["simpleText"]).strip()
+        return "".join(str(run.get("text") or "") for run in value.get("runs", [])).strip()
+
+    @classmethod
+    def _segments(cls, payload: dict[str, Any]) -> list[Segment]:
+        found: list[Segment] = []
+
+        def walk(value: Any) -> None:
+            if isinstance(value, dict):
+                renderer = value.get("transcriptSegmentRenderer")
+                if isinstance(renderer, dict):
+                    text = cls._text(renderer.get("snippet") or {})
+                    if text:
+                        start_ms = float(renderer.get("startMs") or 0)
+                        end_ms = float(renderer.get("endMs") or start_ms)
+                        found.append(
+                            Segment(
+                                start=start_ms / 1000,
+                                duration=max(0.001, (end_ms - start_ms) / 1000),
+                                text=text,
+                            )
+                        )
+                for child in value.values():
+                    walk(child)
+            elif isinstance(value, list):
+                for child in value:
+                    walk(child)
+
+        walk(payload)
+        return found
+
+    def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
+        errors: list[str] = []
+        for language_code in languages:
+            params_value = self._params(video.video_id, language_code)
+            for client in self.CLIENTS:
+                client_context = {
+                    "hl": "en",
+                    "gl": "US",
+                    "timeZone": "UTC",
+                    "clientName": client["name"],
+                    "clientVersion": client["version"],
+                    "userAgent": client["user_agent"],
+                    **client["extra"],
+                }
+                headers = {
+                    "User-Agent": str(client["user_agent"]),
+                    "Content-Type": "application/json",
+                    "X-YouTube-Client-Name": str(client["id"]),
+                    "X-YouTube-Client-Version": str(client["version"]),
+                }
+                try:
+                    response = requests.post(
+                        self.ENDPOINT,
+                        params={"key": client["key"], "prettyPrint": "false"},
+                        headers=headers,
+                        json={"context": {"client": client_context}, "params": params_value},
+                        timeout=(5, 15),
+                    )
+                    response.raise_for_status()
+                    payload = response.json()
+                except (requests.RequestException, ValueError) as exc:
+                    errors.append(f"{client['name']}/{language_code}: {exc}")
+                    continue
+
+                segments = self._segments(payload)
+                if segments:
+                    return ProviderTranscript(
+                        segments=segments,
+                        language=language_code,
+                        language_code=language_code,
+                        is_generated=True,
+                        provider=f"youtube-get-transcript:{client['name'].lower()}",
+                    )
+
+                errors.append(
+                    f"{client['name']}/{language_code}: response contained no transcript segments"
+                )
+
+        if errors:
+            raise TranscriptBlocked("; ".join(errors[-4:]))
+        raise TranscriptUnavailable("get_transcript returned no transcript")
 
 
 class InnerTubeCaptionProvider:
@@ -367,6 +486,7 @@ class InvidiousTranscriptProvider:
 
 class FallbackTranscriptProvider:
     def __init__(self) -> None:
+        self.transcript_panel = InnerTubeTranscriptPanelProvider()
         self.innertube = InnerTubeCaptionProvider()
         self.ytdlp = YtDlpCaptionProvider()
         self.direct = YouTubeTranscriptProvider()
@@ -375,6 +495,11 @@ class FallbackTranscriptProvider:
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
         errors: list[str] = []
+
+        try:
+            return self.transcript_panel.fetch(video, languages)
+        except (TranscriptUnavailable, TranscriptBlocked) as exc:
+            errors.append(f"get-transcript: {exc}")
 
         try:
             return self.innertube.fetch(video, languages)
