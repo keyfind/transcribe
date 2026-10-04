@@ -67,7 +67,7 @@ class YtDlpCaptionProvider:
                     return key, automatic[key], True
 
         if subtitles:
-            key = sorted(subtitles)[0]
+            key = min(subtitles)
             return key, subtitles[key], False
 
         original_auto = sorted(key for key in automatic if key.endswith("-orig"))
@@ -76,7 +76,7 @@ class YtDlpCaptionProvider:
             return key, automatic[key], True
 
         if automatic:
-            key = sorted(automatic)[0]
+            key = min(automatic)
             return key, automatic[key], True
 
         return None
