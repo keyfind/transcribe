@@ -61,39 +61,25 @@ jobs:
       - name: Install package
         run: python -m pip install .
 
-      - name: Read request
-        id: request
-        shell: bash
+      - name: Read issue request
+        id: request_issue
+        if: github.event_name == 'issues'
+        run: python -m yt_channel_transcriber.issue_input "$GITHUB_EVENT_PATH" --github-output "$GITHUB_OUTPUT"
+
+      - name: Read manual request
+        id: request_dispatch
+        if: github.event_name == 'workflow_dispatch'
         env:
           DISPATCH_CHANNEL: ${{ inputs.channel }}
           DISPATCH_LIMIT: ${{ inputs.limit }}
           DISPATCH_LANGUAGES: ${{ inputs.languages }}
-        run: |
-          if [[ "${{ github.event_name }}" == "issues" ]]; then
-            python -m yt_channel_transcriber.issue_input "$GITHUB_EVENT_PATH" --github-output "$GITHUB_OUTPUT"
-          else
-            python - <<'PY'
-            import os
-            from yt_channel_transcriber.issue_input import (
-                validate_channel, validate_languages, validate_limit
-            )
-            values = {
-                "channel": validate_channel(os.environ["DISPATCH_CHANNEL"]),
-                "limit": validate_limit(os.environ["DISPATCH_LIMIT"]),
-                "languages": validate_languages(os.environ["DISPATCH_LANGUAGES"]),
-            }
-            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
-                for key, value in values.items():
-                    fh.write(f"{key}={value}\n")
-            PY
-          fi
-
+        run: python -m yt_channel_transcriber.dispatch_input
       - name: Transcribe latest videos
         id: transcribe
         env:
-          CHANNEL: ${{ steps.request.outputs.channel }}
-          LIMIT: ${{ steps.request.outputs.limit }}
-          LANGUAGES: ${{ steps.request.outputs.languages }}
+          CHANNEL: ${{ steps.request_issue.outputs.channel || steps.request_dispatch.outputs.channel }}
+          LIMIT: ${{ steps.request_issue.outputs.limit || steps.request_dispatch.outputs.limit }}
+          LANGUAGES: ${{ steps.request_issue.outputs.languages || steps.request_dispatch.outputs.languages }}
         run: |
           OUTPUT_DIR=$(yt-channel-transcriber \
             "$CHANNEL" \
@@ -143,9 +129,9 @@ jobs:
       - name: Add job summary
         shell: bash
         env:
-          CHANNEL: ${{ steps.request.outputs.channel }}
-          LIMIT: ${{ steps.request.outputs.limit }}
-          LANGUAGES: ${{ steps.request.outputs.languages }}
+          CHANNEL: ${{ steps.request_issue.outputs.channel || steps.request_dispatch.outputs.channel }}
+          LIMIT: ${{ steps.request_issue.outputs.limit || steps.request_dispatch.outputs.limit }}
+          LANGUAGES: ${{ steps.request_issue.outputs.languages || steps.request_dispatch.outputs.languages }}
           SLUG: ${{ steps.transcribe.outputs.slug }}
         run: |
           {
