@@ -19,7 +19,6 @@ from youtube_transcript_api import (
 from .models import Segment, Video
 from .vtt import parse_vtt
 
-
 DEFAULT_INVIDIOUS_INSTANCES = [
     "https://inv.nadeko.net",
     "https://invidious.nerdvpn.de",
@@ -62,7 +61,7 @@ class YouTubeTranscriptProvider:
                 if chosen:
                     break
             if chosen is None:
-                chosen = sorted(available, key=lambda t: (t.is_generated, t.language_code))[0]
+                chosen = min(available, key=lambda t: (t.is_generated, t.language_code))
 
             fetched = chosen.fetch()
             segments = [
