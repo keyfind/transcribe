@@ -1,0 +1,771 @@
+Das ist eine ziemlich genaue
+Darstellung davon, wie Anthropic diese
+Seitenhiebe von OpenAI aufnimmt, ohne
+sie tatsächlich zu beeinträchtigen,
+da Anthropic nach all den Problemen,
+mit denen sie als Unternehmen in den
+letzten Monaten von den Problemen mit
+der Ratenbegrenzung bis zur
+Unterleistung ihrer Modelle
+konfrontiert waren, ein ernsthaftes
+Comeback hingelegt hat. Sie sind
+endlich mit vielen konkurrenzfähigen
+Modellen zurück, aber wir haben sogar
+noch ein weiteres verrücktes Modell
+von Anthropic in der Pipeline. Und das
+ist Fable 5.5, das früher erscheinen
+könnte, als die meisten Leute erwarten
+. In Anbetracht der Sprünge, die wir
+von der 5.0 er-Modellreihe zur 5.5
+er-Reihe gesehen haben, könnte das
+enorm sein. Ich habe auch das neue
+Modell, das sie heute vorgestellt haben
+, nämlich Sonnet 5.5, ausgiebig
+getestet, und ehrlich gesagt könnte es
+für viele Leute zum täglichen
+Begleiter werden. Es ist günstiger,
+schneller und war in meinen Tests
+extrem konkurrenzfähig mit GPT 6 Soul
+und in vielen Fällen sogar besser. Und
+ich habe auch Fälle gesehen, in denen
+es Opus 5.5 aussticht, aber günstiger
+ist. Schaut euch das mal an. Das
+günstigste mittelgroße Modell von
+Anthropic ist hier draußen und
+erstellt vollwertige Fortnite-Klone.
+Das ist nicht nur einer der Fälle, in
+denen dieses Modell Opus 5.5
+ausgestochen hat. Das hat es schon oft
+in vielen verschiedenen
+Domänenaufgaben getan. Das alles wurde
+mit dem 20-Dollar-Pro-Tarif
+durchgeführt und das ist nur die
+Spitze des Eisbergs, denn ich habe noch
+viele weitere Tests, die ich im Laufe
+des heutigen Videos vorstellen werde.
+Leute, das alles muss OpenAI etwas
+unter Druck setzen, denn der DevDay
+steht quasi vor der Tür. Wir hatten
+ursprünglich darüber gesprochen, dass
+OpenAI am DevDay ein neues Modell
+veröffentlichen wird. Es gab sogar
+Gerüchte über die Veröffentlichung
+von GPT 6.1, aber heute haben wir dazu
+einige Neuigkeiten. Möglicherweise
+handelt es sich dabei um ein Modell,
+das jetzt verzögert wurde. Laut Wall
+Street Journal wurde es aus
+Sicherheitsgründen verzögert, könnte
+man sagen. Aber ich weiß aus meiner
+eigenen Erfahrung mit globalen Medien,
+wie das Mediengewerbe tatsächlich
+läuft. Manchmal arbeiten Unternehmen
+direkt mit großen Medien zusammen, um
+zu gestalten, wie Ankündigungen und
+Verzögerungen kommuniziert werden. Ich
+sage nicht, dass es hier bestätigt ist
+, aber man kann die Punkte
+offensichtlich verbinden. Eine
+sicherheitsrelevante Verzögerung gibt
+OpenAI auch mehr Zeit, an dem Modell zu
+arbeiten, ohne dass die Verzögerung zu
+negativen Gefühlen führt. Wie auch
+immer, der Dev Day kommt und es gibt
+eine Menge zu besprechen. Wir werden
+über einige der neuen Leaks sprechen,
+die vom Dev Day aufgetaucht sind, und
+über einige der neuen Dinge, die sie
+auf den Markt bringen werden, wie die
+Cerebrus-Infrastruktur sowie den O
+Assistant. Und auch in den chinesischen
+Laboren wird hinter den Kulissen
+gekocht. Wir sehen endlich die ersten
+Ergebnisse der Clan 4.0-Reihe. Kimmy K
+3.1 könnte möglicherweise um den
+Nationalfeiertag herum erscheinen, der
+in wenigen Tagen am 1. Oktober ist, und
+Deep Seek Version 4.1 Pro scheint
+ebenfalls näher zu rücken. Und bevor
+wir überhaupt ins Detail gehen, würde
+es mir wirklich die Welt bedeuten, wenn
+ihr dieses Video liken und mich
+abonnieren könntet. Da mir das
+wirklich hilft, Videos für euch zu
+machen, und es mir einfach die Welt
+bedeuten würde, weil ich mein Bestes
+gebe, um diese neuen Ziele zu erreichen
+, würde es mir wirklich sehr viel
+bedeuten, wenn ihr das einfach tun
+könntet. Aber mit diesem Gedanken
+lasst uns einfach direkt in das heutige
+Video eintauchen. Zahlt ihr immer noch
+lieber für das Scraping von Websites,
+anstatt eure KI dafür zu bezahlen,
+diesen Müll zu lesen? Nun, der heutige
+Sponsor, Tiny Fish, möchte das ändern
+. Im 45-seitigen Benchmark von Tiny
+Fish waren die typischen
+Fire-Crawl-Ergebnisse etwa 38%Müll,
+Menüs, Cookie-Leisten und Werbung. Ihr
+habt dafür bezahlt, diese Inhalte zu
+scrappen, und zahlt erneut in Token,
+wenn ihr das Modell zum Lesen benötigt
+. Tiny Fish macht die Suche und den
+Abruf in jedem Tarif kostenlos, mit
+saubereren Inhalten für eure KI. Und
+schickt Tiny Fish jetzt die neueste
+Firecrawl-Rechnung, und sie werden euch
+den entsprechenden Betrag in euren
+Wallet-Guthaben gutschreiben. Diese
+Guthaben treiben den Web-Agenten und
+den Browser an. Automatisiert
+Anmeldungen, navigiert durch Websites,
+füllt Formulare aus und erhaltet
+strukturierte Daten zurück. Oder
+führe deine eigenen
+Cloud-Browser-Workflows aus. Die Suche
+und der Abruf bleiben auch nach
+Aufbrauchen deines Guthabens kostenlos.
+Keine Kreditkarten erforderlich.
+Firecrawl muss nicht gekündigt werden.
+Klicke auf die Links in der
+Beschreibung unten, um dir dein
+Guthaben zu sichern. Das Angebot endet
+am 16. Oktober. Und vielen Dank an
+Tinybird für das Sponsoring des
+heutigen Videos. Fangen wir mit dem
+Giganten an, nämlich Fable 5.5. Denn
+Leute, dieses Modell wird der Wahnsinn.
+Ich habe einiges zu diesem Modell
+gesehen, und wenn das so ist, wie es
+aussieht, und wenn es sich bestätigt,
+könnte das etwas ganz anderes werden.
+Genau deshalb wollte ich über Fable
+sprechen, bevor wir uns Sonnet 5.5
+widmen. Im Moment sieht es so aus, als
+könnte OpenAI in den nächsten Wochen
+einen harten Kampf bevorstehen, denn
+Gerüchten zufolge soll Fable 5.5
+früher erscheinen, als die meisten
+erwarten. Und sieh dir nur die
+Fortschritte an, die Anthropic bereits
+in der 5.5-Familie gemacht hat. Sonnet
+5.5 ist deutlich besser als Sonnet 5
+und selbst Haiku 5.5 könnte weit über
+seiner Gewichtsklasse liegen und es
+sogar mit Soul aufnehmen. Anthropic hat
+bereits bestätigt, dass Haiku 5.5 in
+den nächsten Wochen erscheinen wird.
+Stellen Sie sich also vor, was passiert
+, wenn Anthropic diese Verbesserungen
+übernimmt und sie auf Fable, sein
+absolutes Pioniermodell, anwendet. Der
+einzige Bereich, in dem OpenAI noch
+einen großen Vorteil haben könnte,
+ist die Token-Effizienz. Und das wird
+eine große Rolle spielen, wenn es um
+diese Modelle geht, die lange
+Agentenaufgaben ausführen. Aber da GPT
+-6.1 Astra Berichten zufolge wegen
+Nichterfüllung der Sicherheits-und
+Ausrichtungsanforderungen von OpenAI
+auf Eis gelegt wurde, ist die größte
+Frage, was OpenAI als Nächstes tut.
+Treiben sie die aktuelle Generation mit
+mehr RL weiter voran oder kommen wir an
+einen Punkt, an dem sie die nächste
+Generation von Pre-Train auf den Markt
+bringen müssen, um im Grunde genommen
+auf das zu reagieren, was Anthropic
+gerade ausheckt? Denn wenn Fable 5.5
+relativ bald veröffentlicht wird, wird
+das definitiv das gesamte KI-Rennen
+verändern. Wenn ihr die besten
+KI-Tools, Workflows und Drops vor allen
+anderen haben wollt, abonniert meinen
+kostenlosen Newsletter mit dem Link in
+der Beschreibung unten, der völlig
+kostenlos ist. Anthropic hat offiziell
+Sonnet 5.5 veröffentlicht, das zweite
+Modell der Claude 5.5-Familie. Und
+heute werden wir uns ein paar
+verschiedene Tests ansehen, die wir
+durchführen werden. Das ist etwas, das
+wir in diesem KI-News-Video tun werden.
+Und wenn ihr natürlich zu den
+nächsten Abschnitten springen wollt,
+könnt ihr das auch tun. Aber Sonnet
+5.5 ist ein ziemlich großes Upgrade
+gegenüber Sonnet 5. Wir alle wissen,
+dass Sonnet 5 eine Art Katastrophe war,
+und wir alle wissen, dass der Sprung
+mit diesem Modell in den Benchmarks von
+Anthropic ziemlich groß ist. Sonnet
+5.5 ist in Bezug auf das Modell selbst
+ziemlich gewaltig. Laut Anthropic ist
+es mehr als 30%schneller und kann bis
+zu 30%weniger pro Aufgabe kosten,
+hauptsächlich durch die Verwendung von
+weniger Token und Gesamtkosten. Ehrlich
+gesagt, basierend auf dem, was ich
+bisher gesehen habe, ist es ziemlich
+tokenlastig und wirklich teuer, wenn
+man High Reasoning verwendet. Es ist
+irgendwie verrückt, dass dies das
+mittelgroße Modell von Anthropic sein
+soll, denn seine Leistung kommt dem
+Stand der Technik bereits sehr nahe.
+Sonnet 5.5 verbessert sich im Grunde
+genommen auf ganzer Linie, mit einigen
+absolut massiven Zuwächsen bei
+Codierungs-und Agentenaufgaben, wo es
+sogar das Sonnet 5 sowie das Opus 5.5
+auf Terminal Bench 4 schlägt, was
+schon irgendwie verblüffend ist. Und
+bei alltäglichen Aufgaben, der
+Behebung von Fehlern und der Erstellung
+ausgefeilter Dokumente, Folien und
+Tabellenkalkulationen kommt es Opus 5.5
+wirklich sehr nahe. Anthropic
+positioniert dieses Modell also als
+schneller, kostengünstiger und als
+Ergänzung zu Opus 5.5, weshalb ich
+sage, dass es ein großartiger
+Alltagsbegleiter sein könnte. Sonnet
+5.5 hat ein Kontextfenster von 1
+Million Token. Die maximale Ausgabe ist
+mit 128.000 Token angegeben und der
+Eingabepreis ist mit 2 USD pro 1
+Million Eingabetoken und 10 USD pro 1
+Million Ausgabetoken angegeben. Auf der
+World of AI Benchmark und der Bob
+Conan-Plattform, zu der ich unten in
+der Beschreibung einen Link hinterlasse
+, haben wir dieses Modell rigoros
+getestet und sind zu dem Schluss
+gekommen, dass dieses Modell derzeit
+auf Platz 3 der Gesamtwertung der
+Rangliste steht und GPT-6 Soul
+übertrifft, was irgendwie verrückt
+ist. Und ehrlich gesagt werden die
+Ergebnisse, die Sie in diesem Video
+sehen werden, wirklich zeigen, warum es
+so weit oben steht. Leute, dies ist der
+beste Weg für euch, jedes Modell zu
+testen und Einblicke zu erhalten, was
+ihr tun könnt und wie ihr diese
+Plattform im Wesentlichen nutzen könnt
+, um mit jedem KI-Modell zu beginnen.
+Ich hinterlasse also unten in der
+Beschreibung einen Link dazu. Ihr
+könnt sogar auf meine
+Prompt-Bibliothek zugreifen, daher
+empfehle ich euch dringend, sie über
+die Links unten in der Beschreibung
+auszuprobieren. Sonnet 5.5 erreicht
+beim Intelligence Index von Artificial
+Analysis ebenfalls einen Wert von 56
+und liegt damit nur zwei Punkte hinter
+Opus 5.5 Max und 18 Punkte über Sonnet
+5. Das ist ein ziemlich großer Sprung.
+Das größte Problem, das mir bei
+meinen eigenen Eingabeaufforderungen
+und Tests jedoch aufgefallen ist, ist
+die Token-Effizienz. Bei maximalem
+Aufwand verbraucht Sonnet 5.5 etwa 100
+Token pro Aufgabe. Das ist der höchste
+Wert, den Artificial Analysis je
+gemessen hat, und außerdem etwa das
+Siebenfache von GPT-6 Astra bei
+maximalem Aufwand. Das ist schon
+verrückt. Aber obwohl es sich um das
+mittelgroße Modell von Anthropic
+handelt, schlägt es Opus 5.5 und GPT-6
+Astra beim Terminal Bench 4 mit 64%
+gegenüber 60%und kommt Opus bei
+mehreren Agenten-und
+Wissensarbeits-Benchmarks sehr nahe.
+Ich möchte, dass Sie sich das ansehen.
+Ich habe Claude Sonnet 5.5 in Claude
+Code mit aktiviertem Ultra-Modus
+gebeten, in 3 Tagen einen
+vollständigen Call of Duty
+Zombies-Klon zu erstellen. Und das
+alles wurde mit einer einzigen
+Aufforderung erledigt, Leute. Ich habe
+gesagt, dass es keine Fragen stellen
+und es einfach abschicken soll. Und das
+ist die Qualität. Da kommen diese
+Zombies auf mich zu. Und dieses Mal
+spiele ich das Spiel nicht wirklich mit
+, denn erinnert ihr euch, was letztes
+Mal passiert ist? Ich habe es dann doch
+gespielt und vergessen, die Aufnahme zu
+beenden. Ich habe einfach
+weitergespielt und im Grunde genommen
+etwa 5 Minuten eurer Zeit während des
+Videos verbraucht. Nur ich, der die
+Simulation gespielt hat, die das Kabel
+oder Opus 5.5 generiert hat. Aber in
+diesem Fall könnt ihr sehen, dass
+Sonnet 5.5 alle tatsächlichen Elemente
+des Originalspiels mitgeliefert hat.
+Ihr könnt die vernagelten Fenster
+sehen, die von den Zombies
+auseinandergerissen werden. Ihr könnt
+die Barrieren wieder aufbauen. Ihr habt
+eine Überraschungskiste mit einem
+Teddybären, der sie bewegen kann. Ihr
+habt vier Vorteile. Ihr habt
+Pack-a-Punch, was ein echtes Feature
+des Originalspiels ist. Und dann habt
+ihr noch all diese coolen kleinen Dinge
+wie die verschiedenen Waffenarten, die
+ihr kaufen könnt, sowie das Erkunden
+verschiedener Räume. Insgesamt bin ich
+einfach nur verblüfft, wie gut das
+Tool alles texturieren konnte. Es hat
+auch all die kleinen Details
+hinzugefügt, die man bei einem
+mittelgroßen Modell wie dem
+Sonnet-Output wirklich nicht erwarten
+würde. Die Frontend-Fähigkeiten
+scheinen bislang einzigartig zu sein,
+und es hat seinen eigenen
+Designgeschmack wie das Opus 5.5.
+Insgesamt sieht es so aus, als würde
+es bei verschiedenen Aufgaben recht gut
+funktionieren, denn hier haben wir es
+gebeten, eine Nvidia-GPU-Landingpage zu
+erstellen. Eines fällt mir sofort auf:
+Es hat die 3 D-GPU hervorragend
+erstellt, wozu die meisten hochmodernen
+Modelle in der Lage sind. Aber man
+sieht auch die Reflexion, die es
+generiert hat, das ist der Wahnsinn.
+Man hat eine elegante kleine
+Landingpage, die alle anderen Elemente
+präsentiert. Ja, das Diagramm.
+Insgesamt gefallen mir einfach die
+dynamischen Bewegungen und die coolen
+Funktionen und der Designgeschmack, den
+es dieser Landingpage verliehen hat.
+Hier ist ein 360-Grad-Produktviewer,
+der wirklich beeindruckend ist. Dies
+ist eine Premium-Ausgabe, die vom Cloud
+Sonnet 5.5 generiert wurde. Hier haben
+Sie die Möglichkeit, alle
+verschiedenen Farben zu ändern. Ich
+bin wirklich begeistert, dass jede
+einzelne Funktion dieser Landingpage
+oder dieses Viewers genau auf der
+Grundlage unserer Vorgaben funktioniert
+. Das ist wirklich unglaublich, denn
+hier haben wir Sonnet 5.5 angewiesen,
+die Skyline von New York City zu
+erstellen. Wir haben ihm gesagt, dass
+es mindestens 2.000 Zeilen haben soll,
+kein Schummeln mit Auffüllung. Das ist
+der Detailgrad, den ich wirklich nicht
+von Sonnet erwartet hätte. Sie sehen,
+dass Sie bei der Skyline verschiedene
+Tageszeiten haben, zu denen Sie
+wechseln können. Sie haben coole
+kleine Elemente wie verschiedene
+Details, die wir vom Modell nicht
+wirklich erwartet hätten, wie z. B.
+die Segelboote. Sie haben sogar die
+Reflexionen der Wolkenkratzer sowie
+viele andere Dinge wie einen
+Hubschrauber, der in die
+entgegengesetzte Richtung fliegt.
+Trotzdem haben Sie diese coolen kleinen
+Leute, die herumlaufen oder so animiert
+sind, dass sie auf seltsame Weise
+laufen. Insgesamt liebe ich einfach die
+Qualität und die Tiefe, die es mit
+dieser spezifischen Ausgabe generieren
+konnte. Das ist wirklich schön zu
+sehen. Die Tageszeit scheint
+tatsächlich nicht zu funktionieren,
+was der einzige Nachteil ist. Das muss
+der beste und genaueste Minecraft-Klon
+sein, den ich je von einem KI-Modell
+gesehen habe. Das sind Ergebnisse, die
+mit Sonic 5.5 erzielt wurden, und sie
+sind wirklich beeindruckend. Es gibt
+Höhlengenerationen, es gibt Texturen
+für alle verschiedenen Blöcke wie im
+ursprünglichen Sandbox-Spiel, und
+alles scheint perfekt zu funktionieren,
+angefangen von der Wasserphysik,
+insbesondere der Wassereimermechanik,
+und das Höhlensystem ist
+wahrscheinlich das Beste. Es gibt Erze,
+und es werden sogar Mobs in diesen
+verschiedenen Höhlensystemen generiert
+, wie im eigentlichen Spiel, was
+verrückt ist, sogar Fackeln. Wir
+kommen also an einen Punkt, an dem
+diese Eingabeaufforderung fast bis ins
+kleinste Detail perfektioniert ist, was
+irgendwie verrückt ist. Es ist einfach
+unglaublich, dass wir an einen Punkt
+gelangen, an dem diese KI-Modelle
+solche Spiele auf so unglaubliche Weise
+klonen können. Wenn man nun Sonic 5.5
+mit hoher Denkleistung auf X mit GPT-6
+Soul oder sogar Astra mit höherer
+Argumentation vergleicht, erhält man
+im Grunde ähnliche Ergebnisse und
+übertrifft in vielen Fällen sogar
+Soul. Aber das Verrückte ist, dass man
+diese verrückten Ergebnisse mit
+praktisch denselben identischen
+API-Preisen erhält. Hier ist ein
+Vergleich von Sonic 5.5 mit dem GPT-6
+Astra, wobei beide mit genau derselben
+Eingabeaufforderung auf hoher
+Argumentation auf X getestet wurden.
+Astra war in etwa 15 Minuten fertig und
+kostete mit dieser Ausgabe 16 US-Dollar
+, während es mit Sonic etwa 25 Minuten
+dauerte, aber nur 3 US-Dollar kostete.
+Und wenn man die endgültigen Artefakte
+tatsächlich vergleicht, ist der
+Unterschied ziemlich deutlich. Die
+Ergebnisse von Sonnet sehen deutlich
+besser aus, obwohl sie fast fünfmal
+weniger kosten. Und das kann man
+natürlich anhand all dieser kleinen
+Effekte erkennen, die von dieser
+Landingpage ausgehen. Ein weiterer
+Benchmark, bei dem Sonnet 5.5 mit Opus
+5.5 und GPT Astra verglichen wurde, und
+zwar bei hohem Aufwand X unter
+Verwendung der exakt gleichen
+Eingabeaufforderung wie bei den anderen
+Modellen. Die Gesamtergebnisse können
+nicht ganz mit Opus 5.5 mithalten. Man
+kann deutlich erkennen, dass es
+definitiv einen Unterschied gibt, aber
+die Farbqualität sieht beim Sonnet 5.5
+extrem gut aus. Der Kontrast ist dort
+definitiv gut. Es dauerte etwa 1 Stunde
+und 54 Minuten und kostete 7,73 $. Es
+ist also definitiv ziemlich langsam bei
+dieser Aufgabe und bei maximalem
+Aufwand sehen die Ergebnisse definitiv
+besser aus, aber es gibt offensichtlich
+einen großen Kompromiss. Es verbraucht
+offensichtlich viele Token, was
+wahrscheinlich einer der wenigen
+Nachteile des Sonnet-Modells bisher ist
+. Mein Fazit zum Sonnet 5.5 ist also,
+dass es sich um ein bemerkenswertes
+mittelgroßes Modell handelt, das sich
+nicht wirklich wie ein mittelgroßes
+Modell anfühlt. Es ist ein riesiger
+Sprung gegenüber dem Sonnet 5. Es
+läuft 30%schneller und kostet bei den
+meisten Aufgaben bis zu 30%weniger. Es
+ist praktisch identisch mit Opus 5.5,
+liegt nur in einigen verschiedenen
+Bereichen etwas zurück. Für mich ist
+es eher grenzwertig. Natürlich muss
+ich es noch in mehreren Bereichen
+weiter testen, um diese Behauptung
+tatsächlich zu bestätigen, aber
+insgesamt ist es ein wirklich, wirklich
+schönes Modell und etwas, das sich
+hervorragend als täglicher Begleiter
+auf niedrigeren Denkebenen eignet.
+Preislich ist es natürlich nicht das
+Beste, aber es ist immer noch relevant
+und günstig. Wenn euch dieses Video
+gefällt und ihr den Kanal
+unterstützen möchtet, könnt ihr
+über die unten stehende Option „
+Super Thanks“ für meinen Kanal
+spenden. Oder ihr schließt euch
+unserem privaten Discord an, wo ihr
+monatlich kostenlos auf mehrere
+Abonnements für verschiedene KI-Tools
+zugreifen könnt, sowie auf tägliche
+KI-News und exklusive Inhalte und
+vieles mehr. Aber was die Zukunft
+betrifft, haben wir ziemlich düstere
+Neuigkeiten von OpenAI, denn GPT-6.1
+Astra, das um den Dev Day herum
+erscheinen sollte, wurde offiziell
+verschoben. Laut Wall Street Journal
+bereitete OpenAI GPT-6.1 Astra für
+einen Start im Oktober vor. Interne
+Tests ergaben jedoch, dass es die
+Sicherheits-und Abstimmungsstandards
+des Unternehmens nicht erfüllte. Das
+Verrückte daran ist, dass das Modell
+offenbar besser in der Lage war,
+schwierige Aufgaben ohne menschliche
+Hilfe durchgängig zu erledigen, und
+Probleme wie Modellträgheit
+verbesserte. Allerdings zeigte es auch
+einige irreführende Verhaltensweisen,
+die seine Vorgänger nicht hatten, und
+berichtete manchmal ungenau, was es
+getan hatte, und überschritt seinen
+zulässigen Rahmen, einschließlich des
+Versuchs, externe Tools zu verwenden,
+wenn dies nicht vorgesehen war. Stimmt
+das nun? Ich weiß es nicht, aber das
+Nichteinhalten von Sicherheitsstandards
+ist eine sehr höfliche Art, das Rennen
+um ein Modell tatsächlich zu verlieren
+, und meiner Meinung nach ist dies, wie
+ich zu Beginn des Videos erwähnt habe,
+möglicherweise eine Möglichkeit für
+sie, die Einführung ihres Modells zu
+verzögern, da sie nicht dieselben
+Standards wie Anthropic erfüllen. Aber
+egal, ich weiß wirklich nicht, was sie
+jetzt am Dev Day vorhaben. Ich weiß,
+dass es noch viele weitere Leaks gibt,
+über die wir bald sprechen werden,
+aber das ist schon ein harter Schlag,
+denn das sollte einer der großen
+Launches beim Dev Day sein. Aber wir
+wissen mit Sicherheit, dass sie alle
+ihre Always-On-Assistenten vorstellen
+werden, über die wir gesprochen haben,
+und ich kann euch nur wärmstens
+empfehlen, euch das Video dazu
+anzusehen, falls ihr das noch nicht
+getan habt. Eine weitere Sache, die sie
+bestätigt haben, sind die mehr als 20
+Launches. Wir wissen nicht, was das
+für Launches sein werden, aber ich
+vermute ein paar Dinge. Eine der
+wichtigsten Neuerungen ist, dass OpenAI
+einen größeren Teil seiner Plattform
+direkt in Codex einbringt. Dadurch
+können Entwickler Plugins, Agenten und
+Apps direkt über einen speziellen
+Dev-Day erstellen. Die Sessions selbst
+sind aber noch interessanter, denn es
+gibt ein Codex-Game-Studio, in dem
+Entwickler buchstäblich Spiele
+entwickeln, die Codex herausfordern
+sollen. Außerdem wird in einer Session
+ein interner OpenAI-Agent enthüllt,
+der offenbar mehr als tausend Stunden
+lang lief und dabei Ziele, Subagenten
+und persistente Pläne verwendete, um
+kontinuierlich Fehler zu untersuchen
+und eine große Codebasis zu reparieren
+. Außerdem gibt es noch Codex has left
+laptop, das sich darauf konzentriert,
+dass Codex über einzelne
+Codierungsaufgaben hinausgeht und
+stattdessen autonom ganze Probleme und
+Ziele bearbeitet. Und die
+wahrscheinlich interessanteste Sitzung
+davon ist das Thema „Was kommt nach
+den Schleifen?“. In dieser Sitzung
+wird OpenAI den Wandel von einfachen
+Agentenschleifen hin zu mehreren
+zusammenarbeitenden Agenten untersuchen
+und wie die nächste Generation von
+Agentenarchitekturen aussehen wird.
+Jetzt haben wir möglicherweise einen
+der bisher größten Dev-Day-Leaks, und
+hier bereitet OpenAI Berichten zufolge
+etwas namens Dots vor. Im Wesentlichen
+antwortet es auf seine autonomen
+KI-Begleiter wie Meta Mews und Crocbot.
+Der größte Unterschied besteht jedoch
+darin, dass Dot anscheinend so
+konzipiert ist, dass es tatsächlich
+selbstständig funktioniert. Dein Dot
+kann anscheinend laufende Aufgaben
+ausführen, dich benachrichtigen, wenn
+die Recherche tatsächlich
+abgeschlossen ist, entscheiden, wann er
+deine Genehmigung benötigt, und
+benutzerdefinierte Regeln befolgen, die
+steuern, was er tun kann und was nicht.
+Noch verrückter ist, dass jeder Dot
+tatsächlich auf seinen eigenen
+virtuellen Computer zugreifen könnte,
+der als Computer deines eigenen Dots
+bezeichnet wird, sodass der Agent
+tatsächlich mit Websites interagieren
+und Aufgaben erledigen kann. Es gibt
+auch Hinweise darauf, dass ChatGPT
+heimlich Passwörter speichern könnte,
+sodass sich diese Agenten in deinem
+Namen über den Browser bei Webseiten
+anmelden können. Und anscheinend wird
+es für Dots auch eine Reihe von 3
+D-Anpassungsoptionen geben. Wenn das
+alles morgen startet, könnte das Open
+AIs bisher größter Schritt in
+Richtung eines Always-On-Assistenten
+sein. Aber mir fallen spontan ein, was
+demnächst erscheinen könnte: ihr
+Always-On-Assistent wie Grok Bot, der
+500-Dollar-Ax-Plan, sogar Aion, falls
+das zählt. Dann gibt es noch GPT-6.1
+Soul, das erscheinen könnte, aber da
+bin ich mir noch nicht so sicher. Und
+natürlich das Codex-Update, über das
+wir gesprochen haben. Es gibt auch ein
+paar kleine Features in Codex, aber das
+sind nur ein paar Dinge, über die ich
+spekulieren kann. Ax und Anthropic,
+weil sie einen neuen Workflow
+eingeführt haben, bei dem Claude dir
+beim Erstellen von Bewertungen helfen
+kann, gegen die er dann antritt. Im
+Grunde kann Claude Code dir dabei
+helfen, Evaluierungen für deine
+Anwendung zu entwerfen, Schwachstellen
+zu identifizieren und Verbesserungen
+vorzunehmen. Anschließend können
+diese Änderungen wiederholt anhand der
+Evaluierungen getestet werden, um die
+Anwendung im Laufe der Zeit iterativ zu
+verbessern. Dies könnte äußerst
+nützlich für Entwickler sein, die
+versuchen, ihre Agenten und
+KI-Anwendungen systematisch zu
+verbessern, anstatt sich nur auf
+Stimmungen zu verlassen und dann zu
+sehen, ob sich tatsächlich etwas
+verbessert hat. Wenn wir uns den
+chinesischen KI-Laboren zuwenden, sieht
+es so aus, als würde das Moonshot
+AI-Team Kimi K 3.1 auf den Markt
+bringen. Das Modell befindet sich nun
+in der Testphase. Berichten zufolge
+wurde das Modell heute in Kimis
+Backend-Modellregistrierung mit dem
+Kimi K-1-Slug entdeckt und wurde sogar
+im API-Katalog gefunden. Das bedeutet
+natürlich nicht, dass K 3.1 sehr bald
+auf den Markt kommen wird, aber es ist
+etwas, das uns einen kleinen
+Vorgeschmack darauf gegeben hat, wozu
+dieses Open-Source-Flaggschiffmodell in
+der Lage ist. Es hat offenbar 2,8
+Billionen Parameter und auch die
+Preisgestaltung wurde tatsächlich
+geleakt. Und wir haben sogar DeepSeek,
+die an der Version 4.1 Pro arbeiten,
+die möglicherweise nur noch Tage
+entfernt ist, denn es gab einen
+Mitarbeiter, der an der Deep
+Seek-Oberfläche arbeitet, und er hat
+Berichten zufolge den Nutzern in einer
+Beta-Gruppe mitgeteilt, dass die
+offizielle Desktop-Version am Montag
+oder Dienstag vor dem chinesischen
+Nationalfeiertag erscheinen wird.
+Interessant ist jedoch, dass Deep Seek
+auch angekündigt hat, dass die Version
+4.1 Pro zusammen mit der offiziellen
+Version der Deep Seek-Oberfläche auf
+den Markt kommen wird. Wenn dieser
+Zeitplan also noch eingehalten wird,
+wird wahrscheinlich auch die Deep
+Seek-Version 4.1 Pro live gehen. Dann
+haben wir noch Alibaba. Was braut sich
+hinter den Kulissen zusammen? Und wir
+haben kürzlich die Modellfamilie für
+Qwen 4.0 auf der Aspara-Konferenz
+gesehen. Aber jetzt haben wir dieses
+neue mysteriöse Qwen-Vorschaumodell
+mit dem Codenamen Qwen Latest Series
+Invite 2609, das ist das Datum, und die
+Evaluierungen laufen bis zum 30.
+September. Es gibt keine Bestätigung,
+welche Modelle tatsächlich getestet
+werden, aber es besteht die
+Möglichkeit, dass es sich um einen
+frühen Blick auf das Qwen-4-Modell
+handelt. Im Baidu-Forum gibt es
+tatsächlich ein paar verschiedene
+Tests für das Qwen-4-Modell, die in
+einer geschlossenen Betaphase
+durchgeführt wurden. Hier hat es sich
+über mehrere Generationen hinweg
+extrem gut geschlagen, insbesondere mit
+Vox Art. Das sieht man bei dieser
+Pagoda. Man sieht auch die Qualität
+dieser Generationen, und es zeigt
+einfach, wie unglaublich dieses Modell
+sein wird. Und ich bin wahnsinnig
+gespannt auf das lokale Modell, das das
+27-Milliarden-Parameter-Modell für die
+Qwen-4-Modellreihe sein wird, mit dem
+wir lokal praktisch hochmoderne
+Ergebnisse erhalten werden, was der
+Wahnsinn sein wird. Zu guter Letzt gibt
+es noch eine Firma namens Skil-ed AI,
+und das ist ein Roboter, der Fußball
+spielt, Leute. Football, wie auch immer
+ihr es nennen wollt. Aber ich kann euch
+mit Sicherheit sagen, dass es in ein
+paar Jahren einen Roboter geben wird,
+der uns alle tunneln wird, was uns
+natürlich zum Weinen bringen wird,
+aber das ist einfach nur Wahnsinn. Wir
+haben hier einen Roboter, der durch
+Eigeninitiative gelernt hat, Fußball
+zu spielen, und nicht durch manuelle
+Programmierung jeder Bewegung. Er hat
+sich selbst in einer virtuellen
+Umgebung trainiert, die etwa 140 Jahren
+ununterbrochenem Fußballspiel
+entspricht. Er hat unentwegt gegen sich
+selbst gespielt, durch Versuch und
+Irrtum gelernt und konnte schließlich
+tatsächlich Fußball spielen. Dabei
+wird er sogar besser als die Menschen,
+die ihr hier seht. Ich will nicht
+gemein sein, aber das Ergebnis ist,
+dass sich der Roboter tatsächlich
+bewegen, verteidigen, angreifen und
+seine Strategie auf dem Spielfeld
+anpassen kann. Ein weiteres verrücktes
+Beispiel ist, wie weit Reinforcement
+Learning und Simulation mittlerweile
+sogar die Robotik vorantreiben. Aber
+das war's im Grunde genommen auch schon
+mit dem heutigen Video. Das ist ein
+Video, für das ich wirklich sehr, sehr
+lange gebraucht habe. Es würde mir
+also sehr viel bedeuten, wenn ihr
+diesem Video ein „Gefällt mir“
+gebt, den Kanal abonniert und die
+Benachrichtigungen aktiviert, damit ihr
+über alle Neuigkeiten in der Welt der
+KI auf dem Laufenden bleibt. Ich hoffe,
+euch hat dieses Video gefallen und ihr
+konntet etwas Wertvolles daraus lernen.
+Ich werde all diese Links unten in der
+Beschreibung hinterlassen, wie die
+World of AI School Community, wie
+unsere World of AI Vibe Coding Platform
+und Benchmark. Schaut euch den zweiten
+Kanal an, abonniert unseren Newsletter,
+folgt uns auf Discord, folgt mir auf
+Twitter und zu guter Letzt: Abonniert
+unbedingt unseren Kanal, aktiviert die
+Benachrichtigungsglocke, liked dieses
+Video und schaut euch bitte auch unsere
+vorherigen Videos an, damit ihr über
+die aktuellsten KI-News auf dem
+Laufenden bleibt. Aber in diesem Sinne,
+Leute, habt einen wunderschönen Tag,
+verbreitet Positivität und ich sehe
+euch ganz bald wieder. Peace out, Fuzz.

@@ -1,0 +1,408 @@
+Ehrlich gesagt ist dieser Bereich so
+wild, dass man beim Blinzeln sofort ein
+Modell-Update verpasst. Denn heute hat
+Google Gemini 4 Argon offiziell
+veröffentlicht–oder Aragon, wenn man
+ein großer Fan von Tolkiens Werk ist.
+Dieses Modell ist der absolute Wahnsinn
+. Eine Sache, die ich gleich zu Beginn
+erwähnen möchte: Argon ist derzeit
+nur in einer eingeschränkten Version
+für ausgewählte
+Cybersicherheitspartner und
+vertrauenswürdige Tester über das
+Fairwind-Programm von Google DeepMind
+verfügbar. Google kündigt jedoch an,
+dass bald ein breiterer Rollout mit
+kostenpflichtigen API-Kunden und Google
+AI Ultra-Abonnenten erfolgen wird.
+Hoffentlich sehen wir das in den
+nächsten Tagen oder vielleicht sogar
+nächster Woche. Aber etwas, worüber
+ich sofort über dieses Modell sprechen
+möchte, ist, dass es sich
+möglicherweise um das beste
+Kosten-Leistungs-Verhältnis handelt,
+das wir je gesehen haben. Ich weiß,
+wir haben gerade erst GPT-6.1 Soul
+bekommen, aber dieses Modell Argon wird
+zu einem Einführungspreis von nur 2
+US-Dollar pro 1 Million Eingabe-Token
+und 10 US-Dollar pro 1 Million
+Ausgabe-Token auf den Markt kommen,
+wobei der Preis für
+zwischengespeicherte Eingaben um 95%
+günstiger ist, was verrückt ist. Und
+das Verrückteste ist wahrscheinlich,
+dass Google die maximale Ausgabe von
+64.000 auf 1 Million Token erhöht hat.
+Das ist eine absolut lächerliche Menge
+an Ausgabe für diese riesigen, lang
+andauernden Agenten-und
+Codierungsaufgaben, die auch eine
+niedrige Halluzinationsrate liefern,
+was dieses Modell zu einem großartigen
+Alltagshelfer machen wird. Jetzt tut
+mir die Unterbrechung leid, Leute, aber
+es würde mir wirklich viel bedeuten,
+wenn ihr dieses Video liken und
+abonnieren könntet, da es mir wirklich
+hilft, täglich Videos für euch zu
+machen. Werfen wir einen Blick auf die
+Benchmarks. Gemini 4 Argon ist
+vielleicht nicht das beste
+Agenten-Codierungsmodell, aber es ist
+möglicherweise das beste
+Textarena-Modell, das derzeit
+verfügbar ist. Damit übertrifft es
+GPT-6 Astra, Fable 5.1 und sogar Opus
+5.5 in diesem Bereich der Wissensarbeit
+. Es verfügt außerdem über ein
+erweitertes Ausgabelimit von 1 Million
+Token, sodass es potenziell
+Hunderttausende von Token in einem
+einzigen Durchgang verarbeiten und
+argumentieren kann. Ein unglaublicher
+Benchmark, den ich zu diesem Modell
+gefunden habe, ist Deep Sway 1.1, wo es
+77,9%erreicht. Das stellt einen neuen
+Rekord für reale, langfristige
+Softwareentwicklungsaufgaben auf.
+Außerdem führt es den Balz-Index an,
+der reale Aufgaben in den Bereichen
+Finanzen, Codierung, Recht und Steuern
+abdeckt. Auf Automation Bench kann es
+durchgängige Geschäftsabläufe recht
+gut abschließen, und Argon belegt mit
+51,3%tatsächlich den ersten Platz. Und
+es schneidet sogar beim Verständnis
+langer Videos recht gut ab, wo es auf
+LV Bench mit 91,7%einen neuen Rekord
+aufstellt. Es stellt also diese
+verrückten Rekorde auf. Es schneidet
+sogar bei Dingen wie Computernutzung
+mit seiner Effizienz recht gut ab, aber
+ich finde GPT-6.1 Soul in diesem
+speziellen Bereich immer noch besser
+als dieses neue Modell. Wenn es jedoch
+um multimodales Verständnis geht,
+übertrifft es jedes andere hochmoderne
+Modell. Wenn Sie die besten KI-Tools,
+Workflows und Drops vor allen anderen
+haben möchten, abonnieren Sie meinen
+kostenlosen Newsletter mit dem Link in
+der Beschreibung unten, der völlig
+kostenlos ist. Gemini 4 Argon sieht
+auch in Bezug auf die allgemeine
+Kosteneffizienz sehr wettbewerbsfähig
+aus, da es nur etwa 1,99 US-Dollar pro
+Intelligence Index-Aufgabe kostet. Im
+Vergleich zu GPT-6.1 Soul, das in
+diesem Bereich mit 72 Cent den
+günstigsten Preis aufweist, GPT-6
+Astra mit 3,26 US-Dollar und Opus 5.5
+mit 5,98 US-Dollar sowie Fable 5.1 mit
+7,63 US-Dollar. Und Argon erzielt beim
+Artificial Analysis Intelligence Index
+einen Wert von 53 und liegt damit genau
+gleichauf mit GPT-6 Astra und einen
+Punkt hinter GPT-6.1 Soul. Das
+Verrückte daran ist, dass Argon dies
+erreicht, während es pro Aufgabe nur
+60%so viel kostet wie Astra zum
+Einführungspreis. Selbst wenn die
+Aktion endet, sinkt der Preis von dem
+zuvor aufgeführten Einführungspreis
+auf 4 US-Dollar pro 1 Million Token und
+20 US-Dollar pro 1 Million ausgegebener
+Token, was für ein Pioniermodell immer
+noch äußerst wettbewerbsfähig ist.
+Die Gentic-Performance ist ebenfalls
+eine enorme Verbesserung. Argon liegt
+mit 77,5%auf Platz eins im Bereich
+Automatisierung und schlägt Sonnet 5.5
+mit 71,3%. Auch im Bereich Turnal macht
+es große Sprünge. Eines der
+beeindruckendsten Ergebnisse sind
+wahrscheinlich Halluzinationen, denn
+Argon weist eine Halluzinationsrate von
+15%auf. Das ist die niedrigste jemals
+bei künstlichen Analysen gemessene
+Rate für ein Modell mit einem
+Intelligenzindex von über 45%. Zum
+Vergleich: Astra liegt bei 51%und GPT-
+6.1 Soul bei 54%. Argon ist also nicht
+unbedingt das günstigste
+Frontier-Modell und auch nicht das
+beste. Wenn man aber die Intelligenz,
+die Gentic-Performance, die niedrige
+Halluzinationsrate, natürlich den
+Token-Output, den Preis und das
+Preis-Leistungs-Verhältnis kombiniert,
+sieht alles sehr wettbewerbsfähig aus.
+Es könnte sogar sein, dass es für
+mich als mein tägliches Arbeitsgerät
+den ersten Platz belegt. Ein weiteres
+interessantes Detail, das von Reuters
+kam, ist, dass Gemini for Argon
+Berichten zufolge größer ist als
+Googles vorherige Gemini-4-Modelle. Das
+deutet darauf hin, dass Google das
+Modell selbst zusammen mit dem enormen
+Sprung in der Argumentation und den
+Gentic-Fähigkeiten hochskaliert hat,
+was irgendwie verrückt ist.
+Möglicherweise handelt es sich dabei
+um ein 6-Billionen-Parameter-Modell,
+vielleicht sogar noch mehr. Ich bin mir
+noch nicht ganz sicher, aber das ist
+offensichtlich eine beeindruckende
+Leistung. Wie ich bereits erwähnt habe
+, handelt es sich hierbei um ein Modell
+, das derzeit nur einer ausgewählten
+Gruppe von Cyber-Verteidigern und
+vertrauenswürdigen Testern zur
+Verfügung steht. In den nächsten
+Tagen, vielleicht sogar Wochen, werden
+zunächst Nutzer wie zahlende
+API-Nutzer und sogar Google AI
+Ultra-Abonnenten Zugriff auf dieses
+Modell erhalten. Anschließend wird an
+einer breiteren Öffentlichkeit
+gearbeitet, möglicherweise Mitte
+Oktober. Ich bin mir noch nicht ganz
+sicher. Ich rate nur. Ich glaube, dass
+wir dieses Modell vielleicht schon in
+einer Woche sehen werden. Und zu eurem
+Glück hat mir jemand vom offiziellen
+Discord-Account von AI Leaks ein paar
+Tests geschickt, die ich im heutigen
+Video vorstellen werde. Das Modell hat
+tatsächlich das gesamte Sakura Hokoda
+Sanctuary mit über 106.000 Voxeln
+generiert, und der Detailgrad ist
+wirklich unglaublich. Von der
+Atmosphäre über die Umgebung bis hin
+zu den verschiedenen Kamerawinkeln
+sieht mit dieser Ausgabe alles
+wahnsinnig ausgefeilt aus. Jetzt
+können Sie sogar die Tageszeit
+dynamisch ändern, wie bei jedem
+anderen Voxel, und das verändert die
+Beleuchtung und die Atmosphäre der
+Szene komplett. Hier sehen Sie ein SVG
+von Gemini 4, und das sieht in Bezug
+auf die Ausgabe wirklich gut aus. Was
+erstellt werden sollte, ist ein PS5-
+Controller im SVG, und das sieht
+tatsächlich ziemlich echt aus. Es
+sieht für mich wirklich wie ein echtes
+Bild aus, abgesehen von der Textur und
+dem kleinen Farbverlauf, den Sie links
+und rechts an den Enden des Controllers
+sehen. Aber ansonsten sieht alles recht
+gut und akkurat aus, verglichen mit dem
+echten Controller selbst. Die
+Beleuchtung, der Farbton, alles wurde
+recht gut generiert, und ehrlich gesagt
+ist es mit den Ergebnissen von Opus 5
+mit dem PS5-Controller vergleichbar.
+Hier ist ein weiterer verrückter
+Vergleich des Gemini 4 Pro in der Arena
+. Das war ein früherer Kontrollpunkt.
+Ich bin mir nicht sicher, ob das genau
+Argon sein wird, aber das ist ein
+Kontrollpunkt, der gegen Claude Opus
+5.5 gestellt wurde, um ein 3
+D-Wasserflugzeug mit Physiksimulation
+zu bauen. Hier hat Gemini 4 Opus Swap
+auf Stufe 5 in diesem Test in puncto
+Grafik, Physik insgesamt und
+Ausführung komplett übertroffen. Das
+ist offensichtlich auf einem anderen
+Level, das sieht man dieser Generation
+an. Und wenn diese Darstellung des
+Modells am Ende mit Argon
+veröffentlicht wird und vielleicht in
+den nächsten Wochen sogar noch
+verbessert wird, wäre das ein großer
+zusätzlicher Vorteil, vor allem bei
+diesem Preis. Hier ist eine weitere
+Vorschau dieses Checkpoints, bei der es
+sich um etwas handelt, das diese 3
+GS-Simulation verschiedener Charaktere
+für Halloween generiert hat. Hier
+können Sie den Detailgrad sehen, der
+von diesem Modell ausgegeben wird. Im
+Vergleich zu anderen Modellen sieht es
+wirklich erstklassig aus. Das ist
+wirklich erstaunlich, denn dies ist
+etwas, das diesen Simulationen eine
+weitere Ebene an Detail und Tiefe
+hinzufügt. Es ist einfach unglaublich.
+Hier wurde Gemini 4 gebeten, eine
+mechanische Biene zu erstellen. Das ist
+wirklich unglaublich. Das ist etwas,
+das einen wirklich schönen
+Designgeschmack hat, der mit diesem
+Modell korreliert. Die
+Frontend-Performance ist recht gut, was
+die früheren Gemini-Modelle gut
+konnten. Aber dann hatte Claude diese
+Kategorie übernommen. Jetzt sehen wir,
+dass Gemini ein Comeback feiert. Das
+ist ein Detailgrad, den ich vom Gemini
+4 wirklich nicht erwartet hätte. Das
+liegt natürlich an der prompten
+Umsetzung, die dieser Generation
+zugeschrieben wurde, aber das
+Qualitätsniveau, das es erreichen
+konnte, ist beeindruckend. Hier hat
+Gemini 4 das Kolosseum erschaffen, und
+das ist wirklich bemerkenswert, da mit
+dieser Generation auch verschiedene Tag
+-und Nachtzyklen simuliert werden. Man
+sieht, dass die Designqualität und der
+Feinschliff hier im Vergleich zu den
+Pro-Modellen, die wir bei Gemini sehen,
+wirklich besser geworden sind. Die
+Gesamtleistung fühlt sich einfach
+deutlich hochwertiger an.
+Offensichtlich handelt es sich hierbei
+um die vorherigen Gemini-Checkpoints,
+die wir gesehen haben. Dennoch zeigt es
+uns, wenn es ein Schritt in Richtung
+Argon ist, dass Argon ein bedeutender
+Sprung und natürlich ein nettes
+Comeback von Google sein wird. Denn das
+sind Generationen, die wir von Gemini
+nach diesem kleinen Rückstand wirklich
+nicht erwartet hätten. Bei diesem
+Modell ist mir auch aufgefallen, dass
+es bei interaktiven Demos viel besser
+ist. Es ist intuitiver mit diesen
+Ausgaben und es verwendet sogar
+Lernmethoden, die wir bei anderen
+Modellen dieser Generationen nicht
+wirklich gesehen haben. Es ist auch
+ziemlich schnell. Aber in puncto
+Effizienz müssen wir abwarten, ob sie
+am Ende bei diesem Einführungspreis
+bleiben. Das wäre nämlich ein echter
+Glücksgriff und würde im Grunde jeden
+dazu bringen, wieder Gemini-Modelle zu
+verwenden, natürlich aufgrund der
+Preisleistung. Ich muss aber sagen,
+dass Gemini für Argon nicht das beste
+verfügbare Modell für Codierung oder
+Webentwicklung sein wird, aber es wird
+ein großartiges Modell für den
+täglichen Gebrauch sein, mit dem man
+grundlegende Aufgaben erledigen kann.
+Und natürlich gibt es einen Bereich,
+in dem Gemini normalerweise herausragt,
+nämlich die multimodalen Fähigkeiten.
+Das ist etwas, wofür Sie dieses Modell
+als Ihren täglichen Begleiter
+verwenden können. Es wird nicht in der
+Lage sein, mit GPT sowie Sonnet oder
+sogar Opus zu konkurrieren, da diese
+Modelle bereits viele der Fähigkeiten
+im Bereich der Codierung sowie in
+anderen Bereichen perfektioniert haben.
+Aber hoffentlich sehen wir eine
+Erholung von Gemini und dass sie in
+naher Zukunft in dieser Kategorie
+glänzen können. Und um ehrlich zu
+sein, korreliert dieser Kontrollpunkt
+wirklich mit dem, was wir bei Argon in
+Bezug auf die Benchmark-Ergebnisse
+sehen, da es sich einen großen Kampf
+mit Modellen wie GPT-6 und Astra
+liefert. Hier ist ein direkter
+Vergleich mit der exakt gleichen
+Eingabeaufforderung für GPT-6, und Sie
+können sehen, dass Gemini 4 mit seinem
+3 D-Weltenbau mit 3js absolut verrückt
+aussieht, um diese Art von Simulation
+vollständig auszugeben, basierend auf
+dem, was es erstellen sollte, wie z. B.
+die Bahngleise, die dynamische Welt,
+und sogar die Verwendung verschiedener
+Arten von Farben und Texturen, um diese
+Ausgabe zu erhalten. Wenn dir dieses
+Video gefällt und du den Kanal
+unterstützen möchtest, kannst du
+über die unten stehende Option „
+Super Thanks“ für meinen Kanal
+spenden. Oder du schließt dich unserem
+privaten Discord-Server an, auf dem du
+monatlich kostenlos auf mehrere
+Abonnements für verschiedene KI-Tools
+zugreifen kannst. Außerdem erhältst
+du tägliche KI-News, exklusive Inhalte
+und vieles mehr. Insgesamt sieht Gemini
+4 Argon definitiv nach einer gewaltigen
+Veröffentlichung für Google und die
+KI-Community aus. Wenn man sich
+anschaut, wie schnell Gemini all diese
+Modelle ausliefert, wird es langsam
+lächerlich. Man fragt sich ehrlich
+gesagt, ob sie RSI erreicht haben. Wir
+haben schlichtweg keine Beweise für
+diese Behauptung. Wenn KI-Systeme
+jedoch zunehmend dazu verwendet werden,
+intern bei der Forschung und
+Optimierung zu helfen sowie die
+nächste Generation von KI-Systemen zu
+codieren, zu bewerten und letztendlich
+zu entwickeln, wie Google behauptet hat
+, dann kann man erkennen, dass die
+Feedbackschleife den Fortschritt
+neuerer Modelle beschleunigen könnte.
+Google selbst sagt, dass Argon seinen
+Forschern und komplexen Ingenieuren
+bereits bei algorithmischer Arbeit
+sowie in anderen Bereichen innerhalb
+des Unternehmens hilft. Das lässt
+einen also zunehmend glauben, dass
+diese Behauptung stimmt. Insgesamt
+gefällt mir aber sehr gut, was sie mit
+Argon geschaffen haben. Das ist ehrlich
+gesagt ein großer Schritt für Google
+und ein guter Schritt auf dem Weg zu
+einem Comeback des Unternehmens im
+KI-Rennen. Ich bin also wirklich
+begeistert von dem, was sie mit diesem
+Modell geschaffen haben. Hoffentlich
+können sie es weiter verbessern,
+sodass es in fast allen Bereichen
+mithalten kann, so wie die hochmodernen
+Modelle, die wir derzeit haben. Es ist
+eine enorme Verbesserung im Bereich
+Text sowie in Bereichen wie
+Multimodalität. Ich bin jedenfalls
+sehr gespannt, wie sich dieses Modell
+am Ende entwickelt. Wir werden ein
+umfassendes Testvideo machen, sobald es
+veröffentlicht wird. Ich hinterlasse
+alle Links, die ich im heutigen Video
+verwende, unten in der Beschreibung.
+Schaut euch unbedingt die Community „
+World of AI School“ an. Schaut euch
+die Coding-Plattform und den Benchmark
+„World of AI Vibe“ an. Schaut euch
+unseren zweiten Kanal an. Folge unserem
+Newsletter. Stellt sicher, dass ihr
+Discord folgt. Folgt mir auf Twitter.
+Und zu guter Letzt: Abonniert unseren
+Kanal, aktiviert die Benachrichtigungen
+, gebt diesem Video ein „Gefällt mir
+“ und schaut euch auch unsere
+vorherigen Videos an, um über die
+aktuellsten KI-News auf dem Laufenden
+zu bleiben. In diesem Sinne wünsche
+ich euch einen wunderschönen Tag.
+Verbreitet Positivität und ich sehe
+euch ganz bald wieder. Peace out, Leute
+.

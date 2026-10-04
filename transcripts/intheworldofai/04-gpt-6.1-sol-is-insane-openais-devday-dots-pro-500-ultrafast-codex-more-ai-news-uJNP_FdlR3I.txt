@@ -1,0 +1,836 @@
+unter Verwendung von GPT 6.1. Ich habe
+also einen vollständigen Klon von
+Elden Ring erstellt. Und das ist ein
+Detailgrad, den ich von diesem Modell
+wirklich nicht erwartet hätte. Ein
+Modell, das super kosteneffizient ist,
+kann eine solche Qualität liefern. Und
+es ist einfach wahnsinnig. Es gibt so
+viele coole kleine Funktionen, die
+hinzugefügt wurden, um das
+Originalspiel fast zu replizieren, was
+bei den Soundeffekten, der Musik und
+all den anderen Elementen wirklich
+verrückt ist. Es ist also insgesamt
+wirklich beeindruckend, dass wir dieses
+kleine, günstige Modell haben, das in
+der Lage ist, so etwas zu generieren.
+Wir hatten heute einen ereignisreichen
+Tag, da OpenAI den Dev Day veranstaltet
+hat und überraschenderweise mit der
+Einführung von GBT 6.1 Soul auf Sonet
+5.5 reagierte, nur eine Woche nach der
+Veröffentlichung von GBT6 Soul. Das
+ist absolut verrückt und es ist
+unglaublich, wie sie es geschafft haben
+, in so kurzer Zeit ein weiteres
+wichtiges Modell nachzutrainieren und
+zu veröffentlichen. GBT 6.1 Soul liegt
+im Wesentlichen auf dem Niveau von
+Astra Intelligence, kostet aber nur ein
+Fünftel des Preises, was es zu einem
+der kosteneffizientesten Modelle für
+seine Leistungsstufe macht, das heute
+verfügbar ist. Die ganze Idee dahinter
+ist es, Frontier-Intelligenz
+erschwinglich genug zu machen, damit
+Sie sie für mehr Ihrer täglichen
+Arbeit nutzen können, während
+Entwickler Anwendungen in großem
+Maßstab erstellen und ausführen
+können, ohne ihr Budget komplett zu
+sprengen. Und nach dem, was ich bisher
+gesehen habe, sieht GBT 6.1 Soul
+wirklich nach der Art von Modell aus,
+die man als täglichen Begleiter nutzen
+möchte. Aber ehrlich gesagt gibt es
+noch so viel mehr, worüber wir bei
+diesem Modell sprechen müssen. Bleiben
+Sie also unbedingt dran, denn später
+im Video werden wir GPT 6.1 Soul
+vollständig testen und sehen, wie gut
+es wirklich ist. Aber das war bei
+weitem nicht alles, was OpenAI am Dev
+Day angekündigt hat. Sie haben endlich
+Dots enthüllt, den ständig aktiven
+Agenten, über den wir in unseren
+Leak-Videos berichtet haben. Er bekommt
+seinen eigenen Computer, funktioniert
+in über 4.000 Apps und kann rund um
+die Uhr proaktiv im Hintergrund für
+Sie arbeiten. OpenAI hat auch den 200-
+Dollar-Pro-Plan zurückgebracht, wenn
+auch mit halber Nutzungskapazität, und
+„Ultra Fast“ eingeführt, das bis
+zu 300 Token pro Sekunde in Codex
+bietet und bei API-Generierungen bis zu
+sechsmal schneller ist. Die Codeex
+Security Cloud hat mit Daybreak Blue
+ebenfalls ein großes Upgrade erhalten,
+wodurch sie kontinuierlich
+GitHub-Repositorys scannen,
+Schwachstellen untersuchen und
+Korrekturen vorbereiten kann, selbst
+wenn Ihr Computer ausgeschaltet ist. Es
+gibt auch eine neue Entscheidungs-API,
+die von GBT6 Luna für Klassifizierung,
+Routing und Agentenentscheidungen
+unterstützt wird und ein direkter
+Konkurrent sowie ein „Killer“ für
+Jev ist, dazu ein massives Codeex-und
+Codex-CLI-Update, auf das wir später
+noch eingehen werden. Und natürlich
+war das Beste am Dev Day, wie Tibbo den
+Knopf drückte und uns alle mit einem
+weiteren Reset segnete. Es gibt noch so
+viel mehr zu besprechen, aber Leute, es
+würde mir wirklich viel bedeuten, wenn
+ihr dieses Video jetzt liken und
+abonnieren würdet, falls ihr es noch
+nicht getan habt, denn viele von euch
+sind tatsächlich noch keine Abonnenten
+. Also tut das bitte, denn das hilft
+dem Kanal wirklich und unterstützt
+mich dabei, täglich Videos für euch
+zu machen. Also bitte, macht das
+einfach. Aber lasst uns direkt zum
+heutigen Upload zurückkehren. Was
+wäre, wenn deine Halloween-Kritzeleien
+zu echtem Merchandise würden?
+Verwandle mit Printify deine gruseligen
+Designs in drei einfachen Schritten in
+echte Fanartikel. Schritt eins:
+Erstelle dein Design. Geister,
+Kürbisse, Hexenhüte oder ein
+Wortspiel, das so schlecht ist, dass es
+schon wieder gruselig ist. Schritt zwei
+: Packe es auf ein Produkt, einen
+Hoodie, eine Tasse oder eine
+Tragetasche. Printify hat über tausend
+Produkte zur Auswahl. Schritt drei:
+Verbinde deinen Etsy-, Shopify-oder
+TikTok-Shop. Füge ein paar gruselige
+Schlagworte hinzu und klicke auf
+Veröffentlichen. Bestellungen werden
+lokal in den USA und Europa gedruckt,
+sodass sie schneller versendet werden
+und du zusätzliche Gebühren
+vermeidest. Keine Vorkosten, kein
+Lagerbestand, keine Erfahrung
+erforderlich, was perfekt für
+Studenten ist. Printify Premium spart
+dir bis zu 20%auf den gesamten Katalog.
+Die besten Preise auf dem Markt. Starte
+also noch heute Abend dein gruseliges
+Merchandise mit Printify über die
+Links in der Beschreibung unten. Und
+danke an sie für das Sponsern des
+heutigen Videos. Fangen wir mit dem
+Elefanten im Raum an: GPT 6.1 Soul, das
+OpenAI als "Near-Astra-Intelligenz" zum
+fünffach günstigeren Preis bezeichnet
+, und es ist das kosteneffizienteste
+Modell für seine Leistung, das derzeit
+verfügbar ist. GPT 6.1 Soul ist im
+Wesentlichen ein großes Upgrade
+gegenüber GPT 6 Soul, wobei OpenAI
+sagt, dass es GPT 6 Astra in den
+Bereichen Programmieren,
+Computernutzung und professioneller
+Arbeit fast ebenbürtig ist. Aber das
+Verrückteste ist die Preisgestaltung.
+GPT 6.1 Soul kostet nur 2 $ pro 1
+Million Input-Token und 10 $ pro 1
+Million Output-Token, was exakt dem
+Preis von Sonnet 5.5 entspricht und im
+Vergleich zu Astra günstig ist, die
+bei 10 $ für 1 Million Input und 50 $
+für 1 Million Output liegen. Der
+Cache-Input für dieses neue 6.1-Modell
+ist mit nur 10 Cent pro Million Token
+sogar noch günstiger, was 95%billiger
+ist als die reguläre
+Soul-Input-Preisgestaltung und die
+Hälfte der gecachten Input-Preise von
+GPT 6 Soul. Und das soll nicht einfach
+nur ein günstigeres Modell sein.
+OpenAI sagt, dass GPT 6.1 Soul
+erhebliche Verbesserungen gegenüber
+GPT 6 Soul bei komplexen beruflichen
+Aufgaben liefert, darunter
+Programmierung, Fehlerbehebung,
+Dokumentenverständnis und mehrstufige
+Geschäftsabläufe, wobei mehrere
+Bewertungen es überraschend nah an
+Astra auf der „World of AI“-
+Benchmark-und Vibe-Plattform
+positionieren. Hier haben wir dieses
+Modell rigoros getestet und sind zu dem
+Schluss gekommen, dass es auf dieser
+Benchmark insgesamt auf Platz drei
+rangiert, was verrückt ist, da es
+jetzt Sonnet 5.5 übertrifft und dabei
+deutlich günstiger ist. Damit erhalten
+Sie nahezu GPT 6 Astra-Intelligenz zu
+praktisch einem Fünftel des Preises,
+was einfach wahnsinnig ist, und in
+vielen Fällen übertrifft es sogar
+Opus 5.5, was irgendwie bemerkenswert
+ist. Dieses Modell verfügt außerdem
+über ein 1-
+Million-Token-Kontextfenster, genau wie
+die anderen. Und überraschenderweise
+haben wir beim „World of AI“-
+Benchmark für das Argumentationsniveau
+festgestellt, dass GPT 6.1 Soul auf
+mittlerer Stufe am besten abschneidet,
+was irgendwie interessant ist. Und das
+ermöglicht uns tatsächlich eine
+stärkere Nutzung, denn je höher das
+Argumentationsniveau, desto höher ist
+natürlich der Verbrauch. Wenn Sie es
+also auf „mittel“ einstellen, holen
+Sie offensichtlich den besten Nutzen
+daraus. Außerdem verbraucht es nicht
+zu viele Token. Und Leute, dies ist ein
+bemerkenswertes Tool, mit dem ihr
+Benchmarks für verschiedene Arten von
+Modellen durchführen könnt, sogar
+für eure eigenen Endpunkte, sodass ihr
+diese bewerten und sehen könnt, wie
+ihr das Beste aus euren Modellen
+herausholt. Und es gibt noch viele
+andere Dinge, für die ihr dieses Tool
+verwenden könnt. Daher empfehle ich
+euch sehr, es über die Links in der
+Beschreibung unten auszuprobieren. Ihr
+könnt sogar kostenlos starten und auf
+meine Prompt-Bibliothek zugreifen. Wenn
+man sich nun die eigenen Benchmarks von
+OpenAI ansieht, versteht man, warum GPT
+6.1 Soul so interessant ist, denn bei
+Deep Sway erzielt es 75%, ein Anstieg
+von 68,8%bei GPT 6 Soul. Es hat sich
+also stark verbessert, während es nur
+ein Fünftel so viel kostet wie Astra.
+Beim Automation Bench erzielt es 31,7%
+bei etwa einem Drittel der Kosten von
+Opus 5.5. Obwohl Sonnet 5.5 mit 44,7%
+immer noch führend ist. Und beim
+Terminal Bench Science erzielt es 57%
+bei nur 0,547 $ pro Aufgabe im
+Vergleich zu Astra mit 68,1%für 23,80
+$. Und Opus 5.5 auf exakt demselben
+Benchmark, das 58,7%bei 23,21 $
+erreicht. Es schlägt also nicht jedes
+Frontier-Modell, aber das
+Preis-Leistungs-Verhältnis ist
+lächerlich. Und „Artificial Analysis
+“ erzählt im Grunde die gleiche
+Geschichte, denn GPT 6.1 Soul erzielte
+52 auf ihrem Intelligenz-Index, nur
+einen Punkt hinter GPT 6 Astra,
+während es bei maximalem Aufwand
+weniger als ein Viertel pro Aufgabe
+kostet, nämlich 0,72 $ gegenüber
+3,326 $. Es hat außerdem vier Punkte
+gegenüber GPT6 Soul gewonnen und liegt
+nur zwei Punkte hinter Astra auf ihrem
+Coding-Agent-Index. Also ja, OpenAI hat
+mit GPT 6.1 Soul absolut abgeliefert.
+Man erhält eine Leistung, die
+überraschend nah an Astra herankommt,
+und das zu einem Bruchteil des Preises.
+Es fühlt sich fast so an, als hätte
+Enthropics Veröffentlichung von Sonnet
+5.5 OpenAI dazu gezwungen, hier
+deutlich aggressiver vorzugehen, was
+natürlich ein riesiger Gewinn für uns
+alle ist. Und ich nutze GPT 6.1 Soul
+tatsächlich schon selbst. Bisher bin
+ich definitiv begeistert, besonders im
+Rahmen meiner Pläne bei OpenAI; es ist
+etwas, das ich bestmöglich nutzen will
+und das mein täglicher Begleiter
+werden könnte. Wenn du die besten
+KI-Tools, Workflows und Neuheiten vor
+allen anderen willst, abonniere meinen
+kostenlosen Newsletter über den Link
+in der Beschreibung unten–er ist
+komplett gratis. Das Modell ist jetzt
+über die API und den Chatbot
+verfügbar und man kann sofort und ganz
+einfach damit loslegen. Aber jetzt
+werden wir dieses Modell direkt in
+diesem neuen Video testen. Es wird also
+etwas ausführlicher, aber ihr werdet
+das Beste aus allen Informationen
+herausholen, über die wir sprechen
+werden. Dies ist ein wirklich guter
+Test, der GPT 6.1 Soul mit Sonnet 5.5
+vergleicht. Bei diesem Vergleich wurde
+die Erstellung eines vollständigen 3
+D-Tastatur-Montageprozesses angefordert
+, der in 3GS animiert werden sollte.
+Und GPT 6.1 Soul war am Ende etwa 30-
+mal günstiger als Sonnet 5.5, was
+einfach unglaublich ist. Genau da wird
+dieses Modell wirklich interessant.
+Natürlich ist die Qualität für diese
+spezifische Aufgabenstellung nicht auf
+dem gleichen Niveau wie bei Sonnet 5.5.
+Behaltet das also im Hinterkopf. Nicht
+für alles, nur für diese spezielle
+Aufgabenstellung. Man bekommt zwar
+nicht die absolut beste Qualität, aber
+der Unterschied ist nur marginal. Wenn
+man bei komplexen Programmier-und 3
+D-Aufgaben vergleichbare Ergebnisse
+erzielen kann und dabei nur einen
+Bruchteil der Kosten hat, ändert das
+die wirtschaftliche Situation komplett.
+Und deshalb könnte GPT 6.1 Soul für
+jeden zum täglichen Begleiter werden.
+Ein weiterer verrückter Vergleich ist
+GPT 6.1 Soul gegen GPT6 Astra. Beide
+erhielten exakt denselben Prompt bei
+ihrem höchsten verfügbaren
+Reasoning-Aufwand. 6.1 Soul brauchte
+etwa 10 Minuten für die Aufgabe und
+kostete 1,50 $, während Astra 25
+Minuten benötigte und 11 $ kostete.
+Und ehrlich gesagt sieht der Output von
+Soul hier wohl sogar besser aus, und
+das zu einem Bruchteil der Kosten. Das
+sieht man auch im Vergleich zu Opus 5.5
+, das aktuell eines der besten
+verfügbaren Modelle ist. Hier wurden
+beim gleichen Test beide Modelle mit
+demselben Prompt gefüttert. EBT 6.1
+Soul war in etwa 45 Minuten für 7,15 $
+fertig. Im Vergleich dazu brauchte Opus
+5.5 eine Stunde und 32 Minuten für
+dieses Ergebnis und kostete 14,84 $.
+Soul war also in etwa der halben Zeit
+für weniger als die Hälfte der Kosten
+fertig. Und genau deshalb ist dies so
+ein unglaubliches Modell. Das
+Preis-Leistungs-Verhältnis macht es zu
+einem der besten Modelle, die uns
+derzeit zur Verfügung stehen. Ich
+weiß, das klingt ein wenig wie Werbung
+, weil ich das Modell in diesem Video
+so sehr anpreise, aber es sind einfach
+Fakten, basierend auf dem, was ich
+bisher gesehen habe. Es sieht wirklich
+nach einem großartigen Modell aus, und
+meinen Tests zufolge ist es eines der
+besseren Modelle, die ich auf diesem
+Kanal getestet habe. Hier erhielt Soul
+die Anweisung, einen Minecraft-Klon zu
+erstellen. Und das ist eine wirklich
+schöne Generierung, die wir von diesem
+neuen Modell erhalten haben; die
+Wasserphysik, die Texturen, alle
+Komponenten des ursprünglichen
+Sandbox-Klons wurden generiert. Wir
+nähern uns also einem Punkt, an dem
+diese Spitzenmodelle bei dieser
+speziellen Aufgabe hervorragende
+Leistungen erbringen. Es ist einfach
+großartig zu sehen, denn dies ist ein
+Modell, das praktisch alles wie das
+Originalspiel machen kann. Und das wird
+mit diesen Klonen repliziert. Es zeigt
+einfach, dass selbst ein so
+kosteneffizientes Modell ein solches
+Output-Niveau erreichen kann, was
+einfach wahnsinnig ist. Nun folgt ein
+wirklich interessanter Test, bei dem
+Opus 5.5 mit GBT 6.1 Soul verglichen
+wird. Dies ist die Generierung des GPT
+6.1 Soul. Offensichtlich hat es das
+alles schneller erledigt und konnte
+alles umsetzen, was basierend auf der
+ersten Anweisung gefordert wurde. Aber
+wenn man sich das Ergebnis von Opus 5.5
+ansieht, erkennt man einen
+geringfügigen Qualitätsunterschied.
+Der Designgeschmack von Opus 5.5 ist
+immer noch deutlich besser als das, was
+wir von diesem neuen Soul-Modell
+gesehen haben, was verständlich ist,
+aber es ist nicht wesentlich besser als
+das, was wir bei Opus sehen. Aber Opus
+fügt eine Menge Details hinzu, die die
+Generierung viel besser machen, was man
+hier sehen kann. Dies ist wie eine
+statische Generierung, nichts allzu
+Außergewöhnliches, aber die
+Opus-Variante hat viele verschiedene
+Elemente, die sie viel realistischer
+und lebendiger machen und die in der
+Lage ist, all diese Dinge perfekt zu
+programmieren. Als nächstes kommt der
+360 °-Produktbetrachter. Und das
+könnte die beste Generierung sein, die
+ich für diesen speziellen Prompt von
+irgendeinem Modell erhalten habe, sogar
+vom Astro-Modell, denn das hier hat das
+Produkt offensichtlich generiert. Es
+konnte aber auch ein schönes,
+elegantes und sauberes Frontend dafür
+erstellen. Du hast die Möglichkeit,
+alle verschiedenen Farben für das
+Produkt selbst zu ändern, und es
+wurden viele coole Aspekte hinzugefügt
+, die das Ganze etwas lebendiger machen
+. Nicht alles ist ausprogrammiert, aber
+die Hauptseite sieht absolut
+fantastisch aus. Ich liebe wirklich,
+was sie mit dieser spezifischen
+Generierung in SVG gemacht haben. Das
+Modell schlägt sich ziemlich gut und
+es hat offensichtlich alle diese
+Ausgaben in diesem speziellen Bereich
+perfektioniert. Es ist nicht auf dem
+gleichen Niveau wie Opus oder gar das
+neue Gemini-4-Modell, bzw. der Gemini-4
+-Checkpoint, aber es ist dennoch eine
+bemerkenswerte Generierung und es
+schafft es, die Ergebnisse zu
+perfektionieren. Eine Sache, die mir
+bei all diesen Generierungen
+aufgefallen ist, ist, dass es keine
+losen Enden gibt. Es sind perfekte
+Generierungen in fast jedem Ergebnis,
+was mir wirklich gut gefällt. Es
+poliert jede Ausgabe auf, und das ist
+einer der Vorteile, die man diesem
+Modell zuschreiben kann. Als Nächstes
+kommt das, was ihr am Anfang des Videos
+gesehen habt: mein Elden-Ring-Klon, den
+ich von diesem Modell angefordert habe.
+Und das ist einfach wahnsinnig, Leute.
+Ich habe jede Komponente dieses Spiels
+vollständig erstellt. Ich habe dieses
+Spiel tatsächlich gespielt, also weiß
+ich eine Menge darüber. Ich habe es
+durchgespielt. Das ist also meine
+Errungenschaft, aber es hat mich sehr,
+sehr viel Zeit gekostet. Aber das ist
+irre, denn man hat diese verschiedenen
+Truhen. Man hat all die eigentlichen
+Funktionen des Spiels, wie Parieren, um
+verschiedene Angriffe abzublocken. Ich
+glaube, es gibt auch den Sprungangriff.
+Diese Animation wurde von diesem Modell
+programmiert, was verrückt ist. Nun,
+schauen wir mal, ob ich diesen Boss
+tatsächlich besiegen kann. Okay, ich
+habe diesen Kerl also erledigt. Mal
+sehen, ob ich...Öffnen wir das zuerst.
+Dann machen wir einen Sprungangriff. Ja
+, der Typ hat keine Chance gegen mich.
+Dann nehmen wir uns mal diesen Kerl
+hier vor. Lass uns...lass uns parieren.
+Alter, das hat nicht funktioniert. Aber
+wir können diesen Typen erledigen. Wir
+können uns sogar festlegen. Das ist an
+sich schon ziemlich cool. Es gibt Magie
+. Was zum Teufel macht Magie? Warte,
+was? Das ist tatsächlich ziemlich cool
+. Also, ich habe diesen Typen jetzt
+erledigt. Und mal sehen, ob ich diese
+Truhe bekomme, ob sie mir etwas bringt.
+Flaschenkapazität auf vier erhöht.
+Okay, das ist nett. Aber schaut euch
+das mal an, Leute. Das wurde in 3GS
+gemacht. Es hat so ziemlich alle
+Elemente wie im Originalspiel
+ausprogrammiert. Da ist dieser goldene
+Baum, den man auch aus dem
+Originalspiel kennt. Da sind Ruinen. Da
+sind eine Menge Texturen. Sogar
+Soundeffekte–wenn ich das lauter
+mache, hört man sogar den Soundtrack
+im Hintergrund und die Atmosphäre, das
+ist einfach irre. Lass mich das lieber
+wieder leiser machen, sonst ruinieren
+wir uns noch die Ohren. Aber machen wir
+mit unserer Reise weiter und schauen
+mal, ob wir es mit diesem Boss
+aufnehmen und ihn erledigen können.
+Okay, ich gehe zuerst rein und schieße
+meine Magie ab. Den Typen mit meiner
+Magie ein bisschen bearbeiten. Okay,
+bleib mal locker. GG. Ganz ruhig. Leute
+, interessantes Detail am Rande. Okay.
+Hey, chill mal. Ich war anfangs ein
+YouTuber, als ich noch ein kleines Kind
+war. Kleines Kind, also so etwa mit 12.
+Und ich habe Beyblade-Videos gemacht.
+Ich war tatsächlich YouTuber auf einem
+anderen Kanal, über den ich nicht
+reden werde, weil das etwas peinlich
+ist. Aber ich habe damals viele Videos
+auf YouTube gemacht, in denen ich mein
+Gameplay gezeigt habe–und ich war
+total mies darin. Wie dem auch sei, das
+war meine erste Erfahrung, und ich
+bekam ein besseres Gefühl dafür, was
+man mit Aufnahmen alles machen kann,
+und so bin ich eigentlich zu YouTube
+gekommen. Aber Ich sterbe. Sorry. Ich
+bin ein bisschen gestresst. Aber wir
+sind fast da. Stirb, Alter. Mann, so
+nah dran. Ich war so verdammt nah dran.
+Leider konnte ich diesen Boss nicht
+besiegen, aber ich versuche es beim
+nächsten Mal. Also, meine zwei Cent zu
+GBT 6.1 Soul: Das ist wirklich eine der
+wichtigsten Veröffentlichungen von
+OpenI. Nicht, weil es das
+intelligenteste Modell der Soul-Reihe
+ist, sondern weil das
+Preis-Leistungs-Verhältnis einfach der
+Wahnsinn ist. Man bekommt ein Modell,
+das im Vergleich zu Astra wahnsinnig
+günstig ist, dabei fast die
+Intelligenz von Astra bietet und nur
+einen Bruchteil kostet–das ist
+einfach unfassbar. Und einige der
+Praxistests machen dieses Modell zu
+etwas, das man gerne als täglichen
+Begleiter nutzen möchte. Ich kann also
+nur empfehlen, es sich mal anzusehen.
+Man kann Sonnet Opus nutzen. Ich weiß
+es ehrlich gesagt nicht mal, weil es im
+Moment so viele gute Modelle gibt. Es
+ist offensichtlich schwer zu
+entscheiden, welches Modell man als
+Standard nutzt, aber man kann ja je
+nach Aufgabe individuell wählen. Die
+Ratenlimits für OpenAI scheinen im
+Moment ziemlich fair zu sein. Wir
+werden mit dem neuen Plan noch etwas
+genauer darauf eingehen, aber ich finde
+ihn bei den Basisplänen wirklich gut.
+Das wäre also ein tolles Modell, das
+man innerhalb von Codeex als tägliches
+Arbeitstier nutzen kann, um dann
+vielleicht zu Astra zu wechseln, das
+zwar kein optimales Limit hat, oder
+für komplexere Aufgaben zu Opus 5.5
+oder sogar Sonic 5.5. Wenn Ihnen dieses
+Video gefällt und Sie den Kanal
+unterstützen möchten, können Sie
+über die „Super Thanks“-Option
+unten eine Spende tätigen. Oder Sie
+treten unserem privaten Discord bei, wo
+Sie monatlich kostenlosen Zugriff auf
+verschiedene KI-Tools sowie tägliche
+KI-News, exklusive Inhalte und vieles
+mehr erhalten. Doch jetzt werden wir
+einige der neuen Dinge enthüllen, die
+heute auf dem Dev Day vorgestellt
+wurden. Beginnen wir mit DOTs. Hier hat
+OpenAI heute offiziell seinen „
+Always-on“-KI-Agenten gestartet, so
+wie wir es in unseren geleakten Videos
+besprochen hatten. DOTs werden von GPT-
+6 Astra betrieben und verfügen über
+einen eigenen Cloud-Computer und
+Browser. Sie können im Grunde rund um
+die Uhr auf Ihre eigenen Ziele
+hinarbeiten, selbst während Sie etwas
+anderes tun–ähnlich wie man es von
+Grokbot oder Muse, Metas KI-Agenten,
+kennt. Sie können sich mit über 4.000
+Apps verbinden, genau wie der
+OpenAI-DOT-KI-Agent. Und das geschieht
+über deren Plug-in-System. Sie können
+tatsächlich direkt aus Slack, Teams,
+ChatGPT oder sogar per Sprachanruf mit
+Ihrem DOT interagieren, was ziemlich
+cool ist. Das wirklich Interessante
+daran ist jedoch, dass es so konzipiert
+wurde, dass es mit der Zeit lernt, wie
+Sie arbeiten. Ähnlich wie bei dem
+persistenten Gedächtnis, das wir bei
+Hermes gesehen haben. Dies ist etwas,
+das Ihre Vorlieben, Ziele, Standards
+und das, was Sie als gutes Ergebnis
+betrachten, erlernt. Statt ständig
+Prompts einzugeben oder den Agenten
+Schritt für Schritt anzuleiten,
+können Sie ihm ein Projekt geben, es
+leiten lassen und es dann im
+Hintergrund ausführen. OpenAI zeigte
+ein Beispiel, bei dem DOT
+Kundenfeedback überwacht, PRs
+vorbereitet, Recherchen bei neuen Daten
+aktualisiert, Teile von
+Verkaufsabschlüssen abwickelt und
+sogar die Content-Produktion
+automatisiert. Ein früher Tester
+stellte anscheinend fest, dass DOT
+bemerkte, dass er vergessen hatte, eine
+Veröffentlichung in Rechnung zu
+stellen, woraufhin es die Rechnung
+selbst vorbereitete und nach Erhalt der
+Genehmigung versandte. Sie können
+sogar den Computer des DOT öffnen und
+genau beobachten, was es gerade tut.
+Und mit Ihrer Erlaubnis kann es sich
+auch mit Ihrem eigenen Laptop verbinden
+. Für den Moment beginnt OpenAI damit,
+diesen neuen KI-Agenten für
+Pro-Business-, Premium-und
+Unternehmenskunden auszurollen, aber
+sie stellen sich vor, dass Menschen in
+naher Zukunft ganze Teams aus
+spezialisierten Gedanken haben, die
+zusammenarbeiten. Und ehrlich gesagt
+meinten viele Leute, dass es Grockbot
+sowie Muse kopiert, aber es bringt
+seine eigene Einzigartigkeit mit vielen
+der anderen Funktionssätze ein. Als
+Nächstes: Tibble hat kurz vor dem Dev
+Day tatsächlich eine ziemlich wichtige
+Ankündigung gemacht. OpenAI führt
+wieder den 200-Dollar-Pro-Plan ein,
+aber es gibt einen Haken. Die neue
+Version bietet Ihnen effektiv nur die
+Hälfte des API-Gegenwerts des alten
+Plans. Es wurde im Grunde halbiert. Die
+gute Nachricht ist jedoch, dass sie das
+nervige 5-Stunden-Limit nicht wieder
+einführen. Und Tibbo argumentiert,
+dass die Nutzer dennoch mehr
+tatsächliche Arbeit erledigen sollten,
+da die Modelle selbst drastisch
+effizienter werden. Nachdem ich gesehen
+habe, was GBZ 6.1 Soul geleistet hat,
+ergibt die Begründung hier meiner
+Meinung nach viel Sinn: OpenAI treibt
+die Kosten für Intelligenz so
+aggressiv nach unten, dass die gleiche
+Menge an Rechenleistung viel mehr
+erreichen kann als zuvor. Während Sie
+also technisch gesehen weniger
+Nutzungskapazität für den 200-
+Dollar-Monatsplan erhalten, sollten
+Modelle wie GBC 6.1 Soul diese
+Rechenleistung deutlich weiter strecken
+. Und es gibt auch eine geschäftliche
+Seite dabei. OpenAI hat zuversichtlich
+IPO-Unterlagen eingereicht, obwohl Sam
+Ultim gesagt hat, dass der IPO nicht
+2026 stattfinden wird und der Zeitpunkt
+ungewiss bleibt. Ich würde nicht sagen
+, dass sie die Nutzung kürzen, weil
+sie an die Börse gehen, aber während
+OpenAI skaliert, werden diese Art von
+Rechen-und Abonnementökonomie
+eindeutig wichtig. Und wo wir von mehr
+Nutzung sprechen: OpenAI hat auch einen
+neuen 500-Dollar-Pro-Plan angekündigt,
+wie wir in den ersten Leak-Videos
+besprochen hatten. Dies ist im Grunde
+eine Stufe für Vielnutzer und kommt
+mit massiv höherer Nutzungskapazität,
+keinem 5-Stunden-Limit und, was am
+wichtigsten ist, Zugang zum neuen
+Ultra-Fast-Modus. Ultra-Fast ist im
+Grunde OpenAIs neue Stufe für
+Premium-Geschwindigkeiten. Dies bietet
+bis zu achtmal schnellere
+Token-Generierung in Codecs, etwa 300
+Token pro Sekunde, und bis zu sechsmal
+schnellere Geschwindigkeiten über die
+API. Es ist heute für GBT6 Astra über
+Codeex, ChatGPT Work und die API
+verfügbar, wobei GBT 6.1 Soul bald
+folgen wird. Und das ist einer der
+großen Gründe für den neuen Pro-Plan
+, der OpenAIs höchste Nutzungsgrenzen
+um das 25-Fache und mehr erhöhen wird,
+und er gewährt Ihnen den Zugang zu
+Ultra-Fast. Als Nächstes kommt die
+Codec Security Cloud, die durch
+Daybreak Blue ein massives Upgrade
+innerhalb von OpenAIs cyberfähigen
+Modellen erhält, und dies beinhaltet
+etwas, das jetzt zum Standard wird. Es
+kann Ihr gesamtes GitHub-Repo scannen,
+kontinuierlich neue Commits
+überprüfen, untersuchen, verschiedene
+Arten von Sicherheitsproblemen finden
+und sogar Korrekturen zur Überprüfung
+vorbereiten, während Ihr Laptop
+zugeklappt ist. Es ist im Grunde ein
+ständig aktiver
+KI-Sicherheitsingenieur für Ihre
+Codebasis und als Plug-in innerhalb von
+Codeex, der Desktop-App sowie im Web
+verfügbar. Ich habe das wirklich
+geliebt. Dies ist ein weiteres riesiges
+Codex-Update, bei dem Sie endlich Ihren
+Laptop schließen können und Ihre
+Agenten für Sie arbeiten, während Sie
+weg sind. OpenAI stellt
+Codex-Cloud-Umgebungen vor, die Ihren
+Agenten wiederverwendbare Umgebungen
+mit bereits konfigurierten
+Repo-Abhängigkeiten, Skripten und
+Einstellungen bieten. Das bedeutet viel
+weniger Einrichtung, viel schnellere
+Starts und die Agenten können in der
+Cloud weiterarbeiten, selbst wenn Ihr
+Computer ausgeschaltet ist. Und Sie
+können diese Cloud-Umgebungen sogar
+von Ihrem Telefon aus steuern. Und Sie
+haben sogar die Möglichkeit, auf fast
+allen, oder nicht fast allen, sondern
+auf allen kostenpflichtigen Plänen
+darauf zuzugreifen. OpenAI hat auch die
+neue Entscheidungs-API eingeführt, die
+ein direkter Konkurrent zu Jev ist und
+von GPT6 Luna angetrieben wird. Es
+verleiht Ihrem Repo im Grunde eine
+KI-Entscheidungsfindung in Echtzeit.
+Sie definieren eine Frage und die
+mögliche Antwort, und Luna kann
+Inhalte klassifizieren, Anfragen
+weiterleiten und entscheiden, was ein
+Agent als Nächstes tun soll. Dies
+könnte besonders nützlich für
+Multi-Agenten-Systeme sein, bei denen
+Sie ein schnelles und extrem günstiges
+Modell als Entscheidungsebene
+benötigen; es ist derzeit in einer
+begrenzten Vorschau verfügbar, wird
+aber in den nächsten Wochen
+erhältlich sein. Ich kann nicht viel
+Zeit damit verbringen, jede einzelne
+Implementierung von Codeex und dem
+Codeex CLI durchzugehen; aber diese
+beiden separaten Anwendungen haben eine
+massive Auffrischung erhalten, und
+besonders das CLI hat eine UI-Änderung
+bekommen. Dies wird für viele
+Entwickler, die das CLI nutzen,
+hilfreich sein, da es nun eine
+vollständige Bildschirmoberfläche mit
+besserer Lesbarkeit bietet. Sie haben
+verbesserte Möglichkeiten, mehrere
+Agenten wie Open Code und parallele
+Arbeit zu verwalten, ohne jemals Ihr
+Terminal verlassen zu müssen. Sie
+können den Befehl/usage verwenden, um
+Aktivität und Nutzung zu verfolgen. Es
+gibt sogar die Möglichkeit, Themen mit
+dem Befehl/theme zu ändern. Sie
+können das Aussehen anpassen und es
+gibt sogar Unterstützung für die
+Verwaltung von Worktrees. Codeex kann
+sogar Mermaid-Diagramme und Latex
+direkt im Terminal neben ausklappbaren
+Diff-Tool-Ausgaben rendern. Dedizierte
+Bereiche für Status-Shortcuts und
+Hinweise. Als nächstes führte OpenAI
+ChatGPT Space ein, was im Grunde ein
+neuer kollaborativer Arbeitsbereich
+für Sie, Ihr Team und sogar die KI ist
+. Es ist eine große Funktion, bei der
+sie dieses neue Feature „Pages“
+genannt haben, ein interaktives
+Dokument, das Diagramme, Bilder,
+Checklisten, Dashboards und mehr
+enthalten kann. ChatGPT kann diese
+Seiten tatsächlich auf der Grundlage
+Ihrer Konversationen und Ihrer Arbeit
+erstellen, und Ihr Team kann sie
+gemeinsam bearbeiten, während es
+ChatGPT, Codex oder Ihren Bot markiert,
+um Aufgaben zu erledigen oder
+Informationen aus verbundenen Quellen
+auf dem neuesten Stand zu halten. Dies
+ist eine weitere Funktion, die für
+alle kostenpflichtigen Pläne im Web,
+auf dem Desktop und für die mobile
+Ansicht eingeführt wird. Nun, es gibt
+ein paar Dinge, die ich definitiv
+übersehen habe, viele kleine
+Funktionen. Daher empfehle ich dringend
+einen Blick auf den
+Zusammenfassungs-Blog, in dem über all
+die coolen kleinen Updates wie die
+Plugin-Erweiterungen, die jetzt leicht
+verfügbar sein werden, und ein paar
+andere Dinge gesprochen wird. Ich
+empfehle also sehr, sich das anzusehen,
+damit Sie ein besseres Verständnis
+dafür bekommen, was am DevDay passiert
+ist, aber ich habe im Grunde das
+Wichtigste abgedeckt. Tatsächlich habe
+ich eine Sache verpasst, und das ist
+der Reset, der zusammen mit dem DevDay
+kam. Dabei hat Tibbo selbst einen
+ziemlich lustigen Sketch auf dem DevDay
+aufgeführt. Und hier hatte Sam Altman
+Tibbo aus der Menge herausgerufen, er
+holte seinen Knopf hervor und drückte
+ihn tatsächlich, was jedem einen Reset
+gab. Und das ist eine Sache, die ich an
+OpenAI in letzter Zeit wirklich liebe:
+Sie geben ihren Nutzern kontinuierlich
+Resets und stellen sicher, dass sie
+ihre Nutzer mit kleinsten Dingen wie
+diesen priorisieren. Deshalb gefällt
+mir das, was sie insgesamt tun,
+wirklich sehr. Und das ist
+offensichtlich ein weiterer Reset, den
+wir in den letzten zwei Wochen erhalten
+haben, was großartig ist. Ehrlich
+gesagt, ein großartiger Tag. Und der
+Nationalfeiertag steht in China bevor,
+der meines Wissens am 2. oder 1.
+Oktober ist, was auch immer es sein mag
+. Das ist ein wirklich guter Hinweis
+darauf, dass vielleicht ein anderes
+chinesisches Labor oder nicht ein
+anderes, sondern ein chinesisches Labor
+kurz vor der Veröffentlichung eines
+Modells stehen könnte. Aber das ist
+etwas, worüber ich euch vielleicht
+morgen oder übermorgen auf dem
+Laufenden halten werde. Aber wie dem
+auch sei, ich hoffe, euch hat das
+heutige Video gefallen und ihr konntet
+einen gewissen Mehrwert daraus ziehen.
+Dies war ein wirklich langes Video,
+daher würde es mir wirklich viel
+bedeuten, Leute, wenn ihr den Kanal
+abonnieren, das Video liken und es mit
+euren Freunden teilen könntet. Ich
+werde alle Links, die ich im heutigen
+Video verwendet habe, in der
+Beschreibung unten hinterlassen. Stellt
+sicher, dass ihr euch die World of AI
+School-Community anseht. Werft einen
+Blick auf die Plattform, die
+Vivecon-Plattform und den Benchmark.
+Werft einen Blick auf unseren zweiten
+Kanal. Schließt euch uns auf X oder,
+Entschuldigung, nein, dem Newsletter an
+. Schließt euch uns auf Discord an.
+Folgt mir auf X. Und zum Schluss:
+Stellt sicher, dass ihr euch den
+YouTube-Kanal anseht. Vergesst nicht,
+die Glocke zu aktivieren und das Video
+zu liken. Und das war es im Grunde für
+das heutige Video. Ich hoffe, es hat
+euch gefallen und wir sehen uns bald
+wieder. Er leidet.

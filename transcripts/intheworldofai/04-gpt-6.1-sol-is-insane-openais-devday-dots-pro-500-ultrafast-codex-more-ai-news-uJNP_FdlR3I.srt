@@ -1,0 +1,3343 @@
+1
+00:00:00,519 --> 00:00:04,019
+unter Verwendung von GPT 6.1. Ich habe
+
+2
+00:00:03,077 --> 00:00:06,031
+also einen vollständigen Klon von
+
+3
+00:00:05,089 --> 00:00:08,213
+Elden Ring erstellt. Und das ist ein
+
+4
+00:00:07,262 --> 00:00:10,072
+Detailgrad, den ich von diesem Modell
+
+5
+00:00:09,121 --> 00:00:12,258
+wirklich nicht erwartet hätte. Ein
+
+6
+00:00:11,324 --> 00:00:14,837
+Modell, das super kosteneffizient ist,
+
+7
+00:00:13,904 --> 00:00:17,527
+kann eine solche Qualität liefern. Und
+
+8
+00:00:16,576 --> 00:00:19,669
+es ist einfach wahnsinnig. Es gibt so
+
+9
+00:00:18,720 --> 00:00:21,456
+viele coole kleine Funktionen, die
+
+10
+00:00:20,507 --> 00:00:22,886
+hinzugefügt wurden, um das
+
+11
+00:00:21,937 --> 00:00:24,877
+Originalspiel fast zu replizieren, was
+
+12
+00:00:23,928 --> 00:00:26,766
+bei den Soundeffekten, der Musik und
+
+13
+00:00:25,817 --> 00:00:28,553
+all den anderen Elementen wirklich
+
+14
+00:00:27,604 --> 00:00:30,423
+verrückt ist. Es ist also insgesamt
+
+15
+00:00:29,471 --> 00:00:32,336
+wirklich beeindruckend, dass wir dieses
+
+16
+00:00:31,384 --> 00:00:34,201
+kleine, günstige Modell haben, das in
+
+17
+00:00:33,249 --> 00:00:36,019
+der Lage ist, so etwas zu generieren.
+
+18
+00:00:35,440 --> 00:00:38,470
+Wir hatten heute einen ereignisreichen
+
+19
+00:00:37,524 --> 00:00:40,608
+Tag, da OpenAI den Dev Day veranstaltet
+
+20
+00:00:39,662 --> 00:00:42,586
+hat und überraschenderweise mit der
+
+21
+00:00:41,639 --> 00:00:44,670
+Einführung von GBT 6.1 Soul auf Sonet
+
+22
+00:00:43,724 --> 00:00:46,755
+5.5 reagierte, nur eine Woche nach der
+
+23
+00:00:45,808 --> 00:00:49,525
+Veröffentlichung von GBT6 Soul. Das
+
+24
+00:00:48,567 --> 00:00:50,916
+ist absolut verrückt und es ist
+
+25
+00:00:49,958 --> 00:00:52,602
+unglaublich, wie sie es geschafft haben
+
+26
+00:00:51,602 --> 00:00:53,951
+, in so kurzer Zeit ein weiteres
+
+27
+00:00:52,993 --> 00:00:55,553
+wichtiges Modell nachzutrainieren und
+
+28
+00:00:54,595 --> 00:00:57,829
+zu veröffentlichen. GBT 6.1 Soul liegt
+
+29
+00:00:56,880 --> 00:00:59,599
+im Wesentlichen auf dem Niveau von
+
+30
+00:00:58,650 --> 00:01:01,623
+Astra Intelligence, kostet aber nur ein
+
+31
+00:01:00,673 --> 00:01:03,545
+Fünftel des Preises, was es zu einem
+
+32
+00:01:02,595 --> 00:01:05,467
+der kosteneffizientesten Modelle für
+
+33
+00:01:04,518 --> 00:01:07,389
+seine Leistungsstufe macht, das heute
+
+34
+00:01:06,440 --> 00:01:09,718
+verfügbar ist. Die ganze Idee dahinter
+
+35
+00:01:08,765 --> 00:01:11,079
+ist es, Frontier-Intelligenz
+
+36
+00:01:10,126 --> 00:01:12,816
+erschwinglich genug zu machen, damit
+
+37
+00:01:11,863 --> 00:01:14,459
+Sie sie für mehr Ihrer täglichen
+
+38
+00:01:13,506 --> 00:01:15,961
+Arbeit nutzen können, während
+
+39
+00:01:15,008 --> 00:01:17,557
+Entwickler Anwendungen in großem
+
+40
+00:01:16,604 --> 00:01:19,152
+Maßstab erstellen und ausführen
+
+41
+00:01:18,199 --> 00:01:20,889
+können, ohne ihr Budget komplett zu
+
+42
+00:01:19,936 --> 00:01:23,398
+sprengen. Und nach dem, was ich bisher
+
+43
+00:01:22,454 --> 00:01:25,236
+gesehen habe, sieht GBT 6.1 Soul
+
+44
+00:01:24,291 --> 00:01:27,351
+wirklich nach der Art von Modell aus,
+
+45
+00:01:26,407 --> 00:01:29,578
+die man als täglichen Begleiter nutzen
+
+46
+00:01:28,634 --> 00:01:31,550
+möchte. Aber ehrlich gesagt gibt es
+
+47
+00:01:30,588 --> 00:01:32,899
+noch so viel mehr, worüber wir bei
+
+48
+00:01:31,937 --> 00:01:34,726
+diesem Modell sprechen müssen. Bleiben
+
+49
+00:01:33,779 --> 00:01:36,723
+Sie also unbedingt dran, denn später
+
+50
+00:01:35,775 --> 00:01:38,456
+im Video werden wir GPT 6.1 Soul
+
+51
+00:01:37,509 --> 00:01:40,505
+vollständig testen und sehen, wie gut
+
+52
+00:01:39,558 --> 00:01:43,069
+es wirklich ist. Aber das war bei
+
+53
+00:01:42,122 --> 00:01:45,089
+weitem nicht alles, was OpenAI am Dev
+
+54
+00:01:44,142 --> 00:01:47,262
+Day angekündigt hat. Sie haben endlich
+
+55
+00:01:46,306 --> 00:01:48,882
+Dots enthüllt, den ständig aktiven
+
+56
+00:01:47,925 --> 00:01:50,369
+Agenten, über den wir in unseren
+
+57
+00:01:49,413 --> 00:01:52,601
+Leak-Videos berichtet haben. Er bekommt
+
+58
+00:01:51,652 --> 00:01:54,513
+seinen eigenen Computer, funktioniert
+
+59
+00:01:53,563 --> 00:01:56,374
+in über 4.000 Apps und kann rund um
+
+60
+00:01:55,424 --> 00:01:58,234
+die Uhr proaktiv im Hintergrund für
+
+61
+00:01:57,285 --> 00:02:01,808
+Sie arbeiten. OpenAI hat auch den 200-
+
+62
+00:02:00,808 --> 00:02:03,950
+Dollar-Pro-Plan zurückgebracht, wenn
+
+63
+00:02:03,008 --> 00:02:06,265
+auch mit halber Nutzungskapazität, und
+
+64
+00:02:05,323 --> 00:02:08,465
+„Ultra Fast“ eingeführt, das bis
+
+65
+00:02:07,523 --> 00:02:10,434
+zu 300 Token pro Sekunde in Codex
+
+66
+00:02:09,491 --> 00:02:12,749
+bietet und bei API-Generierungen bis zu
+
+67
+00:02:11,807 --> 00:02:15,414
+sechsmal schneller ist. Die Codeex
+
+68
+00:02:14,464 --> 00:02:17,248
+Security Cloud hat mit Daybreak Blue
+
+69
+00:02:16,297 --> 00:02:19,230
+ebenfalls ein großes Upgrade erhalten,
+
+70
+00:02:18,279 --> 00:02:20,568
+wodurch sie kontinuierlich
+
+71
+00:02:19,617 --> 00:02:21,955
+GitHub-Repositorys scannen,
+
+72
+00:02:21,005 --> 00:02:23,491
+Schwachstellen untersuchen und
+
+73
+00:02:22,541 --> 00:02:25,325
+Korrekturen vorbereiten kann, selbst
+
+74
+00:02:24,375 --> 00:02:27,890
+wenn Ihr Computer ausgeschaltet ist. Es
+
+75
+00:02:26,945 --> 00:02:30,059
+gibt auch eine neue Entscheidungs-API,
+
+76
+00:02:29,114 --> 00:02:32,283
+die von GBT6 Luna für Klassifizierung,
+
+77
+00:02:31,339 --> 00:02:34,174
+Routing und Agentenentscheidungen
+
+78
+00:02:33,229 --> 00:02:36,120
+unterstützt wird und ein direkter
+
+79
+00:02:35,176 --> 00:02:38,289
+Konkurrent sowie ein „Killer“ für
+
+80
+00:02:37,344 --> 00:02:40,402
+Jev ist, dazu ein massives Codeex-und
+
+81
+00:02:39,458 --> 00:02:42,515
+Codex-CLI-Update, auf das wir später
+
+82
+00:02:41,571 --> 00:02:45,724
+noch eingehen werden. Und natürlich
+
+83
+00:02:44,773 --> 00:02:47,683
+war das Beste am Dev Day, wie Tibbo den
+
+84
+00:02:46,732 --> 00:02:49,543
+Knopf drückte und uns alle mit einem
+
+85
+00:02:48,592 --> 00:02:52,941
+weiteren Reset segnete. Es gibt noch so
+
+86
+00:02:51,982 --> 00:02:54,599
+viel mehr zu besprechen, aber Leute, es
+
+87
+00:02:53,641 --> 00:02:56,258
+würde mir wirklich viel bedeuten, wenn
+
+88
+00:02:55,300 --> 00:02:57,627
+ihr dieses Video jetzt liken und
+
+89
+00:02:56,668 --> 00:02:59,202
+abonnieren würdet, falls ihr es noch
+
+90
+00:02:58,244 --> 00:03:00,778
+nicht getan habt, denn viele von euch
+
+91
+00:02:59,820 --> 00:03:02,437
+sind tatsächlich noch keine Abonnenten
+
+92
+00:03:01,437 --> 00:03:04,893
+. Also tut das bitte, denn das hilft
+
+93
+00:03:03,950 --> 00:03:06,962
+dem Kanal wirklich und unterstützt
+
+94
+00:03:06,020 --> 00:03:09,146
+mich dabei, täglich Videos für euch
+
+95
+00:03:08,204 --> 00:03:10,951
+zu machen. Also bitte, macht das
+
+96
+00:03:09,989 --> 00:03:12,256
+einfach. Aber lasst uns direkt zum
+
+97
+00:03:11,290 --> 00:03:13,697
+heutigen Upload zurückkehren. Was
+
+98
+00:03:12,736 --> 00:03:15,275
+wäre, wenn deine Halloween-Kritzeleien
+
+99
+00:03:14,315 --> 00:03:16,499
+zu echtem Merchandise würden?
+
+100
+00:03:16,019 --> 00:03:19,082
+Verwandle mit Printify deine gruseligen
+
+101
+00:03:18,135 --> 00:03:21,146
+Designs in drei einfachen Schritten in
+
+102
+00:03:20,199 --> 00:03:23,527
+echte Fanartikel. Schritt eins:
+
+103
+00:03:22,586 --> 00:03:25,326
+Erstelle dein Design. Geister,
+
+104
+00:03:24,379 --> 00:03:26,954
+Kürbisse, Hexenhüte oder ein
+
+105
+00:03:26,006 --> 00:03:29,053
+Wortspiel, das so schlecht ist, dass es
+
+106
+00:03:28,106 --> 00:03:31,563
+schon wieder gruselig ist. Schritt zwei
+
+107
+00:03:30,563 --> 00:03:33,444
+: Packe es auf ein Produkt, einen
+
+108
+00:03:32,501 --> 00:03:35,097
+Hoodie, eine Tasse oder eine
+
+109
+00:03:34,154 --> 00:03:37,867
+Tragetasche. Printify hat über tausend
+
+110
+00:03:36,922 --> 00:03:40,517
+Produkte zur Auswahl. Schritt drei:
+
+111
+00:03:39,582 --> 00:03:42,840
+Verbinde deinen Etsy-, Shopify-oder
+
+112
+00:03:41,904 --> 00:03:44,874
+TikTok-Shop. Füge ein paar gruselige
+
+113
+00:03:43,913 --> 00:03:46,157
+Schlagworte hinzu und klicke auf
+
+114
+00:03:45,196 --> 00:03:48,482
+Veröffentlichen. Bestellungen werden
+
+115
+00:03:47,526 --> 00:03:50,168
+lokal in den USA und Europa gedruckt,
+
+116
+00:03:49,213 --> 00:03:51,855
+sodass sie schneller versendet werden
+
+117
+00:03:50,899 --> 00:03:53,186
+und du zusätzliche Gebühren
+
+118
+00:03:52,230 --> 00:03:55,909
+vermeidest. Keine Vorkosten, kein
+
+119
+00:03:54,970 --> 00:03:57,752
+Lagerbestand, keine Erfahrung
+
+120
+00:03:56,814 --> 00:03:59,657
+erforderlich, was perfekt für
+
+121
+00:03:58,718 --> 00:04:02,544
+Studenten ist. Printify Premium spart
+
+122
+00:04:01,608 --> 00:04:05,100
+dir bis zu 20%auf den gesamten Katalog.
+
+123
+00:04:04,599 --> 00:04:07,999
+Die besten Preise auf dem Markt. Starte
+
+124
+00:04:07,039 --> 00:04:09,519
+also noch heute Abend dein gruseliges
+
+125
+00:04:08,559 --> 00:04:10,919
+Merchandise mit Printify über die
+
+126
+00:04:09,959 --> 00:04:12,500
+Links in der Beschreibung unten. Und
+
+127
+00:04:11,540 --> 00:04:13,900
+danke an sie für das Sponsern des
+
+128
+00:04:12,940 --> 00:04:16,762
+heutigen Videos. Fangen wir mit dem
+
+129
+00:04:15,814 --> 00:04:18,855
+Elefanten im Raum an: GPT 6.1 Soul, das
+
+130
+00:04:17,908 --> 00:04:20,949
+OpenAI als "Near-Astra-Intelligenz" zum
+
+131
+00:04:20,002 --> 00:04:23,043
+fünffach günstigeren Preis bezeichnet
+
+132
+00:04:22,043 --> 00:04:24,927
+, und es ist das kosteneffizienteste
+
+133
+00:04:23,980 --> 00:04:27,021
+Modell für seine Leistung, das derzeit
+
+134
+00:04:26,073 --> 00:04:30,046
+verfügbar ist. GPT 6.1 Soul ist im
+
+135
+00:04:29,104 --> 00:04:31,936
+Wesentlichen ein großes Upgrade
+
+136
+00:04:30,993 --> 00:04:33,997
+gegenüber GPT 6 Soul, wobei OpenAI
+
+137
+00:04:33,054 --> 00:04:35,886
+sagt, dass es GPT 6 Astra in den
+
+138
+00:04:34,943 --> 00:04:37,317
+Bereichen Programmieren,
+
+139
+00:04:36,374 --> 00:04:39,378
+Computernutzung und professioneller
+
+140
+00:04:38,435 --> 00:04:41,658
+Arbeit fast ebenbürtig ist. Aber das
+
+141
+00:04:40,696 --> 00:04:43,119
+Verrückteste ist die Preisgestaltung.
+
+142
+00:04:42,519 --> 00:04:45,650
+GPT 6.1 Soul kostet nur 2 $ pro 1
+
+143
+00:04:44,714 --> 00:04:47,910
+Million Input-Token und 10 $ pro 1
+
+144
+00:04:46,975 --> 00:04:50,235
+Million Output-Token, was exakt dem
+
+145
+00:04:49,300 --> 00:04:52,754
+Preis von Sonnet 5.5 entspricht und im
+
+146
+00:04:51,818 --> 00:04:55,143
+Vergleich zu Astra günstig ist, die
+
+147
+00:04:54,208 --> 00:04:57,662
+bei 10 $ für 1 Million Input und 50 $
+
+148
+00:04:56,727 --> 00:05:01,040
+für 1 Million Output liegen. Der
+
+149
+00:05:00,101 --> 00:05:03,461
+Cache-Input für dieses neue 6.1-Modell
+
+150
+00:05:02,522 --> 00:05:05,761
+ist mit nur 10 Cent pro Million Token
+
+151
+00:05:04,822 --> 00:05:08,122
+sogar noch günstiger, was 95%billiger
+
+152
+00:05:07,182 --> 00:05:09,453
+ist als die reguläre
+
+153
+00:05:08,514 --> 00:05:11,572
+Soul-Input-Preisgestaltung und die
+
+154
+00:05:10,632 --> 00:05:13,932
+Hälfte der gecachten Input-Preise von
+
+155
+00:05:12,993 --> 00:05:17,084
+GPT 6 Soul. Und das soll nicht einfach
+
+156
+00:05:16,123 --> 00:05:18,399
+nur ein günstigeres Modell sein.
+
+157
+00:05:18,539 --> 00:05:21,183
+OpenAI sagt, dass GPT 6.1 Soul
+
+158
+00:05:20,238 --> 00:05:23,212
+erhebliche Verbesserungen gegenüber
+
+159
+00:05:22,267 --> 00:05:25,241
+GPT 6 Soul bei komplexen beruflichen
+
+160
+00:05:24,295 --> 00:05:26,721
+Aufgaben liefert, darunter
+
+161
+00:05:25,776 --> 00:05:28,475
+Programmierung, Fehlerbehebung,
+
+162
+00:05:27,530 --> 00:05:30,614
+Dokumentenverständnis und mehrstufige
+
+163
+00:05:29,669 --> 00:05:32,478
+Geschäftsabläufe, wobei mehrere
+
+164
+00:05:31,533 --> 00:05:34,452
+Bewertungen es überraschend nah an
+
+165
+00:05:33,506 --> 00:05:36,261
+Astra auf der „World of AI“-
+
+166
+00:05:35,261 --> 00:05:37,796
+Benchmark-und Vibe-Plattform
+
+167
+00:05:36,851 --> 00:05:41,438
+positionieren. Hier haben wir dieses
+
+168
+00:05:40,504 --> 00:05:44,066
+Modell rigoros getestet und sind zu dem
+
+169
+00:05:43,131 --> 00:05:46,496
+Schluss gekommen, dass es auf dieser
+
+170
+00:05:45,562 --> 00:05:48,795
+Benchmark insgesamt auf Platz drei
+
+171
+00:05:47,861 --> 00:05:51,094
+rangiert, was verrückt ist, da es
+
+172
+00:05:50,160 --> 00:05:53,656
+jetzt Sonnet 5.5 übertrifft und dabei
+
+173
+00:05:52,722 --> 00:05:58,072
+deutlich günstiger ist. Damit erhalten
+
+174
+00:05:57,133 --> 00:06:00,389
+Sie nahezu GPT 6 Astra-Intelligenz zu
+
+175
+00:05:59,450 --> 00:06:02,707
+praktisch einem Fünftel des Preises,
+
+176
+00:06:01,768 --> 00:06:04,841
+was einfach wahnsinnig ist, und in
+
+177
+00:06:03,902 --> 00:06:07,036
+vielen Fällen übertrifft es sogar
+
+178
+00:06:06,097 --> 00:06:09,354
+Opus 5.5, was irgendwie bemerkenswert
+
+179
+00:06:08,415 --> 00:06:12,662
+ist. Dieses Modell verfügt außerdem
+
+180
+00:06:11,711 --> 00:06:13,305
+über ein 1-
+
+181
+00:06:12,305 --> 00:06:15,235
+Million-Token-Kontextfenster, genau wie
+
+182
+00:06:14,285 --> 00:06:18,318
+die anderen. Und überraschenderweise
+
+183
+00:06:17,359 --> 00:06:19,705
+haben wir beim „World of AI“-
+
+184
+00:06:18,705 --> 00:06:21,296
+Benchmark für das Argumentationsniveau
+
+185
+00:06:20,337 --> 00:06:22,764
+festgestellt, dass GPT 6.1 Soul auf
+
+186
+00:06:21,805 --> 00:06:24,355
+mittlerer Stufe am besten abschneidet,
+
+187
+00:06:23,396 --> 00:06:26,755
+was irgendwie interessant ist. Und das
+
+188
+00:06:25,794 --> 00:06:28,096
+ermöglicht uns tatsächlich eine
+
+189
+00:06:27,135 --> 00:06:29,595
+stärkere Nutzung, denn je höher das
+
+190
+00:06:28,634 --> 00:06:31,133
+Argumentationsniveau, desto höher ist
+
+191
+00:06:30,172 --> 00:06:32,835
+natürlich der Verbrauch. Wenn Sie es
+
+192
+00:06:31,879 --> 00:06:34,569
+also auf „mittel“ einstellen, holen
+
+193
+00:06:33,612 --> 00:06:36,172
+Sie offensichtlich den besten Nutzen
+
+194
+00:06:35,215 --> 00:06:38,729
+daraus. Außerdem verbraucht es nicht
+
+195
+00:06:37,786 --> 00:06:41,423
+zu viele Token. Und Leute, dies ist ein
+
+196
+00:06:40,473 --> 00:06:43,115
+bemerkenswertes Tool, mit dem ihr
+
+197
+00:06:42,165 --> 00:06:45,056
+Benchmarks für verschiedene Arten von
+
+198
+00:06:44,106 --> 00:06:46,847
+Modellen durchführen könnt, sogar
+
+199
+00:06:45,897 --> 00:06:48,838
+für eure eigenen Endpunkte, sodass ihr
+
+200
+00:06:47,888 --> 00:06:50,679
+diese bewerten und sehen könnt, wie
+
+201
+00:06:49,729 --> 00:06:52,321
+ihr das Beste aus euren Modellen
+
+202
+00:06:51,371 --> 00:06:54,192
+herausholt. Und es gibt noch viele
+
+203
+00:06:53,238 --> 00:06:55,989
+andere Dinge, für die ihr dieses Tool
+
+204
+00:06:55,035 --> 00:06:57,812
+verwenden könnt. Daher empfehle ich
+
+205
+00:06:56,847 --> 00:06:59,111
+euch sehr, es über die Links in der
+
+206
+00:06:58,146 --> 00:07:00,874
+Beschreibung unten auszuprobieren. Ihr
+
+207
+00:06:59,912 --> 00:07:02,373
+könnt sogar kostenlos starten und auf
+
+208
+00:07:01,411 --> 00:07:04,533
+meine Prompt-Bibliothek zugreifen. Wenn
+
+209
+00:07:03,601 --> 00:07:07,274
+man sich nun die eigenen Benchmarks von
+
+210
+00:07:06,343 --> 00:07:10,016
+OpenAI ansieht, versteht man, warum GPT
+
+211
+00:07:09,084 --> 00:07:12,620
+6.1 Soul so interessant ist, denn bei
+
+212
+00:07:11,689 --> 00:07:15,225
+Deep Sway erzielt es 75%, ein Anstieg
+
+213
+00:07:14,294 --> 00:07:17,850
+von 68,8%bei GPT 6 Soul. Es hat sich
+
+214
+00:07:16,910 --> 00:07:20,165
+also stark verbessert, während es nur
+
+215
+00:07:19,224 --> 00:07:22,480
+ein Fünftel so viel kostet wie Astra.
+
+216
+00:07:22,179 --> 00:07:25,843
+Beim Automation Bench erzielt es 31,7%
+
+217
+00:07:24,843 --> 00:07:28,437
+bei etwa einem Drittel der Kosten von
+
+218
+00:07:27,507 --> 00:07:31,572
+Opus 5.5. Obwohl Sonnet 5.5 mit 44,7%
+
+219
+00:07:30,572 --> 00:07:35,287
+immer noch führend ist. Und beim
+
+220
+00:07:34,367 --> 00:07:38,313
+Terminal Bench Science erzielt es 57%
+
+221
+00:07:37,313 --> 00:07:42,460
+bei nur 0,547 $ pro Aufgabe im
+
+222
+00:07:41,532 --> 00:07:45,301
+Vergleich zu Astra mit 68,1%für 23,80
+
+223
+00:07:44,374 --> 00:07:50,980
+$. Und Opus 5.5 auf exakt demselben
+
+224
+00:07:50,063 --> 00:07:53,661
+Benchmark, das 58,7%bei 23,21 $
+
+225
+00:07:52,744 --> 00:07:58,571
+erreicht. Es schlägt also nicht jedes
+
+226
+00:07:57,621 --> 00:07:59,863
+Frontier-Modell, aber das
+
+227
+00:07:58,913 --> 00:08:01,453
+Preis-Leistungs-Verhältnis ist
+
+228
+00:08:00,503 --> 00:08:04,194
+lächerlich. Und „Artificial Analysis
+
+229
+00:08:03,194 --> 00:08:06,393
+“ erzählt im Grunde die gleiche
+
+230
+00:08:05,457 --> 00:08:08,915
+Geschichte, denn GPT 6.1 Soul erzielte
+
+231
+00:08:07,979 --> 00:08:11,243
+52 auf ihrem Intelligenz-Index, nur
+
+232
+00:08:10,307 --> 00:08:13,312
+einen Punkt hinter GPT 6 Astra,
+
+233
+00:08:12,377 --> 00:08:15,511
+während es bei maximalem Aufwand
+
+234
+00:08:14,576 --> 00:08:17,839
+weniger als ein Viertel pro Aufgabe
+
+235
+00:08:16,904 --> 00:08:20,102
+kostet, nämlich 0,72 $ gegenüber
+
+236
+00:08:19,167 --> 00:08:24,302
+3,326 $. Es hat außerdem vier Punkte
+
+237
+00:08:23,352 --> 00:08:26,305
+gegenüber GPT6 Soul gewonnen und liegt
+
+238
+00:08:25,355 --> 00:08:28,258
+nur zwei Punkte hinter Astra auf ihrem
+
+239
+00:08:27,308 --> 00:08:31,447
+Coding-Agent-Index. Also ja, OpenAI hat
+
+240
+00:08:30,522 --> 00:08:34,295
+mit GPT 6.1 Soul absolut abgeliefert.
+
+241
+00:08:33,540 --> 00:08:35,761
+Man erhält eine Leistung, die
+
+242
+00:08:34,802 --> 00:08:37,350
+überraschend nah an Astra herankommt,
+
+243
+00:08:36,390 --> 00:08:38,979
+und das zu einem Bruchteil des Preises.
+
+244
+00:08:38,260 --> 00:08:40,989
+Es fühlt sich fast so an, als hätte
+
+245
+00:08:40,035 --> 00:08:42,858
+Enthropics Veröffentlichung von Sonnet
+
+246
+00:08:41,905 --> 00:08:44,354
+5.5 OpenAI dazu gezwungen, hier
+
+247
+00:08:43,400 --> 00:08:46,083
+deutlich aggressiver vorzugehen, was
+
+248
+00:08:45,130 --> 00:08:47,952
+natürlich ein riesiger Gewinn für uns
+
+249
+00:08:46,999 --> 00:08:50,410
+alle ist. Und ich nutze GPT 6.1 Soul
+
+250
+00:08:49,469 --> 00:08:53,758
+tatsächlich schon selbst. Bisher bin
+
+251
+00:08:52,805 --> 00:08:55,622
+ich definitiv begeistert, besonders im
+
+252
+00:08:54,670 --> 00:08:57,535
+Rahmen meiner Pläne bei OpenAI; es ist
+
+253
+00:08:56,583 --> 00:08:59,448
+etwas, das ich bestmöglich nutzen will
+
+254
+00:08:58,496 --> 00:09:01,073
+und das mein täglicher Begleiter
+
+255
+00:09:00,121 --> 00:09:04,178
+werden könnte. Wenn du die besten
+
+256
+00:09:03,221 --> 00:09:05,821
+KI-Tools, Workflows und Neuheiten vor
+
+257
+00:09:04,864 --> 00:09:07,508
+allen anderen willst, abonniere meinen
+
+258
+00:09:06,551 --> 00:09:09,151
+kostenlosen Newsletter über den Link
+
+259
+00:09:08,194 --> 00:09:10,664
+in der Beschreibung unten–er ist
+
+260
+00:09:09,708 --> 00:09:13,315
+komplett gratis. Das Modell ist jetzt
+
+261
+00:09:12,365 --> 00:09:14,810
+über die API und den Chatbot
+
+262
+00:09:13,860 --> 00:09:16,803
+verfügbar und man kann sofort und ganz
+
+263
+00:09:15,853 --> 00:09:19,466
+einfach damit loslegen. Aber jetzt
+
+264
+00:09:18,519 --> 00:09:21,314
+werden wir dieses Modell direkt in
+
+265
+00:09:20,366 --> 00:09:23,787
+diesem neuen Video testen. Es wird also
+
+266
+00:09:22,833 --> 00:09:25,521
+etwas ausführlicher, aber ihr werdet
+
+267
+00:09:24,566 --> 00:09:27,072
+das Beste aus allen Informationen
+
+268
+00:09:26,118 --> 00:09:28,715
+herausholen, über die wir sprechen
+
+269
+00:09:27,760 --> 00:09:31,788
+werden. Dies ist ein wirklich guter
+
+270
+00:09:30,869 --> 00:09:34,867
+Test, der GPT 6.1 Soul mit Sonnet 5.5
+
+271
+00:09:33,948 --> 00:09:38,047
+vergleicht. Bei diesem Vergleich wurde
+
+272
+00:09:37,100 --> 00:09:40,078
+die Erstellung eines vollständigen 3
+
+273
+00:09:39,131 --> 00:09:42,216
+D-Tastatur-Montageprozesses angefordert
+
+274
+00:09:41,216 --> 00:09:44,140
+, der in 3GS animiert werden sollte.
+
+275
+00:09:43,619 --> 00:09:47,594
+Und GPT 6.1 Soul war am Ende etwa 30-
+
+276
+00:09:46,594 --> 00:09:50,328
+mal günstiger als Sonnet 5.5, was
+
+277
+00:09:49,409 --> 00:09:53,331
+einfach unglaublich ist. Genau da wird
+
+278
+00:09:52,399 --> 00:09:55,799
+dieses Modell wirklich interessant.
+
+279
+00:09:55,060 --> 00:09:58,029
+Natürlich ist die Qualität für diese
+
+280
+00:09:57,080 --> 00:09:59,999
+spezifische Aufgabenstellung nicht auf
+
+281
+00:09:59,050 --> 00:10:02,020
+dem gleichen Niveau wie bei Sonnet 5.5.
+
+282
+00:10:01,463 --> 00:10:03,901
+Behaltet das also im Hinterkopf. Nicht
+
+283
+00:10:02,946 --> 00:10:05,554
+für alles, nur für diese spezielle
+
+284
+00:10:04,598 --> 00:10:07,765
+Aufgabenstellung. Man bekommt zwar
+
+285
+00:10:06,812 --> 00:10:09,632
+nicht die absolut beste Qualität, aber
+
+286
+00:10:08,679 --> 00:10:11,991
+der Unterschied ist nur marginal. Wenn
+
+287
+00:10:11,033 --> 00:10:13,530
+man bei komplexen Programmier-und 3
+
+288
+00:10:12,573 --> 00:10:15,069
+D-Aufgaben vergleichbare Ergebnisse
+
+289
+00:10:14,112 --> 00:10:16,523
+erzielen kann und dabei nur einen
+
+290
+00:10:15,566 --> 00:10:18,148
+Bruchteil der Kosten hat, ändert das
+
+291
+00:10:17,191 --> 00:10:19,859
+die wirtschaftliche Situation komplett.
+
+292
+00:10:19,219 --> 00:10:22,536
+Und deshalb könnte GPT 6.1 Soul für
+
+293
+00:10:21,599 --> 00:10:24,979
+jeden zum täglichen Begleiter werden.
+
+294
+00:10:24,243 --> 00:10:28,278
+Ein weiterer verrückter Vergleich ist
+
+295
+00:10:27,358 --> 00:10:31,084
+GPT 6.1 Soul gegen GPT6 Astra. Beide
+
+296
+00:10:30,125 --> 00:10:32,597
+erhielten exakt denselben Prompt bei
+
+297
+00:10:31,638 --> 00:10:33,783
+ihrem höchsten verfügbaren
+
+298
+00:10:32,824 --> 00:10:36,116
+Reasoning-Aufwand. 6.1 Soul brauchte
+
+299
+00:10:35,179 --> 00:10:38,460
+etwa 10 Minuten für die Aufgabe und
+
+300
+00:10:37,523 --> 00:10:40,614
+kostete 1,50 $, während Astra 25
+
+301
+00:10:39,678 --> 00:10:42,959
+Minuten benötigte und 11 $ kostete.
+
+302
+00:10:43,060 --> 00:10:45,844
+Und ehrlich gesagt sieht der Output von
+
+303
+00:10:44,890 --> 00:10:47,538
+Soul hier wohl sogar besser aus, und
+
+304
+00:10:46,583 --> 00:10:50,615
+das zu einem Bruchteil der Kosten. Das
+
+305
+00:10:49,680 --> 00:10:53,217
+sieht man auch im Vergleich zu Opus 5.5
+
+306
+00:10:52,217 --> 00:10:55,168
+, das aktuell eines der besten
+
+307
+00:10:54,233 --> 00:10:57,844
+verfügbaren Modelle ist. Hier wurden
+
+308
+00:10:56,892 --> 00:10:59,613
+beim gleichen Test beide Modelle mit
+
+309
+00:10:58,660 --> 00:11:01,808
+demselben Prompt gefüttert. EBT 6.1
+
+310
+00:11:00,884 --> 00:11:04,833
+Soul war in etwa 45 Minuten für 7,15 $
+
+311
+00:11:03,909 --> 00:11:08,771
+fertig. Im Vergleich dazu brauchte Opus
+
+312
+00:11:07,833 --> 00:11:11,014
+5.5 eine Stunde und 32 Minuten für
+
+313
+00:11:10,076 --> 00:11:13,320
+dieses Ergebnis und kostete 14,84 $.
+
+314
+00:11:14,300 --> 00:11:17,163
+Soul war also in etwa der halben Zeit
+
+315
+00:11:16,213 --> 00:11:19,177
+für weniger als die Hälfte der Kosten
+
+316
+00:11:18,227 --> 00:11:21,634
+fertig. Und genau deshalb ist dies so
+
+317
+00:11:20,685 --> 00:11:23,445
+ein unglaubliches Modell. Das
+
+318
+00:11:22,501 --> 00:11:25,667
+Preis-Leistungs-Verhältnis macht es zu
+
+319
+00:11:24,723 --> 00:11:27,556
+einem der besten Modelle, die uns
+
+320
+00:11:26,612 --> 00:11:30,471
+derzeit zur Verfügung stehen. Ich
+
+321
+00:11:29,528 --> 00:11:32,765
+weiß, das klingt ein wenig wie Werbung
+
+322
+00:11:31,765 --> 00:11:34,888
+, weil ich das Modell in diesem Video
+
+323
+00:11:33,946 --> 00:11:37,126
+so sehr anpreise, aber es sind einfach
+
+324
+00:11:36,183 --> 00:11:39,134
+Fakten, basierend auf dem, was ich
+
+325
+00:11:38,191 --> 00:11:42,794
+bisher gesehen habe. Es sieht wirklich
+
+326
+00:11:41,834 --> 00:11:44,384
+nach einem großartigen Modell aus, und
+
+327
+00:11:43,423 --> 00:11:45,894
+meinen Tests zufolge ist es eines der
+
+328
+00:11:44,933 --> 00:11:47,364
+besseren Modelle, die ich auf diesem
+
+329
+00:11:46,404 --> 00:11:50,140
+Kanal getestet habe. Hier erhielt Soul
+
+330
+00:11:49,187 --> 00:11:51,980
+die Anweisung, einen Minecraft-Klon zu
+
+331
+00:11:51,027 --> 00:11:54,910
+erstellen. Und das ist eine wirklich
+
+332
+00:11:53,966 --> 00:11:57,166
+schöne Generierung, die wir von diesem
+
+333
+00:11:56,223 --> 00:11:59,028
+neuen Modell erhalten haben; die
+
+334
+00:11:58,084 --> 00:12:00,889
+Wasserphysik, die Texturen, alle
+
+335
+00:11:59,946 --> 00:12:02,694
+Komponenten des ursprünglichen
+
+336
+00:12:01,751 --> 00:12:05,898
+Sandbox-Klons wurden generiert. Wir
+
+337
+00:12:04,945 --> 00:12:07,623
+nähern uns also einem Punkt, an dem
+
+338
+00:12:06,670 --> 00:12:09,115
+diese Spitzenmodelle bei dieser
+
+339
+00:12:08,161 --> 00:12:10,653
+speziellen Aufgabe hervorragende
+
+340
+00:12:09,700 --> 00:12:13,252
+Leistungen erbringen. Es ist einfach
+
+341
+00:12:12,295 --> 00:12:14,906
+großartig zu sehen, denn dies ist ein
+
+342
+00:12:13,949 --> 00:12:16,433
+Modell, das praktisch alles wie das
+
+343
+00:12:15,476 --> 00:12:19,268
+Originalspiel machen kann. Und das wird
+
+344
+00:12:18,327 --> 00:12:21,693
+mit diesen Klonen repliziert. Es zeigt
+
+345
+00:12:20,755 --> 00:12:23,420
+einfach, dass selbst ein so
+
+346
+00:12:22,482 --> 00:12:25,702
+kosteneffizientes Modell ein solches
+
+347
+00:12:24,764 --> 00:12:27,799
+Output-Niveau erreichen kann, was
+
+348
+00:12:26,861 --> 00:12:31,006
+einfach wahnsinnig ist. Nun folgt ein
+
+349
+00:12:30,073 --> 00:12:33,472
+wirklich interessanter Test, bei dem
+
+350
+00:12:32,539 --> 00:12:35,939
+Opus 5.5 mit GBT 6.1 Soul verglichen
+
+351
+00:12:35,005 --> 00:12:39,200
+wird. Dies ist die Generierung des GPT
+
+352
+00:12:38,262 --> 00:12:41,504
+6.1 Soul. Offensichtlich hat es das
+
+353
+00:12:40,556 --> 00:12:43,356
+alles schneller erledigt und konnte
+
+354
+00:12:42,407 --> 00:12:45,310
+alles umsetzen, was basierend auf der
+
+355
+00:12:44,361 --> 00:12:47,578
+ersten Anweisung gefordert wurde. Aber
+
+356
+00:12:46,642 --> 00:12:50,161
+wenn man sich das Ergebnis von Opus 5.5
+
+357
+00:12:49,226 --> 00:12:51,905
+ansieht, erkennt man einen
+
+358
+00:12:50,969 --> 00:12:54,359
+geringfügigen Qualitätsunterschied.
+
+359
+00:12:53,619 --> 00:12:56,985
+Der Designgeschmack von Opus 5.5 ist
+
+360
+00:12:56,051 --> 00:12:59,615
+immer noch deutlich besser als das, was
+
+361
+00:12:58,681 --> 00:13:01,785
+wir von diesem neuen Soul-Modell
+
+362
+00:13:00,850 --> 00:13:04,283
+gesehen haben, was verständlich ist,
+
+363
+00:13:03,349 --> 00:13:06,913
+aber es ist nicht wesentlich besser als
+
+364
+00:13:05,979 --> 00:13:09,628
+das, was wir bei Opus sehen. Aber Opus
+
+365
+00:13:08,685 --> 00:13:11,892
+fügt eine Menge Details hinzu, die die
+
+366
+00:13:10,949 --> 00:13:14,156
+Generierung viel besser machen, was man
+
+367
+00:13:13,213 --> 00:13:16,703
+hier sehen kann. Dies ist wie eine
+
+368
+00:13:15,750 --> 00:13:18,406
+statische Generierung, nichts allzu
+
+369
+00:13:17,454 --> 00:13:19,826
+Außergewöhnliches, aber die
+
+370
+00:13:18,873 --> 00:13:21,577
+Opus-Variante hat viele verschiedene
+
+371
+00:13:20,624 --> 00:13:23,327
+Elemente, die sie viel realistischer
+
+372
+00:13:22,375 --> 00:13:25,078
+und lebendiger machen und die in der
+
+373
+00:13:24,125 --> 00:13:26,829
+Lage ist, all diese Dinge perfekt zu
+
+374
+00:13:25,876 --> 00:13:29,442
+programmieren. Als nächstes kommt der
+
+375
+00:13:28,493 --> 00:13:31,378
+360 °-Produktbetrachter. Und das
+
+376
+00:13:30,424 --> 00:13:33,203
+könnte die beste Generierung sein, die
+
+377
+00:13:32,249 --> 00:13:34,937
+ich für diesen speziellen Prompt von
+
+378
+00:13:33,983 --> 00:13:36,762
+irgendeinem Modell erhalten habe, sogar
+
+379
+00:13:35,808 --> 00:13:38,587
+vom Astro-Modell, denn das hier hat das
+
+380
+00:13:37,633 --> 00:13:40,378
+Produkt offensichtlich generiert. Es
+
+381
+00:13:39,433 --> 00:13:42,086
+konnte aber auch ein schönes,
+
+382
+00:13:41,142 --> 00:13:44,236
+elegantes und sauberes Frontend dafür
+
+383
+00:13:43,291 --> 00:13:46,190
+erstellen. Du hast die Möglichkeit,
+
+384
+00:13:45,240 --> 00:13:47,936
+alle verschiedenen Farben für das
+
+385
+00:13:46,985 --> 00:13:49,632
+Produkt selbst zu ändern, und es
+
+386
+00:13:48,682 --> 00:13:51,627
+wurden viele coole Aspekte hinzugefügt
+
+387
+00:13:50,627 --> 00:13:53,573
+, die das Ganze etwas lebendiger machen
+
+388
+00:13:52,573 --> 00:13:55,537
+. Nicht alles ist ausprogrammiert, aber
+
+389
+00:13:54,577 --> 00:13:56,711
+die Hauptseite sieht absolut
+
+390
+00:13:55,752 --> 00:13:58,684
+fantastisch aus. Ich liebe wirklich,
+
+391
+00:13:57,735 --> 00:14:00,311
+was sie mit dieser spezifischen
+
+392
+00:13:59,361 --> 00:14:02,910
+Generierung in SVG gemacht haben. Das
+
+393
+00:14:01,967 --> 00:14:05,084
+Modell schlägt sich ziemlich gut und
+
+394
+00:14:04,141 --> 00:14:06,971
+es hat offensichtlich alle diese
+
+395
+00:14:06,028 --> 00:14:09,144
+Ausgaben in diesem speziellen Bereich
+
+396
+00:14:08,202 --> 00:14:12,302
+perfektioniert. Es ist nicht auf dem
+
+397
+00:14:11,357 --> 00:14:14,399
+gleichen Niveau wie Opus oder gar das
+
+398
+00:14:13,454 --> 00:14:16,607
+neue Gemini-4-Modell, bzw. der Gemini-4
+
+399
+00:14:15,607 --> 00:14:18,649
+-Checkpoint, aber es ist dennoch eine
+
+400
+00:14:17,704 --> 00:14:20,525
+bemerkenswerte Generierung und es
+
+401
+00:14:19,580 --> 00:14:22,180
+schafft es, die Ergebnisse zu
+
+402
+00:14:21,236 --> 00:14:25,152
+perfektionieren. Eine Sache, die mir
+
+403
+00:14:24,189 --> 00:14:26,210
+bei all diesen Generierungen
+
+404
+00:14:25,247 --> 00:14:27,523
+aufgefallen ist, ist, dass es keine
+
+405
+00:14:26,560 --> 00:14:30,399
+losen Enden gibt. Es sind perfekte
+
+406
+00:14:29,451 --> 00:14:32,349
+Generierungen in fast jedem Ergebnis,
+
+407
+00:14:31,400 --> 00:14:35,215
+was mir wirklich gut gefällt. Es
+
+408
+00:14:34,273 --> 00:14:37,419
+poliert jede Ausgabe auf, und das ist
+
+409
+00:14:36,477 --> 00:14:39,449
+einer der Vorteile, die man diesem
+
+410
+00:14:38,507 --> 00:14:42,775
+Modell zuschreiben kann. Als Nächstes
+
+411
+00:14:41,828 --> 00:14:44,916
+kommt das, was ihr am Anfang des Videos
+
+412
+00:14:43,970 --> 00:14:47,058
+gesehen habt: mein Elden-Ring-Klon, den
+
+413
+00:14:46,111 --> 00:14:49,200
+ich von diesem Modell angefordert habe.
+
+414
+00:14:48,459 --> 00:14:51,419
+Und das ist einfach wahnsinnig, Leute.
+
+415
+00:14:50,859 --> 00:14:53,727
+Ich habe jede Komponente dieses Spiels
+
+416
+00:14:52,777 --> 00:14:55,551
+vollständig erstellt. Ich habe dieses
+
+417
+00:14:54,587 --> 00:14:56,971
+Spiel tatsächlich gespielt, also weiß
+
+418
+00:14:56,007 --> 00:14:58,697
+ich eine Menge darüber. Ich habe es
+
+419
+00:14:57,728 --> 00:15:00,936
+durchgespielt. Das ist also meine
+
+420
+00:14:59,973 --> 00:15:02,400
+Errungenschaft, aber es hat mich sehr,
+
+421
+00:15:01,438 --> 00:15:05,440
+sehr viel Zeit gekostet. Aber das ist
+
+422
+00:15:04,483 --> 00:15:07,132
+irre, denn man hat diese verschiedenen
+
+423
+00:15:06,175 --> 00:15:09,765
+Truhen. Man hat all die eigentlichen
+
+424
+00:15:08,821 --> 00:15:12,002
+Funktionen des Spiels, wie Parieren, um
+
+425
+00:15:11,058 --> 00:15:14,659
+verschiedene Angriffe abzublocken. Ich
+
+426
+00:15:13,699 --> 00:15:16,259
+glaube, es gibt auch den Sprungangriff.
+
+427
+00:15:15,479 --> 00:15:18,126
+Diese Animation wurde von diesem Modell
+
+428
+00:15:17,168 --> 00:15:20,644
+programmiert, was verrückt ist. Nun,
+
+429
+00:15:19,685 --> 00:15:22,126
+schauen wir mal, ob ich diesen Boss
+
+430
+00:15:21,167 --> 00:15:24,812
+tatsächlich besiegen kann. Okay, ich
+
+431
+00:15:23,849 --> 00:15:26,640
+habe diesen Kerl also erledigt. Mal
+
+432
+00:15:25,700 --> 00:15:29,059
+sehen, ob ich...Öffnen wir das zuerst.
+
+433
+00:15:28,839 --> 00:15:32,231
+Dann machen wir einen Sprungangriff. Ja
+
+434
+00:15:31,231 --> 00:15:33,599
+, der Typ hat keine Chance gegen mich.
+
+435
+00:15:33,500 --> 00:15:37,019
+Dann nehmen wir uns mal diesen Kerl
+
+436
+00:15:36,091 --> 00:15:39,300
+hier vor. Lass uns...lass uns parieren.
+
+437
+00:15:39,839 --> 00:15:43,303
+Alter, das hat nicht funktioniert. Aber
+
+438
+00:15:42,349 --> 00:15:45,816
+wir können diesen Typen erledigen. Wir
+
+439
+00:15:44,849 --> 00:15:47,354
+können uns sogar festlegen. Das ist an
+
+440
+00:15:46,400 --> 00:15:49,393
+sich schon ziemlich cool. Es gibt Magie
+
+441
+00:15:48,393 --> 00:15:51,832
+. Was zum Teufel macht Magie? Warte,
+
+442
+00:15:50,897 --> 00:15:55,266
+was? Das ist tatsächlich ziemlich cool
+
+443
+00:15:54,266 --> 00:15:58,635
+. Also, ich habe diesen Typen jetzt
+
+444
+00:15:57,670 --> 00:16:00,445
+erledigt. Und mal sehen, ob ich diese
+
+445
+00:15:59,493 --> 00:16:02,379
+Truhe bekomme, ob sie mir etwas bringt.
+
+446
+00:16:01,679 --> 00:16:04,519
+Flaschenkapazität auf vier erhöht.
+
+447
+00:16:03,739 --> 00:16:06,454
+Okay, das ist nett. Aber schaut euch
+
+448
+00:16:05,500 --> 00:16:08,156
+das mal an, Leute. Das wurde in 3GS
+
+449
+00:16:07,203 --> 00:16:10,359
+gemacht. Es hat so ziemlich alle
+
+450
+00:16:09,419 --> 00:16:12,159
+Elemente wie im Originalspiel
+
+451
+00:16:11,219 --> 00:16:14,170
+ausprogrammiert. Da ist dieser goldene
+
+452
+00:16:13,207 --> 00:16:15,187
+Baum, den man auch aus dem
+
+453
+00:16:14,225 --> 00:16:17,810
+Originalspiel kennt. Da sind Ruinen. Da
+
+454
+00:16:16,856 --> 00:16:19,997
+sind eine Menge Texturen. Sogar
+
+455
+00:16:19,061 --> 00:16:22,220
+Soundeffekte–wenn ich das lauter
+
+456
+00:16:21,284 --> 00:16:24,634
+mache, hört man sogar den Soundtrack
+
+457
+00:16:23,698 --> 00:16:27,175
+im Hintergrund und die Atmosphäre, das
+
+458
+00:16:26,239 --> 00:16:30,394
+ist einfach irre. Lass mich das lieber
+
+459
+00:16:29,444 --> 00:16:32,285
+wieder leiser machen, sonst ruinieren
+
+460
+00:16:31,334 --> 00:16:35,279
+wir uns noch die Ohren. Aber machen wir
+
+461
+00:16:34,327 --> 00:16:37,055
+mit unserer Reise weiter und schauen
+
+462
+00:16:36,103 --> 00:16:38,543
+mal, ob wir es mit diesem Boss
+
+463
+00:16:37,591 --> 00:16:40,319
+aufnehmen und ihn erledigen können.
+
+464
+00:16:42,059 --> 00:16:45,072
+Okay, ich gehe zuerst rein und schieße
+
+465
+00:16:44,124 --> 00:16:47,281
+meine Magie ab. Den Typen mit meiner
+
+466
+00:16:46,317 --> 00:16:48,806
+Magie ein bisschen bearbeiten. Okay,
+
+467
+00:16:47,836 --> 00:16:57,072
+bleib mal locker. GG. Ganz ruhig. Leute
+
+468
+00:16:56,072 --> 00:16:59,679
+, interessantes Detail am Rande. Okay.
+
+469
+00:16:58,799 --> 00:17:03,060
+Hey, chill mal. Ich war anfangs ein
+
+470
+00:17:02,111 --> 00:17:05,085
+YouTuber, als ich noch ein kleines Kind
+
+471
+00:17:04,136 --> 00:17:07,860
+war. Kleines Kind, also so etwa mit 12.
+
+472
+00:17:06,960 --> 00:17:09,799
+Und ich habe Beyblade-Videos gemacht.
+
+473
+00:17:10,019 --> 00:17:12,834
+Ich war tatsächlich YouTuber auf einem
+
+474
+00:17:11,881 --> 00:17:14,464
+anderen Kanal, über den ich nicht
+
+475
+00:17:13,511 --> 00:17:16,187
+reden werde, weil das etwas peinlich
+
+476
+00:17:15,233 --> 00:17:18,941
+ist. Aber ich habe damals viele Videos
+
+477
+00:17:17,997 --> 00:17:21,096
+auf YouTube gemacht, in denen ich mein
+
+478
+00:17:20,151 --> 00:17:23,084
+Gameplay gezeigt habe–und ich war
+
+479
+00:17:22,139 --> 00:17:26,656
+total mies darin. Wie dem auch sei, das
+
+480
+00:17:25,723 --> 00:17:29,018
+war meine erste Erfahrung, und ich
+
+481
+00:17:28,085 --> 00:17:31,650
+bekam ein besseres Gefühl dafür, was
+
+482
+00:17:30,717 --> 00:17:34,147
+man mit Aufnahmen alles machen kann,
+
+483
+00:17:33,214 --> 00:17:36,644
+und so bin ich eigentlich zu YouTube
+
+484
+00:17:35,711 --> 00:17:42,092
+gekommen. Aber Ich sterbe. Sorry. Ich
+
+485
+00:17:41,132 --> 00:17:44,130
+bin ein bisschen gestresst. Aber wir
+
+486
+00:17:43,206 --> 00:18:01,296
+sind fast da. Stirb, Alter. Mann, so
+
+487
+00:18:00,399 --> 00:18:03,539
+nah dran. Ich war so verdammt nah dran.
+
+488
+00:18:03,359 --> 00:18:06,039
+Leider konnte ich diesen Boss nicht
+
+489
+00:18:05,087 --> 00:18:09,601
+besiegen, aber ich versuche es beim
+
+490
+00:18:08,635 --> 00:18:12,833
+nächsten Mal. Also, meine zwei Cent zu
+
+491
+00:18:11,886 --> 00:18:14,956
+GBT 6.1 Soul: Das ist wirklich eine der
+
+492
+00:18:14,009 --> 00:18:16,867
+wichtigsten Veröffentlichungen von
+
+493
+00:18:15,920 --> 00:18:19,413
+OpenI. Nicht, weil es das
+
+494
+00:18:18,473 --> 00:18:21,682
+intelligenteste Modell der Soul-Reihe
+
+495
+00:18:20,741 --> 00:18:22,995
+ist, sondern weil das
+
+496
+00:18:22,055 --> 00:18:25,383
+Preis-Leistungs-Verhältnis einfach der
+
+497
+00:18:24,442 --> 00:18:28,542
+Wahnsinn ist. Man bekommt ein Modell,
+
+498
+00:18:27,604 --> 00:18:30,861
+das im Vergleich zu Astra wahnsinnig
+
+499
+00:18:29,924 --> 00:18:32,680
+günstig ist, dabei fast die
+
+500
+00:18:31,742 --> 00:18:34,999
+Intelligenz von Astra bietet und nur
+
+501
+00:18:34,062 --> 00:18:37,068
+einen Bruchteil kostet–das ist
+
+502
+00:18:36,131 --> 00:18:39,204
+einfach unfassbar. Und einige der
+
+503
+00:18:38,254 --> 00:18:41,016
+Praxistests machen dieses Modell zu
+
+504
+00:18:40,067 --> 00:18:42,829
+etwas, das man gerne als täglichen
+
+505
+00:18:41,880 --> 00:18:44,818
+Begleiter nutzen möchte. Ich kann also
+
+506
+00:18:43,855 --> 00:18:46,218
+nur empfehlen, es sich mal anzusehen.
+
+507
+00:18:45,479 --> 00:18:49,656
+Man kann Sonnet Opus nutzen. Ich weiß
+
+508
+00:18:48,698 --> 00:18:51,332
+es ehrlich gesagt nicht mal, weil es im
+
+509
+00:18:50,374 --> 00:18:53,246
+Moment so viele gute Modelle gibt. Es
+
+510
+00:18:52,309 --> 00:18:55,092
+ist offensichtlich schwer zu
+
+511
+00:18:54,155 --> 00:18:57,383
+entscheiden, welches Modell man als
+
+512
+00:18:56,447 --> 00:18:59,674
+Standard nutzt, aber man kann ja je
+
+513
+00:18:58,738 --> 00:19:02,577
+nach Aufgabe individuell wählen. Die
+
+514
+00:19:01,630 --> 00:19:04,476
+Ratenlimits für OpenAI scheinen im
+
+515
+00:19:03,529 --> 00:19:06,633
+Moment ziemlich fair zu sein. Wir
+
+516
+00:19:05,691 --> 00:19:08,785
+werden mit dem neuen Plan noch etwas
+
+517
+00:19:07,843 --> 00:19:11,111
+genauer darauf eingehen, aber ich finde
+
+518
+00:19:10,169 --> 00:19:13,379
+ihn bei den Basisplänen wirklich gut.
+
+519
+00:19:12,613 --> 00:19:15,773
+Das wäre also ein tolles Modell, das
+
+520
+00:19:14,832 --> 00:19:18,109
+man innerhalb von Codeex als tägliches
+
+521
+00:19:17,168 --> 00:19:20,037
+Arbeitstier nutzen kann, um dann
+
+522
+00:19:19,095 --> 00:19:22,197
+vielleicht zu Astra zu wechseln, das
+
+523
+00:19:21,256 --> 00:19:24,300
+zwar kein optimales Limit hat, oder
+
+524
+00:19:23,358 --> 00:19:26,461
+für komplexere Aufgaben zu Opus 5.5
+
+525
+00:19:25,519 --> 00:19:29,697
+oder sogar Sonic 5.5. Wenn Ihnen dieses
+
+526
+00:19:28,747 --> 00:19:31,325
+Video gefällt und Sie den Kanal
+
+527
+00:19:30,375 --> 00:19:33,101
+unterstützen möchten, können Sie
+
+528
+00:19:32,151 --> 00:19:34,877
+über die „Super Thanks“-Option
+
+529
+00:19:33,927 --> 00:19:37,232
+unten eine Spende tätigen. Oder Sie
+
+530
+00:19:36,296 --> 00:19:39,799
+treten unserem privaten Discord bei, wo
+
+531
+00:19:38,863 --> 00:19:42,238
+Sie monatlich kostenlosen Zugriff auf
+
+532
+00:19:41,302 --> 00:19:44,677
+verschiedene KI-Tools sowie tägliche
+
+533
+00:19:43,741 --> 00:19:47,116
+KI-News, exklusive Inhalte und vieles
+
+534
+00:19:46,180 --> 00:19:49,938
+mehr erhalten. Doch jetzt werden wir
+
+535
+00:19:48,990 --> 00:19:51,942
+einige der neuen Dinge enthüllen, die
+
+536
+00:19:50,993 --> 00:19:53,689
+heute auf dem Dev Day vorgestellt
+
+537
+00:19:52,740 --> 00:19:57,025
+wurden. Beginnen wir mit DOTs. Hier hat
+
+538
+00:19:56,071 --> 00:19:58,584
+OpenAI heute offiziell seinen „
+
+539
+00:19:57,584 --> 00:20:00,280
+Always-on“-KI-Agenten gestartet, so
+
+540
+00:19:59,326 --> 00:20:02,068
+wie wir es in unseren geleakten Videos
+
+541
+00:20:01,113 --> 00:20:04,506
+besprochen hatten. DOTs werden von GPT-
+
+542
+00:20:03,506 --> 00:20:06,629
+6 Astra betrieben und verfügen über
+
+543
+00:20:05,686 --> 00:20:08,522
+einen eigenen Cloud-Computer und
+
+544
+00:20:07,580 --> 00:20:11,351
+Browser. Sie können im Grunde rund um
+
+545
+00:20:10,403 --> 00:20:12,968
+die Uhr auf Ihre eigenen Ziele
+
+546
+00:20:12,020 --> 00:20:15,002
+hinarbeiten, selbst während Sie etwas
+
+547
+00:20:14,054 --> 00:20:16,984
+anderes tun–ähnlich wie man es von
+
+548
+00:20:16,036 --> 00:20:18,913
+Grokbot oder Muse, Metas KI-Agenten,
+
+549
+00:20:17,966 --> 00:20:22,449
+kennt. Sie können sich mit über 4.000
+
+550
+00:20:21,507 --> 00:20:24,184
+Apps verbinden, genau wie der
+
+551
+00:20:23,242 --> 00:20:26,863
+OpenAI-DOT-KI-Agent. Und das geschieht
+
+552
+00:20:25,903 --> 00:20:29,174
+über deren Plug-in-System. Sie können
+
+553
+00:20:28,232 --> 00:20:31,370
+tatsächlich direkt aus Slack, Teams,
+
+554
+00:20:30,427 --> 00:20:33,623
+ChatGPT oder sogar per Sprachanruf mit
+
+555
+00:20:32,681 --> 00:20:35,761
+Ihrem DOT interagieren, was ziemlich
+
+556
+00:20:34,819 --> 00:20:38,424
+cool ist. Das wirklich Interessante
+
+557
+00:20:37,474 --> 00:20:40,417
+daran ist jedoch, dass es so konzipiert
+
+558
+00:20:39,467 --> 00:20:42,361
+wurde, dass es mit der Zeit lernt, wie
+
+559
+00:20:41,411 --> 00:20:44,219
+Sie arbeiten. Ähnlich wie bei dem
+
+560
+00:20:43,260 --> 00:20:45,777
+persistenten Gedächtnis, das wir bei
+
+561
+00:20:44,818 --> 00:20:47,940
+Hermes gesehen haben. Dies ist etwas,
+
+562
+00:20:46,988 --> 00:20:49,718
+das Ihre Vorlieben, Ziele, Standards
+
+563
+00:20:48,766 --> 00:20:51,449
+und das, was Sie als gutes Ergebnis
+
+564
+00:20:50,497 --> 00:20:53,954
+betrachten, erlernt. Statt ständig
+
+565
+00:20:53,005 --> 00:20:55,791
+Prompts einzugeben oder den Agenten
+
+566
+00:20:54,842 --> 00:20:57,475
+Schritt für Schritt anzuleiten,
+
+567
+00:20:56,526 --> 00:20:59,414
+können Sie ihm ein Projekt geben, es
+
+568
+00:20:58,465 --> 00:21:00,894
+leiten lassen und es dann im
+
+569
+00:20:59,945 --> 00:21:03,655
+Hintergrund ausführen. OpenAI zeigte
+
+570
+00:21:02,715 --> 00:21:05,217
+ein Beispiel, bei dem DOT
+
+571
+00:21:04,277 --> 00:21:07,080
+Kundenfeedback überwacht, PRs
+
+572
+00:21:06,140 --> 00:21:09,484
+vorbereitet, Recherchen bei neuen Daten
+
+573
+00:21:08,544 --> 00:21:10,926
+aktualisiert, Teile von
+
+574
+00:21:09,986 --> 00:21:13,029
+Verkaufsabschlüssen abwickelt und
+
+575
+00:21:12,089 --> 00:21:14,772
+sogar die Content-Produktion
+
+576
+00:21:13,832 --> 00:21:16,636
+automatisiert. Ein früher Tester
+
+577
+00:21:15,684 --> 00:21:18,314
+stellte anscheinend fest, dass DOT
+
+578
+00:21:17,362 --> 00:21:20,232
+bemerkte, dass er vergessen hatte, eine
+
+579
+00:21:19,280 --> 00:21:21,814
+Veröffentlichung in Rechnung zu
+
+580
+00:21:20,862 --> 00:21:23,492
+stellen, woraufhin es die Rechnung
+
+581
+00:21:22,540 --> 00:21:25,410
+selbst vorbereitete und nach Erhalt der
+
+582
+00:21:24,458 --> 00:21:27,070
+Genehmigung versandte. Sie können
+
+583
+00:21:26,111 --> 00:21:28,691
+sogar den Computer des DOT öffnen und
+
+584
+00:21:27,732 --> 00:21:30,229
+genau beobachten, was es gerade tut.
+
+585
+00:21:29,480 --> 00:21:31,901
+Und mit Ihrer Erlaubnis kann es sich
+
+586
+00:21:30,940 --> 00:21:33,480
+auch mit Ihrem eigenen Laptop verbinden
+
+587
+00:21:32,480 --> 00:21:35,935
+. Für den Moment beginnt OpenAI damit,
+
+588
+00:21:34,991 --> 00:21:37,563
+diesen neuen KI-Agenten für
+
+589
+00:21:36,619 --> 00:21:39,078
+Pro-Business-, Premium-und
+
+590
+00:21:38,134 --> 00:21:41,155
+Unternehmenskunden auszurollen, aber
+
+591
+00:21:40,211 --> 00:21:43,344
+sie stellen sich vor, dass Menschen in
+
+592
+00:21:42,400 --> 00:21:45,028
+naher Zukunft ganze Teams aus
+
+593
+00:21:44,084 --> 00:21:47,048
+spezialisierten Gedanken haben, die
+
+594
+00:21:46,104 --> 00:21:49,472
+zusammenarbeiten. Und ehrlich gesagt
+
+595
+00:21:48,522 --> 00:21:51,399
+meinten viele Leute, dass es Grockbot
+
+596
+00:21:50,450 --> 00:21:53,175
+sowie Muse kopiert, aber es bringt
+
+597
+00:21:52,226 --> 00:21:55,204
+seine eigene Einzigartigkeit mit vielen
+
+598
+00:21:54,255 --> 00:21:57,865
+der anderen Funktionssätze ein. Als
+
+599
+00:21:56,900 --> 00:21:59,245
+Nächstes: Tibble hat kurz vor dem Dev
+
+600
+00:21:58,280 --> 00:22:00,660
+Day tatsächlich eine ziemlich wichtige
+
+601
+00:21:59,695 --> 00:22:02,482
+Ankündigung gemacht. OpenAI führt
+
+602
+00:22:01,541 --> 00:22:04,594
+wieder den 200-Dollar-Pro-Plan ein,
+
+603
+00:22:03,653 --> 00:22:06,802
+aber es gibt einen Haken. Die neue
+
+604
+00:22:05,855 --> 00:22:08,811
+Version bietet Ihnen effektiv nur die
+
+605
+00:22:07,864 --> 00:22:10,768
+Hälfte des API-Gegenwerts des alten
+
+606
+00:22:09,821 --> 00:22:13,535
+Plans. Es wurde im Grunde halbiert. Die
+
+607
+00:22:12,573 --> 00:22:15,082
+gute Nachricht ist jedoch, dass sie das
+
+608
+00:22:14,121 --> 00:22:16,514
+nervige 5-Stunden-Limit nicht wieder
+
+609
+00:22:15,553 --> 00:22:18,376
+einführen. Und Tibbo argumentiert,
+
+610
+00:22:17,426 --> 00:22:19,834
+dass die Nutzer dennoch mehr
+
+611
+00:22:18,884 --> 00:22:21,845
+tatsächliche Arbeit erledigen sollten,
+
+612
+00:22:20,895 --> 00:22:23,454
+da die Modelle selbst drastisch
+
+613
+00:22:22,504 --> 00:22:26,169
+effizienter werden. Nachdem ich gesehen
+
+614
+00:22:25,220 --> 00:22:28,110
+habe, was GBZ 6.1 Soul geleistet hat,
+
+615
+00:22:27,161 --> 00:22:29,898
+ergibt die Begründung hier meiner
+
+616
+00:22:28,949 --> 00:22:31,839
+Meinung nach viel Sinn: OpenAI treibt
+
+617
+00:22:30,890 --> 00:22:33,422
+die Kosten für Intelligenz so
+
+618
+00:22:32,473 --> 00:22:35,414
+aggressiv nach unten, dass die gleiche
+
+619
+00:22:34,465 --> 00:22:37,151
+Menge an Rechenleistung viel mehr
+
+620
+00:22:36,202 --> 00:22:39,864
+erreichen kann als zuvor. Während Sie
+
+621
+00:22:38,915 --> 00:22:41,430
+also technisch gesehen weniger
+
+622
+00:22:40,480 --> 00:22:43,096
+Nutzungskapazität für den 200-
+
+623
+00:22:42,096 --> 00:22:44,863
+Dollar-Monatsplan erhalten, sollten
+
+624
+00:22:43,914 --> 00:22:46,428
+Modelle wie GBC 6.1 Soul diese
+
+625
+00:22:45,479 --> 00:22:48,448
+Rechenleistung deutlich weiter strecken
+
+626
+00:22:47,448 --> 00:22:50,574
+. Und es gibt auch eine geschäftliche
+
+627
+00:22:49,621 --> 00:22:53,591
+Seite dabei. OpenAI hat zuversichtlich
+
+628
+00:22:52,646 --> 00:22:55,744
+IPO-Unterlagen eingereicht, obwohl Sam
+
+629
+00:22:54,799 --> 00:22:57,786
+Ultim gesagt hat, dass der IPO nicht
+
+630
+00:22:56,841 --> 00:22:59,993
+2026 stattfinden wird und der Zeitpunkt
+
+631
+00:22:59,048 --> 00:23:03,623
+ungewiss bleibt. Ich würde nicht sagen
+
+632
+00:23:02,623 --> 00:23:05,717
+, dass sie die Nutzung kürzen, weil
+
+633
+00:23:04,775 --> 00:23:07,985
+sie an die Börse gehen, aber während
+
+634
+00:23:07,043 --> 00:23:10,195
+OpenAI skaliert, werden diese Art von
+
+635
+00:23:09,254 --> 00:23:11,998
+Rechen-und Abonnementökonomie
+
+636
+00:23:11,057 --> 00:23:15,580
+eindeutig wichtig. Und wo wir von mehr
+
+637
+00:23:14,627 --> 00:23:17,474
+Nutzung sprechen: OpenAI hat auch einen
+
+638
+00:23:16,522 --> 00:23:19,369
+neuen 500-Dollar-Pro-Plan angekündigt,
+
+639
+00:23:18,416 --> 00:23:20,980
+wie wir in den ersten Leak-Videos
+
+640
+00:23:20,027 --> 00:23:24,390
+besprochen hatten. Dies ist im Grunde
+
+641
+00:23:23,434 --> 00:23:26,016
+eine Stufe für Vielnutzer und kommt
+
+642
+00:23:25,060 --> 00:23:27,774
+mit massiv höherer Nutzungskapazität,
+
+643
+00:23:26,818 --> 00:23:29,313
+keinem 5-Stunden-Limit und, was am
+
+644
+00:23:28,357 --> 00:23:30,807
+wichtigsten ist, Zugang zum neuen
+
+645
+00:23:29,851 --> 00:23:34,244
+Ultra-Fast-Modus. Ultra-Fast ist im
+
+646
+00:23:33,293 --> 00:23:35,748
+Grunde OpenAIs neue Stufe für
+
+647
+00:23:34,797 --> 00:23:37,932
+Premium-Geschwindigkeiten. Dies bietet
+
+648
+00:23:36,984 --> 00:23:39,288
+bis zu achtmal schnellere
+
+649
+00:23:38,340 --> 00:23:41,270
+Token-Generierung in Codecs, etwa 300
+
+650
+00:23:40,322 --> 00:23:43,304
+Token pro Sekunde, und bis zu sechsmal
+
+651
+00:23:42,356 --> 00:23:45,338
+schnellere Geschwindigkeiten über die
+
+652
+00:23:44,390 --> 00:23:48,769
+API. Es ist heute für GBT6 Astra über
+
+653
+00:23:47,837 --> 00:23:51,011
+Codeex, ChatGPT Work und die API
+
+654
+00:23:50,079 --> 00:23:53,456
+verfügbar, wobei GBT 6.1 Soul bald
+
+655
+00:23:52,524 --> 00:23:56,593
+folgen wird. Und das ist einer der
+
+656
+00:23:55,652 --> 00:23:58,980
+großen Gründe für den neuen Pro-Plan
+
+657
+00:23:57,980 --> 00:24:01,248
+, der OpenAIs höchste Nutzungsgrenzen
+
+658
+00:24:00,307 --> 00:24:03,635
+um das 25-Fache und mehr erhöhen wird,
+
+659
+00:24:02,695 --> 00:24:05,783
+und er gewährt Ihnen den Zugang zu
+
+660
+00:24:04,843 --> 00:24:08,943
+Ultra-Fast. Als Nächstes kommt die
+
+661
+00:24:07,991 --> 00:24:10,479
+Codec Security Cloud, die durch
+
+662
+00:24:09,527 --> 00:24:12,159
+Daybreak Blue ein massives Upgrade
+
+663
+00:24:11,207 --> 00:24:13,887
+innerhalb von OpenAIs cyberfähigen
+
+664
+00:24:12,935 --> 00:24:15,711
+Modellen erhält, und dies beinhaltet
+
+665
+00:24:14,759 --> 00:24:19,154
+etwas, das jetzt zum Standard wird. Es
+
+666
+00:24:18,202 --> 00:24:21,025
+kann Ihr gesamtes GitHub-Repo scannen,
+
+667
+00:24:20,073 --> 00:24:22,368
+kontinuierlich neue Commits
+
+668
+00:24:21,416 --> 00:24:24,287
+überprüfen, untersuchen, verschiedene
+
+669
+00:24:23,335 --> 00:24:26,110
+Arten von Sicherheitsproblemen finden
+
+670
+00:24:25,157 --> 00:24:28,028
+und sogar Korrekturen zur Überprüfung
+
+671
+00:24:27,076 --> 00:24:29,611
+vorbereiten, während Ihr Laptop
+
+672
+00:24:28,659 --> 00:24:32,319
+zugeklappt ist. Es ist im Grunde ein
+
+673
+00:24:31,375 --> 00:24:33,271
+ständig aktiver
+
+674
+00:24:32,327 --> 00:24:35,175
+KI-Sicherheitsingenieur für Ihre
+
+675
+00:24:34,231 --> 00:24:37,415
+Codebasis und als Plug-in innerhalb von
+
+676
+00:24:36,471 --> 00:24:39,487
+Codeex, der Desktop-App sowie im Web
+
+677
+00:24:38,543 --> 00:24:41,359
+verfügbar. Ich habe das wirklich
+
+678
+00:24:40,392 --> 00:24:43,297
+geliebt. Dies ist ein weiteres riesiges
+
+679
+00:24:42,340 --> 00:24:45,000
+Codex-Update, bei dem Sie endlich Ihren
+
+680
+00:24:44,043 --> 00:24:46,490
+Laptop schließen können und Ihre
+
+681
+00:24:45,533 --> 00:24:48,194
+Agenten für Sie arbeiten, während Sie
+
+682
+00:24:47,236 --> 00:24:49,860
+weg sind. OpenAI stellt
+
+683
+00:24:48,914 --> 00:24:51,910
+Codex-Cloud-Umgebungen vor, die Ihren
+
+684
+00:24:50,964 --> 00:24:53,907
+Agenten wiederverwendbare Umgebungen
+
+685
+00:24:52,961 --> 00:24:55,364
+mit bereits konfigurierten
+
+686
+00:24:54,418 --> 00:24:57,252
+Repo-Abhängigkeiten, Skripten und
+
+687
+00:24:56,306 --> 00:24:59,449
+Einstellungen bieten. Das bedeutet viel
+
+688
+00:24:58,490 --> 00:25:00,994
+weniger Einrichtung, viel schnellere
+
+689
+00:25:00,036 --> 00:25:02,582
+Starts und die Agenten können in der
+
+690
+00:25:01,623 --> 00:25:04,169
+Cloud weiterarbeiten, selbst wenn Ihr
+
+691
+00:25:03,211 --> 00:25:05,960
+Computer ausgeschaltet ist. Und Sie
+
+692
+00:25:05,005 --> 00:25:07,657
+können diese Cloud-Umgebungen sogar
+
+693
+00:25:06,703 --> 00:25:09,633
+von Ihrem Telefon aus steuern. Und Sie
+
+694
+00:25:08,680 --> 00:25:11,493
+haben sogar die Möglichkeit, auf fast
+
+695
+00:25:10,541 --> 00:25:13,307
+allen, oder nicht fast allen, sondern
+
+696
+00:25:12,354 --> 00:25:15,024
+auf allen kostenpflichtigen Plänen
+
+697
+00:25:14,072 --> 00:25:17,569
+darauf zuzugreifen. OpenAI hat auch die
+
+698
+00:25:16,620 --> 00:25:19,612
+neue Entscheidungs-API eingeführt, die
+
+699
+00:25:18,663 --> 00:25:21,604
+ein direkter Konkurrent zu Jev ist und
+
+700
+00:25:20,655 --> 00:25:23,984
+von GPT6 Luna angetrieben wird. Es
+
+701
+00:25:23,027 --> 00:25:25,479
+verleiht Ihrem Repo im Grunde eine
+
+702
+00:25:24,521 --> 00:25:27,059
+KI-Entscheidungsfindung in Echtzeit.
+
+703
+00:25:26,399 --> 00:25:28,884
+Sie definieren eine Frage und die
+
+704
+00:25:27,930 --> 00:25:30,370
+mögliche Antwort, und Luna kann
+
+705
+00:25:29,416 --> 00:25:31,856
+Inhalte klassifizieren, Anfragen
+
+706
+00:25:30,901 --> 00:25:33,568
+weiterleiten und entscheiden, was ein
+
+707
+00:25:32,613 --> 00:25:35,953
+Agent als Nächstes tun soll. Dies
+
+708
+00:25:35,002 --> 00:25:37,557
+könnte besonders nützlich für
+
+709
+00:25:36,605 --> 00:25:39,404
+Multi-Agenten-Systeme sein, bei denen
+
+710
+00:25:38,452 --> 00:25:41,348
+Sie ein schnelles und extrem günstiges
+
+711
+00:25:40,397 --> 00:25:42,806
+Modell als Entscheidungsebene
+
+712
+00:25:41,855 --> 00:25:44,556
+benötigen; es ist derzeit in einer
+
+713
+00:25:43,604 --> 00:25:46,354
+begrenzten Vorschau verfügbar, wird
+
+714
+00:25:45,403 --> 00:25:47,764
+aber in den nächsten Wochen
+
+715
+00:25:46,812 --> 00:25:51,087
+erhältlich sein. Ich kann nicht viel
+
+716
+00:25:50,153 --> 00:25:53,519
+Zeit damit verbringen, jede einzelne
+
+717
+00:25:52,584 --> 00:25:55,819
+Implementierung von Codeex und dem
+
+718
+00:25:54,884 --> 00:25:58,184
+Codeex CLI durchzugehen; aber diese
+
+719
+00:25:57,250 --> 00:26:00,813
+beiden separaten Anwendungen haben eine
+
+720
+00:25:59,879 --> 00:26:03,113
+massive Auffrischung erhalten, und
+
+721
+00:26:02,179 --> 00:26:05,741
+besonders das CLI hat eine UI-Änderung
+
+722
+00:26:04,807 --> 00:26:08,380
+bekommen. Dies wird für viele
+
+723
+00:26:07,438 --> 00:26:10,236
+Entwickler, die das CLI nutzen,
+
+724
+00:26:09,294 --> 00:26:12,035
+hilfreich sein, da es nun eine
+
+725
+00:26:11,093 --> 00:26:14,355
+vollständige Bildschirmoberfläche mit
+
+726
+00:26:13,413 --> 00:26:17,326
+besserer Lesbarkeit bietet. Sie haben
+
+727
+00:26:16,367 --> 00:26:18,795
+verbesserte Möglichkeiten, mehrere
+
+728
+00:26:17,836 --> 00:26:20,264
+Agenten wie Open Code und parallele
+
+729
+00:26:19,305 --> 00:26:21,774
+Arbeit zu verwalten, ohne jemals Ihr
+
+730
+00:26:20,814 --> 00:26:23,669
+Terminal verlassen zu müssen. Sie
+
+731
+00:26:22,712 --> 00:26:25,347
+können den Befehl/usage verwenden, um
+
+732
+00:26:24,390 --> 00:26:27,522
+Aktivität und Nutzung zu verfolgen. Es
+
+733
+00:26:26,573 --> 00:26:29,572
+gibt sogar die Möglichkeit, Themen mit
+
+734
+00:26:28,623 --> 00:26:31,487
+dem Befehl/theme zu ändern. Sie
+
+735
+00:26:30,523 --> 00:26:32,820
+können das Aussehen anpassen und es
+
+736
+00:26:31,856 --> 00:26:34,081
+gibt sogar Unterstützung für die
+
+737
+00:26:33,118 --> 00:26:36,835
+Verwaltung von Worktrees. Codeex kann
+
+738
+00:26:35,894 --> 00:26:38,862
+sogar Mermaid-Diagramme und Latex
+
+739
+00:26:37,922 --> 00:26:41,189
+direkt im Terminal neben ausklappbaren
+
+740
+00:26:40,248 --> 00:26:44,660
+Diff-Tool-Ausgaben rendern. Dedizierte
+
+741
+00:26:43,716 --> 00:26:46,620
+Bereiche für Status-Shortcuts und
+
+742
+00:26:45,676 --> 00:26:49,108
+Hinweise. Als nächstes führte OpenAI
+
+743
+00:26:48,157 --> 00:26:50,942
+ChatGPT Space ein, was im Grunde ein
+
+744
+00:26:49,992 --> 00:26:52,727
+neuer kollaborativer Arbeitsbereich
+
+745
+00:26:51,776 --> 00:26:54,710
+für Sie, Ihr Team und sogar die KI ist
+
+746
+00:26:53,710 --> 00:26:57,597
+. Es ist eine große Funktion, bei der
+
+747
+00:26:56,656 --> 00:26:59,695
+sie dieses neue Feature „Pages“
+
+748
+00:26:58,754 --> 00:27:01,560
+genannt haben, ein interaktives
+
+749
+00:27:00,618 --> 00:27:03,483
+Dokument, das Diagramme, Bilder,
+
+750
+00:27:02,541 --> 00:27:05,406
+Checklisten, Dashboards und mehr
+
+751
+00:27:04,464 --> 00:27:07,994
+enthalten kann. ChatGPT kann diese
+
+752
+00:27:07,044 --> 00:27:09,886
+Seiten tatsächlich auf der Grundlage
+
+753
+00:27:08,935 --> 00:27:11,777
+Ihrer Konversationen und Ihrer Arbeit
+
+754
+00:27:10,827 --> 00:27:13,419
+erstellen, und Ihr Team kann sie
+
+755
+00:27:12,469 --> 00:27:15,111
+gemeinsam bearbeiten, während es
+
+756
+00:27:14,161 --> 00:27:17,102
+ChatGPT, Codex oder Ihren Bot markiert,
+
+757
+00:27:16,152 --> 00:27:18,595
+um Aufgaben zu erledigen oder
+
+758
+00:27:17,645 --> 00:27:20,486
+Informationen aus verbundenen Quellen
+
+759
+00:27:19,536 --> 00:27:23,090
+auf dem neuesten Stand zu halten. Dies
+
+760
+00:27:22,138 --> 00:27:24,829
+ist eine weitere Funktion, die für
+
+761
+00:27:23,878 --> 00:27:26,666
+alle kostenpflichtigen Pläne im Web,
+
+762
+00:27:25,714 --> 00:27:28,405
+auf dem Desktop und für die mobile
+
+763
+00:27:27,453 --> 00:27:30,326
+Ansicht eingeführt wird. Nun, es gibt
+
+764
+00:27:29,368 --> 00:27:31,764
+ein paar Dinge, die ich definitiv
+
+765
+00:27:30,806 --> 00:27:33,032
+übersehen habe, viele kleine
+
+766
+00:27:32,074 --> 00:27:35,648
+Funktionen. Daher empfehle ich dringend
+
+767
+00:27:34,696 --> 00:27:36,602
+einen Blick auf den
+
+768
+00:27:35,650 --> 00:27:38,511
+Zusammenfassungs-Blog, in dem über all
+
+769
+00:27:37,559 --> 00:27:40,181
+die coolen kleinen Updates wie die
+
+770
+00:27:39,229 --> 00:27:42,042
+Plugin-Erweiterungen, die jetzt leicht
+
+771
+00:27:41,090 --> 00:27:43,808
+verfügbar sein werden, und ein paar
+
+772
+00:27:42,856 --> 00:27:46,211
+andere Dinge gesprochen wird. Ich
+
+773
+00:27:45,261 --> 00:27:48,224
+empfehle also sehr, sich das anzusehen,
+
+774
+00:27:47,275 --> 00:27:50,037
+damit Sie ein besseres Verständnis
+
+775
+00:27:49,087 --> 00:27:52,051
+dafür bekommen, was am DevDay passiert
+
+776
+00:27:51,101 --> 00:27:53,712
+ist, aber ich habe im Grunde das
+
+777
+00:27:52,762 --> 00:27:56,948
+Wichtigste abgedeckt. Tatsächlich habe
+
+778
+00:27:55,992 --> 00:27:58,579
+ich eine Sache verpasst, und das ist
+
+779
+00:27:57,623 --> 00:28:00,298
+der Reset, der zusammen mit dem DevDay
+
+780
+00:27:59,342 --> 00:28:03,745
+kam. Dabei hat Tibbo selbst einen
+
+781
+00:28:02,804 --> 00:28:06,096
+ziemlich lustigen Sketch auf dem DevDay
+
+782
+00:28:05,154 --> 00:28:09,230
+aufgeführt. Und hier hatte Sam Altman
+
+783
+00:28:08,290 --> 00:28:11,525
+Tibbo aus der Menge herausgerufen, er
+
+784
+00:28:10,586 --> 00:28:13,881
+holte seinen Knopf hervor und drückte
+
+785
+00:28:12,942 --> 00:28:16,297
+ihn tatsächlich, was jedem einen Reset
+
+786
+00:28:15,358 --> 00:28:19,179
+gab. Und das ist eine Sache, die ich an
+
+787
+00:28:18,237 --> 00:28:21,428
+OpenAI in letzter Zeit wirklich liebe:
+
+788
+00:28:20,486 --> 00:28:23,678
+Sie geben ihren Nutzern kontinuierlich
+
+789
+00:28:22,735 --> 00:28:25,754
+Resets und stellen sicher, dass sie
+
+790
+00:28:24,811 --> 00:28:27,887
+ihre Nutzer mit kleinsten Dingen wie
+
+791
+00:28:26,945 --> 00:28:30,118
+diesen priorisieren. Deshalb gefällt
+
+792
+00:28:29,157 --> 00:28:31,358
+mir das, was sie insgesamt tun,
+
+793
+00:28:30,396 --> 00:28:32,590
+wirklich sehr. Und das ist
+
+794
+00:28:31,636 --> 00:28:34,403
+offensichtlich ein weiterer Reset, den
+
+795
+00:28:33,450 --> 00:28:36,263
+wir in den letzten zwei Wochen erhalten
+
+796
+00:28:35,310 --> 00:28:37,937
+haben, was großartig ist. Ehrlich
+
+797
+00:28:36,973 --> 00:28:40,086
+gesagt, ein großartiger Tag. Und der
+
+798
+00:28:39,133 --> 00:28:41,906
+Nationalfeiertag steht in China bevor,
+
+799
+00:28:40,953 --> 00:28:43,446
+der meines Wissens am 2. oder 1.
+
+800
+00:28:42,493 --> 00:28:45,313
+Oktober ist, was auch immer es sein mag
+
+801
+00:28:44,313 --> 00:28:47,898
+. Das ist ein wirklich guter Hinweis
+
+802
+00:28:46,940 --> 00:28:49,422
+darauf, dass vielleicht ein anderes
+
+803
+00:28:48,465 --> 00:28:50,862
+chinesisches Labor oder nicht ein
+
+804
+00:28:49,904 --> 00:28:52,556
+anderes, sondern ein chinesisches Labor
+
+805
+00:28:51,598 --> 00:28:54,122
+kurz vor der Veröffentlichung eines
+
+806
+00:28:53,165 --> 00:28:56,192
+Modells stehen könnte. Aber das ist
+
+807
+00:28:55,239 --> 00:28:57,854
+etwas, worüber ich euch vielleicht
+
+808
+00:28:56,900 --> 00:28:59,331
+morgen oder übermorgen auf dem
+
+809
+00:28:58,377 --> 00:29:01,004
+Laufenden halten werde. Aber wie dem
+
+810
+00:29:00,031 --> 00:29:01,925
+auch sei, ich hoffe, euch hat das
+
+811
+00:29:00,952 --> 00:29:02,982
+heutige Video gefallen und ihr konntet
+
+812
+00:29:02,009 --> 00:29:04,039
+einen gewissen Mehrwert daraus ziehen.
+
+813
+00:29:03,459 --> 00:29:05,771
+Dies war ein wirklich langes Video,
+
+814
+00:29:04,809 --> 00:29:07,046
+daher würde es mir wirklich viel
+
+815
+00:29:06,084 --> 00:29:08,396
+bedeuten, Leute, wenn ihr den Kanal
+
+816
+00:29:07,434 --> 00:29:09,859
+abonnieren, das Video liken und es mit
+
+817
+00:29:08,896 --> 00:29:11,541
+euren Freunden teilen könntet. Ich
+
+818
+00:29:10,569 --> 00:29:12,589
+werde alle Links, die ich im heutigen
+
+819
+00:29:11,617 --> 00:29:13,389
+Video verwendet habe, in der
+
+820
+00:29:12,416 --> 00:29:14,665
+Beschreibung unten hinterlassen. Stellt
+
+821
+00:29:13,707 --> 00:29:16,230
+sicher, dass ihr euch die World of AI
+
+822
+00:29:15,271 --> 00:29:17,870
+School-Community anseht. Werft einen
+
+823
+00:29:16,911 --> 00:29:19,060
+Blick auf die Plattform, die
+
+824
+00:29:18,101 --> 00:29:20,579
+Vivecon-Plattform und den Benchmark.
+
+825
+00:29:19,719 --> 00:29:22,199
+Werft einen Blick auf unseren zweiten
+
+826
+00:29:21,239 --> 00:29:24,019
+Kanal. Schließt euch uns auf X oder,
+
+827
+00:29:23,059 --> 00:29:25,619
+Entschuldigung, nein, dem Newsletter an
+
+828
+00:29:24,619 --> 00:29:27,099
+. Schließt euch uns auf Discord an.
+
+829
+00:29:26,219 --> 00:29:28,584
+Folgt mir auf X. Und zum Schluss:
+
+830
+00:29:27,625 --> 00:29:29,949
+Stellt sicher, dass ihr euch den
+
+831
+00:29:28,990 --> 00:29:31,569
+YouTube-Kanal anseht. Vergesst nicht,
+
+832
+00:29:30,609 --> 00:29:33,105
+die Glocke zu aktivieren und das Video
+
+833
+00:29:32,144 --> 00:29:34,843
+zu liken. Und das war es im Grunde für
+
+834
+00:29:33,884 --> 00:29:36,562
+das heutige Video. Ich hoffe, es hat
+
+835
+00:29:35,605 --> 00:29:38,138
+euch gefallen und wir sehen uns bald
+
+836
+00:29:37,180 --> 00:29:39,502
+wieder. Er leidet.

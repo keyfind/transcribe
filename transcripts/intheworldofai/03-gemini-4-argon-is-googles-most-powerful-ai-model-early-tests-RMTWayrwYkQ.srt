@@ -1,0 +1,1631 @@
+1
+00:00:00,339 --> 00:00:03,038
+Ehrlich gesagt ist dieser Bereich so
+
+2
+00:00:02,085 --> 00:00:04,926
+wild, dass man beim Blinzeln sofort ein
+
+3
+00:00:03,973 --> 00:00:07,240
+Modell-Update verpasst. Denn heute hat
+
+4
+00:00:06,304 --> 00:00:09,298
+Google Gemini 4 Argon offiziell
+
+5
+00:00:08,362 --> 00:00:11,870
+veröffentlicht–oder Aragon, wenn man
+
+6
+00:00:10,935 --> 00:00:14,379
+ein großer Fan von Tolkiens Werk ist.
+
+7
+00:00:14,299 --> 00:00:17,483
+Dieses Modell ist der absolute Wahnsinn
+
+8
+00:00:16,483 --> 00:00:19,625
+. Eine Sache, die ich gleich zu Beginn
+
+9
+00:00:18,666 --> 00:00:21,171
+erwähnen möchte: Argon ist derzeit
+
+10
+00:00:20,213 --> 00:00:22,760
+nur in einer eingeschränkten Version
+
+11
+00:00:21,802 --> 00:00:23,513
+für ausgewählte
+
+12
+00:00:22,554 --> 00:00:24,683
+Cybersicherheitspartner und
+
+13
+00:00:23,725 --> 00:00:26,188
+vertrauenswürdige Tester über das
+
+14
+00:00:25,230 --> 00:00:27,777
+Fairwind-Programm von Google DeepMind
+
+15
+00:00:26,819 --> 00:00:30,173
+verfügbar. Google kündigt jedoch an,
+
+16
+00:00:29,223 --> 00:00:31,991
+dass bald ein breiterer Rollout mit
+
+17
+00:00:31,042 --> 00:00:34,012
+kostenpflichtigen API-Kunden und Google
+
+18
+00:00:33,062 --> 00:00:35,780
+AI Ultra-Abonnenten erfolgen wird.
+
+19
+00:00:35,620 --> 00:00:38,032
+Hoffentlich sehen wir das in den
+
+20
+00:00:37,076 --> 00:00:39,709
+nächsten Tagen oder vielleicht sogar
+
+21
+00:00:38,753 --> 00:00:42,005
+nächster Woche. Aber etwas, worüber
+
+22
+00:00:41,051 --> 00:00:43,819
+ich sofort über dieses Modell sprechen
+
+23
+00:00:42,864 --> 00:00:45,043
+möchte, ist, dass es sich
+
+24
+00:00:44,088 --> 00:00:46,358
+möglicherweise um das beste
+
+25
+00:00:45,403 --> 00:00:48,081
+Kosten-Leistungs-Verhältnis handelt,
+
+26
+00:00:47,126 --> 00:00:51,029
+das wir je gesehen haben. Ich weiß,
+
+27
+00:00:50,079 --> 00:00:52,810
+wir haben gerade erst GPT-6.1 Soul
+
+28
+00:00:51,861 --> 00:00:54,847
+bekommen, aber dieses Modell Argon wird
+
+29
+00:00:53,897 --> 00:00:56,730
+zu einem Einführungspreis von nur 2
+
+30
+00:00:55,781 --> 00:00:58,664
+US-Dollar pro 1 Million Eingabe-Token
+
+31
+00:00:57,715 --> 00:01:00,243
+und 10 US-Dollar pro 1 Million
+
+32
+00:00:59,293 --> 00:01:02,075
+Ausgabe-Token auf den Markt kommen,
+
+33
+00:01:01,126 --> 00:01:03,144
+wobei der Preis für
+
+34
+00:01:02,195 --> 00:01:05,028
+zwischengespeicherte Eingaben um 95%
+
+35
+00:01:04,028 --> 00:01:08,664
+günstiger ist, was verrückt ist. Und
+
+36
+00:01:07,720 --> 00:01:10,764
+das Verrückteste ist wahrscheinlich,
+
+37
+00:01:09,819 --> 00:01:12,808
+dass Google die maximale Ausgabe von
+
+38
+00:01:11,864 --> 00:01:15,019
+64.000 auf 1 Million Token erhöht hat.
+
+39
+00:01:15,719 --> 00:01:18,665
+Das ist eine absolut lächerliche Menge
+
+40
+00:01:17,715 --> 00:01:20,512
+an Ausgabe für diese riesigen, lang
+
+41
+00:01:19,562 --> 00:01:21,711
+andauernden Agenten-und
+
+42
+00:01:20,760 --> 00:01:23,408
+Codierungsaufgaben, die auch eine
+
+43
+00:01:22,458 --> 00:01:25,255
+niedrige Halluzinationsrate liefern,
+
+44
+00:01:24,305 --> 00:01:27,252
+was dieses Modell zu einem großartigen
+
+45
+00:01:26,302 --> 00:01:29,999
+Alltagshelfer machen wird. Jetzt tut
+
+46
+00:01:29,039 --> 00:01:31,599
+mir die Unterbrechung leid, Leute, aber
+
+47
+00:01:30,639 --> 00:01:33,119
+es würde mir wirklich viel bedeuten,
+
+48
+00:01:32,159 --> 00:01:34,399
+wenn ihr dieses Video liken und
+
+49
+00:01:33,439 --> 00:01:35,999
+abonnieren könntet, da es mir wirklich
+
+50
+00:01:35,039 --> 00:01:37,439
+hilft, täglich Videos für euch zu
+
+51
+00:01:36,479 --> 00:01:39,130
+machen. Werfen wir einen Blick auf die
+
+52
+00:01:38,162 --> 00:01:40,653
+Benchmarks. Gemini 4 Argon ist
+
+53
+00:01:39,701 --> 00:01:41,936
+vielleicht nicht das beste
+
+54
+00:01:40,983 --> 00:01:43,740
+Agenten-Codierungsmodell, aber es ist
+
+55
+00:01:42,788 --> 00:01:44,975
+möglicherweise das beste
+
+56
+00:01:44,022 --> 00:01:46,400
+Textarena-Modell, das derzeit
+
+57
+00:01:45,447 --> 00:01:49,644
+verfügbar ist. Damit übertrifft es
+
+58
+00:01:48,715 --> 00:01:52,346
+GPT-6 Astra, Fable 5.1 und sogar Opus
+
+59
+00:01:51,417 --> 00:01:55,190
+5.5 in diesem Bereich der Wissensarbeit
+
+60
+00:01:54,190 --> 00:01:58,347
+. Es verfügt außerdem über ein
+
+61
+00:01:57,402 --> 00:02:00,496
+erweitertes Ausgabelimit von 1 Million
+
+62
+00:01:59,551 --> 00:02:02,039
+Token, sodass es potenziell
+
+63
+00:02:01,095 --> 00:02:03,968
+Hunderttausende von Token in einem
+
+64
+00:02:03,023 --> 00:02:05,897
+einzigen Durchgang verarbeiten und
+
+65
+00:02:04,952 --> 00:02:09,933
+argumentieren kann. Ein unglaublicher
+
+66
+00:02:09,013 --> 00:02:12,800
+Benchmark, den ich zu diesem Modell
+
+67
+00:02:11,880 --> 00:02:15,985
+gefunden habe, ist Deep Sway 1.1, wo es
+
+68
+00:02:15,065 --> 00:02:18,800
+77,9%erreicht. Das stellt einen neuen
+
+69
+00:02:17,858 --> 00:02:20,661
+Rekord für reale, langfristige
+
+70
+00:02:19,720 --> 00:02:22,640
+Softwareentwicklungsaufgaben auf.
+
+71
+00:02:22,079 --> 00:02:25,409
+Außerdem führt es den Balz-Index an,
+
+72
+00:02:24,470 --> 00:02:27,616
+der reale Aufgaben in den Bereichen
+
+73
+00:02:26,677 --> 00:02:30,008
+Finanzen, Codierung, Recht und Steuern
+
+74
+00:02:29,069 --> 00:02:33,644
+abdeckt. Auf Automation Bench kann es
+
+75
+00:02:32,703 --> 00:02:35,962
+durchgängige Geschäftsabläufe recht
+
+76
+00:02:35,021 --> 00:02:38,280
+gut abschließen, und Argon belegt mit
+
+77
+00:02:37,339 --> 00:02:42,435
+51,3%tatsächlich den ersten Platz. Und
+
+78
+00:02:41,493 --> 00:02:44,608
+es schneidet sogar beim Verständnis
+
+79
+00:02:43,666 --> 00:02:46,839
+langer Videos recht gut ab, wo es auf
+
+80
+00:02:45,898 --> 00:02:49,012
+LV Bench mit 91,7%einen neuen Rekord
+
+81
+00:02:48,071 --> 00:02:51,661
+aufstellt. Es stellt also diese
+
+82
+00:02:50,716 --> 00:02:54,018
+verrückten Rekorde auf. Es schneidet
+
+83
+00:02:53,072 --> 00:02:56,037
+sogar bei Dingen wie Computernutzung
+
+84
+00:02:55,092 --> 00:02:58,221
+mit seiner Effizienz recht gut ab, aber
+
+85
+00:02:57,276 --> 00:03:00,023
+ich finde GPT-6.1 Soul in diesem
+
+86
+00:02:59,077 --> 00:03:02,042
+speziellen Bereich immer noch besser
+
+87
+00:03:01,097 --> 00:03:04,188
+als dieses neue Modell. Wenn es jedoch
+
+88
+00:03:03,241 --> 00:03:06,027
+um multimodales Verständnis geht,
+
+89
+00:03:05,080 --> 00:03:08,129
+übertrifft es jedes andere hochmoderne
+
+90
+00:03:07,182 --> 00:03:09,996
+Modell. Wenn Sie die besten KI-Tools,
+
+91
+00:03:09,039 --> 00:03:11,617
+Workflows und Drops vor allen anderen
+
+92
+00:03:10,660 --> 00:03:13,239
+haben möchten, abonnieren Sie meinen
+
+93
+00:03:12,281 --> 00:03:14,903
+kostenlosen Newsletter mit dem Link in
+
+94
+00:03:13,945 --> 00:03:16,439
+der Beschreibung unten, der völlig
+
+95
+00:03:15,481 --> 00:03:19,046
+kostenlos ist. Gemini 4 Argon sieht
+
+96
+00:03:18,103 --> 00:03:20,938
+auch in Bezug auf die allgemeine
+
+97
+00:03:19,996 --> 00:03:23,175
+Kosteneffizienz sehr wettbewerbsfähig
+
+98
+00:03:22,233 --> 00:03:25,412
+aus, da es nur etwa 1,99 US-Dollar pro
+
+99
+00:03:24,469 --> 00:03:27,994
+Intelligence Index-Aufgabe kostet. Im
+
+100
+00:03:27,077 --> 00:03:30,823
+Vergleich zu GPT-6.1 Soul, das in
+
+101
+00:03:29,906 --> 00:03:33,402
+diesem Bereich mit 72 Cent den
+
+102
+00:03:32,485 --> 00:03:36,313
+günstigsten Preis aufweist, GPT-6
+
+103
+00:03:35,397 --> 00:03:39,475
+Astra mit 3,26 US-Dollar und Opus 5.5
+
+104
+00:03:38,558 --> 00:03:42,719
+mit 5,98 US-Dollar sowie Fable 5.1 mit
+
+105
+00:03:41,803 --> 00:03:45,765
+7,63 US-Dollar. Und Argon erzielt beim
+
+106
+00:03:44,825 --> 00:03:48,114
+Artificial Analysis Intelligence Index
+
+107
+00:03:47,175 --> 00:03:50,524
+einen Wert von 53 und liegt damit genau
+
+108
+00:03:49,584 --> 00:03:52,693
+gleichauf mit GPT-6 Astra und einen
+
+109
+00:03:51,753 --> 00:03:55,963
+Punkt hinter GPT-6.1 Soul. Das
+
+110
+00:03:55,016 --> 00:03:57,986
+Verrückte daran ist, dass Argon dies
+
+111
+00:03:57,039 --> 00:04:00,008
+erreicht, während es pro Aufgabe nur
+
+112
+00:03:59,061 --> 00:04:01,711
+60%so viel kostet wie Astra zum
+
+113
+00:04:00,764 --> 00:04:04,895
+Einführungspreis. Selbst wenn die
+
+114
+00:04:03,946 --> 00:04:06,812
+Aktion endet, sinkt der Preis von dem
+
+115
+00:04:05,863 --> 00:04:08,729
+zuvor aufgeführten Einführungspreis
+
+116
+00:04:07,780 --> 00:04:10,747
+auf 4 US-Dollar pro 1 Million Token und
+
+117
+00:04:09,797 --> 00:04:12,765
+20 US-Dollar pro 1 Million ausgegebener
+
+118
+00:04:11,815 --> 00:04:14,783
+Token, was für ein Pioniermodell immer
+
+119
+00:04:13,833 --> 00:04:16,700
+noch äußerst wettbewerbsfähig ist.
+
+120
+00:04:16,100 --> 00:04:18,794
+Die Gentic-Performance ist ebenfalls
+
+121
+00:04:17,841 --> 00:04:21,251
+eine enorme Verbesserung. Argon liegt
+
+122
+00:04:20,329 --> 00:04:23,965
+mit 77,5%auf Platz eins im Bereich
+
+123
+00:04:23,042 --> 00:04:27,066
+Automatisierung und schlägt Sonnet 5.5
+
+124
+00:04:26,143 --> 00:04:29,759
+mit 71,3%. Auch im Bereich Turnal macht
+
+125
+00:04:28,809 --> 00:04:31,892
+es große Sprünge. Eines der
+
+126
+00:04:30,940 --> 00:04:33,517
+beeindruckendsten Ergebnisse sind
+
+127
+00:04:32,565 --> 00:04:35,286
+wahrscheinlich Halluzinationen, denn
+
+128
+00:04:34,334 --> 00:04:37,198
+Argon weist eine Halluzinationsrate von
+
+129
+00:04:36,246 --> 00:04:39,671
+15%auf. Das ist die niedrigste jemals
+
+130
+00:04:38,734 --> 00:04:41,932
+bei künstlichen Analysen gemessene
+
+131
+00:04:40,995 --> 00:04:43,880
+Rate für ein Modell mit einem
+
+132
+00:04:42,942 --> 00:04:46,959
+Intelligenzindex von über 45%. Zum
+
+133
+00:04:46,053 --> 00:04:50,609
+Vergleich: Astra liegt bei 51%und GPT-
+
+134
+00:04:49,609 --> 00:04:54,156
+6.1 Soul bei 54%. Argon ist also nicht
+
+135
+00:04:53,216 --> 00:04:55,727
+unbedingt das günstigste
+
+136
+00:04:54,788 --> 00:04:57,843
+Frontier-Modell und auch nicht das
+
+137
+00:04:56,904 --> 00:05:00,332
+beste. Wenn man aber die Intelligenz,
+
+138
+00:04:59,388 --> 00:05:02,400
+die Gentic-Performance, die niedrige
+
+139
+00:05:01,456 --> 00:05:04,356
+Halluzinationsrate, natürlich den
+
+140
+00:05:03,412 --> 00:05:06,144
+Token-Output, den Preis und das
+
+141
+00:05:05,200 --> 00:05:08,380
+Preis-Leistungs-Verhältnis kombiniert,
+
+142
+00:05:07,436 --> 00:05:10,616
+sieht alles sehr wettbewerbsfähig aus.
+
+143
+00:05:09,716 --> 00:05:12,459
+Es könnte sogar sein, dass es für
+
+144
+00:05:11,509 --> 00:05:14,403
+mich als mein tägliches Arbeitsgerät
+
+145
+00:05:13,453 --> 00:05:16,633
+den ersten Platz belegt. Ein weiteres
+
+146
+00:05:15,684 --> 00:05:18,596
+interessantes Detail, das von Reuters
+
+147
+00:05:17,648 --> 00:05:20,250
+kam, ist, dass Gemini for Argon
+
+148
+00:05:19,302 --> 00:05:22,059
+Berichten zufolge größer ist als
+
+149
+00:05:21,111 --> 00:05:24,606
+Googles vorherige Gemini-4-Modelle. Das
+
+150
+00:05:23,644 --> 00:05:25,936
+deutet darauf hin, dass Google das
+
+151
+00:05:24,974 --> 00:05:27,418
+Modell selbst zusammen mit dem enormen
+
+152
+00:05:26,456 --> 00:05:28,786
+Sprung in der Argumentation und den
+
+153
+00:05:27,824 --> 00:05:30,230
+Gentic-Fähigkeiten hochskaliert hat,
+
+154
+00:05:29,268 --> 00:05:31,333
+was irgendwie verrückt ist.
+
+155
+00:05:31,046 --> 00:05:33,274
+Möglicherweise handelt es sich dabei
+
+156
+00:05:32,307 --> 00:05:34,503
+um ein 6-Billionen-Parameter-Modell,
+
+157
+00:05:33,536 --> 00:05:36,251
+vielleicht sogar noch mehr. Ich bin mir
+
+158
+00:05:35,287 --> 00:05:37,572
+noch nicht ganz sicher, aber das ist
+
+159
+00:05:36,608 --> 00:05:38,822
+offensichtlich eine beeindruckende
+
+160
+00:05:37,857 --> 00:05:41,877
+Leistung. Wie ich bereits erwähnt habe
+
+161
+00:05:40,877 --> 00:05:43,618
+, handelt es sich hierbei um ein Modell
+
+162
+00:05:42,618 --> 00:05:45,270
+, das derzeit nur einer ausgewählten
+
+163
+00:05:44,315 --> 00:05:46,789
+Gruppe von Cyber-Verteidigern und
+
+164
+00:05:45,833 --> 00:05:48,218
+vertrauenswürdigen Testern zur
+
+165
+00:05:47,262 --> 00:05:51,347
+Verfügung steht. In den nächsten
+
+166
+00:05:50,395 --> 00:05:53,230
+Tagen, vielleicht sogar Wochen, werden
+
+167
+00:05:52,278 --> 00:05:54,678
+zunächst Nutzer wie zahlende
+
+168
+00:05:53,726 --> 00:05:56,175
+API-Nutzer und sogar Google AI
+
+169
+00:05:55,223 --> 00:05:57,913
+Ultra-Abonnenten Zugriff auf dieses
+
+170
+00:05:56,961 --> 00:06:00,398
+Modell erhalten. Anschließend wird an
+
+171
+00:05:59,449 --> 00:06:02,012
+einer breiteren Öffentlichkeit
+
+172
+00:06:01,062 --> 00:06:03,726
+gearbeitet, möglicherweise Mitte
+
+173
+00:06:02,776 --> 00:06:05,038
+Oktober. Ich bin mir noch nicht ganz
+
+174
+00:06:04,065 --> 00:06:07,379
+sicher. Ich rate nur. Ich glaube, dass
+
+175
+00:06:06,412 --> 00:06:08,614
+wir dieses Modell vielleicht schon in
+
+176
+00:06:07,646 --> 00:06:11,852
+einer Woche sehen werden. Und zu eurem
+
+177
+00:06:10,900 --> 00:06:13,668
+Glück hat mir jemand vom offiziellen
+
+178
+00:06:12,716 --> 00:06:15,484
+Discord-Account von AI Leaks ein paar
+
+179
+00:06:14,531 --> 00:06:17,252
+Tests geschickt, die ich im heutigen
+
+180
+00:06:16,299 --> 00:06:20,575
+Video vorstellen werde. Das Modell hat
+
+181
+00:06:19,646 --> 00:06:23,348
+tatsächlich das gesamte Sakura Hokoda
+
+182
+00:06:22,419 --> 00:06:25,837
+Sanctuary mit über 106.000 Voxeln
+
+183
+00:06:24,908 --> 00:06:28,254
+generiert, und der Detailgrad ist
+
+184
+00:06:27,325 --> 00:06:30,546
+wirklich unglaublich. Von der
+
+185
+00:06:29,595 --> 00:06:32,476
+Atmosphäre über die Umgebung bis hin
+
+186
+00:06:31,526 --> 00:06:34,209
+zu den verschiedenen Kamerawinkeln
+
+187
+00:06:33,258 --> 00:06:35,743
+sieht mit dieser Ausgabe alles
+
+188
+00:06:34,793 --> 00:06:37,937
+wahnsinnig ausgefeilt aus. Jetzt
+
+189
+00:06:36,993 --> 00:06:39,713
+können Sie sogar die Tageszeit
+
+190
+00:06:38,769 --> 00:06:41,545
+dynamisch ändern, wie bei jedem
+
+191
+00:06:40,600 --> 00:06:43,654
+anderen Voxel, und das verändert die
+
+192
+00:06:42,709 --> 00:06:45,652
+Beleuchtung und die Atmosphäre der
+
+193
+00:06:44,707 --> 00:06:49,283
+Szene komplett. Hier sehen Sie ein SVG
+
+194
+00:06:48,359 --> 00:06:52,115
+von Gemini 4, und das sieht in Bezug
+
+195
+00:06:51,192 --> 00:06:55,069
+auf die Ausgabe wirklich gut aus. Was
+
+196
+00:06:54,126 --> 00:06:57,175
+erstellt werden sollte, ist ein PS5-
+
+197
+00:06:56,175 --> 00:06:58,997
+Controller im SVG, und das sieht
+
+198
+00:06:58,054 --> 00:07:02,015
+tatsächlich ziemlich echt aus. Es
+
+199
+00:07:01,064 --> 00:07:03,951
+sieht für mich wirklich wie ein echtes
+
+200
+00:07:02,999 --> 00:07:05,838
+Bild aus, abgesehen von der Textur und
+
+201
+00:07:04,886 --> 00:07:07,724
+dem kleinen Farbverlauf, den Sie links
+
+202
+00:07:06,773 --> 00:07:09,660
+und rechts an den Enden des Controllers
+
+203
+00:07:08,708 --> 00:07:12,820
+sehen. Aber ansonsten sieht alles recht
+
+204
+00:07:11,860 --> 00:07:14,420
+gut und akkurat aus, verglichen mit dem
+
+205
+00:07:13,460 --> 00:07:17,155
+echten Controller selbst. Die
+
+206
+00:07:16,201 --> 00:07:18,890
+Beleuchtung, der Farbton, alles wurde
+
+207
+00:07:17,936 --> 00:07:20,716
+recht gut generiert, und ehrlich gesagt
+
+208
+00:07:19,762 --> 00:07:22,451
+ist es mit den Ergebnissen von Opus 5
+
+209
+00:07:21,496 --> 00:07:24,140
+mit dem PS5-Controller vergleichbar.
+
+210
+00:07:24,199 --> 00:07:26,982
+Hier ist ein weiterer verrückter
+
+211
+00:07:26,036 --> 00:07:29,144
+Vergleich des Gemini 4 Pro in der Arena
+
+212
+00:07:28,144 --> 00:07:31,000
+. Das war ein früherer Kontrollpunkt.
+
+213
+00:07:30,120 --> 00:07:33,407
+Ich bin mir nicht sicher, ob das genau
+
+214
+00:07:32,468 --> 00:07:35,455
+Argon sein wird, aber das ist ein
+
+215
+00:07:34,515 --> 00:07:37,682
+Kontrollpunkt, der gegen Claude Opus
+
+216
+00:07:36,743 --> 00:07:39,428
+5.5 gestellt wurde, um ein 3
+
+217
+00:07:38,489 --> 00:07:41,716
+D-Wasserflugzeug mit Physiksimulation
+
+218
+00:07:40,777 --> 00:07:44,603
+zu bauen. Hier hat Gemini 4 Opus Swap
+
+219
+00:07:43,675 --> 00:07:47,285
+auf Stufe 5 in diesem Test in puncto
+
+220
+00:07:46,357 --> 00:07:49,387
+Grafik, Physik insgesamt und
+
+221
+00:07:48,460 --> 00:07:52,299
+Ausführung komplett übertroffen. Das
+
+222
+00:07:51,345 --> 00:07:54,028
+ist offensichtlich auf einem anderen
+
+223
+00:07:53,075 --> 00:07:55,852
+Level, das sieht man dieser Generation
+
+224
+00:07:54,898 --> 00:07:58,292
+an. Und wenn diese Darstellung des
+
+225
+00:07:57,342 --> 00:07:59,586
+Modells am Ende mit Argon
+
+226
+00:07:58,636 --> 00:08:01,527
+veröffentlicht wird und vielleicht in
+
+227
+00:08:00,577 --> 00:08:03,120
+den nächsten Wochen sogar noch
+
+228
+00:08:02,170 --> 00:08:05,061
+verbessert wird, wäre das ein großer
+
+229
+00:08:04,111 --> 00:08:06,903
+zusätzlicher Vorteil, vor allem bei
+
+230
+00:08:05,952 --> 00:08:10,165
+diesem Preis. Hier ist eine weitere
+
+231
+00:08:09,223 --> 00:08:12,473
+Vorschau dieses Checkpoints, bei der es
+
+232
+00:08:11,531 --> 00:08:14,492
+sich um etwas handelt, das diese 3
+
+233
+00:08:13,550 --> 00:08:16,743
+GS-Simulation verschiedener Charaktere
+
+234
+00:08:15,800 --> 00:08:19,341
+für Halloween generiert hat. Hier
+
+235
+00:08:18,387 --> 00:08:21,079
+können Sie den Detailgrad sehen, der
+
+236
+00:08:20,124 --> 00:08:22,983
+von diesem Modell ausgegeben wird. Im
+
+237
+00:08:22,051 --> 00:08:25,615
+Vergleich zu anderen Modellen sieht es
+
+238
+00:08:24,683 --> 00:08:28,165
+wirklich erstklassig aus. Das ist
+
+239
+00:08:27,227 --> 00:08:30,388
+wirklich erstaunlich, denn dies ist
+
+240
+00:08:29,450 --> 00:08:32,611
+etwas, das diesen Simulationen eine
+
+241
+00:08:31,673 --> 00:08:34,710
+weitere Ebene an Detail und Tiefe
+
+242
+00:08:33,772 --> 00:08:37,199
+hinzufügt. Es ist einfach unglaublich.
+
+243
+00:08:36,900 --> 00:08:39,890
+Hier wurde Gemini 4 gebeten, eine
+
+244
+00:08:38,950 --> 00:08:43,091
+mechanische Biene zu erstellen. Das ist
+
+245
+00:08:42,164 --> 00:08:45,803
+wirklich unglaublich. Das ist etwas,
+
+246
+00:08:44,850 --> 00:08:47,131
+das einen wirklich schönen
+
+247
+00:08:46,178 --> 00:08:48,838
+Designgeschmack hat, der mit diesem
+
+248
+00:08:47,886 --> 00:08:50,605
+Modell korreliert. Die
+
+249
+00:08:49,662 --> 00:08:52,883
+Frontend-Performance ist recht gut, was
+
+250
+00:08:51,940 --> 00:08:54,762
+die früheren Gemini-Modelle gut
+
+251
+00:08:53,819 --> 00:08:57,641
+konnten. Aber dann hatte Claude diese
+
+252
+00:08:56,706 --> 00:09:00,355
+Kategorie übernommen. Jetzt sehen wir,
+
+253
+00:08:59,415 --> 00:09:02,750
+dass Gemini ein Comeback feiert. Das
+
+254
+00:09:01,807 --> 00:09:04,947
+ist ein Detailgrad, den ich vom Gemini
+
+255
+00:09:04,003 --> 00:09:07,957
+4 wirklich nicht erwartet hätte. Das
+
+256
+00:09:07,002 --> 00:09:09,465
+liegt natürlich an der prompten
+
+257
+00:09:08,511 --> 00:09:10,974
+Umsetzung, die dieser Generation
+
+258
+00:09:10,020 --> 00:09:12,345
+zugeschrieben wurde, aber das
+
+259
+00:09:11,391 --> 00:09:13,945
+Qualitätsniveau, das es erreichen
+
+260
+00:09:12,991 --> 00:09:17,535
+konnte, ist beeindruckend. Hier hat
+
+261
+00:09:16,600 --> 00:09:20,051
+Gemini 4 das Kolosseum erschaffen, und
+
+262
+00:09:19,115 --> 00:09:22,566
+das ist wirklich bemerkenswert, da mit
+
+263
+00:09:21,630 --> 00:09:25,146
+dieser Generation auch verschiedene Tag
+
+264
+00:09:24,146 --> 00:09:28,509
+-und Nachtzyklen simuliert werden. Man
+
+265
+00:09:27,568 --> 00:09:30,840
+sieht, dass die Designqualität und der
+
+266
+00:09:29,899 --> 00:09:32,997
+Feinschliff hier im Vergleich zu den
+
+267
+00:09:32,055 --> 00:09:35,328
+Pro-Modellen, die wir bei Gemini sehen,
+
+268
+00:09:34,386 --> 00:09:37,569
+wirklich besser geworden sind. Die
+
+269
+00:09:36,616 --> 00:09:39,210
+Gesamtleistung fühlt sich einfach
+
+270
+00:09:38,257 --> 00:09:40,429
+deutlich hochwertiger an.
+
+271
+00:09:39,972 --> 00:09:42,814
+Offensichtlich handelt es sich hierbei
+
+272
+00:09:41,862 --> 00:09:44,656
+um die vorherigen Gemini-Checkpoints,
+
+273
+00:09:43,705 --> 00:09:48,116
+die wir gesehen haben. Dennoch zeigt es
+
+274
+00:09:47,168 --> 00:09:50,064
+uns, wenn es ein Schritt in Richtung
+
+275
+00:09:49,116 --> 00:09:52,064
+Argon ist, dass Argon ein bedeutender
+
+276
+00:09:51,117 --> 00:09:53,802
+Sprung und natürlich ein nettes
+
+277
+00:09:52,854 --> 00:09:57,109
+Comeback von Google sein wird. Denn das
+
+278
+00:09:56,163 --> 00:09:59,154
+sind Generationen, die wir von Gemini
+
+279
+00:09:58,208 --> 00:10:01,307
+nach diesem kleinen Rückstand wirklich
+
+280
+00:10:00,361 --> 00:10:05,290
+nicht erwartet hätten. Bei diesem
+
+281
+00:10:04,344 --> 00:10:07,311
+Modell ist mir auch aufgefallen, dass
+
+282
+00:10:06,365 --> 00:10:09,333
+es bei interaktiven Demos viel besser
+
+283
+00:10:08,386 --> 00:10:11,979
+ist. Es ist intuitiver mit diesen
+
+284
+00:10:11,038 --> 00:10:13,853
+Ausgaben und es verwendet sogar
+
+285
+00:10:12,912 --> 00:10:15,844
+Lernmethoden, die wir bei anderen
+
+286
+00:10:14,903 --> 00:10:17,894
+Modellen dieser Generationen nicht
+
+287
+00:10:16,953 --> 00:10:20,207
+wirklich gesehen haben. Es ist auch
+
+288
+00:10:19,268 --> 00:10:23,095
+ziemlich schnell. Aber in puncto
+
+289
+00:10:22,144 --> 00:10:25,017
+Effizienz müssen wir abwarten, ob sie
+
+290
+00:10:24,066 --> 00:10:26,841
+am Ende bei diesem Einführungspreis
+
+291
+00:10:25,890 --> 00:10:29,637
+bleiben. Das wäre nämlich ein echter
+
+292
+00:10:28,691 --> 00:10:31,814
+Glücksgriff und würde im Grunde jeden
+
+293
+00:10:30,869 --> 00:10:33,937
+dazu bringen, wieder Gemini-Modelle zu
+
+294
+00:10:32,991 --> 00:10:35,842
+verwenden, natürlich aufgrund der
+
+295
+00:10:34,896 --> 00:10:38,533
+Preisleistung. Ich muss aber sagen,
+
+296
+00:10:37,579 --> 00:10:40,315
+dass Gemini für Argon nicht das beste
+
+297
+00:10:39,361 --> 00:10:42,097
+verfügbare Modell für Codierung oder
+
+298
+00:10:41,143 --> 00:10:43,879
+Webentwicklung sein wird, aber es wird
+
+299
+00:10:42,924 --> 00:10:45,386
+ein großartiges Modell für den
+
+300
+00:10:44,432 --> 00:10:47,122
+täglichen Gebrauch sein, mit dem man
+
+301
+00:10:46,168 --> 00:10:48,859
+grundlegende Aufgaben erledigen kann.
+
+302
+00:10:48,699 --> 00:10:51,470
+Und natürlich gibt es einen Bereich,
+
+303
+00:10:50,518 --> 00:10:53,385
+in dem Gemini normalerweise herausragt,
+
+304
+00:10:52,433 --> 00:10:55,300
+nämlich die multimodalen Fähigkeiten.
+
+305
+00:10:54,540 --> 00:10:57,152
+Das ist etwas, wofür Sie dieses Modell
+
+306
+00:10:56,193 --> 00:10:58,433
+als Ihren täglichen Begleiter
+
+307
+00:10:57,474 --> 00:11:00,886
+verwenden können. Es wird nicht in der
+
+308
+00:10:59,944 --> 00:11:03,045
+Lage sein, mit GPT sowie Sonnet oder
+
+309
+00:11:02,103 --> 00:11:05,204
+sogar Opus zu konkurrieren, da diese
+
+310
+00:11:04,262 --> 00:11:07,480
+Modelle bereits viele der Fähigkeiten
+
+311
+00:11:06,538 --> 00:11:09,464
+im Bereich der Codierung sowie in
+
+312
+00:11:08,523 --> 00:11:11,799
+anderen Bereichen perfektioniert haben.
+
+313
+00:11:11,080 --> 00:11:13,809
+Aber hoffentlich sehen wir eine
+
+314
+00:11:12,865 --> 00:11:15,817
+Erholung von Gemini und dass sie in
+
+315
+00:11:14,873 --> 00:11:17,714
+naher Zukunft in dieser Kategorie
+
+316
+00:11:16,770 --> 00:11:20,118
+glänzen können. Und um ehrlich zu
+
+317
+00:11:19,169 --> 00:11:22,038
+sein, korreliert dieser Kontrollpunkt
+
+318
+00:11:21,089 --> 00:11:24,009
+wirklich mit dem, was wir bei Argon in
+
+319
+00:11:23,059 --> 00:11:25,777
+Bezug auf die Benchmark-Ergebnisse
+
+320
+00:11:24,827 --> 00:11:27,697
+sehen, da es sich einen großen Kampf
+
+321
+00:11:26,747 --> 00:11:29,364
+mit Modellen wie GPT-6 und Astra
+
+322
+00:11:28,414 --> 00:11:31,967
+liefert. Hier ist ein direkter
+
+323
+00:11:31,021 --> 00:11:33,750
+Vergleich mit der exakt gleichen
+
+324
+00:11:32,804 --> 00:11:35,911
+Eingabeaufforderung für GPT-6, und Sie
+
+325
+00:11:34,965 --> 00:11:38,072
+können sehen, dass Gemini 4 mit seinem
+
+326
+00:11:37,126 --> 00:11:40,233
+3 D-Weltenbau mit 3js absolut verrückt
+
+327
+00:11:39,287 --> 00:11:42,286
+aussieht, um diese Art von Simulation
+
+328
+00:11:41,340 --> 00:11:44,393
+vollständig auszugeben, basierend auf
+
+329
+00:11:43,448 --> 00:11:47,254
+dem, was es erstellen sollte, wie z. B.
+
+330
+00:11:46,300 --> 00:11:48,957
+die Bahngleise, die dynamische Welt,
+
+331
+00:11:48,003 --> 00:11:50,752
+und sogar die Verwendung verschiedener
+
+332
+00:11:49,798 --> 00:11:52,594
+Arten von Farben und Texturen, um diese
+
+333
+00:11:51,640 --> 00:11:54,776
+Ausgabe zu erhalten. Wenn dir dieses
+
+334
+00:11:53,820 --> 00:11:56,176
+Video gefällt und du den Kanal
+
+335
+00:11:55,220 --> 00:11:57,707
+unterstützen möchtest, kannst du
+
+336
+00:11:56,751 --> 00:11:59,282
+über die unten stehende Option „
+
+337
+00:11:58,282 --> 00:12:00,726
+Super Thanks“ für meinen Kanal
+
+338
+00:11:59,770 --> 00:12:03,125
+spenden. Oder du schließt dich unserem
+
+339
+00:12:02,168 --> 00:12:04,823
+privaten Discord-Server an, auf dem du
+
+340
+00:12:03,867 --> 00:12:06,216
+monatlich kostenlos auf mehrere
+
+341
+00:12:05,260 --> 00:12:07,915
+Abonnements für verschiedene KI-Tools
+
+342
+00:12:06,958 --> 00:12:10,610
+zugreifen kannst. Außerdem erhältst
+
+343
+00:12:09,657 --> 00:12:12,525
+du tägliche KI-News, exklusive Inhalte
+
+344
+00:12:11,573 --> 00:12:14,733
+und vieles mehr. Insgesamt sieht Gemini
+
+345
+00:12:13,777 --> 00:12:16,509
+4 Argon definitiv nach einer gewaltigen
+
+346
+00:12:15,554 --> 00:12:18,197
+Veröffentlichung für Google und die
+
+347
+00:12:17,241 --> 00:12:20,201
+KI-Community aus. Wenn man sich
+
+348
+00:12:19,258 --> 00:12:22,394
+anschaut, wie schnell Gemini all diese
+
+349
+00:12:21,451 --> 00:12:24,419
+Modelle ausliefert, wird es langsam
+
+350
+00:12:23,475 --> 00:12:27,369
+lächerlich. Man fragt sich ehrlich
+
+351
+00:12:26,440 --> 00:12:30,472
+gesagt, ob sie RSI erreicht haben. Wir
+
+352
+00:12:29,506 --> 00:12:31,744
+haben schlichtweg keine Beweise für
+
+353
+00:12:30,778 --> 00:12:33,266
+diese Behauptung. Wenn KI-Systeme
+
+354
+00:12:32,320 --> 00:12:35,410
+jedoch zunehmend dazu verwendet werden,
+
+355
+00:12:34,464 --> 00:12:36,964
+intern bei der Forschung und
+
+356
+00:12:36,018 --> 00:12:38,679
+Optimierung zu helfen sowie die
+
+357
+00:12:37,733 --> 00:12:40,769
+nächste Generation von KI-Systemen zu
+
+358
+00:12:39,823 --> 00:12:42,859
+codieren, zu bewerten und letztendlich
+
+359
+00:12:41,913 --> 00:12:45,003
+zu entwickeln, wie Google behauptet hat
+
+360
+00:12:44,003 --> 00:12:46,825
+, dann kann man erkennen, dass die
+
+361
+00:12:45,879 --> 00:12:48,593
+Feedbackschleife den Fortschritt
+
+362
+00:12:47,647 --> 00:12:50,684
+neuerer Modelle beschleunigen könnte.
+
+363
+00:12:50,599 --> 00:12:53,385
+Google selbst sagt, dass Argon seinen
+
+364
+00:12:52,434 --> 00:12:55,124
+Forschern und komplexen Ingenieuren
+
+365
+00:12:54,172 --> 00:12:56,814
+bereits bei algorithmischer Arbeit
+
+366
+00:12:55,862 --> 00:12:58,601
+sowie in anderen Bereichen innerhalb
+
+367
+00:12:57,649 --> 00:13:01,993
+des Unternehmens hilft. Das lässt
+
+368
+00:13:01,064 --> 00:13:04,493
+einen also zunehmend glauben, dass
+
+369
+00:13:03,565 --> 00:13:07,402
+diese Behauptung stimmt. Insgesamt
+
+370
+00:13:06,444 --> 00:13:09,068
+gefällt mir aber sehr gut, was sie mit
+
+371
+00:13:08,110 --> 00:13:11,080
+Argon geschaffen haben. Das ist ehrlich
+
+372
+00:13:10,138 --> 00:13:13,346
+gesagt ein großer Schritt für Google
+
+373
+00:13:12,405 --> 00:13:15,496
+und ein guter Schritt auf dem Weg zu
+
+374
+00:13:14,555 --> 00:13:17,530
+einem Comeback des Unternehmens im
+
+375
+00:13:16,588 --> 00:13:18,961
+KI-Rennen. Ich bin also wirklich
+
+376
+00:13:17,994 --> 00:13:20,246
+begeistert von dem, was sie mit diesem
+
+377
+00:13:19,279 --> 00:13:21,781
+Modell geschaffen haben. Hoffentlich
+
+378
+00:13:20,832 --> 00:13:23,537
+können sie es weiter verbessern,
+
+379
+00:13:22,589 --> 00:13:25,293
+sodass es in fast allen Bereichen
+
+380
+00:13:24,345 --> 00:13:27,360
+mithalten kann, so wie die hochmodernen
+
+381
+00:13:26,411 --> 00:13:30,615
+Modelle, die wir derzeit haben. Es ist
+
+382
+00:13:29,658 --> 00:13:32,154
+eine enorme Verbesserung im Bereich
+
+383
+00:13:31,197 --> 00:13:33,352
+Text sowie in Bereichen wie
+
+384
+00:13:32,394 --> 00:13:36,828
+Multimodalität. Ich bin jedenfalls
+
+385
+00:13:35,870 --> 00:13:38,408
+sehr gespannt, wie sich dieses Modell
+
+386
+00:13:37,450 --> 00:13:40,022
+am Ende entwickelt. Wir werden ein
+
+387
+00:13:39,069 --> 00:13:41,917
+umfassendes Testvideo machen, sobald es
+
+388
+00:13:40,964 --> 00:13:43,599
+veröffentlicht wird. Ich hinterlasse
+
+389
+00:13:42,628 --> 00:13:44,713
+alle Links, die ich im heutigen Video
+
+390
+00:13:43,743 --> 00:13:45,799
+verwende, unten in der Beschreibung.
+
+391
+00:13:44,927 --> 00:13:47,511
+Schaut euch unbedingt die Community „
+
+392
+00:13:46,511 --> 00:13:49,390
+World of AI School“ an. Schaut euch
+
+393
+00:13:48,431 --> 00:13:50,991
+die Coding-Plattform und den Benchmark
+
+394
+00:13:50,032 --> 00:13:52,898
+„World of AI Vibe“ an. Schaut euch
+
+395
+00:13:51,939 --> 00:13:56,798
+unseren zweiten Kanal an. Folge unserem
+
+396
+00:13:55,842 --> 00:13:58,516
+Newsletter. Stellt sicher, dass ihr
+
+397
+00:13:57,564 --> 00:14:00,049
+Discord folgt. Folgt mir auf Twitter.
+
+398
+00:13:59,149 --> 00:14:01,255
+Und zu guter Letzt: Abonniert unseren
+
+399
+00:14:00,285 --> 00:14:02,451
+Kanal, aktiviert die Benachrichtigungen
+
+400
+00:14:01,451 --> 00:14:03,618
+, gebt diesem Video ein „Gefällt mir
+
+401
+00:14:02,618 --> 00:14:04,545
+“ und schaut euch auch unsere
+
+402
+00:14:03,574 --> 00:14:05,591
+vorherigen Videos an, um über die
+
+403
+00:14:04,621 --> 00:14:06,728
+aktuellsten KI-News auf dem Laufenden
+
+404
+00:14:05,758 --> 00:14:07,857
+zu bleiben. In diesem Sinne wünsche
+
+405
+00:14:06,885 --> 00:14:08,836
+ich euch einen wunderschönen Tag.
+
+406
+00:14:07,936 --> 00:14:10,245
+Verbreitet Positivität und ich sehe
+
+407
+00:14:09,281 --> 00:14:11,889
+euch ganz bald wieder. Peace out, Leute
+
+408
+00:14:10,889 --> 00:14:11,934
+.

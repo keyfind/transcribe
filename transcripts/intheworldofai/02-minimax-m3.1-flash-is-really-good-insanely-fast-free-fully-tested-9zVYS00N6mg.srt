@@ -1,0 +1,2495 @@
+1
+00:00:00,327 --> 00:00:03,136
+Nach einer so hektischen Woche finde
+
+2
+00:00:02,187 --> 00:00:04,846
+ich endlich etwas Zeit, um dieses
+
+3
+00:00:03,896 --> 00:00:06,857
+unglaubliche und völlig unterschätzte
+
+4
+00:00:05,907 --> 00:00:08,717
+Modell unter die Lupe zu nehmen, von
+
+5
+00:00:07,767 --> 00:00:10,527
+dem meiner Meinung nach nicht genug
+
+6
+00:00:09,577 --> 00:00:12,847
+Leute wissen. Darf ich vorstellen:
+
+7
+00:00:11,921 --> 00:00:15,627
+MiniMax M 3.1 Flash Preview. Das
+
+8
+00:00:14,684 --> 00:00:17,654
+neueste Textmodell von MiniMax, das
+
+9
+00:00:16,710 --> 00:00:19,737
+offiziell auf MiniMax Code gestartet
+
+10
+00:00:18,793 --> 00:00:21,853
+ist. Und wenn man bedenkt, dass dies
+
+11
+00:00:20,895 --> 00:00:23,461
+ein Flash-Modell ist, muss ich sagen,
+
+12
+00:00:22,503 --> 00:00:25,112
+dass die Geschwindigkeit und Qualität
+
+13
+00:00:24,154 --> 00:00:26,846
+wirklich beeindruckend sind. Deshalb
+
+14
+00:00:25,887 --> 00:00:28,233
+mache ich jetzt ein eigenes Video
+
+15
+00:00:27,274 --> 00:00:30,313
+darüber. Was es noch interessanter
+
+16
+00:00:29,364 --> 00:00:32,300
+macht, ist, dass dies nicht einmal die
+
+17
+00:00:31,351 --> 00:00:34,457
+finale Version ist. Es befindet sich
+
+18
+00:00:33,502 --> 00:00:36,208
+derzeit in der Vorschau, was bedeutet,
+
+19
+00:00:35,253 --> 00:00:37,690
+dass MiniMax noch intensiv daran
+
+20
+00:00:36,734 --> 00:00:39,321
+arbeitet. Es besteht also eine gute
+
+21
+00:00:38,357 --> 00:00:40,763
+Chance, dass es von hier an noch besser
+
+22
+00:00:39,799 --> 00:00:43,136
+wird. MiniMax beschreibt M 3.1 Flash
+
+23
+00:00:42,190 --> 00:00:45,293
+als sein tägliches Arbeitstier-Modell,
+
+24
+00:00:44,347 --> 00:00:47,019
+das speziell für hochfrequente
+
+25
+00:00:46,072 --> 00:00:48,906
+Arbeitslasten entwickelt wurde und
+
+26
+00:00:47,960 --> 00:00:50,901
+gleichzeitig starke Fähigkeiten mit
+
+27
+00:00:49,955 --> 00:00:53,424
+Effizienz in Einklang bringt. Es ist
+
+28
+00:00:52,474 --> 00:00:55,355
+außerdem multimodal und richtet sich
+
+29
+00:00:54,406 --> 00:00:57,287
+an Entwickler, Fachleute und Kreative
+
+30
+00:00:56,338 --> 00:00:58,965
+in den Bereichen Programmierung,
+
+31
+00:00:58,016 --> 00:01:00,999
+Forschung, Analyse und kreative Arbeit.
+
+32
+00:01:00,720 --> 00:01:03,467
+MiniMax hat es speziell für die
+
+33
+00:01:02,521 --> 00:01:05,432
+tägliche Entwicklung positioniert:
+
+34
+00:01:04,487 --> 00:01:07,616
+schnell, zuverlässig und fähig, alles
+
+35
+00:01:06,670 --> 00:01:09,745
+von schnellen Fehlerbehebungen bis hin
+
+36
+00:01:08,800 --> 00:01:11,929
+zur Erstellung kompletter Funktionen zu
+
+37
+00:01:10,983 --> 00:01:14,384
+bewältigen. Ich bin ehrlich: Da es
+
+38
+00:01:13,438 --> 00:01:16,539
+sich noch um ein Vorschaumodell handelt
+
+39
+00:01:15,539 --> 00:01:18,640
+, wissen wir noch nicht alles darüber.
+
+40
+00:01:18,180 --> 00:01:20,815
+Wir kennen die vollständigen
+
+41
+00:01:19,871 --> 00:01:22,958
+Benchmark-Ergebnisse des Modells oder
+
+42
+00:01:22,014 --> 00:01:25,100
+die tieferen technischen Details, aus
+
+43
+00:01:24,157 --> 00:01:27,300
+denen M 3.1 Flash besteht, noch nicht.
+
+44
+00:01:26,500 --> 00:01:28,766
+Ich gehe davon aus, dass viele dieser
+
+45
+00:01:27,801 --> 00:01:29,931
+Informationen mit der offiziellen
+
+46
+00:01:28,965 --> 00:01:31,232
+Veröffentlichung des Modells bekannt
+
+47
+00:01:30,266 --> 00:01:33,204
+gegeben werden. Aber MiniMax bietet den
+
+48
+00:01:32,248 --> 00:01:34,940
+Leuten gerade eine ziemlich verrückte
+
+49
+00:01:33,984 --> 00:01:36,721
+Gelegenheit, es auszuprobieren, was ein
+
+50
+00:01:35,765 --> 00:01:38,457
+weiterer Grund ist, warum ich darüber
+
+51
+00:01:37,502 --> 00:01:40,459
+berichten wollte. Ursprünglich
+
+52
+00:01:39,512 --> 00:01:42,502
+kündigten sie zwei zeitlich begrenzte
+
+53
+00:01:41,554 --> 00:01:44,334
+Vorteile für MiniMax Code vom 28.
+
+54
+00:01:43,387 --> 00:01:46,272
+September bis zum 7. Oktober an, bei
+
+55
+00:01:45,324 --> 00:01:48,157
+denen Nutzer durch tägliche Logins
+
+56
+00:01:47,210 --> 00:01:50,147
+doppelte kostenlose Credits verdienen
+
+57
+00:01:49,200 --> 00:01:53,167
+konnten. Und MiniMax hat außerdem die
+
+58
+00:01:52,225 --> 00:01:55,353
+Token-Kontingente zurückgesetzt, als
+
+59
+00:01:54,410 --> 00:01:57,539
+MiniMax M 3.1 Flash Preview startete.
+
+60
+00:01:57,120 --> 00:01:59,779
+Aber dann gingen sie noch einen Schritt
+
+61
+00:01:58,822 --> 00:02:02,032
+weiter. Vor ein paar Tagen kündigte
+
+62
+00:02:01,093 --> 00:02:03,940
+MiniMax an, dass zur Feier des
+
+63
+00:02:03,001 --> 00:02:06,340
+chinesischen Nationalfeiertags MiniMax
+
+64
+00:02:05,402 --> 00:02:08,802
+M 3.1 Flash Preview für Abonnenten auf
+
+65
+00:02:07,863 --> 00:02:10,771
+MiniMax Code bis zum 7. Oktober
+
+66
+00:02:09,833 --> 00:02:12,987
+komplett kostenlos ist–ein echtes
+
+67
+00:02:12,048 --> 00:02:15,241
+Schnäppchen. Und laut MiniMax gibt es
+
+68
+00:02:14,285 --> 00:02:16,745
+keinen Credit-Verbrauch und keine
+
+69
+00:02:15,790 --> 00:02:19,057
+Limits. Wenn du also bereits Zugriff
+
+70
+00:02:18,110 --> 00:02:21,197
+auf MiniMax Code hast, ist das wirklich
+
+71
+00:02:20,251 --> 00:02:23,284
+ein Schnäppchen, denn du bekommst die
+
+72
+00:02:22,337 --> 00:02:25,264
+Möglichkeit, M 3.1 Flash Preview so
+
+73
+00:02:24,317 --> 00:02:27,297
+intensiv zu nutzen, wie du möchtest,
+
+74
+00:02:26,351 --> 00:02:29,437
+ohne dir Sorgen um deine Credits machen
+
+75
+00:02:28,491 --> 00:02:32,042
+zu müssen. Und genau das wollte ich
+
+76
+00:02:31,106 --> 00:02:34,522
+tun. Ich habe einige Zeit damit
+
+77
+00:02:33,562 --> 00:02:36,056
+verbracht, dieses Modell zu testen, um
+
+78
+00:02:35,096 --> 00:02:37,590
+zu sehen, wie sich Geschwindigkeit und
+
+79
+00:02:36,630 --> 00:02:39,164
+Qualität in realen Tests schlagen, und
+
+80
+00:02:38,203 --> 00:02:40,658
+habe seine Ergebnisse mit einigen der
+
+81
+00:02:39,698 --> 00:02:42,153
+viel größeren, derzeit verfügbaren
+
+82
+00:02:41,192 --> 00:02:44,739
+Modelle verglichen. Lassen Sie uns also
+
+83
+00:02:43,775 --> 00:02:46,210
+direkt in den Test einsteigen und sehen
+
+84
+00:02:45,210 --> 00:02:47,535
+, wie gut dieses Modell tatsächlich
+
+85
+00:02:46,571 --> 00:02:49,104
+ist. Aber sorry für die Unterbrechung,
+
+86
+00:02:48,133 --> 00:02:50,415
+Leute. Falls ihr es noch nicht getan
+
+87
+00:02:49,450 --> 00:02:51,665
+habt: Die Mehrheit von euch hat den
+
+88
+00:02:50,700 --> 00:02:53,054
+Kanal tatsächlich noch nicht abonniert
+
+89
+00:02:52,054 --> 00:02:55,316
+. Es würde mir also wirklich viel
+
+90
+00:02:54,362 --> 00:02:57,093
+bedeuten, wenn ihr dem Video ein Like
+
+91
+00:02:56,140 --> 00:02:58,918
+gebt oder einfach den Kanal abonniert,
+
+92
+00:02:57,965 --> 00:03:00,696
+da es mir sehr hilft, täglich Videos
+
+93
+00:02:59,742 --> 00:03:03,987
+für euch zu erstellen. Persönlich
+
+94
+00:03:03,045 --> 00:03:06,163
+habe ich ja schon erwähnt: Wenn ihr
+
+95
+00:03:05,222 --> 00:03:08,517
+den M-Code habt, erzielt ihr die besten
+
+96
+00:03:07,575 --> 00:03:10,870
+Ergebnisse mit diesem Modell, und genau
+
+97
+00:03:09,929 --> 00:03:12,988
+dafür nutze ich den Plus-Plan auch
+
+98
+00:03:12,047 --> 00:03:15,940
+für viele andere Dinge. Das ist also
+
+99
+00:03:14,997 --> 00:03:18,103
+einer der Hauptgründe, warum ich ihn
+
+100
+00:03:17,160 --> 00:03:20,665
+mit M-Code verwende. Ihr seht, dass ich
+
+101
+00:03:19,725 --> 00:03:22,697
+ihn auf maximale Schlussfolgerung
+
+102
+00:03:21,757 --> 00:03:24,908
+eingestellt habe, sogar mit nur 512K
+
+103
+00:03:23,968 --> 00:03:27,238
+Kontextfenster, aber man kann es auf 1
+
+104
+00:03:26,298 --> 00:03:29,629
+Million setzen, um es besser zu nutzen.
+
+105
+00:03:29,459 --> 00:03:32,437
+Seit ich es auf das Maximum eingestellt
+
+106
+00:03:31,488 --> 00:03:34,010
+habe, erziele ich unglaubliche
+
+107
+00:03:33,060 --> 00:03:35,988
+Ergebnisse, und es dauert gar nicht so
+
+108
+00:03:35,039 --> 00:03:37,764
+lange, diese Ausgaben zu erhalten,
+
+109
+00:03:36,815 --> 00:03:39,692
+obwohl ich angenommen hätte, dass es
+
+110
+00:03:38,742 --> 00:03:42,412
+Stunden dauern würde. Aber ihr könnt
+
+111
+00:03:41,449 --> 00:03:43,849
+dennoch sehen, dass man damit ziemlich
+
+112
+00:03:42,886 --> 00:03:45,691
+beeindruckende Ergebnisse erzielt. Eine
+
+113
+00:03:44,744 --> 00:03:47,648
+Sache, die man auch beachten sollte,
+
+114
+00:03:46,701 --> 00:03:49,499
+ist, dass ich 0%meines Kontingents
+
+115
+00:03:48,552 --> 00:03:51,715
+verbraucht habe. Das liegt daran, dass
+
+116
+00:03:50,763 --> 00:03:53,456
+dieses Modell für mich dank meines
+
+117
+00:03:52,505 --> 00:03:55,390
+Plans völlig kostenlos ist. Dieser
+
+118
+00:03:54,438 --> 00:03:57,033
+M-Code-Plan gewährt euch Zugriff
+
+119
+00:03:56,081 --> 00:03:58,830
+darauf. Das ist also einer der
+
+120
+00:03:57,873 --> 00:04:00,480
+Hauptgründe, warum ich es hervorheben
+
+121
+00:03:59,522 --> 00:04:02,970
+wollte. Falls ihr ihn nicht habt, ist
+
+122
+00:04:02,020 --> 00:04:04,970
+das auch völlig in Ordnung, da man ihn
+
+123
+00:04:04,020 --> 00:04:06,770
+meines Wissens nach auch im MiniMax
+
+124
+00:04:05,820 --> 00:04:08,620
+Cloud Chat komplett kostenlos nutzen
+
+125
+00:04:07,670 --> 00:04:10,692
+kann. Auf diese Weise erhaltet ihr
+
+126
+00:04:09,745 --> 00:04:12,744
+immer noch ein recht gutes Ratenlimit,
+
+127
+00:04:11,797 --> 00:04:14,375
+um kostenlos auf dieses Modell
+
+128
+00:04:13,427 --> 00:04:16,749
+zuzugreifen. Einer der größten
+
+129
+00:04:15,798 --> 00:04:18,462
+Mehrwerte dieses Modells ist seine
+
+130
+00:04:17,511 --> 00:04:20,475
+Geschwindigkeit und Effizienz. Dies ist
+
+131
+00:04:19,514 --> 00:04:21,937
+ein Flash-Modell, es ist also darauf
+
+132
+00:04:20,977 --> 00:04:23,519
+ausgelegt, unglaublich schnell zu sein.
+
+133
+00:04:22,800 --> 00:04:25,698
+Beeindruckend ist jedoch, dass es
+
+134
+00:04:24,755 --> 00:04:27,481
+dennoch qualitativ hochwertige
+
+135
+00:04:26,539 --> 00:04:30,221
+Ergebnisse liefern kann. Hier habe ich
+
+136
+00:04:29,281 --> 00:04:32,629
+den MiniMax-Code-Agenten selbst gebeten
+
+137
+00:04:31,629 --> 00:04:34,435
+, die M 3.1 Flash-Vorschau mit
+
+138
+00:04:33,495 --> 00:04:36,723
+maximaler Schlussfolgerung zu nutzen,
+
+139
+00:04:35,783 --> 00:04:38,890
+um ein ganzes Spiel im Call of Duty
+
+140
+00:04:37,950 --> 00:04:41,298
+Zombies-Stil von Grund auf zu erstellen
+
+141
+00:04:40,298 --> 00:04:43,339
+. Und die Ergebnisse sind unglaublich.
+
+142
+00:04:42,719 --> 00:04:45,512
+Es war nicht nur in der Lage, alles
+
+143
+00:04:44,563 --> 00:04:47,562
+extrem schnell zusammenzubauen, sondern
+
+144
+00:04:46,613 --> 00:04:49,612
+die Qualität ist regelrecht wahnsinnig
+
+145
+00:04:48,612 --> 00:04:51,611
+–ehrlich gesagt vergleichbar mit dem,
+
+146
+00:04:50,662 --> 00:04:53,974
+was ich von Opus gesehen habe. Lasst
+
+147
+00:04:53,009 --> 00:04:55,567
+uns das tatsächlich mal ansehen. Die
+
+148
+00:04:54,616 --> 00:04:57,393
+Qualität ist wirklich der Wahnsinn,
+
+149
+00:04:56,442 --> 00:05:00,057
+Leute. Das ist Runde Null, und hier
+
+150
+00:04:59,120 --> 00:05:02,469
+könnt ihr die Qualität der Texturen
+
+151
+00:05:01,532 --> 00:05:04,690
+und der 3 D-Umgebung sehen, die es
+
+152
+00:05:03,754 --> 00:05:07,039
+vollständig in 3GS aufbauen konnte.
+
+153
+00:05:06,703 --> 00:05:09,004
+Ihr habt verschiedene Räume, auf die
+
+154
+00:05:08,040 --> 00:05:10,176
+ihr zugreifen könnt. Es gibt
+
+155
+00:05:09,218 --> 00:05:12,338
+verschiedene Barrikaden. Es gibt sogar
+
+156
+00:05:11,377 --> 00:05:13,799
+Funktionen wie Pack-a-Punch, das sich
+
+157
+00:05:12,837 --> 00:05:15,987
+in diesem Raum befindet. Ich habe das
+
+158
+00:05:15,024 --> 00:05:17,330
+tatsächlich ein paar Mal gespielt,
+
+159
+00:05:16,367 --> 00:05:18,822
+weil es ziemlich viel Spaß gemacht hat
+
+160
+00:05:17,822 --> 00:05:21,484
+. Aber das hier ist einfach irre. Es
+
+161
+00:05:20,527 --> 00:05:23,065
+gibt sogar ein Kaufmenü, in dem man
+
+162
+00:05:22,108 --> 00:05:25,183
+verschiedene Dinge erwerben kann. Man
+
+163
+00:05:24,245 --> 00:05:28,019
+hat auch eine Lichtquelle. Man kann
+
+164
+00:05:27,064 --> 00:05:29,816
+sogar zwischen verschiedenen Waffen hin
+
+165
+00:05:28,816 --> 00:05:32,059
+-und herwechseln. Schauen wir uns das
+
+166
+00:05:31,091 --> 00:05:33,553
+mal an. Es wurde sogar ein toter Zombie
+
+167
+00:05:32,582 --> 00:05:35,545
+hinzugefügt, was ziemlich cool ist. Au
+
+168
+00:05:34,545 --> 00:05:37,893
+. Ich wurde schon ausgeschaltet. Das
+
+169
+00:05:36,937 --> 00:05:40,916
+ist unser erster Junge. Und wir können
+
+170
+00:05:39,986 --> 00:05:43,592
+sehen, dass alles so funktioniert wie
+
+171
+00:05:42,662 --> 00:05:46,465
+im Originalspiel. Man sieht, wie diese
+
+172
+00:05:45,521 --> 00:05:49,302
+Typen von draußen kommen. Sie können
+
+173
+00:05:48,349 --> 00:05:51,204
+die eigentliche Barrikade durchbrechen,
+
+174
+00:05:50,252 --> 00:05:53,060
+wie es dieser Kerl hier geschafft hat.
+
+175
+00:05:52,980 --> 00:05:55,847
+Wir können ihn ausschalten. Und dann
+
+176
+00:05:54,883 --> 00:05:57,002
+können wir diese anderen Typen
+
+177
+00:05:56,038 --> 00:05:59,190
+erledigen. Aber ich zeige euch noch ein
+
+178
+00:05:58,231 --> 00:06:00,793
+paar andere Dinge, denn ich habe sogar
+
+179
+00:05:59,834 --> 00:06:02,314
+mehrere Räume programmiert, was gut
+
+180
+00:06:01,355 --> 00:06:05,052
+ist. Also ist noch einer übrig. Lass
+
+181
+00:06:04,101 --> 00:06:06,775
+mich ihn mal suchen. Ich schalte mal
+
+182
+00:06:05,814 --> 00:06:08,689
+meine Taschenlampe ein. Ich weiß nicht
+
+183
+00:06:07,689 --> 00:06:10,240
+, ob wir hier rauskommen. Das ist der
+
+184
+00:06:09,285 --> 00:06:12,079
+Teil, der etwas abgefahren ist. Ich bin
+
+185
+00:06:11,119 --> 00:06:13,795
+außerhalb des Gebäudes. Man kann
+
+186
+00:06:12,829 --> 00:06:15,379
+nicht wirklich viel sehen. Aber
+
+187
+00:06:14,419 --> 00:06:16,739
+versuchen wir mal, diesen Kerl zu
+
+188
+00:06:15,779 --> 00:06:20,794
+finden. Wo bist du, Kumpel? Ich kann
+
+189
+00:06:19,824 --> 00:06:22,263
+ihn einfach nicht finden. Aber genau
+
+190
+00:06:21,303 --> 00:06:23,946
+davon spreche ich. Ja, Pack-a-Punch ist
+
+191
+00:06:22,988 --> 00:06:26,248
+hier. Man hält E gedrückt, kann es
+
+192
+00:06:25,303 --> 00:06:28,084
+kaufen und dann im Menü all die
+
+193
+00:06:27,140 --> 00:06:30,388
+anderen Dinge erwerben. Man kann auch
+
+194
+00:06:29,441 --> 00:06:32,955
+die Fenster reparieren. So kann man
+
+195
+00:06:32,018 --> 00:06:35,042
+sehen, wo sie sind. Um also
+
+196
+00:06:34,080 --> 00:06:36,454
+tatsächlich zu sehen, wo dieser Typ
+
+197
+00:06:35,492 --> 00:06:37,901
+ist. Einen Fehler kann man jedoch sehen
+
+198
+00:06:36,901 --> 00:06:39,433
+. Ich weiß nicht, warum es die Türen
+
+199
+00:06:38,472 --> 00:06:42,562
+blockiert. Das ist eine Sache. Aber es
+
+200
+00:06:41,620 --> 00:06:44,755
+ist für mich einfach verrückt, dass
+
+201
+00:06:43,813 --> 00:06:46,890
+dieses Modell so leistungsfähig ist
+
+202
+00:06:45,948 --> 00:06:49,199
+und eine solche Qualität liefern kann.
+
+203
+00:06:50,440 --> 00:06:53,445
+Ich sage nicht, dass es genau das ist,
+
+204
+00:06:52,498 --> 00:06:55,398
+was wir bei Opus gesehen haben, aber
+
+205
+00:06:54,451 --> 00:06:57,140
+die Gesamtqualität ist trotzdem
+
+206
+00:06:56,192 --> 00:06:59,862
+ziemlich gut. Es hat die meisten
+
+207
+00:06:58,921 --> 00:07:02,245
+Funktionen gut umgesetzt. Man hat die
+
+208
+00:07:01,302 --> 00:07:03,840
+tatsächliche Möglichkeit,
+
+209
+00:07:02,897 --> 00:07:05,947
+verschiedene Produkte zu kaufen, wie
+
+210
+00:07:05,004 --> 00:07:08,055
+zum Beispiel die verschiedenen Arten
+
+211
+00:07:07,112 --> 00:07:09,813
+von Waffen. Und dann gibt es die
+
+212
+00:07:08,858 --> 00:07:11,379
+Barrikaden, Zombies und natürlich
+
+213
+00:07:10,424 --> 00:07:13,248
+verschiedene Runden. Nun, ich weiß
+
+214
+00:07:12,281 --> 00:07:15,414
+nicht, wo dieser Typ steckt. Oh, da ist
+
+215
+00:07:14,503 --> 00:07:20,128
+er ja. Aber ja, ich zeige euch, dass
+
+216
+00:07:19,179 --> 00:07:22,180
+man sogar eine andere Waffe kaufen kann
+
+217
+00:07:21,180 --> 00:07:25,342
+, die ihre eigene Dynamik hat. Also
+
+218
+00:07:24,387 --> 00:07:27,120
+hast du die MPK, schau dir das mal an.
+
+219
+00:07:26,970 --> 00:07:30,499
+Man hat diesen Rückstoß. Man hat
+
+220
+00:07:29,543 --> 00:07:32,258
+diese Mündungsfeueranimation. Man
+
+221
+00:07:31,304 --> 00:07:33,976
+sieht sogar die Kugeln aus der Waffe
+
+222
+00:07:33,022 --> 00:07:35,833
+fliegen, was irgendwie der Wahnsinn ist
+
+223
+00:07:34,833 --> 00:07:38,593
+. Wenn man vor ein paar Jahren oder
+
+224
+00:07:37,642 --> 00:07:40,354
+Monaten gesagt hätte, dass das ein
+
+225
+00:07:39,403 --> 00:07:42,311
+Ergebnis eines Flash-Modells ist, wäre
+
+226
+00:07:41,360 --> 00:07:44,220
+man völlig aus dem Häuschen gewesen.
+
+227
+00:07:44,200 --> 00:07:47,736
+Und genau das sehen wir gerade. Es
+
+228
+00:07:46,785 --> 00:07:49,576
+sieht so aus, als ob jetzt Welle zwei
+
+229
+00:07:48,624 --> 00:07:51,513
+beginnt, also schauen wir mal, wie viel
+
+230
+00:07:50,561 --> 00:07:53,159
+Schaden wir bei dieser Welle hier
+
+231
+00:07:52,207 --> 00:07:55,471
+anrichten können. Okay, ich hänge
+
+232
+00:07:54,507 --> 00:07:57,428
+fest. Au, au, au, und ich bin gerade
+
+233
+00:07:56,482 --> 00:08:00,360
+gestorben. Wenn du die besten KI-Tools,
+
+234
+00:07:59,405 --> 00:08:01,867
+Workflows und Neuheiten vor allen
+
+235
+00:08:00,912 --> 00:08:03,330
+anderen willst, abonniere meinen
+
+236
+00:08:02,374 --> 00:08:05,014
+kostenlosen Newsletter über den Link
+
+237
+00:08:04,058 --> 00:08:06,787
+in der Beschreibung unten, der komplett
+
+238
+00:08:05,831 --> 00:08:10,066
+gratis ist. Jetzt ohne Scherz, das ist
+
+239
+00:08:09,145 --> 00:08:13,059
+eine Ausgabe von MiniMax M 3.1 Flash.
+
+240
+00:08:12,720 --> 00:08:15,619
+Das ist einfach unglaublich, weil ich
+
+241
+00:08:14,670 --> 00:08:17,569
+bisher noch kein Modell gesehen habe,
+
+242
+00:08:16,620 --> 00:08:19,520
+das diese Art von Detailgrad erzeugt.
+
+243
+00:08:18,999 --> 00:08:22,261
+Und hier hat es die Kopfhörer erstellt
+
+244
+00:08:21,261 --> 00:08:23,860
+. Es hat sogar ein Polster erstellt.
+
+245
+00:08:23,760 --> 00:08:26,969
+Der Detailgrad dieses Modells ist
+
+246
+00:08:26,036 --> 00:08:29,045
+einfach irre, vom eigentlichen
+
+247
+00:08:28,112 --> 00:08:31,657
+Farbschema bis hin zu den Texturen des
+
+248
+00:08:30,724 --> 00:08:35,649
+Metallbügels am Kopfhörer. Und nicht
+
+249
+00:08:34,693 --> 00:08:37,344
+nur das, Leute, es war natürlich auch
+
+250
+00:08:36,387 --> 00:08:38,994
+in der Lage, eine schöne Landingpage
+
+251
+00:08:38,038 --> 00:08:40,601
+dafür zu erstellen, was unglaublich
+
+252
+00:08:39,645 --> 00:08:43,647
+ist. Und ich zeige euch ein paar
+
+253
+00:08:42,718 --> 00:08:47,073
+Referenzbilder, die dabei waren. Es ist
+
+254
+00:08:46,118 --> 00:08:48,847
+ehrlich gesagt einfach verrückt, dass
+
+255
+00:08:47,893 --> 00:08:50,577
+es in der Lage war, diesen Detailgrad
+
+256
+00:08:49,622 --> 00:08:53,366
+mit dem Flash-Modell auszugeben. Es hat
+
+257
+00:08:52,417 --> 00:08:55,157
+zwar etwas länger gedauert, diese
+
+258
+00:08:54,208 --> 00:08:57,153
+Ausgabe mit Max Reasoning zu erhalten,
+
+259
+00:08:56,205 --> 00:08:59,099
+wo man die besten Ergebnisse bekommt.
+
+260
+00:08:58,840 --> 00:09:01,416
+Aber das ist etwas, von dem ich nie
+
+261
+00:09:00,461 --> 00:09:03,173
+erwartet hätte, dass ein Flash-Modell
+
+262
+00:09:02,218 --> 00:09:05,319
+es ausgeben könnte. Hier seht ihr
+
+263
+00:09:04,370 --> 00:09:06,997
+natürlich alle Details, wie die
+
+264
+00:09:06,048 --> 00:09:08,827
+vollständige Landingpage sowie ein
+
+265
+00:09:07,878 --> 00:09:10,607
+paar andere Dinge, die ihr auf der
+
+266
+00:09:09,658 --> 00:09:13,314
+ersten Seite gesehen habt. Hier ist
+
+267
+00:09:12,359 --> 00:09:14,201
+eine weitere solide
+
+268
+00:09:13,245 --> 00:09:15,842
+Frontend-Generierung dieses Modells,
+
+269
+00:09:14,886 --> 00:09:17,616
+aber diesmal hat es tatsächlich Scroll
+
+270
+00:09:16,660 --> 00:09:19,301
+World verwendet, ein Plugin innerhalb
+
+271
+00:09:18,345 --> 00:09:20,631
+des MiniMax-Agenten, das für
+
+272
+00:09:19,675 --> 00:09:22,050
+scrollgesteuerte Video-Websites
+
+273
+00:09:21,094 --> 00:09:24,661
+konzipiert ist. Hier wurde jedoch
+
+274
+00:09:23,721 --> 00:09:26,523
+verlangt, H3 zu verwenden, das
+
+275
+00:09:25,583 --> 00:09:28,746
+multimodale Videomodell von MiniMax,
+
+276
+00:09:27,806 --> 00:09:30,969
+und es wurde mit dem M 3.1 Flash von
+
+277
+00:09:30,029 --> 00:09:32,591
+MiniMax kombiniert, um die
+
+278
+00:09:31,651 --> 00:09:34,874
+Code-Interaktionen und Animationen zu
+
+279
+00:09:33,934 --> 00:09:36,676
+verarbeiten, damit sich alles
+
+280
+00:09:35,736 --> 00:09:38,719
+flüssiger und reaktionsschneller
+
+281
+00:09:37,779 --> 00:09:41,087
+anfühlt. Es ist einfach wahnsinnig,
+
+282
+00:09:40,143 --> 00:09:43,260
+dass es diese Assets verwendet hat und
+
+283
+00:09:42,316 --> 00:09:45,266
+diese spezifische Generierung dabei
+
+284
+00:09:44,321 --> 00:09:48,339
+herauskam. Hier ist unser berühmter
+
+285
+00:09:47,388 --> 00:09:50,242
+Nvidia-Landingpage-Prompt, bei dem wir
+
+286
+00:09:49,291 --> 00:09:51,949
+es anweisen, eine Landingpage für
+
+287
+00:09:50,998 --> 00:09:53,462
+Nvidias neueste Grafikkarte zu
+
+288
+00:09:52,511 --> 00:09:56,351
+erstellen. Und hier muss ich sagen,
+
+289
+00:09:55,412 --> 00:09:58,531
+dass es zwar schön, aber ein wenig
+
+290
+00:09:57,591 --> 00:10:01,665
+glanzlos ist. Normalerweise lassen wir
+
+291
+00:10:00,722 --> 00:10:03,884
+die meisten Modelle ein 3 D-Modell der
+
+292
+00:10:02,941 --> 00:10:06,046
+Grafikkarte erstellen, aber in diesem
+
+293
+00:10:05,103 --> 00:10:08,322
+Fall wurde nur ein 2 D-Modell generiert
+
+294
+00:10:07,322 --> 00:10:10,970
+. Es ist teilweise animiert. Die
+
+295
+00:10:10,014 --> 00:10:12,623
+Lüfter funktionieren, was natürlich
+
+296
+00:10:11,667 --> 00:10:14,603
+großartig ist. Und es wurde diese
+
+297
+00:10:13,647 --> 00:10:16,390
+Spiegelung hinzugefügt, was natürlich
+
+298
+00:10:15,434 --> 00:10:18,492
+ziemlich cool ist. Die Landingpage
+
+299
+00:10:17,552 --> 00:10:20,777
+bietet insgesamt viele tolle Effekte,
+
+300
+00:10:19,837 --> 00:10:23,182
+die Qualität der Front-End-Generierung
+
+301
+00:10:22,243 --> 00:10:25,468
+ist bei diesem speziellen Modell also
+
+302
+00:10:24,528 --> 00:10:27,402
+gut. Ich wollte eigentlich ein
+
+303
+00:10:26,463 --> 00:10:29,291
+spezifisches Ergebnis für die
+
+304
+00:10:28,352 --> 00:10:31,727
+Grafikkarte, aber abgesehen davon wirkt
+
+305
+00:10:30,788 --> 00:10:34,042
+die Landingpage ziemlich gelungen und
+
+306
+00:10:33,103 --> 00:10:35,930
+die Front-End-Qualität dieser
+
+307
+00:10:34,991 --> 00:10:39,235
+Generierungen ist wirklich gut. Das ist
+
+308
+00:10:38,292 --> 00:10:41,444
+eine wirklich schöne Landingpage, die
+
+309
+00:10:40,501 --> 00:10:43,484
+hier mit verschiedenen Typografien,
+
+310
+00:10:42,540 --> 00:10:45,240
+Bewegungen und Scroll-Triggern
+
+311
+00:10:44,297 --> 00:10:48,636
+zusammengestellt wurde. Man sieht bei
+
+312
+00:10:47,693 --> 00:10:50,677
+diesem Ergebnis, dass beim Scrollen
+
+313
+00:10:49,734 --> 00:10:52,775
+alles perfekt auf die Scroll-Trigger
+
+314
+00:10:51,831 --> 00:10:55,853
+abgestimmt ineinandergreift. Es wurden
+
+315
+00:10:54,899 --> 00:10:57,459
+verschiedene dynamische Bewegungen
+
+316
+00:10:56,505 --> 00:10:59,112
+sowie Texturen hinzugefügt, um das
+
+317
+00:10:58,158 --> 00:11:00,719
+Ganze lebendiger wirken zu lassen.
+
+318
+00:11:00,019 --> 00:11:03,267
+Alles wirkt sehr gut poliert, das ist
+
+319
+00:11:02,327 --> 00:11:05,473
+wirklich schön. Das sind kleine
+
+320
+00:11:04,539 --> 00:11:08,059
+qualitative Details, die man bei einem
+
+321
+00:11:07,125 --> 00:11:10,314
+Modell eigentlich nicht erwartet,
+
+322
+00:11:09,380 --> 00:11:12,436
+insgesamt also eine sehr solide
+
+323
+00:11:11,502 --> 00:11:15,556
+Generierung des M 3.1 Flash. Jetzt wird
+
+324
+00:11:14,614 --> 00:11:17,892
+es richtig interessant. Hier wurde das
+
+325
+00:11:16,953 --> 00:11:19,962
+MiniMax M 3.1 Flash mit maximalem
+
+326
+00:11:19,022 --> 00:11:22,092
+Reasoning gegen das GPT-6 Soul mit
+
+327
+00:11:21,153 --> 00:11:24,561
+maximalem Reasoning getestet. Die
+
+328
+00:11:23,628 --> 00:11:27,556
+Qualität ist einfach wahnsinnig. Die
+
+329
+00:11:26,608 --> 00:11:29,642
+Geschwindigkeit ist bei beiden Modellen
+
+330
+00:11:28,695 --> 00:11:31,677
+offensichtlich gut, da auch Soul recht
+
+331
+00:11:30,729 --> 00:11:33,607
+effizient ist, aber MiniMax war hier
+
+332
+00:11:32,659 --> 00:11:37,300
+sogar noch schneller fertig. Hier kann
+
+333
+00:11:36,347 --> 00:11:39,029
+man meiner Meinung nach sogar sagen,
+
+334
+00:11:38,076 --> 00:11:40,851
+dass es einen besseren Job gemacht hat
+
+335
+00:11:39,898 --> 00:11:43,568
+als das GPT-6-Modell. Das ist
+
+336
+00:11:42,632 --> 00:11:45,940
+natürlich Ansichtssache, aber beide
+
+337
+00:11:45,004 --> 00:11:48,439
+Ergebnisse sehen hervorragend aus, und
+
+338
+00:11:47,503 --> 00:11:50,811
+ich bin einfach erstaunt, dass das M
+
+339
+00:11:49,875 --> 00:11:53,374
+3.1 Flash solche Resultate liefern kann
+
+340
+00:11:52,374 --> 00:11:55,355
+. Bisher habe ich festgestellt, dass
+
+341
+00:11:54,398 --> 00:11:57,025
+dieses Modell weit über das Erwartete
+
+342
+00:11:56,068 --> 00:11:59,375
+hinausgeht. Auf dieser Landingpage habe
+
+343
+00:11:58,433 --> 00:12:01,567
+ich es angewiesen, eine SVG-Grafik zu
+
+344
+00:12:00,624 --> 00:12:03,412
+implementieren, und diese wurde
+
+345
+00:12:02,470 --> 00:12:05,200
+animiert, wobei viele Texturen
+
+346
+00:12:04,257 --> 00:12:07,333
+hinzugefügt wurden, um das SVG sehr
+
+347
+00:12:06,391 --> 00:12:09,894
+lebendig zu gestalten. Es sieht
+
+348
+00:12:08,948 --> 00:12:12,066
+wirklich aus wie ein Ergebnis von etwas
+
+349
+00:12:11,121 --> 00:12:13,696
+wie Sonic 5.5, aber es stammt
+
+350
+00:12:12,750 --> 00:12:17,059
+tatsächlich vom Flash-Modell. Und
+
+351
+00:12:16,119 --> 00:12:18,855
+denkt daran, Leute, all diese
+
+352
+00:12:17,915 --> 00:12:20,412
+Generierungen stammen vom
+
+353
+00:12:19,471 --> 00:12:22,746
+MiniMax-Client, der für mich momentan
+
+354
+00:12:21,806 --> 00:12:24,842
+komplett kostenlos ist, da ich den
+
+355
+00:12:23,902 --> 00:12:28,755
+Pro-Plan nutze. Und das ist ein
+
+356
+00:12:27,801 --> 00:12:30,517
+Detailgrad, den ich so nicht erwartet
+
+357
+00:12:29,564 --> 00:12:32,279
+hatte, da es nicht nur die SVG-Grafik
+
+358
+00:12:31,326 --> 00:12:34,134
+programmieren, sondern auch viele coole
+
+359
+00:12:33,181 --> 00:12:35,896
+Funktionen auf der Landingpage selbst
+
+360
+00:12:34,943 --> 00:12:37,612
+implementieren konnte, was das Ganze
+
+361
+00:12:36,658 --> 00:12:40,741
+deutlich aufwertet. Dies ist eine
+
+362
+00:12:39,799 --> 00:12:42,799
+Pagode, die als Voxel-Art generiert
+
+363
+00:12:41,856 --> 00:12:45,027
+wurde, und man kann hier die Qualität
+
+364
+00:12:44,084 --> 00:12:47,282
+erkennen. Hier hat es offensichtlich
+
+365
+00:12:46,333 --> 00:12:49,268
+die Atmosphäre und viele der Elemente
+
+366
+00:12:48,319 --> 00:12:50,948
+hinzugefügt, die wir in unseren
+
+367
+00:12:49,999 --> 00:12:53,582
+Modell-Releases sehen. Dass diese
+
+368
+00:12:52,632 --> 00:12:55,439
+Flash-Variante tatsächlich so etwas
+
+369
+00:12:54,490 --> 00:12:56,845
+ausgeben kann, ist wirklich
+
+370
+00:12:55,896 --> 00:12:59,426
+beeindruckend. Man kann die
+
+371
+00:12:58,481 --> 00:13:01,539
+Kirschblüten sehen, den See oder den
+
+372
+00:13:00,595 --> 00:13:03,597
+Teich und ein paar weitere Elemente,
+
+373
+00:13:02,652 --> 00:13:05,599
+die mit dieser spezifischen Ausgabe
+
+374
+00:13:04,654 --> 00:13:07,659
+generiert wurden. Ich bin also wirklich
+
+375
+00:13:06,696 --> 00:13:08,996
+begeistert von der Ausgabequalität
+
+376
+00:13:08,033 --> 00:13:10,840
+dieses speziellen Modells. Und hier ist
+
+377
+00:13:09,880 --> 00:13:12,320
+eine weitere Demo und ein Vergleich.
+
+378
+00:13:11,619 --> 00:13:14,031
+Die Anweisung war, eine
+
+379
+00:13:13,092 --> 00:13:16,364
+SVG-Illustration von Super Mario beim
+
+380
+00:13:15,425 --> 00:13:18,697
+Kaffeetrinken mit Peach zu erstellen,
+
+381
+00:13:17,758 --> 00:13:21,153
+und das ist es, was GPT-6 Pro generiert
+
+382
+00:13:20,214 --> 00:13:23,360
+hat. Offensichtlich ist es viel besser,
+
+383
+00:13:22,407 --> 00:13:24,913
+und der Detailgrad ist definitiv
+
+384
+00:13:23,961 --> 00:13:26,978
+wahnsinnig. Aber schauen Sie sich an,
+
+385
+00:13:26,032 --> 00:13:29,099
+was MiniMax M 3.1 Flash generiert hat.
+
+386
+00:13:28,520 --> 00:13:31,556
+Das ist ein Modell, das erstaunlich gut
+
+387
+00:13:30,608 --> 00:13:33,244
+mithält. Natürlich nicht auf
+
+388
+00:13:32,285 --> 00:13:34,730
+demselben Niveau, aber es generiert
+
+389
+00:13:33,771 --> 00:13:36,381
+eine ziemlich detaillierte und stimmige
+
+390
+00:13:35,422 --> 00:13:37,949
+Szene, besonders für ein Modell, das
+
+391
+00:13:36,991 --> 00:13:39,600
+stark auf Geschwindigkeit und Effizienz
+
+392
+00:13:38,642 --> 00:13:41,961
+ausgelegt ist. Ich sage nicht, dass es
+
+393
+00:13:41,011 --> 00:13:43,946
+GPT-6 Soul bei diesem einen Test direkt
+
+394
+00:13:42,996 --> 00:13:45,832
+schlägt, aber die Tatsache, dass ein
+
+395
+00:13:44,882 --> 00:13:47,817
+Flash-Modell so etwas produzieren kann,
+
+396
+00:13:46,867 --> 00:13:49,554
+ist wirklich wettbewerbsfähig und
+
+397
+00:13:48,604 --> 00:13:52,579
+beeindruckend. Es ist nun schon eine
+
+398
+00:13:51,634 --> 00:13:54,568
+Weile her, seit wir den Mac OS-Test
+
+399
+00:13:53,623 --> 00:13:56,778
+behandelt haben, und lassen Sie uns ihn
+
+400
+00:13:55,833 --> 00:13:58,601
+tatsächlich mit dem M 3.1 Flash
+
+401
+00:13:57,656 --> 00:14:00,755
+durchführen, da dies eine großartige
+
+402
+00:13:59,811 --> 00:14:02,468
+Möglichkeit ist, ein besseres
+
+403
+00:14:01,523 --> 00:14:04,512
+Verständnis dafür zu bekommen, wie
+
+404
+00:14:03,567 --> 00:14:06,280
+weit diese Modelle in Bezug auf
+
+405
+00:14:05,335 --> 00:14:08,380
+Leistung und Qualität gekommen sind.
+
+406
+00:14:08,720 --> 00:14:11,616
+Hier sieht es so aus, als hätte es
+
+407
+00:14:10,670 --> 00:14:13,241
+alle einzelnen Symbole in SVG
+
+408
+00:14:12,295 --> 00:14:15,883
+programmiert. Das einzige Problem, das
+
+409
+00:14:14,929 --> 00:14:17,380
+ich habe, ist, dass es nicht so
+
+410
+00:14:16,427 --> 00:14:18,971
+intuitiv ist wie das, was wir bei
+
+411
+00:14:18,018 --> 00:14:20,515
+anderen modernen Spitzenmodellen
+
+412
+00:14:19,562 --> 00:14:21,919
+gesehen haben, aber für eine
+
+413
+00:14:20,966 --> 00:14:23,557
+Flash-Variante immer noch ziemlich
+
+414
+00:14:22,604 --> 00:14:25,657
+ordentlich. Abgesehen davon scheint
+
+415
+00:14:24,709 --> 00:14:27,114
+alles andere interaktiv und
+
+416
+00:14:26,166 --> 00:14:29,537
+vollständig zu sein. Die obere Leiste
+
+417
+00:14:28,592 --> 00:14:31,963
+funktioniert wie sie soll. Sogar für
+
+418
+00:14:31,000 --> 00:14:33,418
+den Akku gibt es einen Energiesparmodus
+
+419
+00:14:32,418 --> 00:14:34,836
+, den man aktivieren kann, was ziemlich
+
+420
+00:14:33,872 --> 00:14:36,931
+cool ist. Sie haben WLAN, Sie haben die
+
+421
+00:14:35,975 --> 00:14:38,530
+Tonausgabe, mit der Sie herumspielen
+
+422
+00:14:37,573 --> 00:14:40,633
+können. Sie haben natürlich noch ein
+
+423
+00:14:39,678 --> 00:14:41,837
+paar andere Dinge, wie das
+
+424
+00:14:40,882 --> 00:14:43,577
+Benachrichtigungsfeld, das Sie öffnen
+
+425
+00:14:42,622 --> 00:14:45,102
+können. Aber jetzt lassen Sie uns
+
+426
+00:14:44,136 --> 00:14:46,404
+einen Blick auf ein paar andere Dinge
+
+427
+00:14:45,439 --> 00:14:47,981
+werfen. Sie können den Hintergrund
+
+428
+00:14:47,026 --> 00:14:49,839
+ändern, was schön ist. Sie haben die
+
+429
+00:14:48,879 --> 00:14:51,199
+Möglichkeit, die Akzentfarben zu
+
+430
+00:14:50,239 --> 00:14:52,799
+ändern, was tatsächlich funktioniert.
+
+431
+00:14:52,239 --> 00:14:55,250
+Und wenn man die Ergebnisse von so
+
+432
+00:14:54,309 --> 00:14:57,498
+etwas wie M 2.7 vergleicht, sieht man
+
+433
+00:14:56,557 --> 00:14:59,628
+eine drastische Veränderung in der
+
+434
+00:14:58,687 --> 00:15:02,414
+Qualität. Hier liefert das
+
+435
+00:15:01,471 --> 00:15:04,358
+Flash-Modell jetzt Ergebnisse wie
+
+436
+00:15:03,415 --> 00:15:06,588
+Sonnet oder Opus auf höchstem Niveau,
+
+437
+00:15:05,645 --> 00:15:08,361
+nur dass wir das jetzt bei der
+
+438
+00:15:07,418 --> 00:15:11,018
+Flash-Variante sehen. Du hast die
+
+439
+00:15:10,059 --> 00:15:12,692
+Möglichkeit, Spotlight zu öffnen. Ich
+
+440
+00:15:11,726 --> 00:15:13,964
+glaube, das kannst du sogar auch von
+
+441
+00:15:12,998 --> 00:15:15,690
+hier aus machen. All diese Apps
+
+442
+00:15:14,734 --> 00:15:17,389
+scheinen so zu funktionieren, wie sie
+
+443
+00:15:16,434 --> 00:15:19,587
+sollten, was ziemlich gut ist. Du hast
+
+444
+00:15:18,636 --> 00:15:21,471
+sogar eine Videocall-Funktion, glaube
+
+445
+00:15:20,520 --> 00:15:22,701
+ich. Ich glaube nicht, dass ich sie
+
+446
+00:15:21,724 --> 00:15:24,614
+öffnen kann. Oh, ja. Man kann
+
+447
+00:15:23,653 --> 00:15:26,152
+tatsächlich Leute anrufen und es gibt
+
+448
+00:15:25,191 --> 00:15:28,103
+diese Benachrichtigung. Du hast eine
+
+449
+00:15:27,155 --> 00:15:29,868
+echte Musik-App, die ziemlich gut
+
+450
+00:15:28,920 --> 00:15:31,893
+programmiert wurde und Musik abspielt,
+
+451
+00:15:30,945 --> 00:15:34,277
+was echt cool ist. Die Podcast-App, du
+
+452
+00:15:33,335 --> 00:15:37,133
+hast sogar den App Store. Wenn du etwas
+
+453
+00:15:36,171 --> 00:15:38,461
+kaufen oder darauf klicken willst,
+
+454
+00:15:37,499 --> 00:15:39,979
+lässt es dich das kaufen, was ziemlich
+
+455
+00:15:39,017 --> 00:15:43,103
+cool ist. Du hast Spiele, bei denen ich
+
+456
+00:15:42,159 --> 00:15:45,538
+nicht weiß, was das ist. Oh, es ist
+
+457
+00:15:44,606 --> 00:15:47,955
+Tic-Tac-Toe. Und du hast das Terminal,
+
+458
+00:15:46,991 --> 00:15:48,944
+den Taschenrechner und die
+
+459
+00:15:47,981 --> 00:15:50,336
+Aktivitätsanzeige, was ziemlich cool
+
+460
+00:15:49,373 --> 00:15:53,150
+ist. Und dann Freeform. Aber lass uns
+
+461
+00:15:52,193 --> 00:15:54,806
+mal einen Blick auf den Minecraft-Klon
+
+462
+00:15:53,848 --> 00:15:57,434
+werfen, den es generiert hat. Das ist
+
+463
+00:15:56,485 --> 00:15:59,460
+eigentlich ziemlich cool, weil es einen
+
+464
+00:15:58,510 --> 00:16:01,232
+Minecraft-Klon komplett in unseren
+
+465
+00:16:00,283 --> 00:16:04,389
+macOS-Klon integriert hat. Und das ist
+
+466
+00:16:03,444 --> 00:16:06,219
+irgendwie verrückt, weil dieses
+
+467
+00:16:05,274 --> 00:16:08,270
+Flash-Modell das ausgegeben hat, was
+
+468
+00:16:07,326 --> 00:16:10,378
+sogar besser ist als das, was wir bei
+
+469
+00:16:09,433 --> 00:16:13,181
+Gemini 3.8 gesehen haben. Du hast sogar
+
+470
+00:16:12,226 --> 00:16:14,971
+die Möglichkeit, Lichter zu platzieren
+
+471
+00:16:13,971 --> 00:16:16,536
+, was wir bei den anderen Varianten
+
+472
+00:16:15,581 --> 00:16:19,095
+noch gar nicht gesehen haben. Du hast
+
+473
+00:16:18,134 --> 00:16:20,392
+sogar diese Abbau-Animation, was
+
+474
+00:16:19,432 --> 00:16:21,865
+ziemlich cool ist. Du kannst
+
+475
+00:16:20,899 --> 00:16:22,715
+verschiedene Blöcke mit
+
+476
+00:16:21,749 --> 00:16:24,040
+unterschiedlichen Texturen platzieren.
+
+477
+00:16:23,219 --> 00:16:25,692
+Du kannst sogar verschiedene Dinge
+
+478
+00:16:24,735 --> 00:16:27,704
+herstellen, was nett ist. Das ist also
+
+479
+00:16:26,744 --> 00:16:29,038
+schon etwas, das wir bei anderen
+
+480
+00:16:28,079 --> 00:16:30,655
+Modellen so noch nicht wirklich gesehen
+
+481
+00:16:29,696 --> 00:16:32,582
+haben. Das ist also der Detailgrad, von
+
+482
+00:16:31,629 --> 00:16:34,367
+dem ich nie erwartet hätte, dass das
+
+483
+00:16:33,414 --> 00:16:36,199
+Flash-Modell ihn tatsächlich liefert.
+
+484
+00:16:37,760 --> 00:16:40,892
+Für einen weiteren Test wurde verlangt
+
+485
+00:16:39,892 --> 00:16:42,971
+, eine Insel im Voxel-Stil mit Palmen,
+
+486
+00:16:42,025 --> 00:16:45,049
+Hühnern, Hütten und einer Küste zu
+
+487
+00:16:44,103 --> 00:16:46,525
+bauen, alles innerhalb des
+
+488
+00:16:45,580 --> 00:16:49,292
+Minimax-Codes ohne externe Assets. Und
+
+489
+00:16:48,343 --> 00:16:51,281
+das war keine Einmal-Generierung, aber
+
+490
+00:16:50,332 --> 00:16:53,168
+nach ein paar Iterationen hat es den
+
+491
+00:16:52,219 --> 00:16:55,057
+Voxel-Stil perfekt getroffen. Es
+
+492
+00:16:54,107 --> 00:16:56,888
+enthielt alles, was gefordert wurde,
+
+493
+00:16:55,937 --> 00:16:58,718
+und fügte sogar von sich aus einige
+
+494
+00:16:57,767 --> 00:17:00,499
+zusätzliche Details hinzu, die die
+
+495
+00:16:59,548 --> 00:17:02,927
+Umgebung kompletter wirken ließen. Wir
+
+496
+00:17:01,983 --> 00:17:04,888
+kommen also an einen Punkt, an dem
+
+497
+00:17:03,944 --> 00:17:07,130
+diese Flash-Modelle tatsächlich diesen
+
+498
+00:17:06,187 --> 00:17:09,316
+Detailgrad liefern, den man eigentlich
+
+499
+00:17:08,373 --> 00:17:11,559
+von einer Pro-Variante erwarten würde.
+
+500
+00:17:11,739 --> 00:17:14,671
+Hier in 3 GS konnte es aus einer
+
+501
+00:17:13,732 --> 00:17:16,664
+einzigen Aufforderung heraus ein
+
+502
+00:17:15,725 --> 00:17:19,020
+komplettes 3 D-Dorfgelände erstellen.
+
+503
+00:17:18,560 --> 00:17:21,251
+Und ehrlich gesagt, das Verrückteste
+
+504
+00:17:20,296 --> 00:17:22,942
+ist, dass es nur 40 Minuten gedauert
+
+505
+00:17:21,987 --> 00:17:24,679
+hat, dies auszugeben, während es 0 $
+
+506
+00:17:23,724 --> 00:17:27,054
+gekostet hat. Und bedenken Sie, dies
+
+507
+00:17:26,094 --> 00:17:28,519
+ist immer noch das Vorschau-Modell.
+
+508
+00:17:27,999 --> 00:17:30,763
+Wenn MiniMax es vor der endgültigen
+
+509
+00:17:29,812 --> 00:17:32,234
+Veröffentlichung noch weiter
+
+510
+00:17:31,283 --> 00:17:34,146
+verbessern kann, stellen Sie sich vor,
+
+511
+00:17:33,195 --> 00:17:36,107
+wie beeindruckend das MiniMax 3.1 Flash
+
+512
+00:17:35,156 --> 00:17:38,349
+am Ende sein wird. Das Flash-Modell,
+
+513
+00:17:37,398 --> 00:17:40,285
+Leute, das ist etwas, das ich wirklich
+
+514
+00:17:39,335 --> 00:17:43,592
+immer wieder betonen möchte. Hier ist
+
+515
+00:17:42,654 --> 00:17:46,056
+nun ein weiterer Vergleich, bei dem die
+
+516
+00:17:45,118 --> 00:17:48,520
+M 3.1 Flash-Vorschau im Max-Modus gegen
+
+517
+00:17:47,582 --> 00:17:50,984
+Fable 5.1, aber mit mittlerem Reasoning
+
+518
+00:17:49,984 --> 00:17:53,450
+, antrat. MiniMax ist definitiv
+
+519
+00:17:52,516 --> 00:17:55,998
+unglaublich schnell, braucht etwa eine
+
+520
+00:17:55,063 --> 00:17:58,611
+Stunde und erreicht über 150 Token pro
+
+521
+00:17:57,676 --> 00:18:00,978
+Sekunde. Wogegen es bei Fable fast 2
+
+522
+00:18:00,022 --> 00:18:02,487
+Stunden dauerte, um diese Art von
+
+523
+00:18:01,532 --> 00:18:04,722
+Ausgabe zu erhalten. Nun, die
+
+524
+00:18:03,780 --> 00:18:06,922
+Gesamtqualität von MiniMax war nicht
+
+525
+00:18:05,980 --> 00:18:09,122
+ganz so stark, aber denken Sie daran,
+
+526
+00:18:08,180 --> 00:18:11,149
+dies ist ein Flash-Modell, und ich
+
+527
+00:18:10,207 --> 00:18:12,944
+denke, interessanter wäre der
+
+528
+00:18:12,001 --> 00:18:15,260
+Vergleich mit etwas wie GPT-6 Luna Max.
+
+529
+00:18:15,260 --> 00:18:17,962
+Und da kann man wahrscheinlich
+
+530
+00:18:17,019 --> 00:18:20,233
+vergleichbare Ergebnisse erzielen, aber
+
+531
+00:18:19,289 --> 00:18:21,822
+man sieht, dass Fable etwas
+
+532
+00:18:20,878 --> 00:18:23,979
+ausgefeilter ist als das M 3.1 Flash.
+
+533
+00:18:23,400 --> 00:18:26,611
+Aber ungeachtet dessen lieferte M 3.1
+
+534
+00:18:25,671 --> 00:18:28,525
+Flash ein ziemlich ordentliches
+
+535
+00:18:27,584 --> 00:18:30,818
+Ergebnis und das kostenlos. Es ist
+
+536
+00:18:29,868 --> 00:18:32,663
+definitiv mit Fable vergleichbar, da
+
+537
+00:18:31,713 --> 00:18:34,559
+die Ergebnisse wirklich gut aussehen.
+
+538
+00:18:33,700 --> 00:18:36,351
+Nur der Feinschliff ist nicht auf dem
+
+539
+00:18:35,396 --> 00:18:38,092
+gleichen Niveau wie bei den modernsten
+
+540
+00:18:37,137 --> 00:18:40,499
+Modellen. Aber wenn wir in Zukunft eine
+
+541
+00:18:39,549 --> 00:18:42,237
+Pro-Version für die 3.1-Serie von
+
+542
+00:18:41,287 --> 00:18:44,026
+MiniMax bekommen, wird das wirklich
+
+543
+00:18:43,075 --> 00:18:45,565
+alles in den Schatten stellen,
+
+544
+00:18:44,615 --> 00:18:47,552
+besonders wenn es diese Geschwindigkeit
+
+545
+00:18:46,602 --> 00:18:49,241
+beibehalten kann und gleichzeitig
+
+546
+00:18:48,291 --> 00:18:51,128
+offensichtlich näher an die Leistung
+
+547
+00:18:50,178 --> 00:18:53,477
+auf Grenz-Niveau heranreicht. Wenn
+
+548
+00:18:52,522 --> 00:18:55,257
+Ihnen dieses Video gefällt und Sie den
+
+549
+00:18:54,302 --> 00:18:56,948
+Kanal unterstützen möchten, können
+
+550
+00:18:55,992 --> 00:18:58,594
+Sie eine Spende über die Option „
+
+551
+00:18:57,594 --> 00:19:00,063
+Super Thanks“ unten in Betracht
+
+552
+00:18:59,107 --> 00:19:02,029
+ziehen. Oder Sie können unserem
+
+553
+00:19:01,085 --> 00:19:03,997
+privaten Discord beitreten, wo Sie
+
+554
+00:19:03,053 --> 00:19:05,908
+monatlich kostenlosen Zugriff auf
+
+555
+00:19:04,964 --> 00:19:07,820
+mehrere Abonnements verschiedener
+
+556
+00:19:06,876 --> 00:19:10,069
+KI-Tools sowie tägliche KI-Nachrichten
+
+557
+00:19:09,069 --> 00:19:12,036
+, exklusive Inhalte und vieles mehr
+
+558
+00:19:11,093 --> 00:19:15,211
+erhalten. Insgesamt ist meine Meinung
+
+559
+00:19:14,265 --> 00:19:17,335
+zur MiniMax M 3.1 Flash-Vorschau, dass
+
+560
+00:19:16,390 --> 00:19:19,406
+dies ein ernsthaft vielversprechendes
+
+561
+00:19:18,460 --> 00:19:21,367
+Modell ist, besonders wenn man sich
+
+562
+00:19:20,422 --> 00:19:23,722
+ansieht, wozu es in der Lage ist. Es
+
+563
+00:19:22,763 --> 00:19:25,043
+versucht nicht unbedingt, jedes
+
+564
+00:19:24,084 --> 00:19:26,569
+Spitzenmodell in Bezug auf die reine
+
+565
+00:19:25,611 --> 00:19:28,760
+Qualität zu schlagen. Seine größten
+
+566
+00:19:27,810 --> 00:19:30,331
+Stärken sind Geschwindigkeit,
+
+567
+00:19:29,382 --> 00:19:32,359
+Effizienz und dass es gut genug ist, um
+
+568
+00:19:31,409 --> 00:19:34,183
+eine riesige Menge an alltäglicher
+
+569
+00:19:33,234 --> 00:19:35,552
+Arbeit zu bewältigen, von
+
+570
+00:19:34,603 --> 00:19:36,920
+Programmierung, dem Testen
+
+571
+00:19:35,971 --> 00:19:38,847
+verschiedener Arten von Unit-Tests, 3
+
+572
+00:19:37,897 --> 00:19:40,519
+D-Umgebungen, Spielen, Websites,
+
+573
+00:19:39,570 --> 00:19:42,586
+einfach alles. Es ist etwas, das in
+
+574
+00:19:41,639 --> 00:19:44,612
+meinen persönlichen Tests beständig
+
+575
+00:19:43,666 --> 00:19:46,639
+solide Ergebnisse liefert, und es ist
+
+576
+00:19:45,692 --> 00:19:48,944
+ziemlich schnell. Und denken Sie daran,
+
+577
+00:19:47,989 --> 00:19:50,766
+dies ist nur die Vorschau. Minimax
+
+578
+00:19:49,818 --> 00:19:52,857
+arbeitet aktiv an der Weiterentwicklung
+
+579
+00:19:51,857 --> 00:19:54,688
+, daher wird es noch besser werden,
+
+580
+00:19:53,740 --> 00:19:56,675
+sobald sie das offizielle M 3.1 Flash
+
+581
+00:19:55,727 --> 00:19:58,348
+veröffentlichen, und ich werde
+
+582
+00:19:57,400 --> 00:20:00,440
+definitiv in Zukunft ein weiteres Video
+
+583
+00:19:59,492 --> 00:20:02,661
+dazu machen. Aber wenn ihr im Moment
+
+584
+00:20:01,724 --> 00:20:04,980
+Minimax M-Code habt, solltet ihr das
+
+585
+00:20:04,042 --> 00:20:07,486
+Beste daraus machen, denn dieses Modell
+
+586
+00:20:06,549 --> 00:20:09,805
+ist aktuell in diesem Plan kostenlos
+
+587
+00:20:08,868 --> 00:20:11,671
+enthalten. Also fordert das Modell
+
+588
+00:20:10,714 --> 00:20:13,311
+heraus, baut etwas Ambitioniertes und
+
+589
+00:20:12,354 --> 00:20:14,865
+seht, was es wirklich leisten kann,
+
+590
+00:20:13,908 --> 00:20:16,591
+denn ihr könnt derzeit experimentieren
+
+591
+00:20:15,591 --> 00:20:18,058
+, ohne euch Sorgen zu machen, eure
+
+592
+00:20:17,102 --> 00:20:20,918
+normalen Credits aufzubrauchen. Es
+
+593
+00:20:19,977 --> 00:20:23,053
+entstehen dabei keine zusätzlichen
+
+594
+00:20:22,113 --> 00:20:25,070
+Kosten, und es gibt absolut keine
+
+595
+00:20:24,129 --> 00:20:27,814
+Nachteile dabei. Ich werde auf jeden
+
+596
+00:20:26,851 --> 00:20:29,168
+Fall alle Links, die ich im heutigen
+
+597
+00:20:28,205 --> 00:20:30,230
+Video verwende, unten in die
+
+598
+00:20:29,266 --> 00:20:31,717
+Beschreibung setzen. Ihr könnt es
+
+599
+00:20:30,765 --> 00:20:33,335
+über die Cloud oder über M-Code
+
+600
+00:20:32,383 --> 00:20:35,239
+nutzen, was ihr auch lokal installieren
+
+601
+00:20:34,286 --> 00:20:36,997
+könnt. Aber mit diesem Gedanken, Leute
+
+602
+00:20:35,997 --> 00:20:38,313
+, vielen Dank fürs Zuschauen. Ein
+
+603
+00:20:37,350 --> 00:20:39,520
+großes Lob an Minimax für die
+
+604
+00:20:38,558 --> 00:20:40,539
+Entwicklung eines weiteren
+
+605
+00:20:39,577 --> 00:20:41,558
+unglaublichen Modells, das
+
+606
+00:20:40,595 --> 00:20:43,067
+offensichtlich sogar in der Flash-Stufe
+
+607
+00:20:42,104 --> 00:20:44,614
+überzeugt. Falls ihr es noch nicht
+
+608
+00:20:43,647 --> 00:20:45,960
+getan habt, werft unbedingt einen Blick
+
+609
+00:20:44,994 --> 00:20:47,240
+auf die World of AI School-Community.
+
+610
+00:20:46,539 --> 00:20:49,164
+Schaut euch den World of AI-Benchmark
+
+611
+00:20:48,208 --> 00:20:50,659
+und die Vibe-Coding-Plattform an.
+
+612
+00:20:50,000 --> 00:20:52,155
+Besucht unseren zweiten Kanal,
+
+613
+00:20:51,194 --> 00:20:53,543
+abonniert den Newsletter, kommt auf
+
+614
+00:20:52,581 --> 00:20:54,853
+unseren Discord und folgt mir auf
+
+615
+00:20:53,891 --> 00:20:56,482
+Twitter. Und zu guter Letzt: Abonniert
+
+616
+00:20:55,515 --> 00:20:57,753
+den Kanal, aktiviert die Glocke, gebt
+
+617
+00:20:56,787 --> 00:20:58,991
+dem Video einen Daumen nach oben und
+
+618
+00:20:58,025 --> 00:21:00,329
+schaut euch unsere früheren Videos an,
+
+619
+00:20:59,363 --> 00:21:01,233
+damit ihr bei den neuesten
+
+620
+00:21:00,266 --> 00:21:02,571
+KI-Nachrichten auf dem Laufenden bleibt
+
+621
+00:21:01,571 --> 00:21:03,901
+. Aber mit diesem Gedanken, Leute, habt
+
+622
+00:21:02,933 --> 00:21:05,093
+einen wunderbaren Tag. Verbreitet
+
+623
+00:21:04,128 --> 00:21:06,382
+Positivität und wir sehen uns schon
+
+624
+00:21:05,416 --> 00:21:07,828
+sehr bald wieder. Macht’s gut, Leute.

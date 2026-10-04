@@ -1,0 +1,624 @@
+Nach einer so hektischen Woche finde
+ich endlich etwas Zeit, um dieses
+unglaubliche und völlig unterschätzte
+Modell unter die Lupe zu nehmen, von
+dem meiner Meinung nach nicht genug
+Leute wissen. Darf ich vorstellen:
+MiniMax M 3.1 Flash Preview. Das
+neueste Textmodell von MiniMax, das
+offiziell auf MiniMax Code gestartet
+ist. Und wenn man bedenkt, dass dies
+ein Flash-Modell ist, muss ich sagen,
+dass die Geschwindigkeit und Qualität
+wirklich beeindruckend sind. Deshalb
+mache ich jetzt ein eigenes Video
+darüber. Was es noch interessanter
+macht, ist, dass dies nicht einmal die
+finale Version ist. Es befindet sich
+derzeit in der Vorschau, was bedeutet,
+dass MiniMax noch intensiv daran
+arbeitet. Es besteht also eine gute
+Chance, dass es von hier an noch besser
+wird. MiniMax beschreibt M 3.1 Flash
+als sein tägliches Arbeitstier-Modell,
+das speziell für hochfrequente
+Arbeitslasten entwickelt wurde und
+gleichzeitig starke Fähigkeiten mit
+Effizienz in Einklang bringt. Es ist
+außerdem multimodal und richtet sich
+an Entwickler, Fachleute und Kreative
+in den Bereichen Programmierung,
+Forschung, Analyse und kreative Arbeit.
+MiniMax hat es speziell für die
+tägliche Entwicklung positioniert:
+schnell, zuverlässig und fähig, alles
+von schnellen Fehlerbehebungen bis hin
+zur Erstellung kompletter Funktionen zu
+bewältigen. Ich bin ehrlich: Da es
+sich noch um ein Vorschaumodell handelt
+, wissen wir noch nicht alles darüber.
+Wir kennen die vollständigen
+Benchmark-Ergebnisse des Modells oder
+die tieferen technischen Details, aus
+denen M 3.1 Flash besteht, noch nicht.
+Ich gehe davon aus, dass viele dieser
+Informationen mit der offiziellen
+Veröffentlichung des Modells bekannt
+gegeben werden. Aber MiniMax bietet den
+Leuten gerade eine ziemlich verrückte
+Gelegenheit, es auszuprobieren, was ein
+weiterer Grund ist, warum ich darüber
+berichten wollte. Ursprünglich
+kündigten sie zwei zeitlich begrenzte
+Vorteile für MiniMax Code vom 28.
+September bis zum 7. Oktober an, bei
+denen Nutzer durch tägliche Logins
+doppelte kostenlose Credits verdienen
+konnten. Und MiniMax hat außerdem die
+Token-Kontingente zurückgesetzt, als
+MiniMax M 3.1 Flash Preview startete.
+Aber dann gingen sie noch einen Schritt
+weiter. Vor ein paar Tagen kündigte
+MiniMax an, dass zur Feier des
+chinesischen Nationalfeiertags MiniMax
+M 3.1 Flash Preview für Abonnenten auf
+MiniMax Code bis zum 7. Oktober
+komplett kostenlos ist–ein echtes
+Schnäppchen. Und laut MiniMax gibt es
+keinen Credit-Verbrauch und keine
+Limits. Wenn du also bereits Zugriff
+auf MiniMax Code hast, ist das wirklich
+ein Schnäppchen, denn du bekommst die
+Möglichkeit, M 3.1 Flash Preview so
+intensiv zu nutzen, wie du möchtest,
+ohne dir Sorgen um deine Credits machen
+zu müssen. Und genau das wollte ich
+tun. Ich habe einige Zeit damit
+verbracht, dieses Modell zu testen, um
+zu sehen, wie sich Geschwindigkeit und
+Qualität in realen Tests schlagen, und
+habe seine Ergebnisse mit einigen der
+viel größeren, derzeit verfügbaren
+Modelle verglichen. Lassen Sie uns also
+direkt in den Test einsteigen und sehen
+, wie gut dieses Modell tatsächlich
+ist. Aber sorry für die Unterbrechung,
+Leute. Falls ihr es noch nicht getan
+habt: Die Mehrheit von euch hat den
+Kanal tatsächlich noch nicht abonniert
+. Es würde mir also wirklich viel
+bedeuten, wenn ihr dem Video ein Like
+gebt oder einfach den Kanal abonniert,
+da es mir sehr hilft, täglich Videos
+für euch zu erstellen. Persönlich
+habe ich ja schon erwähnt: Wenn ihr
+den M-Code habt, erzielt ihr die besten
+Ergebnisse mit diesem Modell, und genau
+dafür nutze ich den Plus-Plan auch
+für viele andere Dinge. Das ist also
+einer der Hauptgründe, warum ich ihn
+mit M-Code verwende. Ihr seht, dass ich
+ihn auf maximale Schlussfolgerung
+eingestellt habe, sogar mit nur 512K
+Kontextfenster, aber man kann es auf 1
+Million setzen, um es besser zu nutzen.
+Seit ich es auf das Maximum eingestellt
+habe, erziele ich unglaubliche
+Ergebnisse, und es dauert gar nicht so
+lange, diese Ausgaben zu erhalten,
+obwohl ich angenommen hätte, dass es
+Stunden dauern würde. Aber ihr könnt
+dennoch sehen, dass man damit ziemlich
+beeindruckende Ergebnisse erzielt. Eine
+Sache, die man auch beachten sollte,
+ist, dass ich 0%meines Kontingents
+verbraucht habe. Das liegt daran, dass
+dieses Modell für mich dank meines
+Plans völlig kostenlos ist. Dieser
+M-Code-Plan gewährt euch Zugriff
+darauf. Das ist also einer der
+Hauptgründe, warum ich es hervorheben
+wollte. Falls ihr ihn nicht habt, ist
+das auch völlig in Ordnung, da man ihn
+meines Wissens nach auch im MiniMax
+Cloud Chat komplett kostenlos nutzen
+kann. Auf diese Weise erhaltet ihr
+immer noch ein recht gutes Ratenlimit,
+um kostenlos auf dieses Modell
+zuzugreifen. Einer der größten
+Mehrwerte dieses Modells ist seine
+Geschwindigkeit und Effizienz. Dies ist
+ein Flash-Modell, es ist also darauf
+ausgelegt, unglaublich schnell zu sein.
+Beeindruckend ist jedoch, dass es
+dennoch qualitativ hochwertige
+Ergebnisse liefern kann. Hier habe ich
+den MiniMax-Code-Agenten selbst gebeten
+, die M 3.1 Flash-Vorschau mit
+maximaler Schlussfolgerung zu nutzen,
+um ein ganzes Spiel im Call of Duty
+Zombies-Stil von Grund auf zu erstellen
+. Und die Ergebnisse sind unglaublich.
+Es war nicht nur in der Lage, alles
+extrem schnell zusammenzubauen, sondern
+die Qualität ist regelrecht wahnsinnig
+–ehrlich gesagt vergleichbar mit dem,
+was ich von Opus gesehen habe. Lasst
+uns das tatsächlich mal ansehen. Die
+Qualität ist wirklich der Wahnsinn,
+Leute. Das ist Runde Null, und hier
+könnt ihr die Qualität der Texturen
+und der 3 D-Umgebung sehen, die es
+vollständig in 3GS aufbauen konnte.
+Ihr habt verschiedene Räume, auf die
+ihr zugreifen könnt. Es gibt
+verschiedene Barrikaden. Es gibt sogar
+Funktionen wie Pack-a-Punch, das sich
+in diesem Raum befindet. Ich habe das
+tatsächlich ein paar Mal gespielt,
+weil es ziemlich viel Spaß gemacht hat
+. Aber das hier ist einfach irre. Es
+gibt sogar ein Kaufmenü, in dem man
+verschiedene Dinge erwerben kann. Man
+hat auch eine Lichtquelle. Man kann
+sogar zwischen verschiedenen Waffen hin
+-und herwechseln. Schauen wir uns das
+mal an. Es wurde sogar ein toter Zombie
+hinzugefügt, was ziemlich cool ist. Au
+. Ich wurde schon ausgeschaltet. Das
+ist unser erster Junge. Und wir können
+sehen, dass alles so funktioniert wie
+im Originalspiel. Man sieht, wie diese
+Typen von draußen kommen. Sie können
+die eigentliche Barrikade durchbrechen,
+wie es dieser Kerl hier geschafft hat.
+Wir können ihn ausschalten. Und dann
+können wir diese anderen Typen
+erledigen. Aber ich zeige euch noch ein
+paar andere Dinge, denn ich habe sogar
+mehrere Räume programmiert, was gut
+ist. Also ist noch einer übrig. Lass
+mich ihn mal suchen. Ich schalte mal
+meine Taschenlampe ein. Ich weiß nicht
+, ob wir hier rauskommen. Das ist der
+Teil, der etwas abgefahren ist. Ich bin
+außerhalb des Gebäudes. Man kann
+nicht wirklich viel sehen. Aber
+versuchen wir mal, diesen Kerl zu
+finden. Wo bist du, Kumpel? Ich kann
+ihn einfach nicht finden. Aber genau
+davon spreche ich. Ja, Pack-a-Punch ist
+hier. Man hält E gedrückt, kann es
+kaufen und dann im Menü all die
+anderen Dinge erwerben. Man kann auch
+die Fenster reparieren. So kann man
+sehen, wo sie sind. Um also
+tatsächlich zu sehen, wo dieser Typ
+ist. Einen Fehler kann man jedoch sehen
+. Ich weiß nicht, warum es die Türen
+blockiert. Das ist eine Sache. Aber es
+ist für mich einfach verrückt, dass
+dieses Modell so leistungsfähig ist
+und eine solche Qualität liefern kann.
+Ich sage nicht, dass es genau das ist,
+was wir bei Opus gesehen haben, aber
+die Gesamtqualität ist trotzdem
+ziemlich gut. Es hat die meisten
+Funktionen gut umgesetzt. Man hat die
+tatsächliche Möglichkeit,
+verschiedene Produkte zu kaufen, wie
+zum Beispiel die verschiedenen Arten
+von Waffen. Und dann gibt es die
+Barrikaden, Zombies und natürlich
+verschiedene Runden. Nun, ich weiß
+nicht, wo dieser Typ steckt. Oh, da ist
+er ja. Aber ja, ich zeige euch, dass
+man sogar eine andere Waffe kaufen kann
+, die ihre eigene Dynamik hat. Also
+hast du die MPK, schau dir das mal an.
+Man hat diesen Rückstoß. Man hat
+diese Mündungsfeueranimation. Man
+sieht sogar die Kugeln aus der Waffe
+fliegen, was irgendwie der Wahnsinn ist
+. Wenn man vor ein paar Jahren oder
+Monaten gesagt hätte, dass das ein
+Ergebnis eines Flash-Modells ist, wäre
+man völlig aus dem Häuschen gewesen.
+Und genau das sehen wir gerade. Es
+sieht so aus, als ob jetzt Welle zwei
+beginnt, also schauen wir mal, wie viel
+Schaden wir bei dieser Welle hier
+anrichten können. Okay, ich hänge
+fest. Au, au, au, und ich bin gerade
+gestorben. Wenn du die besten KI-Tools,
+Workflows und Neuheiten vor allen
+anderen willst, abonniere meinen
+kostenlosen Newsletter über den Link
+in der Beschreibung unten, der komplett
+gratis ist. Jetzt ohne Scherz, das ist
+eine Ausgabe von MiniMax M 3.1 Flash.
+Das ist einfach unglaublich, weil ich
+bisher noch kein Modell gesehen habe,
+das diese Art von Detailgrad erzeugt.
+Und hier hat es die Kopfhörer erstellt
+. Es hat sogar ein Polster erstellt.
+Der Detailgrad dieses Modells ist
+einfach irre, vom eigentlichen
+Farbschema bis hin zu den Texturen des
+Metallbügels am Kopfhörer. Und nicht
+nur das, Leute, es war natürlich auch
+in der Lage, eine schöne Landingpage
+dafür zu erstellen, was unglaublich
+ist. Und ich zeige euch ein paar
+Referenzbilder, die dabei waren. Es ist
+ehrlich gesagt einfach verrückt, dass
+es in der Lage war, diesen Detailgrad
+mit dem Flash-Modell auszugeben. Es hat
+zwar etwas länger gedauert, diese
+Ausgabe mit Max Reasoning zu erhalten,
+wo man die besten Ergebnisse bekommt.
+Aber das ist etwas, von dem ich nie
+erwartet hätte, dass ein Flash-Modell
+es ausgeben könnte. Hier seht ihr
+natürlich alle Details, wie die
+vollständige Landingpage sowie ein
+paar andere Dinge, die ihr auf der
+ersten Seite gesehen habt. Hier ist
+eine weitere solide
+Frontend-Generierung dieses Modells,
+aber diesmal hat es tatsächlich Scroll
+World verwendet, ein Plugin innerhalb
+des MiniMax-Agenten, das für
+scrollgesteuerte Video-Websites
+konzipiert ist. Hier wurde jedoch
+verlangt, H3 zu verwenden, das
+multimodale Videomodell von MiniMax,
+und es wurde mit dem M 3.1 Flash von
+MiniMax kombiniert, um die
+Code-Interaktionen und Animationen zu
+verarbeiten, damit sich alles
+flüssiger und reaktionsschneller
+anfühlt. Es ist einfach wahnsinnig,
+dass es diese Assets verwendet hat und
+diese spezifische Generierung dabei
+herauskam. Hier ist unser berühmter
+Nvidia-Landingpage-Prompt, bei dem wir
+es anweisen, eine Landingpage für
+Nvidias neueste Grafikkarte zu
+erstellen. Und hier muss ich sagen,
+dass es zwar schön, aber ein wenig
+glanzlos ist. Normalerweise lassen wir
+die meisten Modelle ein 3 D-Modell der
+Grafikkarte erstellen, aber in diesem
+Fall wurde nur ein 2 D-Modell generiert
+. Es ist teilweise animiert. Die
+Lüfter funktionieren, was natürlich
+großartig ist. Und es wurde diese
+Spiegelung hinzugefügt, was natürlich
+ziemlich cool ist. Die Landingpage
+bietet insgesamt viele tolle Effekte,
+die Qualität der Front-End-Generierung
+ist bei diesem speziellen Modell also
+gut. Ich wollte eigentlich ein
+spezifisches Ergebnis für die
+Grafikkarte, aber abgesehen davon wirkt
+die Landingpage ziemlich gelungen und
+die Front-End-Qualität dieser
+Generierungen ist wirklich gut. Das ist
+eine wirklich schöne Landingpage, die
+hier mit verschiedenen Typografien,
+Bewegungen und Scroll-Triggern
+zusammengestellt wurde. Man sieht bei
+diesem Ergebnis, dass beim Scrollen
+alles perfekt auf die Scroll-Trigger
+abgestimmt ineinandergreift. Es wurden
+verschiedene dynamische Bewegungen
+sowie Texturen hinzugefügt, um das
+Ganze lebendiger wirken zu lassen.
+Alles wirkt sehr gut poliert, das ist
+wirklich schön. Das sind kleine
+qualitative Details, die man bei einem
+Modell eigentlich nicht erwartet,
+insgesamt also eine sehr solide
+Generierung des M 3.1 Flash. Jetzt wird
+es richtig interessant. Hier wurde das
+MiniMax M 3.1 Flash mit maximalem
+Reasoning gegen das GPT-6 Soul mit
+maximalem Reasoning getestet. Die
+Qualität ist einfach wahnsinnig. Die
+Geschwindigkeit ist bei beiden Modellen
+offensichtlich gut, da auch Soul recht
+effizient ist, aber MiniMax war hier
+sogar noch schneller fertig. Hier kann
+man meiner Meinung nach sogar sagen,
+dass es einen besseren Job gemacht hat
+als das GPT-6-Modell. Das ist
+natürlich Ansichtssache, aber beide
+Ergebnisse sehen hervorragend aus, und
+ich bin einfach erstaunt, dass das M
+3.1 Flash solche Resultate liefern kann
+. Bisher habe ich festgestellt, dass
+dieses Modell weit über das Erwartete
+hinausgeht. Auf dieser Landingpage habe
+ich es angewiesen, eine SVG-Grafik zu
+implementieren, und diese wurde
+animiert, wobei viele Texturen
+hinzugefügt wurden, um das SVG sehr
+lebendig zu gestalten. Es sieht
+wirklich aus wie ein Ergebnis von etwas
+wie Sonic 5.5, aber es stammt
+tatsächlich vom Flash-Modell. Und
+denkt daran, Leute, all diese
+Generierungen stammen vom
+MiniMax-Client, der für mich momentan
+komplett kostenlos ist, da ich den
+Pro-Plan nutze. Und das ist ein
+Detailgrad, den ich so nicht erwartet
+hatte, da es nicht nur die SVG-Grafik
+programmieren, sondern auch viele coole
+Funktionen auf der Landingpage selbst
+implementieren konnte, was das Ganze
+deutlich aufwertet. Dies ist eine
+Pagode, die als Voxel-Art generiert
+wurde, und man kann hier die Qualität
+erkennen. Hier hat es offensichtlich
+die Atmosphäre und viele der Elemente
+hinzugefügt, die wir in unseren
+Modell-Releases sehen. Dass diese
+Flash-Variante tatsächlich so etwas
+ausgeben kann, ist wirklich
+beeindruckend. Man kann die
+Kirschblüten sehen, den See oder den
+Teich und ein paar weitere Elemente,
+die mit dieser spezifischen Ausgabe
+generiert wurden. Ich bin also wirklich
+begeistert von der Ausgabequalität
+dieses speziellen Modells. Und hier ist
+eine weitere Demo und ein Vergleich.
+Die Anweisung war, eine
+SVG-Illustration von Super Mario beim
+Kaffeetrinken mit Peach zu erstellen,
+und das ist es, was GPT-6 Pro generiert
+hat. Offensichtlich ist es viel besser,
+und der Detailgrad ist definitiv
+wahnsinnig. Aber schauen Sie sich an,
+was MiniMax M 3.1 Flash generiert hat.
+Das ist ein Modell, das erstaunlich gut
+mithält. Natürlich nicht auf
+demselben Niveau, aber es generiert
+eine ziemlich detaillierte und stimmige
+Szene, besonders für ein Modell, das
+stark auf Geschwindigkeit und Effizienz
+ausgelegt ist. Ich sage nicht, dass es
+GPT-6 Soul bei diesem einen Test direkt
+schlägt, aber die Tatsache, dass ein
+Flash-Modell so etwas produzieren kann,
+ist wirklich wettbewerbsfähig und
+beeindruckend. Es ist nun schon eine
+Weile her, seit wir den Mac OS-Test
+behandelt haben, und lassen Sie uns ihn
+tatsächlich mit dem M 3.1 Flash
+durchführen, da dies eine großartige
+Möglichkeit ist, ein besseres
+Verständnis dafür zu bekommen, wie
+weit diese Modelle in Bezug auf
+Leistung und Qualität gekommen sind.
+Hier sieht es so aus, als hätte es
+alle einzelnen Symbole in SVG
+programmiert. Das einzige Problem, das
+ich habe, ist, dass es nicht so
+intuitiv ist wie das, was wir bei
+anderen modernen Spitzenmodellen
+gesehen haben, aber für eine
+Flash-Variante immer noch ziemlich
+ordentlich. Abgesehen davon scheint
+alles andere interaktiv und
+vollständig zu sein. Die obere Leiste
+funktioniert wie sie soll. Sogar für
+den Akku gibt es einen Energiesparmodus
+, den man aktivieren kann, was ziemlich
+cool ist. Sie haben WLAN, Sie haben die
+Tonausgabe, mit der Sie herumspielen
+können. Sie haben natürlich noch ein
+paar andere Dinge, wie das
+Benachrichtigungsfeld, das Sie öffnen
+können. Aber jetzt lassen Sie uns
+einen Blick auf ein paar andere Dinge
+werfen. Sie können den Hintergrund
+ändern, was schön ist. Sie haben die
+Möglichkeit, die Akzentfarben zu
+ändern, was tatsächlich funktioniert.
+Und wenn man die Ergebnisse von so
+etwas wie M 2.7 vergleicht, sieht man
+eine drastische Veränderung in der
+Qualität. Hier liefert das
+Flash-Modell jetzt Ergebnisse wie
+Sonnet oder Opus auf höchstem Niveau,
+nur dass wir das jetzt bei der
+Flash-Variante sehen. Du hast die
+Möglichkeit, Spotlight zu öffnen. Ich
+glaube, das kannst du sogar auch von
+hier aus machen. All diese Apps
+scheinen so zu funktionieren, wie sie
+sollten, was ziemlich gut ist. Du hast
+sogar eine Videocall-Funktion, glaube
+ich. Ich glaube nicht, dass ich sie
+öffnen kann. Oh, ja. Man kann
+tatsächlich Leute anrufen und es gibt
+diese Benachrichtigung. Du hast eine
+echte Musik-App, die ziemlich gut
+programmiert wurde und Musik abspielt,
+was echt cool ist. Die Podcast-App, du
+hast sogar den App Store. Wenn du etwas
+kaufen oder darauf klicken willst,
+lässt es dich das kaufen, was ziemlich
+cool ist. Du hast Spiele, bei denen ich
+nicht weiß, was das ist. Oh, es ist
+Tic-Tac-Toe. Und du hast das Terminal,
+den Taschenrechner und die
+Aktivitätsanzeige, was ziemlich cool
+ist. Und dann Freeform. Aber lass uns
+mal einen Blick auf den Minecraft-Klon
+werfen, den es generiert hat. Das ist
+eigentlich ziemlich cool, weil es einen
+Minecraft-Klon komplett in unseren
+macOS-Klon integriert hat. Und das ist
+irgendwie verrückt, weil dieses
+Flash-Modell das ausgegeben hat, was
+sogar besser ist als das, was wir bei
+Gemini 3.8 gesehen haben. Du hast sogar
+die Möglichkeit, Lichter zu platzieren
+, was wir bei den anderen Varianten
+noch gar nicht gesehen haben. Du hast
+sogar diese Abbau-Animation, was
+ziemlich cool ist. Du kannst
+verschiedene Blöcke mit
+unterschiedlichen Texturen platzieren.
+Du kannst sogar verschiedene Dinge
+herstellen, was nett ist. Das ist also
+schon etwas, das wir bei anderen
+Modellen so noch nicht wirklich gesehen
+haben. Das ist also der Detailgrad, von
+dem ich nie erwartet hätte, dass das
+Flash-Modell ihn tatsächlich liefert.
+Für einen weiteren Test wurde verlangt
+, eine Insel im Voxel-Stil mit Palmen,
+Hühnern, Hütten und einer Küste zu
+bauen, alles innerhalb des
+Minimax-Codes ohne externe Assets. Und
+das war keine Einmal-Generierung, aber
+nach ein paar Iterationen hat es den
+Voxel-Stil perfekt getroffen. Es
+enthielt alles, was gefordert wurde,
+und fügte sogar von sich aus einige
+zusätzliche Details hinzu, die die
+Umgebung kompletter wirken ließen. Wir
+kommen also an einen Punkt, an dem
+diese Flash-Modelle tatsächlich diesen
+Detailgrad liefern, den man eigentlich
+von einer Pro-Variante erwarten würde.
+Hier in 3 GS konnte es aus einer
+einzigen Aufforderung heraus ein
+komplettes 3 D-Dorfgelände erstellen.
+Und ehrlich gesagt, das Verrückteste
+ist, dass es nur 40 Minuten gedauert
+hat, dies auszugeben, während es 0 $
+gekostet hat. Und bedenken Sie, dies
+ist immer noch das Vorschau-Modell.
+Wenn MiniMax es vor der endgültigen
+Veröffentlichung noch weiter
+verbessern kann, stellen Sie sich vor,
+wie beeindruckend das MiniMax 3.1 Flash
+am Ende sein wird. Das Flash-Modell,
+Leute, das ist etwas, das ich wirklich
+immer wieder betonen möchte. Hier ist
+nun ein weiterer Vergleich, bei dem die
+M 3.1 Flash-Vorschau im Max-Modus gegen
+Fable 5.1, aber mit mittlerem Reasoning
+, antrat. MiniMax ist definitiv
+unglaublich schnell, braucht etwa eine
+Stunde und erreicht über 150 Token pro
+Sekunde. Wogegen es bei Fable fast 2
+Stunden dauerte, um diese Art von
+Ausgabe zu erhalten. Nun, die
+Gesamtqualität von MiniMax war nicht
+ganz so stark, aber denken Sie daran,
+dies ist ein Flash-Modell, und ich
+denke, interessanter wäre der
+Vergleich mit etwas wie GPT-6 Luna Max.
+Und da kann man wahrscheinlich
+vergleichbare Ergebnisse erzielen, aber
+man sieht, dass Fable etwas
+ausgefeilter ist als das M 3.1 Flash.
+Aber ungeachtet dessen lieferte M 3.1
+Flash ein ziemlich ordentliches
+Ergebnis und das kostenlos. Es ist
+definitiv mit Fable vergleichbar, da
+die Ergebnisse wirklich gut aussehen.
+Nur der Feinschliff ist nicht auf dem
+gleichen Niveau wie bei den modernsten
+Modellen. Aber wenn wir in Zukunft eine
+Pro-Version für die 3.1-Serie von
+MiniMax bekommen, wird das wirklich
+alles in den Schatten stellen,
+besonders wenn es diese Geschwindigkeit
+beibehalten kann und gleichzeitig
+offensichtlich näher an die Leistung
+auf Grenz-Niveau heranreicht. Wenn
+Ihnen dieses Video gefällt und Sie den
+Kanal unterstützen möchten, können
+Sie eine Spende über die Option „
+Super Thanks“ unten in Betracht
+ziehen. Oder Sie können unserem
+privaten Discord beitreten, wo Sie
+monatlich kostenlosen Zugriff auf
+mehrere Abonnements verschiedener
+KI-Tools sowie tägliche KI-Nachrichten
+, exklusive Inhalte und vieles mehr
+erhalten. Insgesamt ist meine Meinung
+zur MiniMax M 3.1 Flash-Vorschau, dass
+dies ein ernsthaft vielversprechendes
+Modell ist, besonders wenn man sich
+ansieht, wozu es in der Lage ist. Es
+versucht nicht unbedingt, jedes
+Spitzenmodell in Bezug auf die reine
+Qualität zu schlagen. Seine größten
+Stärken sind Geschwindigkeit,
+Effizienz und dass es gut genug ist, um
+eine riesige Menge an alltäglicher
+Arbeit zu bewältigen, von
+Programmierung, dem Testen
+verschiedener Arten von Unit-Tests, 3
+D-Umgebungen, Spielen, Websites,
+einfach alles. Es ist etwas, das in
+meinen persönlichen Tests beständig
+solide Ergebnisse liefert, und es ist
+ziemlich schnell. Und denken Sie daran,
+dies ist nur die Vorschau. Minimax
+arbeitet aktiv an der Weiterentwicklung
+, daher wird es noch besser werden,
+sobald sie das offizielle M 3.1 Flash
+veröffentlichen, und ich werde
+definitiv in Zukunft ein weiteres Video
+dazu machen. Aber wenn ihr im Moment
+Minimax M-Code habt, solltet ihr das
+Beste daraus machen, denn dieses Modell
+ist aktuell in diesem Plan kostenlos
+enthalten. Also fordert das Modell
+heraus, baut etwas Ambitioniertes und
+seht, was es wirklich leisten kann,
+denn ihr könnt derzeit experimentieren
+, ohne euch Sorgen zu machen, eure
+normalen Credits aufzubrauchen. Es
+entstehen dabei keine zusätzlichen
+Kosten, und es gibt absolut keine
+Nachteile dabei. Ich werde auf jeden
+Fall alle Links, die ich im heutigen
+Video verwende, unten in die
+Beschreibung setzen. Ihr könnt es
+über die Cloud oder über M-Code
+nutzen, was ihr auch lokal installieren
+könnt. Aber mit diesem Gedanken, Leute
+, vielen Dank fürs Zuschauen. Ein
+großes Lob an Minimax für die
+Entwicklung eines weiteren
+unglaublichen Modells, das
+offensichtlich sogar in der Flash-Stufe
+überzeugt. Falls ihr es noch nicht
+getan habt, werft unbedingt einen Blick
+auf die World of AI School-Community.
+Schaut euch den World of AI-Benchmark
+und die Vibe-Coding-Plattform an.
+Besucht unseren zweiten Kanal,
+abonniert den Newsletter, kommt auf
+unseren Discord und folgt mir auf
+Twitter. Und zu guter Letzt: Abonniert
+den Kanal, aktiviert die Glocke, gebt
+dem Video einen Daumen nach oben und
+schaut euch unsere früheren Videos an,
+damit ihr bei den neuesten
+KI-Nachrichten auf dem Laufenden bleibt
+. Aber mit diesem Gedanken, Leute, habt
+einen wunderbaren Tag. Verbreitet
+Positivität und wir sehen uns schon
+sehr bald wieder. Macht’s gut, Leute.

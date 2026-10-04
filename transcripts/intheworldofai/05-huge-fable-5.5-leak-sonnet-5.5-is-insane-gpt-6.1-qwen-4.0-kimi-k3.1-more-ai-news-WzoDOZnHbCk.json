@@ -1,0 +1,3872 @@
+{
+  "video": {
+    "video_id": "WzoDOZnHbCk",
+    "title": "HUGE Fable 5.5 LEAK, Sonnet 5.5 IS INSANE, GPT 6.1, Qwen 4.0, Kimi K3.1 & More! AI NEWS",
+    "url": "https://www.youtube.com/watch?v=WzoDOZnHbCk",
+    "published_at": null,
+    "duration": 1590
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.48,
+      "duration": 2.414,
+      "text": "Das ist eine ziemlich genaue"
+    },
+    {
+      "start": 1.944,
+      "duration": 2.92,
+      "text": "Darstellung davon, wie Anthropic diese"
+    },
+    {
+      "start": 3.914,
+      "duration": 2.869,
+      "text": "Seitenhiebe von OpenAI aufnimmt, ohne"
+    },
+    {
+      "start": 5.834,
+      "duration": 2.869,
+      "text": "sie tatsächlich zu beeinträchtigen,"
+    },
+    {
+      "start": 7.753,
+      "duration": 5.379,
+      "text": "da Anthropic nach all den Problemen,"
+    },
+    {
+      "start": 12.171,
+      "duration": 2.399,
+      "text": "mit denen sie als Unternehmen in den"
+    },
+    {
+      "start": 13.609,
+      "duration": 2.439,
+      "text": "letzten Monaten von den Problemen mit"
+    },
+    {
+      "start": 15.087,
+      "duration": 2.05,
+      "text": "der Ratenbegrenzung bis zur"
+    },
+    {
+      "start": 16.176,
+      "duration": 2.05,
+      "text": "Unterleistung ihrer Modelle"
+    },
+    {
+      "start": 17.264,
+      "duration": 2.361,
+      "text": "konfrontiert waren, ein ernsthaftes"
+    },
+    {
+      "start": 18.664,
+      "duration": 2.897,
+      "text": "Comeback hingelegt hat. Sie sind"
+    },
+    {
+      "start": 20.619,
+      "duration": 3.137,
+      "text": "endlich mit vielen konkurrenzfähigen"
+    },
+    {
+      "start": 22.814,
+      "duration": 3.196,
+      "text": "Modellen zurück, aber wir haben sogar"
+    },
+    {
+      "start": 25.067,
+      "duration": 3.08,
+      "text": "noch ein weiteres verrücktes Modell"
+    },
+    {
+      "start": 27.205,
+      "duration": 3.556,
+      "text": "von Anthropic in der Pipeline. Und das"
+    },
+    {
+      "start": 29.825,
+      "duration": 3.34,
+      "text": "ist Fable 5.5, das früher erscheinen"
+    },
+    {
+      "start": 32.228,
+      "duration": 3.467,
+      "text": "könnte, als die meisten Leute erwarten"
+    },
+    {
+      "start": 34.695,
+      "duration": 3.295,
+      "text": ". In Anbetracht der Sprünge, die wir"
+    },
+    {
+      "start": 37.043,
+      "duration": 2.798,
+      "text": "von der 5.0 er-Modellreihe zur 5.5"
+    },
+    {
+      "start": 38.894,
+      "duration": 2.851,
+      "text": "er-Reihe gesehen haben, könnte das"
+    },
+    {
+      "start": 40.798,
+      "duration": 4.566,
+      "text": "enorm sein. Ich habe auch das neue"
+    },
+    {
+      "start": 44.407,
+      "duration": 2.679,
+      "text": "Modell, das sie heute vorgestellt haben"
+    },
+    {
+      "start": 46.086,
+      "duration": 2.378,
+      "text": ", nämlich Sonnet 5.5, ausgiebig"
+    },
+    {
+      "start": 47.507,
+      "duration": 2.679,
+      "text": "getestet, und ehrlich gesagt könnte es"
+    },
+    {
+      "start": 49.229,
+      "duration": 2.335,
+      "text": "für viele Leute zum täglichen"
+    },
+    {
+      "start": 50.607,
+      "duration": 3.371,
+      "text": "Begleiter werden. Es ist günstiger,"
+    },
+    {
+      "start": 53.045,
+      "duration": 3.235,
+      "text": "schneller und war in meinen Tests"
+    },
+    {
+      "start": 55.348,
+      "duration": 3.573,
+      "text": "extrem konkurrenzfähig mit GPT 6 Soul"
+    },
+    {
+      "start": 57.989,
+      "duration": 4.564,
+      "text": "und in vielen Fällen sogar besser. Und"
+    },
+    {
+      "start": 61.604,
+      "duration": 2.944,
+      "text": "ich habe auch Fälle gesehen, in denen"
+    },
+    {
+      "start": 63.6,
+      "duration": 2.944,
+      "text": "es Opus 5.5 aussticht, aber günstiger"
+    },
+    {
+      "start": 65.595,
+      "duration": 3.759,
+      "text": "ist. Schaut euch das mal an. Das"
+    },
+    {
+      "start": 68.399,
+      "duration": 2.568,
+      "text": "günstigste mittelgroße Modell von"
+    },
+    {
+      "start": 70.012,
+      "duration": 2.389,
+      "text": "Anthropic ist hier draußen und"
+    },
+    {
+      "start": 71.446,
+      "duration": 2.613,
+      "text": "erstellt vollwertige Fortnite-Klone."
+    },
+    {
+      "start": 73.666,
+      "duration": 3.372,
+      "text": "Das ist nicht nur einer der Fälle, in"
+    },
+    {
+      "start": 76.1,
+      "duration": 2.749,
+      "text": "denen dieses Modell Opus 5.5"
+    },
+    {
+      "start": 77.911,
+      "duration": 3.537,
+      "text": "ausgestochen hat. Das hat es schon oft"
+    },
+    {
+      "start": 80.504,
+      "duration": 2.285,
+      "text": "in vielen verschiedenen"
+    },
+    {
+      "start": 81.845,
+      "duration": 3.368,
+      "text": "Domänenaufgaben getan. Das alles wurde"
+    },
+    {
+      "start": 84.261,
+      "duration": 2.294,
+      "text": "mit dem 20-Dollar-Pro-Tarif"
+    },
+    {
+      "start": 85.603,
+      "duration": 2.582,
+      "text": "durchgeführt und das ist nur die"
+    },
+    {
+      "start": 87.232,
+      "duration": 2.869,
+      "text": "Spitze des Eisbergs, denn ich habe noch"
+    },
+    {
+      "start": 89.149,
+      "duration": 2.773,
+      "text": "viele weitere Tests, die ich im Laufe"
+    },
+    {
+      "start": 90.97,
+      "duration": 2.774,
+      "text": "des heutigen Videos vorstellen werde."
+    },
+    {
+      "start": 93.299,
+      "duration": 3.068,
+      "text": "Leute, das alles muss OpenAI etwas"
+    },
+    {
+      "start": 95.428,
+      "duration": 3.129,
+      "text": "unter Druck setzen, denn der DevDay"
+    },
+    {
+      "start": 97.618,
+      "duration": 3.577,
+      "text": "steht quasi vor der Tür. Wir hatten"
+    },
+    {
+      "start": 100.241,
+      "duration": 2.778,
+      "text": "ursprünglich darüber gesprochen, dass"
+    },
+    {
+      "start": 102.065,
+      "duration": 2.505,
+      "text": "OpenAI am DevDay ein neues Modell"
+    },
+    {
+      "start": 103.615,
+      "duration": 3.125,
+      "text": "veröffentlichen wird. Es gab sogar"
+    },
+    {
+      "start": 105.791,
+      "duration": 2.915,
+      "text": "Gerüchte über die Veröffentlichung"
+    },
+    {
+      "start": 107.758,
+      "duration": 2.966,
+      "text": "von GPT 6.1, aber heute haben wir dazu"
+    },
+    {
+      "start": 109.776,
+      "duration": 3.053,
+      "text": "einige Neuigkeiten. Möglicherweise"
+    },
+    {
+      "start": 111.875,
+      "duration": 2.656,
+      "text": "handelt es sich dabei um ein Modell,"
+    },
+    {
+      "start": 113.577,
+      "duration": 3.098,
+      "text": "das jetzt verzögert wurde. Laut Wall"
+    },
+    {
+      "start": 115.732,
+      "duration": 2.546,
+      "text": "Street Journal wurde es aus"
+    },
+    {
+      "start": 117.335,
+      "duration": 3.234,
+      "text": "Sicherheitsgründen verzögert, könnte"
+    },
+    {
+      "start": 119.626,
+      "duration": 3.256,
+      "text": "man sagen. Aber ich weiß aus meiner"
+    },
+    {
+      "start": 121.931,
+      "duration": 2.89,
+      "text": "eigenen Erfahrung mit globalen Medien,"
+    },
+    {
+      "start": 123.871,
+      "duration": 2.691,
+      "text": "wie das Mediengewerbe tatsächlich"
+    },
+    {
+      "start": 125.611,
+      "duration": 3.446,
+      "text": "läuft. Manchmal arbeiten Unternehmen"
+    },
+    {
+      "start": 128.094,
+      "duration": 2.413,
+      "text": "direkt mit großen Medien zusammen, um"
+    },
+    {
+      "start": 129.544,
+      "duration": 2.338,
+      "text": "zu gestalten, wie Ankündigungen und"
+    },
+    {
+      "start": 130.919,
+      "duration": 3.288,
+      "text": "Verzögerungen kommuniziert werden. Ich"
+    },
+    {
+      "start": 133.25,
+      "duration": 2.658,
+      "text": "sage nicht, dass es hier bestätigt ist"
+    },
+    {
+      "start": 134.908,
+      "duration": 2.105,
+      "text": ", aber man kann die Punkte"
+    },
+    {
+      "start": 136.056,
+      "duration": 3.214,
+      "text": "offensichtlich verbinden. Eine"
+    },
+    {
+      "start": 138.318,
+      "duration": 2.822,
+      "text": "sicherheitsrelevante Verzögerung gibt"
+    },
+    {
+      "start": 140.188,
+      "duration": 2.87,
+      "text": "OpenAI auch mehr Zeit, an dem Modell zu"
+    },
+    {
+      "start": 142.106,
+      "duration": 2.87,
+      "text": "arbeiten, ohne dass die Verzögerung zu"
+    },
+    {
+      "start": 144.024,
+      "duration": 3.696,
+      "text": "negativen Gefühlen führt. Wie auch"
+    },
+    {
+      "start": 146.775,
+      "duration": 2.988,
+      "text": "immer, der Dev Day kommt und es gibt"
+    },
+    {
+      "start": 148.818,
+      "duration": 3.189,
+      "text": "eine Menge zu besprechen. Wir werden"
+    },
+    {
+      "start": 151.054,
+      "duration": 2.782,
+      "text": "über einige der neuen Leaks sprechen,"
+    },
+    {
+      "start": 152.883,
+      "duration": 2.735,
+      "text": "die vom Dev Day aufgetaucht sind, und"
+    },
+    {
+      "start": 154.665,
+      "duration": 2.735,
+      "text": "über einige der neuen Dinge, die sie"
+    },
+    {
+      "start": 156.447,
+      "duration": 2.735,
+      "text": "auf den Markt bringen werden, wie die"
+    },
+    {
+      "start": 158.229,
+      "duration": 2.595,
+      "text": "Cerebrus-Infrastruktur sowie den O"
+    },
+    {
+      "start": 159.871,
+      "duration": 3.208,
+      "text": "Assistant. Und auch in den chinesischen"
+    },
+    {
+      "start": 162.121,
+      "duration": 2.372,
+      "text": "Laboren wird hinter den Kulissen"
+    },
+    {
+      "start": 163.536,
+      "duration": 3.641,
+      "text": "gekocht. Wir sehen endlich die ersten"
+    },
+    {
+      "start": 166.245,
+      "duration": 3.84,
+      "text": "Ergebnisse der Clan 4.0-Reihe. Kimmy K"
+    },
+    {
+      "start": 169.145,
+      "duration": 3.03,
+      "text": "3.1 könnte möglicherweise um den"
+    },
+    {
+      "start": 171.234,
+      "duration": 3.269,
+      "text": "Nationalfeiertag herum erscheinen, der"
+    },
+    {
+      "start": 173.563,
+      "duration": 3.328,
+      "text": "in wenigen Tagen am 1. Oktober ist, und"
+    },
+    {
+      "start": 175.95,
+      "duration": 2.97,
+      "text": "Deep Seek Version 4.1 Pro scheint"
+    },
+    {
+      "start": 177.98,
+      "duration": 3.567,
+      "text": "ebenfalls näher zu rücken. Und bevor"
+    },
+    {
+      "start": 180.59,
+      "duration": 2.681,
+      "text": "wir überhaupt ins Detail gehen, würde"
+    },
+    {
+      "start": 182.314,
+      "duration": 2.681,
+      "text": "es mir wirklich die Welt bedeuten, wenn"
+    },
+    {
+      "start": 184.038,
+      "duration": 2.336,
+      "text": "ihr dieses Video liken und mich"
+    },
+    {
+      "start": 185.417,
+      "duration": 2.889,
+      "text": "abonnieren könntet. Da mir das"
+    },
+    {
+      "start": 187.347,
+      "duration": 2.423,
+      "text": "wirklich hilft, Videos für euch zu"
+    },
+    {
+      "start": 188.811,
+      "duration": 2.423,
+      "text": "machen, und es mir einfach die Welt"
+    },
+    {
+      "start": 190.275,
+      "duration": 2.505,
+      "text": "bedeuten würde, weil ich mein Bestes"
+    },
+    {
+      "start": 191.821,
+      "duration": 2.586,
+      "text": "gebe, um diese neuen Ziele zu erreichen"
+    },
+    {
+      "start": 193.407,
+      "duration": 2.382,
+      "text": ", würde es mir wirklich sehr viel"
+    },
+    {
+      "start": 194.83,
+      "duration": 2.383,
+      "text": "bedeuten, wenn ihr das einfach tun"
+    },
+    {
+      "start": 196.253,
+      "duration": 2.407,
+      "text": "könntet. Aber mit diesem Gedanken"
+    },
+    {
+      "start": 197.692,
+      "duration": 2.237,
+      "text": "lasst uns einfach direkt in das heutige"
+    },
+    {
+      "start": 198.96,
+      "duration": 2.644,
+      "text": "Video eintauchen. Zahlt ihr immer noch"
+    },
+    {
+      "start": 200.64,
+      "duration": 2.379,
+      "text": "lieber für das Scraping von Websites,"
+    },
+    {
+      "start": 202.055,
+      "duration": 2.27,
+      "text": "anstatt eure KI dafür zu bezahlen,"
+    },
+    {
+      "start": 203.361,
+      "duration": 3.077,
+      "text": "diesen Müll zu lesen? Nun, der heutige"
+    },
+    {
+      "start": 205.489,
+      "duration": 2.998,
+      "text": "Sponsor, Tiny Fish, möchte das ändern"
+    },
+    {
+      "start": 207.487,
+      "duration": 4.191,
+      "text": ". Im 45-seitigen Benchmark von Tiny"
+    },
+    {
+      "start": 210.753,
+      "duration": 2.803,
+      "text": "Fish waren die typischen"
+    },
+    {
+      "start": 212.631,
+      "duration": 3.704,
+      "text": "Fire-Crawl-Ergebnisse etwa 38%Müll,"
+    },
+    {
+      "start": 215.41,
+      "duration": 4.576,
+      "text": "Menüs, Cookie-Leisten und Werbung. Ihr"
+    },
+    {
+      "start": 219.028,
+      "duration": 2.554,
+      "text": "habt dafür bezahlt, diese Inhalte zu"
+    },
+    {
+      "start": 220.624,
+      "duration": 2.513,
+      "text": "scrappen, und zahlt erneut in Token,"
+    },
+    {
+      "start": 222.179,
+      "duration": 2.638,
+      "text": "wenn ihr das Modell zum Lesen benötigt"
+    },
+    {
+      "start": 223.817,
+      "duration": 3.762,
+      "text": ". Tiny Fish macht die Suche und den"
+    },
+    {
+      "start": 226.624,
+      "duration": 2.549,
+      "text": "Abruf in jedem Tarif kostenlos, mit"
+    },
+    {
+      "start": 228.218,
+      "duration": 3.947,
+      "text": "saubereren Inhalten für eure KI. Und"
+    },
+    {
+      "start": 231.214,
+      "duration": 2.701,
+      "text": "schickt Tiny Fish jetzt die neueste"
+    },
+    {
+      "start": 232.964,
+      "duration": 2.896,
+      "text": "Firecrawl-Rechnung, und sie werden euch"
+    },
+    {
+      "start": 234.908,
+      "duration": 2.653,
+      "text": "den entsprechenden Betrag in euren"
+    },
+    {
+      "start": 236.61,
+      "duration": 3.317,
+      "text": "Wallet-Guthaben gutschreiben. Diese"
+    },
+    {
+      "start": 238.973,
+      "duration": 2.638,
+      "text": "Guthaben treiben den Web-Agenten und"
+    },
+    {
+      "start": 240.656,
+      "duration": 2.895,
+      "text": "den Browser an. Automatisiert"
+    },
+    {
+      "start": 242.597,
+      "duration": 2.731,
+      "text": "Anmeldungen, navigiert durch Websites,"
+    },
+    {
+      "start": 244.374,
+      "duration": 2.504,
+      "text": "füllt Formulare aus und erhaltet"
+    },
+    {
+      "start": 245.923,
+      "duration": 3.076,
+      "text": "strukturierte Daten zurück. Oder"
+    },
+    {
+      "start": 248.044,
+      "duration": 1.904,
+      "text": "führe deine eigenen"
+    },
+    {
+      "start": 248.993,
+      "duration": 3.099,
+      "text": "Cloud-Browser-Workflows aus. Die Suche"
+    },
+    {
+      "start": 251.138,
+      "duration": 2.424,
+      "text": "und der Abruf bleiben auch nach"
+    },
+    {
+      "start": 252.608,
+      "duration": 2.792,
+      "text": "Aufbrauchen deines Guthabens kostenlos."
+    },
+    {
+      "start": 254.779,
+      "duration": 2.521,
+      "text": "Keine Kreditkarten erforderlich."
+    },
+    {
+      "start": 256.46,
+      "duration": 2.479,
+      "text": "Firecrawl muss nicht gekündigt werden."
+    },
+    {
+      "start": 258.219,
+      "duration": 1.864,
+      "text": "Klicke auf die Links in der"
+    },
+    {
+      "start": 259.115,
+      "duration": 1.992,
+      "text": "Beschreibung unten, um dir dein"
+    },
+    {
+      "start": 260.139,
+      "duration": 2.954,
+      "text": "Guthaben zu sichern. Das Angebot endet"
+    },
+    {
+      "start": 262.161,
+      "duration": 3.126,
+      "text": "am 16. Oktober. Und vielen Dank an"
+    },
+    {
+      "start": 264.325,
+      "duration": 2.224,
+      "text": "Tinybird für das Sponsoring des"
+    },
+    {
+      "start": 265.587,
+      "duration": 3.214,
+      "text": "heutigen Videos. Fangen wir mit dem"
+    },
+    {
+      "start": 267.866,
+      "duration": 3.579,
+      "text": "Giganten an, nämlich Fable 5.5. Denn"
+    },
+    {
+      "start": 270.511,
+      "duration": 3.589,
+      "text": "Leute, dieses Modell wird der Wahnsinn."
+    },
+    {
+      "start": 273.539,
+      "duration": 2.971,
+      "text": "Ich habe einiges zu diesem Modell"
+    },
+    {
+      "start": 275.569,
+      "duration": 3.151,
+      "text": "gesehen, und wenn das so ist, wie es"
+    },
+    {
+      "start": 277.779,
+      "duration": 3.27,
+      "text": "aussieht, und wenn es sich bestätigt,"
+    },
+    {
+      "start": 280.109,
+      "duration": 3.27,
+      "text": "könnte das etwas ganz anderes werden."
+    },
+    {
+      "start": 282.606,
+      "duration": 3.205,
+      "text": "Genau deshalb wollte ich über Fable"
+    },
+    {
+      "start": 284.872,
+      "duration": 3.082,
+      "text": "sprechen, bevor wir uns Sonnet 5.5"
+    },
+    {
+      "start": 287.016,
+      "duration": 3.891,
+      "text": "widmen. Im Moment sieht es so aus, als"
+    },
+    {
+      "start": 289.965,
+      "duration": 3.215,
+      "text": "könnte OpenAI in den nächsten Wochen"
+    },
+    {
+      "start": 292.238,
+      "duration": 3.099,
+      "text": "einen harten Kampf bevorstehen, denn"
+    },
+    {
+      "start": 294.395,
+      "duration": 2.923,
+      "text": "Gerüchten zufolge soll Fable 5.5"
+    },
+    {
+      "start": 296.377,
+      "duration": 3.04,
+      "text": "früher erscheinen, als die meisten"
+    },
+    {
+      "start": 298.475,
+      "duration": 3.172,
+      "text": "erwarten. Und sieh dir nur die"
+    },
+    {
+      "start": 300.71,
+      "duration": 3.372,
+      "text": "Fortschritte an, die Anthropic bereits"
+    },
+    {
+      "start": 303.144,
+      "duration": 3.758,
+      "text": "in der 5.5-Familie gemacht hat. Sonnet"
+    },
+    {
+      "start": 305.973,
+      "duration": 3.542,
+      "text": "5.5 ist deutlich besser als Sonnet 5"
+    },
+    {
+      "start": 308.586,
+      "duration": 3.754,
+      "text": "und selbst Haiku 5.5 könnte weit über"
+    },
+    {
+      "start": 311.411,
+      "duration": 3.471,
+      "text": "seiner Gewichtsklasse liegen und es"
+    },
+    {
+      "start": 313.953,
+      "duration": 3.838,
+      "text": "sogar mit Soul aufnehmen. Anthropic hat"
+    },
+    {
+      "start": 316.843,
+      "duration": 2.912,
+      "text": "bereits bestätigt, dass Haiku 5.5 in"
+    },
+    {
+      "start": 318.807,
+      "duration": 2.913,
+      "text": "den nächsten Wochen erscheinen wird."
+    },
+    {
+      "start": 321.36,
+      "duration": 2.57,
+      "text": "Stellen Sie sich also vor, was passiert"
+    },
+    {
+      "start": 322.93,
+      "duration": 2.49,
+      "text": ", wenn Anthropic diese Verbesserungen"
+    },
+    {
+      "start": 324.461,
+      "duration": 2.369,
+      "text": "übernimmt und sie auf Fable, sein"
+    },
+    {
+      "start": 325.87,
+      "duration": 3.559,
+      "text": "absolutes Pioniermodell, anwendet. Der"
+    },
+    {
+      "start": 328.472,
+      "duration": 2.511,
+      "text": "einzige Bereich, in dem OpenAI noch"
+    },
+    {
+      "start": 330.026,
+      "duration": 2.554,
+      "text": "einen großen Vorteil haben könnte,"
+    },
+    {
+      "start": 331.623,
+      "duration": 2.965,
+      "text": "ist die Token-Effizienz. Und das wird"
+    },
+    {
+      "start": 333.626,
+      "duration": 2.384,
+      "text": "eine große Rolle spielen, wenn es um"
+    },
+    {
+      "start": 335.047,
+      "duration": 2.085,
+      "text": "diese Modelle geht, die lange"
+    },
+    {
+      "start": 336.17,
+      "duration": 3.162,
+      "text": "Agentenaufgaben ausführen. Aber da GPT"
+    },
+    {
+      "start": 338.332,
+      "duration": 2.774,
+      "text": "-6.1 Astra Berichten zufolge wegen"
+    },
+    {
+      "start": 340.158,
+      "duration": 2.826,
+      "text": "Nichterfüllung der Sicherheits-und"
+    },
+    {
+      "start": 342.036,
+      "duration": 2.878,
+      "text": "Ausrichtungsanforderungen von OpenAI"
+    },
+    {
+      "start": 343.966,
+      "duration": 2.982,
+      "text": "auf Eis gelegt wurde, ist die größte"
+    },
+    {
+      "start": 346.001,
+      "duration": 2.878,
+      "text": "Frage, was OpenAI als Nächstes tut."
+    },
+    {
+      "start": 348.279,
+      "duration": 3.021,
+      "text": "Treiben sie die aktuelle Generation mit"
+    },
+    {
+      "start": 350.351,
+      "duration": 3.021,
+      "text": "mehr RL weiter voran oder kommen wir an"
+    },
+    {
+      "start": 352.424,
+      "duration": 2.866,
+      "text": "einen Punkt, an dem sie die nächste"
+    },
+    {
+      "start": 354.342,
+      "duration": 2.969,
+      "text": "Generation von Pre-Train auf den Markt"
+    },
+    {
+      "start": 356.363,
+      "duration": 2.969,
+      "text": "bringen müssen, um im Grunde genommen"
+    },
+    {
+      "start": 358.384,
+      "duration": 2.814,
+      "text": "auf das zu reagieren, was Anthropic"
+    },
+    {
+      "start": 360.249,
+      "duration": 3.385,
+      "text": "gerade ausheckt? Denn wenn Fable 5.5"
+    },
+    {
+      "start": 362.693,
+      "duration": 3.289,
+      "text": "relativ bald veröffentlicht wird, wird"
+    },
+    {
+      "start": 365.041,
+      "duration": 3.054,
+      "text": "das definitiv das gesamte KI-Rennen"
+    },
+    {
+      "start": 367.154,
+      "duration": 3.251,
+      "text": "verändern. Wenn ihr die besten"
+    },
+    {
+      "start": 369.449,
+      "duration": 2.735,
+      "text": "KI-Tools, Workflows und Drops vor allen"
+    },
+    {
+      "start": 371.229,
+      "duration": 2.646,
+      "text": "anderen haben wollt, abonniert meinen"
+    },
+    {
+      "start": 372.919,
+      "duration": 2.691,
+      "text": "kostenlosen Newsletter mit dem Link in"
+    },
+    {
+      "start": 374.654,
+      "duration": 2.557,
+      "text": "der Beschreibung unten, der völlig"
+    },
+    {
+      "start": 376.256,
+      "duration": 4.359,
+      "text": "kostenlos ist. Anthropic hat offiziell"
+    },
+    {
+      "start": 379.674,
+      "duration": 3.272,
+      "text": "Sonnet 5.5 veröffentlicht, das zweite"
+    },
+    {
+      "start": 382.006,
+      "duration": 3.351,
+      "text": "Modell der Claude 5.5-Familie. Und"
+    },
+    {
+      "start": 384.403,
+      "duration": 2.341,
+      "text": "heute werden wir uns ein paar"
+    },
+    {
+      "start": 385.79,
+      "duration": 2.619,
+      "text": "verschiedene Tests ansehen, die wir"
+    },
+    {
+      "start": 387.455,
+      "duration": 3.805,
+      "text": "durchführen werden. Das ist etwas, das"
+    },
+    {
+      "start": 390.322,
+      "duration": 3.407,
+      "text": "wir in diesem KI-News-Video tun werden."
+    },
+    {
+      "start": 393.039,
+      "duration": 2.096,
+      "text": "Und wenn ihr natürlich zu den"
+    },
+    {
+      "start": 394.172,
+      "duration": 2.353,
+      "text": "nächsten Abschnitten springen wollt,"
+    },
+    {
+      "start": 395.561,
+      "duration": 2.746,
+      "text": "könnt ihr das auch tun. Aber Sonnet"
+    },
+    {
+      "start": 397.371,
+      "duration": 3.318,
+      "text": "5.5 ist ein ziemlich großes Upgrade"
+    },
+    {
+      "start": 399.753,
+      "duration": 3.382,
+      "text": "gegenüber Sonnet 5. Wir alle wissen,"
+    },
+    {
+      "start": 402.199,
+      "duration": 3.511,
+      "text": "dass Sonnet 5 eine Art Katastrophe war,"
+    },
+    {
+      "start": 404.774,
+      "duration": 3.318,
+      "text": "und wir alle wissen, dass der Sprung"
+    },
+    {
+      "start": 407.156,
+      "duration": 3.511,
+      "text": "mit diesem Modell in den Benchmarks von"
+    },
+    {
+      "start": 409.732,
+      "duration": 3.946,
+      "text": "Anthropic ziemlich groß ist. Sonnet"
+    },
+    {
+      "start": 412.741,
+      "duration": 3.398,
+      "text": "5.5 ist in Bezug auf das Modell selbst"
+    },
+    {
+      "start": 415.203,
+      "duration": 4.429,
+      "text": "ziemlich gewaltig. Laut Anthropic ist"
+    },
+    {
+      "start": 418.685,
+      "duration": 2.974,
+      "text": "es mehr als 30%schneller und kann bis"
+    },
+    {
+      "start": 420.712,
+      "duration": 2.76,
+      "text": "zu 30%weniger pro Aufgabe kosten,"
+    },
+    {
+      "start": 422.525,
+      "duration": 3.081,
+      "text": "hauptsächlich durch die Verwendung von"
+    },
+    {
+      "start": 424.659,
+      "duration": 3.997,
+      "text": "weniger Token und Gesamtkosten. Ehrlich"
+    },
+    {
+      "start": 427.724,
+      "duration": 3.32,
+      "text": "gesagt, basierend auf dem, was ich"
+    },
+    {
+      "start": 430.112,
+      "duration": 3.456,
+      "text": "bisher gesehen habe, ist es ziemlich"
+    },
+    {
+      "start": 432.637,
+      "duration": 3.456,
+      "text": "tokenlastig und wirklich teuer, wenn"
+    },
+    {
+      "start": 435.161,
+      "duration": 3.705,
+      "text": "man High Reasoning verwendet. Es ist"
+    },
+    {
+      "start": 437.921,
+      "duration": 2.858,
+      "text": "irgendwie verrückt, dass dies das"
+    },
+    {
+      "start": 439.833,
+      "duration": 3.077,
+      "text": "mittelgroße Modell von Anthropic sein"
+    },
+    {
+      "start": 441.964,
+      "duration": 2.913,
+      "text": "soll, denn seine Leistung kommt dem"
+    },
+    {
+      "start": 443.931,
+      "duration": 2.968,
+      "text": "Stand der Technik bereits sehr nahe."
+    },
+    {
+      "start": 446.799,
+      "duration": 3.165,
+      "text": "Sonnet 5.5 verbessert sich im Grunde"
+    },
+    {
+      "start": 449.025,
+      "duration": 3.286,
+      "text": "genommen auf ganzer Linie, mit einigen"
+    },
+    {
+      "start": 451.371,
+      "duration": 2.865,
+      "text": "absolut massiven Zuwächsen bei"
+    },
+    {
+      "start": 453.296,
+      "duration": 3.226,
+      "text": "Codierungs-und Agentenaufgaben, wo es"
+    },
+    {
+      "start": 455.582,
+      "duration": 3.226,
+      "text": "sogar das Sonnet 5 sowie das Opus 5.5"
+    },
+    {
+      "start": 457.868,
+      "duration": 3.046,
+      "text": "auf Terminal Bench 4 schlägt, was"
+    },
+    {
+      "start": 459.974,
+      "duration": 4.632,
+      "text": "schon irgendwie verblüffend ist. Und"
+    },
+    {
+      "start": 463.656,
+      "duration": 2.561,
+      "text": "bei alltäglichen Aufgaben, der"
+    },
+    {
+      "start": 465.267,
+      "duration": 2.964,
+      "text": "Behebung von Fehlern und der Erstellung"
+    },
+    {
+      "start": 467.281,
+      "duration": 2.712,
+      "text": "ausgefeilter Dokumente, Folien und"
+    },
+    {
+      "start": 469.043,
+      "duration": 2.964,
+      "text": "Tabellenkalkulationen kommt es Opus 5.5"
+    },
+    {
+      "start": 471.057,
+      "duration": 4.982,
+      "text": "wirklich sehr nahe. Anthropic"
+    },
+    {
+      "start": 475.09,
+      "duration": 2.792,
+      "text": "positioniert dieses Modell also als"
+    },
+    {
+      "start": 476.933,
+      "duration": 2.791,
+      "text": "schneller, kostengünstiger und als"
+    },
+    {
+      "start": 478.775,
+      "duration": 2.791,
+      "text": "Ergänzung zu Opus 5.5, weshalb ich"
+    },
+    {
+      "start": 480.618,
+      "duration": 2.535,
+      "text": "sage, dass es ein großartiger"
+    },
+    {
+      "start": 482.204,
+      "duration": 4.048,
+      "text": "Alltagsbegleiter sein könnte. Sonnet"
+    },
+    {
+      "start": 485.308,
+      "duration": 2.778,
+      "text": "5.5 hat ein Kontextfenster von 1"
+    },
+    {
+      "start": 487.141,
+      "duration": 3.632,
+      "text": "Million Token. Die maximale Ausgabe ist"
+    },
+    {
+      "start": 489.827,
+      "duration": 2.916,
+      "text": "mit 128.000 Token angegeben und der"
+    },
+    {
+      "start": 491.797,
+      "duration": 2.751,
+      "text": "Eingabepreis ist mit 2 USD pro 1"
+    },
+    {
+      "start": 493.603,
+      "duration": 3.025,
+      "text": "Million Eingabetoken und 10 USD pro 1"
+    },
+    {
+      "start": 495.682,
+      "duration": 3.519,
+      "text": "Million Ausgabetoken angegeben. Auf der"
+    },
+    {
+      "start": 498.253,
+      "duration": 2.707,
+      "text": "World of AI Benchmark und der Bob"
+    },
+    {
+      "start": 500.011,
+      "duration": 2.862,
+      "text": "Conan-Plattform, zu der ich unten in"
+    },
+    {
+      "start": 501.924,
+      "duration": 3.017,
+      "text": "der Beschreibung einen Link hinterlasse"
+    },
+    {
+      "start": 503.941,
+      "duration": 2.706,
+      "text": ", haben wir dieses Modell rigoros"
+    },
+    {
+      "start": 505.699,
+      "duration": 2.655,
+      "text": "getestet und sind zu dem Schluss"
+    },
+    {
+      "start": 507.405,
+      "duration": 2.862,
+      "text": "gekommen, dass dieses Modell derzeit"
+    },
+    {
+      "start": 509.319,
+      "duration": 2.706,
+      "text": "auf Platz 3 der Gesamtwertung der"
+    },
+    {
+      "start": 511.077,
+      "duration": 2.551,
+      "text": "Rangliste steht und GPT-6 Soul"
+    },
+    {
+      "start": 512.68,
+      "duration": 2.861,
+      "text": "übertrifft, was irgendwie verrückt"
+    },
+    {
+      "start": 514.593,
+      "duration": 3.071,
+      "text": "ist. Und ehrlich gesagt werden die"
+    },
+    {
+      "start": 516.711,
+      "duration": 2.646,
+      "text": "Ergebnisse, die Sie in diesem Video"
+    },
+    {
+      "start": 518.404,
+      "duration": 2.835,
+      "text": "sehen werden, wirklich zeigen, warum es"
+    },
+    {
+      "start": 520.286,
+      "duration": 3.282,
+      "text": "so weit oben steht. Leute, dies ist der"
+    },
+    {
+      "start": 522.625,
+      "duration": 3.083,
+      "text": "beste Weg für euch, jedes Modell zu"
+    },
+    {
+      "start": 524.766,
+      "duration": 3.14,
+      "text": "testen und Einblicke zu erhalten, was"
+    },
+    {
+      "start": 526.964,
+      "duration": 2.851,
+      "text": "ihr tun könnt und wie ihr diese"
+    },
+    {
+      "start": 528.872,
+      "duration": 3.256,
+      "text": "Plattform im Wesentlichen nutzen könnt"
+    },
+    {
+      "start": 531.128,
+      "duration": 3.141,
+      "text": ", um mit jedem KI-Modell zu beginnen."
+    },
+    {
+      "start": 533.369,
+      "duration": 2.007,
+      "text": "Ich hinterlasse also unten in der"
+    },
+    {
+      "start": 534.407,
+      "duration": 2.194,
+      "text": "Beschreibung einen Link dazu. Ihr"
+    },
+    {
+      "start": 535.635,
+      "duration": 1.746,
+      "text": "könnt sogar auf meine"
+    },
+    {
+      "start": 536.415,
+      "duration": 2.152,
+      "text": "Prompt-Bibliothek zugreifen, daher"
+    },
+    {
+      "start": 537.601,
+      "duration": 2.255,
+      "text": "empfehle ich euch dringend, sie über"
+    },
+    {
+      "start": 538.89,
+      "duration": 2.186,
+      "text": "die Links unten in der Beschreibung"
+    },
+    {
+      "start": 540.11,
+      "duration": 3.946,
+      "text": "auszuprobieren. Sonnet 5.5 erreicht"
+    },
+    {
+      "start": 543.116,
+      "duration": 3.273,
+      "text": "beim Intelligence Index von Artificial"
+    },
+    {
+      "start": 545.448,
+      "duration": 3.154,
+      "text": "Analysis ebenfalls einen Wert von 56"
+    },
+    {
+      "start": 547.662,
+      "duration": 3.272,
+      "text": "und liegt damit nur zwei Punkte hinter"
+    },
+    {
+      "start": 549.994,
+      "duration": 3.333,
+      "text": "Opus 5.5 Max und 18 Punkte über Sonnet"
+    },
+    {
+      "start": 552.387,
+      "duration": 3.333,
+      "text": "5. Das ist ein ziemlich großer Sprung."
+    },
+    {
+      "start": 556.02,
+      "duration": 2.739,
+      "text": "Das größte Problem, das mir bei"
+    },
+    {
+      "start": 557.811,
+      "duration": 2.898,
+      "text": "meinen eigenen Eingabeaufforderungen"
+    },
+    {
+      "start": 559.762,
+      "duration": 2.95,
+      "text": "und Tests jedoch aufgefallen ist, ist"
+    },
+    {
+      "start": 561.764,
+      "duration": 3.241,
+      "text": "die Token-Effizienz. Bei maximalem"
+    },
+    {
+      "start": 564.065,
+      "duration": 3.291,
+      "text": "Aufwand verbraucht Sonnet 5.5 etwa 100"
+    },
+    {
+      "start": 566.416,
+      "duration": 3.315,
+      "text": "Token pro Aufgabe. Das ist der höchste"
+    },
+    {
+      "start": 568.774,
+      "duration": 2.362,
+      "text": "Wert, den Artificial Analysis je"
+    },
+    {
+      "start": 570.179,
+      "duration": 5.709,
+      "text": "gemessen hat, und außerdem etwa das"
+    },
+    {
+      "start": 574.943,
+      "duration": 2.697,
+      "text": "Siebenfache von GPT-6 Astra bei"
+    },
+    {
+      "start": 576.695,
+      "duration": 2.752,
+      "text": "maximalem Aufwand. Das ist schon"
+    },
+    {
+      "start": 578.502,
+      "duration": 4.809,
+      "text": "verrückt. Aber obwohl es sich um das"
+    },
+    {
+      "start": 582.374,
+      "duration": 3.097,
+      "text": "mittelgroße Modell von Anthropic"
+    },
+    {
+      "start": 584.535,
+      "duration": 3.478,
+      "text": "handelt, schlägt es Opus 5.5 und GPT-6"
+    },
+    {
+      "start": 587.076,
+      "duration": 3.225,
+      "text": "Astra beim Terminal Bench 4 mit 64%"
+    },
+    {
+      "start": 589.301,
+      "duration": 3.033,
+      "text": "gegenüber 60%und kommt Opus bei"
+    },
+    {
+      "start": 591.397,
+      "duration": 2.271,
+      "text": "mehreren Agenten-und"
+    },
+    {
+      "start": 592.732,
+      "duration": 3.288,
+      "text": "Wissensarbeits-Benchmarks sehr nahe."
+    },
+    {
+      "start": 596.479,
+      "duration": 2.32,
+      "text": "Ich möchte, dass Sie sich das ansehen."
+    },
+    {
+      "start": 598.279,
+      "duration": 3.131,
+      "text": "Ich habe Claude Sonnet 5.5 in Claude"
+    },
+    {
+      "start": 600.469,
+      "duration": 2.895,
+      "text": "Code mit aktiviertem Ultra-Modus"
+    },
+    {
+      "start": 602.423,
+      "duration": 2.48,
+      "text": "gebeten, in 3 Tagen einen"
+    },
+    {
+      "start": 603.962,
+      "duration": 2.599,
+      "text": "vollständigen Call of Duty"
+    },
+    {
+      "start": 605.62,
+      "duration": 3.47,
+      "text": "Zombies-Klon zu erstellen. Und das"
+    },
+    {
+      "start": 608.129,
+      "duration": 2.165,
+      "text": "alles wurde mit einer einzigen"
+    },
+    {
+      "start": 609.333,
+      "duration": 2.897,
+      "text": "Aufforderung erledigt, Leute. Ich habe"
+    },
+    {
+      "start": 611.263,
+      "duration": 2.215,
+      "text": "gesagt, dass es keine Fragen stellen"
+    },
+    {
+      "start": 612.512,
+      "duration": 2.617,
+      "text": "und es einfach abschicken soll. Und das"
+    },
+    {
+      "start": 614.169,
+      "duration": 2.42,
+      "text": "ist die Qualität. Da kommen diese"
+    },
+    {
+      "start": 615.629,
+      "duration": 3.417,
+      "text": "Zombies auf mich zu. Und dieses Mal"
+    },
+    {
+      "start": 618.089,
+      "duration": 2.688,
+      "text": "spiele ich das Spiel nicht wirklich mit"
+    },
+    {
+      "start": 619.777,
+      "duration": 2.602,
+      "text": ", denn erinnert ihr euch, was letztes"
+    },
+    {
+      "start": 621.423,
+      "duration": 14.516,
+      "text": "Mal passiert ist? Ich habe es dann doch"
+    },
+    {
+      "start": 634.982,
+      "duration": 2.672,
+      "text": "gespielt und vergessen, die Aufnahme zu"
+    },
+    {
+      "start": 636.697,
+      "duration": 2.428,
+      "text": "beenden. Ich habe einfach"
+    },
+    {
+      "start": 638.18,
+      "duration": 3.048,
+      "text": "weitergespielt und im Grunde genommen"
+    },
+    {
+      "start": 640.284,
+      "duration": 3.103,
+      "text": "etwa 5 Minuten eurer Zeit während des"
+    },
+    {
+      "start": 642.442,
+      "duration": 3.259,
+      "text": "Videos verbraucht. Nur ich, der die"
+    },
+    {
+      "start": 644.769,
+      "duration": 3.57,
+      "text": "Simulation gespielt hat, die das Kabel"
+    },
+    {
+      "start": 647.406,
+      "duration": 3.647,
+      "text": "oder Opus 5.5 generiert hat. Aber in"
+    },
+    {
+      "start": 650.106,
+      "duration": 2.817,
+      "text": "diesem Fall könnt ihr sehen, dass"
+    },
+    {
+      "start": 651.977,
+      "duration": 3.084,
+      "text": "Sonnet 5.5 alle tatsächlichen Elemente"
+    },
+    {
+      "start": 654.114,
+      "duration": 2.925,
+      "text": "des Originalspiels mitgeliefert hat."
+    },
+    {
+      "start": 656.369,
+      "duration": 2.573,
+      "text": "Ihr könnt die vernagelten Fenster"
+    },
+    {
+      "start": 657.989,
+      "duration": 2.203,
+      "text": "sehen, die von den Zombies"
+    },
+    {
+      "start": 659.239,
+      "duration": 2.747,
+      "text": "auseinandergerissen werden. Ihr könnt"
+    },
+    {
+      "start": 661.025,
+      "duration": 2.657,
+      "text": "die Barrieren wieder aufbauen. Ihr habt"
+    },
+    {
+      "start": 662.728,
+      "duration": 2.555,
+      "text": "eine Überraschungskiste mit einem"
+    },
+    {
+      "start": 664.329,
+      "duration": 2.8,
+      "text": "Teddybären, der sie bewegen kann. Ihr"
+    },
+    {
+      "start": 666.177,
+      "duration": 2.464,
+      "text": "habt vier Vorteile. Ihr habt"
+    },
+    {
+      "start": 667.697,
+      "duration": 3.016,
+      "text": "Pack-a-Punch, was ein echtes Feature"
+    },
+    {
+      "start": 669.769,
+      "duration": 3.793,
+      "text": "des Originalspiels ist. Und dann habt"
+    },
+    {
+      "start": 672.619,
+      "duration": 3.227,
+      "text": "ihr noch all diese coolen kleinen Dinge"
+    },
+    {
+      "start": 674.903,
+      "duration": 3.17,
+      "text": "wie die verschiedenen Waffenarten, die"
+    },
+    {
+      "start": 677.13,
+      "duration": 3.113,
+      "text": "ihr kaufen könnt, sowie das Erkunden"
+    },
+    {
+      "start": 679.3,
+      "duration": 4.742,
+      "text": "verschiedener Räume. Insgesamt bin ich"
+    },
+    {
+      "start": 683.099,
+      "duration": 2.983,
+      "text": "einfach nur verblüfft, wie gut das"
+    },
+    {
+      "start": 685.139,
+      "duration": 3.433,
+      "text": "Tool alles texturieren konnte. Es hat"
+    },
+    {
+      "start": 687.621,
+      "duration": 2.364,
+      "text": "auch all die kleinen Details"
+    },
+    {
+      "start": 689.034,
+      "duration": 2.51,
+      "text": "hinzugefügt, die man bei einem"
+    },
+    {
+      "start": 690.593,
+      "duration": 2.364,
+      "text": "mittelgroßen Modell wie dem"
+    },
+    {
+      "start": 692.006,
+      "duration": 2.803,
+      "text": "Sonnet-Output wirklich nicht erwarten"
+    },
+    {
+      "start": 693.857,
+      "duration": 5.856,
+      "text": "würde. Die Frontend-Fähigkeiten"
+    },
+    {
+      "start": 698.77,
+      "duration": 3.093,
+      "text": "scheinen bislang einzigartig zu sein,"
+    },
+    {
+      "start": 700.92,
+      "duration": 2.415,
+      "text": "und es hat seinen eigenen"
+    },
+    {
+      "start": 702.391,
+      "duration": 2.868,
+      "text": "Designgeschmack wie das Opus 5.5."
+    },
+    {
+      "start": 705.179,
+      "duration": 3.326,
+      "text": "Insgesamt sieht es so aus, als würde"
+    },
+    {
+      "start": 707.568,
+      "duration": 3.453,
+      "text": "es bei verschiedenen Aufgaben recht gut"
+    },
+    {
+      "start": 710.084,
+      "duration": 3.327,
+      "text": "funktionieren, denn hier haben wir es"
+    },
+    {
+      "start": 712.474,
+      "duration": 3.453,
+      "text": "gebeten, eine Nvidia-GPU-Landingpage zu"
+    },
+    {
+      "start": 714.99,
+      "duration": 3.758,
+      "text": "erstellen. Eines fällt mir sofort auf:"
+    },
+    {
+      "start": 717.81,
+      "duration": 2.899,
+      "text": "Es hat die 3 D-GPU hervorragend"
+    },
+    {
+      "start": 719.77,
+      "duration": 3.39,
+      "text": "erstellt, wozu die meisten hochmodernen"
+    },
+    {
+      "start": 722.222,
+      "duration": 3.405,
+      "text": "Modelle in der Lage sind. Aber man"
+    },
+    {
+      "start": 724.686,
+      "duration": 2.87,
+      "text": "sieht auch die Reflexion, die es"
+    },
+    {
+      "start": 726.614,
+      "duration": 3.105,
+      "text": "generiert hat, das ist der Wahnsinn."
+    },
+    {
+      "start": 729.129,
+      "duration": 2.769,
+      "text": "Man hat eine elegante kleine"
+    },
+    {
+      "start": 730.962,
+      "duration": 3.402,
+      "text": "Landingpage, die alle anderen Elemente"
+    },
+    {
+      "start": 733.427,
+      "duration": 2.923,
+      "text": "präsentiert. Ja, das Diagramm."
+    },
+    {
+      "start": 735.759,
+      "duration": 2.442,
+      "text": "Insgesamt gefallen mir einfach die"
+    },
+    {
+      "start": 737.243,
+      "duration": 2.569,
+      "text": "dynamischen Bewegungen und die coolen"
+    },
+    {
+      "start": 738.855,
+      "duration": 2.654,
+      "text": "Funktionen und der Designgeschmack, den"
+    },
+    {
+      "start": 740.552,
+      "duration": 2.527,
+      "text": "es dieser Landingpage verliehen hat."
+    },
+    {
+      "start": 742.539,
+      "duration": 3.52,
+      "text": "Hier ist ein 360-Grad-Produktviewer,"
+    },
+    {
+      "start": 745.129,
+      "duration": 3.826,
+      "text": "der wirklich beeindruckend ist. Dies"
+    },
+    {
+      "start": 748.029,
+      "duration": 3.882,
+      "text": "ist eine Premium-Ausgabe, die vom Cloud"
+    },
+    {
+      "start": 750.985,
+      "duration": 3.766,
+      "text": "Sonnet 5.5 generiert wurde. Hier haben"
+    },
+    {
+      "start": 753.798,
+      "duration": 2.203,
+      "text": "Sie die Möglichkeit, alle"
+    },
+    {
+      "start": 755.047,
+      "duration": 3.351,
+      "text": "verschiedenen Farben zu ändern. Ich"
+    },
+    {
+      "start": 757.457,
+      "duration": 3.031,
+      "text": "bin wirklich begeistert, dass jede"
+    },
+    {
+      "start": 759.548,
+      "duration": 3.151,
+      "text": "einzelne Funktion dieser Landingpage"
+    },
+    {
+      "start": 761.758,
+      "duration": 2.971,
+      "text": "oder dieses Viewers genau auf der"
+    },
+    {
+      "start": 763.789,
+      "duration": 3.33,
+      "text": "Grundlage unserer Vorgaben funktioniert"
+    },
+    {
+      "start": 766.119,
+      "duration": 4.034,
+      "text": ". Das ist wirklich unglaublich, denn"
+    },
+    {
+      "start": 769.217,
+      "duration": 3.399,
+      "text": "hier haben wir Sonnet 5.5 angewiesen,"
+    },
+    {
+      "start": 771.681,
+      "duration": 3.074,
+      "text": "die Skyline von New York City zu"
+    },
+    {
+      "start": 773.82,
+      "duration": 3.73,
+      "text": "erstellen. Wir haben ihm gesagt, dass"
+    },
+    {
+      "start": 776.591,
+      "duration": 2.551,
+      "text": "es mindestens 2.000 Zeilen haben soll,"
+    },
+    {
+      "start": 778.183,
+      "duration": 2.9,
+      "text": "kein Schummeln mit Auffüllung. Das ist"
+    },
+    {
+      "start": 780.144,
+      "duration": 3.3,
+      "text": "der Detailgrad, den ich wirklich nicht"
+    },
+    {
+      "start": 782.504,
+      "duration": 3.568,
+      "text": "von Sonnet erwartet hätte. Sie sehen,"
+    },
+    {
+      "start": 785.133,
+      "duration": 3.265,
+      "text": "dass Sie bei der Skyline verschiedene"
+    },
+    {
+      "start": 787.459,
+      "duration": 2.898,
+      "text": "Tageszeiten haben, zu denen Sie"
+    },
+    {
+      "start": 789.418,
+      "duration": 3.046,
+      "text": "wechseln können. Sie haben coole"
+    },
+    {
+      "start": 791.522,
+      "duration": 2.854,
+      "text": "kleine Elemente wie verschiedene"
+    },
+    {
+      "start": 793.434,
+      "duration": 2.912,
+      "text": "Details, die wir vom Modell nicht"
+    },
+    {
+      "start": 795.403,
+      "duration": 3.184,
+      "text": "wirklich erwartet hätten, wie z. B."
+    },
+    {
+      "start": 797.645,
+      "duration": 3.143,
+      "text": "die Segelboote. Sie haben sogar die"
+    },
+    {
+      "start": 799.846,
+      "duration": 3.017,
+      "text": "Reflexionen der Wolkenkratzer sowie"
+    },
+    {
+      "start": 801.92,
+      "duration": 2.614,
+      "text": "viele andere Dinge wie einen"
+    },
+    {
+      "start": 803.591,
+      "duration": 2.383,
+      "text": "Hubschrauber, der in die"
+    },
+    {
+      "start": 805.032,
+      "duration": 2.902,
+      "text": "entgegengesetzte Richtung fliegt."
+    },
+    {
+      "start": 807.38,
+      "duration": 2.985,
+      "text": "Trotzdem haben Sie diese coolen kleinen"
+    },
+    {
+      "start": 809.416,
+      "duration": 2.985,
+      "text": "Leute, die herumlaufen oder so animiert"
+    },
+    {
+      "start": 811.452,
+      "duration": 2.679,
+      "text": "sind, dass sie auf seltsame Weise"
+    },
+    {
+      "start": 813.182,
+      "duration": 4.105,
+      "text": "laufen. Insgesamt liebe ich einfach die"
+    },
+    {
+      "start": 816.334,
+      "duration": 2.658,
+      "text": "Qualität und die Tiefe, die es mit"
+    },
+    {
+      "start": 818.04,
+      "duration": 2.8,
+      "text": "dieser spezifischen Ausgabe generieren"
+    },
+    {
+      "start": 819.887,
+      "duration": 3.12,
+      "text": "konnte. Das ist wirklich schön zu"
+    },
+    {
+      "start": 822.046,
+      "duration": 2.698,
+      "text": "sehen. Die Tageszeit scheint"
+    },
+    {
+      "start": 823.789,
+      "duration": 2.62,
+      "text": "tatsächlich nicht zu funktionieren,"
+    },
+    {
+      "start": 825.454,
+      "duration": 3.841,
+      "text": "was der einzige Nachteil ist. Das muss"
+    },
+    {
+      "start": 828.36,
+      "duration": 3.45,
+      "text": "der beste und genaueste Minecraft-Klon"
+    },
+    {
+      "start": 830.875,
+      "duration": 3.321,
+      "text": "sein, den ich je von einem KI-Modell"
+    },
+    {
+      "start": 833.26,
+      "duration": 3.424,
+      "text": "gesehen habe. Das sind Ergebnisse, die"
+    },
+    {
+      "start": 835.736,
+      "duration": 2.919,
+      "text": "mit Sonic 5.5 erzielt wurden, und sie"
+    },
+    {
+      "start": 837.707,
+      "duration": 3.258,
+      "text": "sind wirklich beeindruckend. Es gibt"
+    },
+    {
+      "start": 840.02,
+      "duration": 3.041,
+      "text": "Höhlengenerationen, es gibt Texturen"
+    },
+    {
+      "start": 842.117,
+      "duration": 3.096,
+      "text": "für alle verschiedenen Blöcke wie im"
+    },
+    {
+      "start": 844.269,
+      "duration": 2.876,
+      "text": "ursprünglichen Sandbox-Spiel, und"
+    },
+    {
+      "start": 846.2,
+      "duration": 3.152,
+      "text": "alles scheint perfekt zu funktionieren,"
+    },
+    {
+      "start": 848.407,
+      "duration": 2.766,
+      "text": "angefangen von der Wasserphysik,"
+    },
+    {
+      "start": 850.228,
+      "duration": 3.041,
+      "text": "insbesondere der Wassereimermechanik,"
+    },
+    {
+      "start": 852.324,
+      "duration": 2.38,
+      "text": "und das Höhlensystem ist"
+    },
+    {
+      "start": 853.759,
+      "duration": 3.467,
+      "text": "wahrscheinlich das Beste. Es gibt Erze,"
+    },
+    {
+      "start": 856.28,
+      "duration": 2.85,
+      "text": "und es werden sogar Mobs in diesen"
+    },
+    {
+      "start": 858.184,
+      "duration": 3.122,
+      "text": "verschiedenen Höhlensystemen generiert"
+    },
+    {
+      "start": 860.306,
+      "duration": 2.741,
+      "text": ", wie im eigentlichen Spiel, was"
+    },
+    {
+      "start": 862.102,
+      "duration": 3.565,
+      "text": "verrückt ist, sogar Fackeln. Wir"
+    },
+    {
+      "start": 864.716,
+      "duration": 2.666,
+      "text": "kommen also an einen Punkt, an dem"
+    },
+    {
+      "start": 866.431,
+      "duration": 2.862,
+      "text": "diese Eingabeaufforderung fast bis ins"
+    },
+    {
+      "start": 868.342,
+      "duration": 2.911,
+      "text": "kleinste Detail perfektioniert ist, was"
+    },
+    {
+      "start": 870.302,
+      "duration": 4.464,
+      "text": "irgendwie verrückt ist. Es ist einfach"
+    },
+    {
+      "start": 873.822,
+      "duration": 3.022,
+      "text": "unglaublich, dass wir an einen Punkt"
+    },
+    {
+      "start": 875.9,
+      "duration": 2.854,
+      "text": "gelangen, an dem diese KI-Modelle"
+    },
+    {
+      "start": 877.81,
+      "duration": 3.191,
+      "text": "solche Spiele auf so unglaubliche Weise"
+    },
+    {
+      "start": 880.057,
+      "duration": 4.301,
+      "text": "klonen können. Wenn man nun Sonic 5.5"
+    },
+    {
+      "start": 883.419,
+      "duration": 3.312,
+      "text": "mit hoher Denkleistung auf X mit GPT-6"
+    },
+    {
+      "start": 885.792,
+      "duration": 3.069,
+      "text": "Soul oder sogar Astra mit höherer"
+    },
+    {
+      "start": 887.922,
+      "duration": 3.251,
+      "text": "Argumentation vergleicht, erhält man"
+    },
+    {
+      "start": 890.234,
+      "duration": 3.069,
+      "text": "im Grunde ähnliche Ergebnisse und"
+    },
+    {
+      "start": 892.364,
+      "duration": 3.129,
+      "text": "übertrifft in vielen Fällen sogar"
+    },
+    {
+      "start": 894.554,
+      "duration": 4.488,
+      "text": "Soul. Aber das Verrückte ist, dass man"
+    },
+    {
+      "start": 898.096,
+      "duration": 2.71,
+      "text": "diese verrückten Ergebnisse mit"
+    },
+    {
+      "start": 899.859,
+      "duration": 2.657,
+      "text": "praktisch denselben identischen"
+    },
+    {
+      "start": 901.57,
+      "duration": 3.796,
+      "text": "API-Preisen erhält. Hier ist ein"
+    },
+    {
+      "start": 904.419,
+      "duration": 2.935,
+      "text": "Vergleich von Sonic 5.5 mit dem GPT-6"
+    },
+    {
+      "start": 906.407,
+      "duration": 2.987,
+      "text": "Astra, wobei beide mit genau derselben"
+    },
+    {
+      "start": 908.447,
+      "duration": 2.517,
+      "text": "Eingabeaufforderung auf hoher"
+    },
+    {
+      "start": 910.016,
+      "duration": 2.884,
+      "text": "Argumentation auf X getestet wurden."
+    },
+    {
+      "start": 912.959,
+      "duration": 3.176,
+      "text": "Astra war in etwa 15 Minuten fertig und"
+    },
+    {
+      "start": 915.19,
+      "duration": 3.176,
+      "text": "kostete mit dieser Ausgabe 16 US-Dollar"
+    },
+    {
+      "start": 917.366,
+      "duration": 3.176,
+      "text": ", während es mit Sonic etwa 25 Minuten"
+    },
+    {
+      "start": 919.598,
+      "duration": 3.121,
+      "text": "dauerte, aber nur 3 US-Dollar kostete."
+    },
+    {
+      "start": 922.399,
+      "duration": 2.726,
+      "text": "Und wenn man die endgültigen Artefakte"
+    },
+    {
+      "start": 924.17,
+      "duration": 2.417,
+      "text": "tatsächlich vergleicht, ist der"
+    },
+    {
+      "start": 925.631,
+      "duration": 2.87,
+      "text": "Unterschied ziemlich deutlich. Die"
+    },
+    {
+      "start": 927.555,
+      "duration": 2.935,
+      "text": "Ergebnisse von Sonnet sehen deutlich"
+    },
+    {
+      "start": 929.544,
+      "duration": 2.935,
+      "text": "besser aus, obwohl sie fast fünfmal"
+    },
+    {
+      "start": 931.533,
+      "duration": 3.167,
+      "text": "weniger kosten. Und das kann man"
+    },
+    {
+      "start": 933.756,
+      "duration": 3.027,
+      "text": "natürlich anhand all dieser kleinen"
+    },
+    {
+      "start": 935.839,
+      "duration": 2.801,
+      "text": "Effekte erkennen, die von dieser"
+    },
+    {
+      "start": 937.696,
+      "duration": 3.324,
+      "text": "Landingpage ausgehen. Ein weiterer"
+    },
+    {
+      "start": 940.079,
+      "duration": 3.219,
+      "text": "Benchmark, bei dem Sonnet 5.5 mit Opus"
+    },
+    {
+      "start": 942.357,
+      "duration": 3.278,
+      "text": "5.5 und GPT Astra verglichen wurde, und"
+    },
+    {
+      "start": 944.693,
+      "duration": 2.753,
+      "text": "zwar bei hohem Aufwand X unter"
+    },
+    {
+      "start": 946.504,
+      "duration": 2.694,
+      "text": "Verwendung der exakt gleichen"
+    },
+    {
+      "start": 948.256,
+      "duration": 3.278,
+      "text": "Eingabeaufforderung wie bei den anderen"
+    },
+    {
+      "start": 950.593,
+      "duration": 3.373,
+      "text": "Modellen. Die Gesamtergebnisse können"
+    },
+    {
+      "start": 953.016,
+      "duration": 3.332,
+      "text": "nicht ganz mit Opus 5.5 mithalten. Man"
+    },
+    {
+      "start": 955.405,
+      "duration": 2.745,
+      "text": "kann deutlich erkennen, dass es"
+    },
+    {
+      "start": 957.206,
+      "duration": 3.14,
+      "text": "definitiv einen Unterschied gibt, aber"
+    },
+    {
+      "start": 959.402,
+      "duration": 3.196,
+      "text": "die Farbqualität sieht beim Sonnet 5.5"
+    },
+    {
+      "start": 961.654,
+      "duration": 3.252,
+      "text": "extrem gut aus. Der Kontrast ist dort"
+    },
+    {
+      "start": 963.961,
+      "duration": 4.35,
+      "text": "definitiv gut. Es dauerte etwa 1 Stunde"
+    },
+    {
+      "start": 967.404,
+      "duration": 4.862,
+      "text": "und 54 Minuten und kostete 7,73 $. Es"
+    },
+    {
+      "start": 971.309,
+      "duration": 2.699,
+      "text": "ist also definitiv ziemlich langsam bei"
+    },
+    {
+      "start": 973.051,
+      "duration": 2.394,
+      "text": "dieser Aufgabe und bei maximalem"
+    },
+    {
+      "start": 974.489,
+      "duration": 2.655,
+      "text": "Aufwand sehen die Ergebnisse definitiv"
+    },
+    {
+      "start": 976.187,
+      "duration": 2.699,
+      "text": "besser aus, aber es gibt offensichtlich"
+    },
+    {
+      "start": 977.93,
+      "duration": 3.069,
+      "text": "einen großen Kompromiss. Es verbraucht"
+    },
+    {
+      "start": 980.052,
+      "duration": 2.667,
+      "text": "offensichtlich viele Token, was"
+    },
+    {
+      "start": 981.773,
+      "duration": 2.721,
+      "text": "wahrscheinlich einer der wenigen"
+    },
+    {
+      "start": 983.548,
+      "duration": 3.097,
+      "text": "Nachteile des Sonnet-Modells bisher ist"
+    },
+    {
+      "start": 985.645,
+      "duration": 3.099,
+      "text": ". Mein Fazit zum Sonnet 5.5 ist also,"
+    },
+    {
+      "start": 987.796,
+      "duration": 2.844,
+      "text": "dass es sich um ein bemerkenswertes"
+    },
+    {
+      "start": 989.692,
+      "duration": 3.002,
+      "text": "mittelgroßes Modell handelt, das sich"
+    },
+    {
+      "start": 991.746,
+      "duration": 2.896,
+      "text": "nicht wirklich wie ein mittelgroßes"
+    },
+    {
+      "start": 993.695,
+      "duration": 3.478,
+      "text": "Modell anfühlt. Es ist ein riesiger"
+    },
+    {
+      "start": 996.223,
+      "duration": 2.676,
+      "text": "Sprung gegenüber dem Sonnet 5. Es"
+    },
+    {
+      "start": 997.949,
+      "duration": 2.873,
+      "text": "läuft 30%schneller und kostet bei den"
+    },
+    {
+      "start": 999.872,
+      "duration": 4.058,
+      "text": "meisten Aufgaben bis zu 30%weniger. Es"
+    },
+    {
+      "start": 1002.985,
+      "duration": 3.058,
+      "text": "ist praktisch identisch mit Opus 5.5,"
+    },
+    {
+      "start": 1005.098,
+      "duration": 2.891,
+      "text": "liegt nur in einigen verschiedenen"
+    },
+    {
+      "start": 1007.044,
+      "duration": 3.353,
+      "text": "Bereichen etwas zurück. Für mich ist"
+    },
+    {
+      "start": 1009.448,
+      "duration": 3.902,
+      "text": "es eher grenzwertig. Natürlich muss"
+    },
+    {
+      "start": 1012.406,
+      "duration": 2.844,
+      "text": "ich es noch in mehreren Bereichen"
+    },
+    {
+      "start": 1014.306,
+      "duration": 2.899,
+      "text": "weiter testen, um diese Behauptung"
+    },
+    {
+      "start": 1016.261,
+      "duration": 2.844,
+      "text": "tatsächlich zu bestätigen, aber"
+    },
+    {
+      "start": 1018.161,
+      "duration": 3.18,
+      "text": "insgesamt ist es ein wirklich, wirklich"
+    },
+    {
+      "start": 1020.396,
+      "duration": 2.956,
+      "text": "schönes Modell und etwas, das sich"
+    },
+    {
+      "start": 1022.408,
+      "duration": 3.068,
+      "text": "hervorragend als täglicher Begleiter"
+    },
+    {
+      "start": 1024.532,
+      "duration": 2.9,
+      "text": "auf niedrigeren Denkebenen eignet."
+    },
+    {
+      "start": 1027.419,
+      "duration": 3.384,
+      "text": "Preislich ist es natürlich nicht das"
+    },
+    {
+      "start": 1029.868,
+      "duration": 3.449,
+      "text": "Beste, aber es ist immer noch relevant"
+    },
+    {
+      "start": 1032.382,
+      "duration": 3.081,
+      "text": "und günstig. Wenn euch dieses Video"
+    },
+    {
+      "start": 1034.507,
+      "duration": 2.162,
+      "text": "gefällt und ihr den Kanal"
+    },
+    {
+      "start": 1035.714,
+      "duration": 2.52,
+      "text": "unterstützen möchtet, könnt ihr"
+    },
+    {
+      "start": 1037.278,
+      "duration": 2.564,
+      "text": "über die unten stehende Option „"
+    },
+    {
+      "start": 1038.842,
+      "duration": 2.475,
+      "text": "Super Thanks“ für meinen Kanal"
+    },
+    {
+      "start": 1040.362,
+      "duration": 2.879,
+      "text": "spenden. Oder ihr schließt euch"
+    },
+    {
+      "start": 1042.296,
+      "duration": 2.921,
+      "text": "unserem privaten Discord an, wo ihr"
+    },
+    {
+      "start": 1044.272,
+      "duration": 2.701,
+      "text": "monatlich kostenlos auf mehrere"
+    },
+    {
+      "start": 1046.028,
+      "duration": 3.085,
+      "text": "Abonnements für verschiedene KI-Tools"
+    },
+    {
+      "start": 1048.168,
+      "duration": 3.031,
+      "text": "zugreifen könnt, sowie auf tägliche"
+    },
+    {
+      "start": 1050.254,
+      "duration": 2.811,
+      "text": "KI-News und exklusive Inhalte und"
+    },
+    {
+      "start": 1052.12,
+      "duration": 3.221,
+      "text": "vieles mehr. Aber was die Zukunft"
+    },
+    {
+      "start": 1054.4,
+      "duration": 3.186,
+      "text": "betrifft, haben wir ziemlich düstere"
+    },
+    {
+      "start": 1056.645,
+      "duration": 3.127,
+      "text": "Neuigkeiten von OpenAI, denn GPT-6.1"
+    },
+    {
+      "start": 1058.831,
+      "duration": 2.832,
+      "text": "Astra, das um den Dev Day herum"
+    },
+    {
+      "start": 1060.722,
+      "duration": 3.009,
+      "text": "erscheinen sollte, wurde offiziell"
+    },
+    {
+      "start": 1062.79,
+      "duration": 4.093,
+      "text": "verschoben. Laut Wall Street Journal"
+    },
+    {
+      "start": 1065.955,
+      "duration": 3.497,
+      "text": "bereitete OpenAI GPT-6.1 Astra für"
+    },
+    {
+      "start": 1068.524,
+      "duration": 3.388,
+      "text": "einen Start im Oktober vor. Interne"
+    },
+    {
+      "start": 1070.948,
+      "duration": 2.19,
+      "text": "Tests ergaben jedoch, dass es die"
+    },
+    {
+      "start": 1072.175,
+      "duration": 2.298,
+      "text": "Sicherheits-und Abstimmungsstandards"
+    },
+    {
+      "start": 1073.509,
+      "duration": 3.229,
+      "text": "des Unternehmens nicht erfüllte. Das"
+    },
+    {
+      "start": 1075.785,
+      "duration": 2.745,
+      "text": "Verrückte daran ist, dass das Modell"
+    },
+    {
+      "start": 1077.577,
+      "duration": 2.51,
+      "text": "offenbar besser in der Lage war,"
+    },
+    {
+      "start": 1079.134,
+      "duration": 2.698,
+      "text": "schwierige Aufgaben ohne menschliche"
+    },
+    {
+      "start": 1080.879,
+      "duration": 2.698,
+      "text": "Hilfe durchgängig zu erledigen, und"
+    },
+    {
+      "start": 1082.624,
+      "duration": 2.32,
+      "text": "Probleme wie Modellträgheit"
+    },
+    {
+      "start": 1083.992,
+      "duration": 3.979,
+      "text": "verbesserte. Allerdings zeigte es auch"
+    },
+    {
+      "start": 1087.018,
+      "duration": 2.78,
+      "text": "einige irreführende Verhaltensweisen,"
+    },
+    {
+      "start": 1088.845,
+      "duration": 2.78,
+      "text": "die seine Vorgänger nicht hatten, und"
+    },
+    {
+      "start": 1090.672,
+      "duration": 2.64,
+      "text": "berichtete manchmal ungenau, was es"
+    },
+    {
+      "start": 1092.358,
+      "duration": 2.687,
+      "text": "getan hatte, und überschritt seinen"
+    },
+    {
+      "start": 1094.092,
+      "duration": 2.827,
+      "text": "zulässigen Rahmen, einschließlich des"
+    },
+    {
+      "start": 1095.966,
+      "duration": 2.733,
+      "text": "Versuchs, externe Tools zu verwenden,"
+    },
+    {
+      "start": 1097.746,
+      "duration": 4.266,
+      "text": "wenn dies nicht vorgesehen war. Stimmt"
+    },
+    {
+      "start": 1101.097,
+      "duration": 3.736,
+      "text": "das nun? Ich weiß es nicht, aber das"
+    },
+    {
+      "start": 1103.879,
+      "duration": 2.802,
+      "text": "Nichteinhalten von Sicherheitsstandards"
+    },
+    {
+      "start": 1105.727,
+      "duration": 2.802,
+      "text": "ist eine sehr höfliche Art, das Rennen"
+    },
+    {
+      "start": 1107.575,
+      "duration": 2.802,
+      "text": "um ein Modell tatsächlich zu verlieren"
+    },
+    {
+      "start": 1109.377,
+      "duration": 2.802,
+      "text": ", und meiner Meinung nach ist dies, wie"
+    },
+    {
+      "start": 1111.225,
+      "duration": 2.802,
+      "text": "ich zu Beginn des Videos erwähnt habe,"
+    },
+    {
+      "start": 1113.073,
+      "duration": 2.756,
+      "text": "möglicherweise eine Möglichkeit für"
+    },
+    {
+      "start": 1114.875,
+      "duration": 2.709,
+      "text": "sie, die Einführung ihres Modells zu"
+    },
+    {
+      "start": 1116.631,
+      "duration": 2.57,
+      "text": "verzögern, da sie nicht dieselben"
+    },
+    {
+      "start": 1118.248,
+      "duration": 3.523,
+      "text": "Standards wie Anthropic erfüllen. Aber"
+    },
+    {
+      "start": 1120.834,
+      "duration": 3.461,
+      "text": "egal, ich weiß wirklich nicht, was sie"
+    },
+    {
+      "start": 1123.359,
+      "duration": 4.213,
+      "text": "jetzt am Dev Day vorhaben. Ich weiß,"
+    },
+    {
+      "start": 1126.613,
+      "duration": 2.569,
+      "text": "dass es noch viele weitere Leaks gibt,"
+    },
+    {
+      "start": 1128.224,
+      "duration": 2.445,
+      "text": "über die wir bald sprechen werden,"
+    },
+    {
+      "start": 1129.711,
+      "duration": 2.528,
+      "text": "aber das ist schon ein harter Schlag,"
+    },
+    {
+      "start": 1131.28,
+      "duration": 2.363,
+      "text": "denn das sollte einer der großen"
+    },
+    {
+      "start": 1132.684,
+      "duration": 3.566,
+      "text": "Launches beim Dev Day sein. Aber wir"
+    },
+    {
+      "start": 1135.281,
+      "duration": 2.128,
+      "text": "wissen mit Sicherheit, dass sie alle"
+    },
+    {
+      "start": 1136.44,
+      "duration": 2.159,
+      "text": "ihre Always-On-Assistenten vorstellen"
+    },
+    {
+      "start": 1137.63,
+      "duration": 2.222,
+      "text": "werden, über die wir gesprochen haben,"
+    },
+    {
+      "start": 1138.883,
+      "duration": 2.002,
+      "text": "und ich kann euch nur wärmstens"
+    },
+    {
+      "start": 1139.917,
+      "duration": 1.939,
+      "text": "empfehlen, euch das Video dazu"
+    },
+    {
+      "start": 1140.888,
+      "duration": 2.096,
+      "text": "anzusehen, falls ihr das noch nicht"
+    },
+    {
+      "start": 1142.015,
+      "duration": 3.276,
+      "text": "getan habt. Eine weitere Sache, die sie"
+    },
+    {
+      "start": 1144.342,
+      "duration": 2.94,
+      "text": "bestätigt haben, sind die mehr als 20"
+    },
+    {
+      "start": 1146.333,
+      "duration": 3.37,
+      "text": "Launches. Wir wissen nicht, was das"
+    },
+    {
+      "start": 1148.752,
+      "duration": 2.712,
+      "text": "für Launches sein werden, aber ich"
+    },
+    {
+      "start": 1150.513,
+      "duration": 3.737,
+      "text": "vermute ein paar Dinge. Eine der"
+    },
+    {
+      "start": 1153.294,
+      "duration": 2.711,
+      "text": "wichtigsten Neuerungen ist, dass OpenAI"
+    },
+    {
+      "start": 1155.049,
+      "duration": 2.666,
+      "text": "einen größeren Teil seiner Plattform"
+    },
+    {
+      "start": 1156.759,
+      "duration": 3.418,
+      "text": "direkt in Codex einbringt. Dadurch"
+    },
+    {
+      "start": 1159.228,
+      "duration": 2.993,
+      "text": "können Entwickler Plugins, Agenten und"
+    },
+    {
+      "start": 1161.272,
+      "duration": 2.737,
+      "text": "Apps direkt über einen speziellen"
+    },
+    {
+      "start": 1163.06,
+      "duration": 4.484,
+      "text": "Dev-Day erstellen. Die Sessions selbst"
+    },
+    {
+      "start": 1166.59,
+      "duration": 2.7,
+      "text": "sind aber noch interessanter, denn es"
+    },
+    {
+      "start": 1168.336,
+      "duration": 2.562,
+      "text": "gibt ein Codex-Game-Studio, in dem"
+    },
+    {
+      "start": 1169.944,
+      "duration": 2.425,
+      "text": "Entwickler buchstäblich Spiele"
+    },
+    {
+      "start": 1171.415,
+      "duration": 2.608,
+      "text": "entwickeln, die Codex herausfordern"
+    },
+    {
+      "start": 1173.069,
+      "duration": 3.905,
+      "text": "sollen. Außerdem wird in einer Session"
+    },
+    {
+      "start": 1176.026,
+      "duration": 2.894,
+      "text": "ein interner OpenAI-Agent enthüllt,"
+    },
+    {
+      "start": 1177.973,
+      "duration": 2.947,
+      "text": "der offenbar mehr als tausend Stunden"
+    },
+    {
+      "start": 1179.972,
+      "duration": 2.947,
+      "text": "lang lief und dabei Ziele, Subagenten"
+    },
+    {
+      "start": 1181.972,
+      "duration": 2.947,
+      "text": "und persistente Pläne verwendete, um"
+    },
+    {
+      "start": 1183.971,
+      "duration": 2.894,
+      "text": "kontinuierlich Fehler zu untersuchen"
+    },
+    {
+      "start": 1185.918,
+      "duration": 3.052,
+      "text": "und eine große Codebasis zu reparieren"
+    },
+    {
+      "start": 1187.97,
+      "duration": 4.056,
+      "text": ". Außerdem gibt es noch Codex has left"
+    },
+    {
+      "start": 1191.078,
+      "duration": 2.927,
+      "text": "laptop, das sich darauf konzentriert,"
+    },
+    {
+      "start": 1193.057,
+      "duration": 2.302,
+      "text": "dass Codex über einzelne"
+    },
+    {
+      "start": 1194.412,
+      "duration": 2.718,
+      "text": "Codierungsaufgaben hinausgeht und"
+    },
+    {
+      "start": 1196.183,
+      "duration": 2.979,
+      "text": "stattdessen autonom ganze Probleme und"
+    },
+    {
+      "start": 1198.214,
+      "duration": 3.319,
+      "text": "Ziele bearbeitet. Und die"
+    },
+    {
+      "start": 1200.567,
+      "duration": 2.269,
+      "text": "wahrscheinlich interessanteste Sitzung"
+    },
+    {
+      "start": 1201.869,
+      "duration": 2.236,
+      "text": "davon ist das Thema „Was kommt nach"
+    },
+    {
+      "start": 1203.138,
+      "duration": 3.851,
+      "text": "den Schleifen?“. In dieser Sitzung"
+    },
+    {
+      "start": 1206.039,
+      "duration": 2.802,
+      "text": "wird OpenAI den Wandel von einfachen"
+    },
+    {
+      "start": 1207.892,
+      "duration": 2.601,
+      "text": "Agentenschleifen hin zu mehreren"
+    },
+    {
+      "start": 1209.543,
+      "duration": 2.953,
+      "text": "zusammenarbeitenden Agenten untersuchen"
+    },
+    {
+      "start": 1211.546,
+      "duration": 2.752,
+      "text": "und wie die nächste Generation von"
+    },
+    {
+      "start": 1213.348,
+      "duration": 2.752,
+      "text": "Agentenarchitekturen aussehen wird."
+    },
+    {
+      "start": 1216.039,
+      "duration": 2.874,
+      "text": "Jetzt haben wir möglicherweise einen"
+    },
+    {
+      "start": 1217.963,
+      "duration": 2.976,
+      "text": "der bisher größten Dev-Day-Leaks, und"
+    },
+    {
+      "start": 1219.99,
+      "duration": 2.924,
+      "text": "hier bereitet OpenAI Berichten zufolge"
+    },
+    {
+      "start": 1221.965,
+      "duration": 3.425,
+      "text": "etwas namens Dots vor. Im Wesentlichen"
+    },
+    {
+      "start": 1224.444,
+      "duration": 2.731,
+      "text": "antwortet es auf seine autonomen"
+    },
+    {
+      "start": 1226.229,
+      "duration": 3.11,
+      "text": "KI-Begleiter wie Meta Mews und Crocbot."
+    },
+    {
+      "start": 1228.579,
+      "duration": 2.388,
+      "text": "Der größte Unterschied besteht jedoch"
+    },
+    {
+      "start": 1230.002,
+      "duration": 2.068,
+      "text": "darin, dass Dot anscheinend so"
+    },
+    {
+      "start": 1231.106,
+      "duration": 2.281,
+      "text": "konzipiert ist, dass es tatsächlich"
+    },
+    {
+      "start": 1232.423,
+      "duration": 2.771,
+      "text": "selbstständig funktioniert. Dein Dot"
+    },
+    {
+      "start": 1234.24,
+      "duration": 2.538,
+      "text": "kann anscheinend laufende Aufgaben"
+    },
+    {
+      "start": 1235.823,
+      "duration": 2.719,
+      "text": "ausführen, dich benachrichtigen, wenn"
+    },
+    {
+      "start": 1237.587,
+      "duration": 2.177,
+      "text": "die Recherche tatsächlich"
+    },
+    {
+      "start": 1238.809,
+      "duration": 2.764,
+      "text": "abgeschlossen ist, entscheiden, wann er"
+    },
+    {
+      "start": 1240.619,
+      "duration": 2.447,
+      "text": "deine Genehmigung benötigt, und"
+    },
+    {
+      "start": 1242.112,
+      "duration": 2.764,
+      "text": "benutzerdefinierte Regeln befolgen, die"
+    },
+    {
+      "start": 1243.921,
+      "duration": 2.765,
+      "text": "steuern, was er tun kann und was nicht."
+    },
+    {
+      "start": 1246.139,
+      "duration": 2.761,
+      "text": "Noch verrückter ist, dass jeder Dot"
+    },
+    {
+      "start": 1247.949,
+      "duration": 2.518,
+      "text": "tatsächlich auf seinen eigenen"
+    },
+    {
+      "start": 1249.516,
+      "duration": 2.859,
+      "text": "virtuellen Computer zugreifen könnte,"
+    },
+    {
+      "start": 1251.424,
+      "duration": 2.762,
+      "text": "der als Computer deines eigenen Dots"
+    },
+    {
+      "start": 1253.235,
+      "duration": 2.615,
+      "text": "bezeichnet wird, sodass der Agent"
+    },
+    {
+      "start": 1254.899,
+      "duration": 2.86,
+      "text": "tatsächlich mit Websites interagieren"
+    },
+    {
+      "start": 1256.808,
+      "duration": 3.195,
+      "text": "und Aufgaben erledigen kann. Es gibt"
+    },
+    {
+      "start": 1259.049,
+      "duration": 2.571,
+      "text": "auch Hinweise darauf, dass ChatGPT"
+    },
+    {
+      "start": 1260.666,
+      "duration": 2.802,
+      "text": "heimlich Passwörter speichern könnte,"
+    },
+    {
+      "start": 1262.514,
+      "duration": 2.617,
+      "text": "sodass sich diese Agenten in deinem"
+    },
+    {
+      "start": 1264.177,
+      "duration": 2.71,
+      "text": "Namen über den Browser bei Webseiten"
+    },
+    {
+      "start": 1265.933,
+      "duration": 3.361,
+      "text": "anmelden können. Und anscheinend wird"
+    },
+    {
+      "start": 1268.34,
+      "duration": 2.557,
+      "text": "es für Dots auch eine Reihe von 3"
+    },
+    {
+      "start": 1269.942,
+      "duration": 3.392,
+      "text": "D-Anpassungsoptionen geben. Wenn das"
+    },
+    {
+      "start": 1272.388,
+      "duration": 3.069,
+      "text": "alles morgen startet, könnte das Open"
+    },
+    {
+      "start": 1274.511,
+      "duration": 2.687,
+      "text": "AIs bisher größter Schritt in"
+    },
+    {
+      "start": 1276.253,
+      "duration": 2.959,
+      "text": "Richtung eines Always-On-Assistenten"
+    },
+    {
+      "start": 1278.266,
+      "duration": 4.22,
+      "text": "sein. Aber mir fallen spontan ein, was"
+    },
+    {
+      "start": 1281.557,
+      "duration": 3.431,
+      "text": "demnächst erscheinen könnte: ihr"
+    },
+    {
+      "start": 1284.059,
+      "duration": 3.645,
+      "text": "Always-On-Assistent wie Grok Bot, der"
+    },
+    {
+      "start": 1286.776,
+      "duration": 3.645,
+      "text": "500-Dollar-Ax-Plan, sogar Aion, falls"
+    },
+    {
+      "start": 1289.492,
+      "duration": 3.436,
+      "text": "das zählt. Dann gibt es noch GPT-6.1"
+    },
+    {
+      "start": 1291.976,
+      "duration": 2.77,
+      "text": "Soul, das erscheinen könnte, aber da"
+    },
+    {
+      "start": 1293.794,
+      "duration": 3.093,
+      "text": "bin ich mir noch nicht so sicher. Und"
+    },
+    {
+      "start": 1295.924,
+      "duration": 2.378,
+      "text": "natürlich das Codex-Update, über das"
+    },
+    {
+      "start": 1297.338,
+      "duration": 2.928,
+      "text": "wir gesprochen haben. Es gibt auch ein"
+    },
+    {
+      "start": 1299.318,
+      "duration": 3.015,
+      "text": "paar kleine Features in Codex, aber das"
+    },
+    {
+      "start": 1301.385,
+      "duration": 2.963,
+      "text": "sind nur ein paar Dinge, über die ich"
+    },
+    {
+      "start": 1303.4,
+      "duration": 3.109,
+      "text": "spekulieren kann. Ax und Anthropic,"
+    },
+    {
+      "start": 1305.558,
+      "duration": 2.401,
+      "text": "weil sie einen neuen Workflow"
+    },
+    {
+      "start": 1307.008,
+      "duration": 2.788,
+      "text": "eingeführt haben, bei dem Claude dir"
+    },
+    {
+      "start": 1308.844,
+      "duration": 2.789,
+      "text": "beim Erstellen von Bewertungen helfen"
+    },
+    {
+      "start": 1310.681,
+      "duration": 2.738,
+      "text": "kann, gegen die er dann antritt. Im"
+    },
+    {
+      "start": 1312.465,
+      "duration": 2.512,
+      "text": "Grunde kann Claude Code dir dabei"
+    },
+    {
+      "start": 1314.023,
+      "duration": 2.466,
+      "text": "helfen, Evaluierungen für deine"
+    },
+    {
+      "start": 1315.535,
+      "duration": 2.741,
+      "text": "Anwendung zu entwerfen, Schwachstellen"
+    },
+    {
+      "start": 1317.321,
+      "duration": 2.65,
+      "text": "zu identifizieren und Verbesserungen"
+    },
+    {
+      "start": 1319.017,
+      "duration": 2.725,
+      "text": "vorzunehmen. Anschließend können"
+    },
+    {
+      "start": 1320.786,
+      "duration": 2.715,
+      "text": "diese Änderungen wiederholt anhand der"
+    },
+    {
+      "start": 1322.545,
+      "duration": 2.628,
+      "text": "Evaluierungen getestet werden, um die"
+    },
+    {
+      "start": 1324.217,
+      "duration": 2.715,
+      "text": "Anwendung im Laufe der Zeit iterativ zu"
+    },
+    {
+      "start": 1325.976,
+      "duration": 3.218,
+      "text": "verbessern. Dies könnte äußerst"
+    },
+    {
+      "start": 1328.237,
+      "duration": 2.519,
+      "text": "nützlich für Entwickler sein, die"
+    },
+    {
+      "start": 1329.8,
+      "duration": 2.171,
+      "text": "versuchen, ihre Agenten und"
+    },
+    {
+      "start": 1331.014,
+      "duration": 2.302,
+      "text": "KI-Anwendungen systematisch zu"
+    },
+    {
+      "start": 1332.36,
+      "duration": 2.388,
+      "text": "verbessern, anstatt sich nur auf"
+    },
+    {
+      "start": 1333.791,
+      "duration": 2.519,
+      "text": "Stimmungen zu verlassen und dann zu"
+    },
+    {
+      "start": 1335.353,
+      "duration": 2.432,
+      "text": "sehen, ob sich tatsächlich etwas"
+    },
+    {
+      "start": 1336.829,
+      "duration": 3.898,
+      "text": "verbessert hat. Wenn wir uns den"
+    },
+    {
+      "start": 1339.792,
+      "duration": 3.534,
+      "text": "chinesischen KI-Laboren zuwenden, sieht"
+    },
+    {
+      "start": 1342.391,
+      "duration": 3.209,
+      "text": "es so aus, als würde das Moonshot"
+    },
+    {
+      "start": 1344.665,
+      "duration": 3.079,
+      "text": "AI-Team Kimi K 3.1 auf den Markt"
+    },
+    {
+      "start": 1346.809,
+      "duration": 3.093,
+      "text": "bringen. Das Modell befindet sich nun"
+    },
+    {
+      "start": 1348.926,
+      "duration": 2.683,
+      "text": "in der Testphase. Berichten zufolge"
+    },
+    {
+      "start": 1350.678,
+      "duration": 3.142,
+      "text": "wurde das Modell heute in Kimis"
+    },
+    {
+      "start": 1352.889,
+      "duration": 3.418,
+      "text": "Backend-Modellregistrierung mit dem"
+    },
+    {
+      "start": 1355.377,
+      "duration": 3.625,
+      "text": "Kimi K-1-Slug entdeckt und wurde sogar"
+    },
+    {
+      "start": 1358.071,
+      "duration": 3.585,
+      "text": "im API-Katalog gefunden. Das bedeutet"
+    },
+    {
+      "start": 1360.709,
+      "duration": 3.017,
+      "text": "natürlich nicht, dass K 3.1 sehr bald"
+    },
+    {
+      "start": 1362.779,
+      "duration": 3.017,
+      "text": "auf den Markt kommen wird, aber es ist"
+    },
+    {
+      "start": 1364.849,
+      "duration": 2.487,
+      "text": "etwas, das uns einen kleinen"
+    },
+    {
+      "start": 1366.389,
+      "duration": 2.964,
+      "text": "Vorgeschmack darauf gegeben hat, wozu"
+    },
+    {
+      "start": 1368.406,
+      "duration": 3.07,
+      "text": "dieses Open-Source-Flaggschiffmodell in"
+    },
+    {
+      "start": 1370.529,
+      "duration": 3.004,
+      "text": "der Lage ist. Es hat offenbar 2,8"
+    },
+    {
+      "start": 1372.586,
+      "duration": 2.706,
+      "text": "Billionen Parameter und auch die"
+    },
+    {
+      "start": 1374.346,
+      "duration": 2.813,
+      "text": "Preisgestaltung wurde tatsächlich"
+    },
+    {
+      "start": 1376.212,
+      "duration": 4.297,
+      "text": "geleakt. Und wir haben sogar DeepSeek,"
+    },
+    {
+      "start": 1379.56,
+      "duration": 2.849,
+      "text": "die an der Version 4.1 Pro arbeiten,"
+    },
+    {
+      "start": 1381.46,
+      "duration": 2.695,
+      "text": "die möglicherweise nur noch Tage"
+    },
+    {
+      "start": 1383.206,
+      "duration": 2.592,
+      "text": "entfernt ist, denn es gab einen"
+    },
+    {
+      "start": 1384.849,
+      "duration": 2.438,
+      "text": "Mitarbeiter, der an der Deep"
+    },
+    {
+      "start": 1386.339,
+      "duration": 2.9,
+      "text": "Seek-Oberfläche arbeitet, und er hat"
+    },
+    {
+      "start": 1388.29,
+      "duration": 2.951,
+      "text": "Berichten zufolge den Nutzern in einer"
+    },
+    {
+      "start": 1390.293,
+      "duration": 2.643,
+      "text": "Beta-Gruppe mitgeteilt, dass die"
+    },
+    {
+      "start": 1391.987,
+      "duration": 2.849,
+      "text": "offizielle Desktop-Version am Montag"
+    },
+    {
+      "start": 1393.888,
+      "duration": 2.746,
+      "text": "oder Dienstag vor dem chinesischen"
+    },
+    {
+      "start": 1395.685,
+      "duration": 2.695,
+      "text": "Nationalfeiertag erscheinen wird."
+    },
+    {
+      "start": 1398.72,
+      "duration": 2.865,
+      "text": "Interessant ist jedoch, dass Deep Seek"
+    },
+    {
+      "start": 1400.634,
+      "duration": 2.914,
+      "text": "auch angekündigt hat, dass die Version"
+    },
+    {
+      "start": 1402.597,
+      "duration": 2.767,
+      "text": "4.1 Pro zusammen mit der offiziellen"
+    },
+    {
+      "start": 1404.413,
+      "duration": 2.817,
+      "text": "Version der Deep Seek-Oberfläche auf"
+    },
+    {
+      "start": 1406.279,
+      "duration": 3.557,
+      "text": "den Markt kommen wird. Wenn dieser"
+    },
+    {
+      "start": 1408.892,
+      "duration": 3.031,
+      "text": "Zeitplan also noch eingehalten wird,"
+    },
+    {
+      "start": 1410.98,
+      "duration": 2.861,
+      "text": "wird wahrscheinlich auch die Deep"
+    },
+    {
+      "start": 1412.897,
+      "duration": 3.314,
+      "text": "Seek-Version 4.1 Pro live gehen. Dann"
+    },
+    {
+      "start": 1415.274,
+      "duration": 3.55,
+      "text": "haben wir noch Alibaba. Was braut sich"
+    },
+    {
+      "start": 1417.866,
+      "duration": 3.179,
+      "text": "hinter den Kulissen zusammen? Und wir"
+    },
+    {
+      "start": 1420.086,
+      "duration": 2.554,
+      "text": "haben kürzlich die Modellfamilie für"
+    },
+    {
+      "start": 1421.681,
+      "duration": 2.349,
+      "text": "Qwen 4.0 auf der Aspara-Konferenz"
+    },
+    {
+      "start": 1423.071,
+      "duration": 3.856,
+      "text": "gesehen. Aber jetzt haben wir dieses"
+    },
+    {
+      "start": 1425.993,
+      "duration": 3.358,
+      "text": "neue mysteriöse Qwen-Vorschaumodell"
+    },
+    {
+      "start": 1428.417,
+      "duration": 3.358,
+      "text": "mit dem Codenamen Qwen Latest Series"
+    },
+    {
+      "start": 1430.841,
+      "duration": 3.555,
+      "text": "Invite 2609, das ist das Datum, und die"
+    },
+    {
+      "start": 1433.461,
+      "duration": 3.097,
+      "text": "Evaluierungen laufen bis zum 30."
+    },
+    {
+      "start": 1435.623,
+      "duration": 3.732,
+      "text": "September. Es gibt keine Bestätigung,"
+    },
+    {
+      "start": 1438.394,
+      "duration": 2.407,
+      "text": "welche Modelle tatsächlich getestet"
+    },
+    {
+      "start": 1439.84,
+      "duration": 2.055,
+      "text": "werden, aber es besteht die"
+    },
+    {
+      "start": 1440.934,
+      "duration": 2.368,
+      "text": "Möglichkeit, dass es sich um einen"
+    },
+    {
+      "start": 1442.341,
+      "duration": 2.368,
+      "text": "frühen Blick auf das Qwen-4-Modell"
+    },
+    {
+      "start": 1443.748,
+      "duration": 4.51,
+      "text": "handelt. Im Baidu-Forum gibt es"
+    },
+    {
+      "start": 1447.304,
+      "duration": 2.574,
+      "text": "tatsächlich ein paar verschiedene"
+    },
+    {
+      "start": 1448.925,
+      "duration": 2.666,
+      "text": "Tests für das Qwen-4-Modell, die in"
+    },
+    {
+      "start": 1450.637,
+      "duration": 2.343,
+      "text": "einer geschlossenen Betaphase"
+    },
+    {
+      "start": 1452.026,
+      "duration": 4.096,
+      "text": "durchgeführt wurden. Hier hat es sich"
+    },
+    {
+      "start": 1455.197,
+      "duration": 3.48,
+      "text": "über mehrere Generationen hinweg"
+    },
+    {
+      "start": 1457.752,
+      "duration": 3.93,
+      "text": "extrem gut geschlagen, insbesondere mit"
+    },
+    {
+      "start": 1460.757,
+      "duration": 2.832,
+      "text": "Vox Art. Das sieht man bei dieser"
+    },
+    {
+      "start": 1462.627,
+      "duration": 3.282,
+      "text": "Pagoda. Man sieht auch die Qualität"
+    },
+    {
+      "start": 1464.967,
+      "duration": 2.897,
+      "text": "dieser Generationen, und es zeigt"
+    },
+    {
+      "start": 1466.921,
+      "duration": 3.185,
+      "text": "einfach, wie unglaublich dieses Modell"
+    },
+    {
+      "start": 1469.164,
+      "duration": 3.956,
+      "text": "sein wird. Und ich bin wahnsinnig"
+    },
+    {
+      "start": 1472.179,
+      "duration": 3.306,
+      "text": "gespannt auf das lokale Modell, das das"
+    },
+    {
+      "start": 1474.544,
+      "duration": 3.306,
+      "text": "27-Milliarden-Parameter-Modell für die"
+    },
+    {
+      "start": 1476.909,
+      "duration": 3.187,
+      "text": "Qwen-4-Modellreihe sein wird, mit dem"
+    },
+    {
+      "start": 1479.155,
+      "duration": 2.833,
+      "text": "wir lokal praktisch hochmoderne"
+    },
+    {
+      "start": 1481.047,
+      "duration": 3.069,
+      "text": "Ergebnisse erhalten werden, was der"
+    },
+    {
+      "start": 1483.175,
+      "duration": 4.709,
+      "text": "Wahnsinn sein wird. Zu guter Letzt gibt"
+    },
+    {
+      "start": 1486.939,
+      "duration": 3.046,
+      "text": "es noch eine Firma namens Skil-ed AI,"
+    },
+    {
+      "start": 1489.04,
+      "duration": 3.045,
+      "text": "und das ist ein Roboter, der Fußball"
+    },
+    {
+      "start": 1491.141,
+      "duration": 3.364,
+      "text": "spielt, Leute. Football, wie auch immer"
+    },
+    {
+      "start": 1493.535,
+      "duration": 3.5,
+      "text": "ihr es nennen wollt. Aber ich kann euch"
+    },
+    {
+      "start": 1496.088,
+      "duration": 2.91,
+      "text": "mit Sicherheit sagen, dass es in ein"
+    },
+    {
+      "start": 1498.051,
+      "duration": 2.963,
+      "text": "paar Jahren einen Roboter geben wird,"
+    },
+    {
+      "start": 1500.067,
+      "duration": 2.804,
+      "text": "der uns alle tunneln wird, was uns"
+    },
+    {
+      "start": 1501.924,
+      "duration": 2.857,
+      "text": "natürlich zum Weinen bringen wird,"
+    },
+    {
+      "start": 1503.834,
+      "duration": 3.62,
+      "text": "aber das ist einfach nur Wahnsinn. Wir"
+    },
+    {
+      "start": 1506.499,
+      "duration": 2.574,
+      "text": "haben hier einen Roboter, der durch"
+    },
+    {
+      "start": 1508.118,
+      "duration": 2.664,
+      "text": "Eigeninitiative gelernt hat, Fußball"
+    },
+    {
+      "start": 1509.827,
+      "duration": 2.619,
+      "text": "zu spielen, und nicht durch manuelle"
+    },
+    {
+      "start": 1511.491,
+      "duration": 2.805,
+      "text": "Programmierung jeder Bewegung. Er hat"
+    },
+    {
+      "start": 1513.346,
+      "duration": 2.537,
+      "text": "sich selbst in einer virtuellen"
+    },
+    {
+      "start": 1514.933,
+      "duration": 2.934,
+      "text": "Umgebung trainiert, die etwa 140 Jahren"
+    },
+    {
+      "start": 1516.917,
+      "duration": 2.487,
+      "text": "ununterbrochenem Fußballspiel"
+    },
+    {
+      "start": 1518.454,
+      "duration": 3.957,
+      "text": "entspricht. Er hat unentwegt gegen sich"
+    },
+    {
+      "start": 1521.458,
+      "duration": 2.576,
+      "text": "selbst gespielt, durch Versuch und"
+    },
+    {
+      "start": 1523.08,
+      "duration": 2.762,
+      "text": "Irrtum gelernt und konnte schließlich"
+    },
+    {
+      "start": 1524.889,
+      "duration": 3.575,
+      "text": "tatsächlich Fußball spielen. Dabei"
+    },
+    {
+      "start": 1527.519,
+      "duration": 3.099,
+      "text": "wird er sogar besser als die Menschen,"
+    },
+    {
+      "start": 1529.673,
+      "duration": 3.175,
+      "text": "die ihr hier seht. Ich will nicht"
+    },
+    {
+      "start": 1531.89,
+      "duration": 2.474,
+      "text": "gemein sein, aber das Ergebnis ist,"
+    },
+    {
+      "start": 1533.407,
+      "duration": 2.432,
+      "text": "dass sich der Roboter tatsächlich"
+    },
+    {
+      "start": 1534.881,
+      "duration": 2.474,
+      "text": "bewegen, verteidigen, angreifen und"
+    },
+    {
+      "start": 1536.397,
+      "duration": 2.39,
+      "text": "seine Strategie auf dem Spielfeld"
+    },
+    {
+      "start": 1537.829,
+      "duration": 3.28,
+      "text": "anpassen kann. Ein weiteres verrücktes"
+    },
+    {
+      "start": 1540.154,
+      "duration": 2.607,
+      "text": "Beispiel ist, wie weit Reinforcement"
+    },
+    {
+      "start": 1541.805,
+      "duration": 2.607,
+      "text": "Learning und Simulation mittlerweile"
+    },
+    {
+      "start": 1543.456,
+      "duration": 3.674,
+      "text": "sogar die Robotik vorantreiben. Aber"
+    },
+    {
+      "start": 1546.158,
+      "duration": 2.078,
+      "text": "das war's im Grunde genommen auch schon"
+    },
+    {
+      "start": 1547.264,
+      "duration": 2.218,
+      "text": "mit dem heutigen Video. Das ist ein"
+    },
+    {
+      "start": 1548.509,
+      "duration": 2.071,
+      "text": "Video, für das ich wirklich sehr, sehr"
+    },
+    {
+      "start": 1549.608,
+      "duration": 5.082,
+      "text": "lange gebraucht habe. Es würde mir"
+    },
+    {
+      "start": 1553.729,
+      "duration": 2.297,
+      "text": "also sehr viel bedeuten, wenn ihr"
+    },
+    {
+      "start": 1555.065,
+      "duration": 2.375,
+      "text": "diesem Video ein „Gefällt mir“"
+    },
+    {
+      "start": 1556.479,
+      "duration": 2.297,
+      "text": "gebt, den Kanal abonniert und die"
+    },
+    {
+      "start": 1557.815,
+      "duration": 2.532,
+      "text": "Benachrichtigungen aktiviert, damit ihr"
+    },
+    {
+      "start": 1559.386,
+      "duration": 2.493,
+      "text": "über alle Neuigkeiten in der Welt der"
+    },
+    {
+      "start": 1560.919,
+      "duration": 2.885,
+      "text": "KI auf dem Laufenden bleibt. Ich hoffe,"
+    },
+    {
+      "start": 1562.828,
+      "duration": 1.9,
+      "text": "euch hat dieses Video gefallen und ihr"
+    },
+    {
+      "start": 1563.751,
+      "duration": 1.924,
+      "text": "konntet etwas Wertvolles daraus lernen."
+    },
+    {
+      "start": 1564.775,
+      "duration": 2.521,
+      "text": "Ich werde all diese Links unten in der"
+    },
+    {
+      "start": 1566.336,
+      "duration": 2.361,
+      "text": "Beschreibung hinterlassen, wie die"
+    },
+    {
+      "start": 1567.737,
+      "duration": 2.321,
+      "text": "World of AI School Community, wie"
+    },
+    {
+      "start": 1569.099,
+      "duration": 2.561,
+      "text": "unsere World of AI Vibe Coding Platform"
+    },
+    {
+      "start": 1570.7,
+      "duration": 2.935,
+      "text": "und Benchmark. Schaut euch den zweiten"
+    },
+    {
+      "start": 1572.67,
+      "duration": 2.383,
+      "text": "Kanal an, abonniert unseren Newsletter,"
+    },
+    {
+      "start": 1574.088,
+      "duration": 2.277,
+      "text": "folgt uns auf Discord, folgt mir auf"
+    },
+    {
+      "start": 1575.4,
+      "duration": 2.312,
+      "text": "Twitter und zu guter Letzt: Abonniert"
+    },
+    {
+      "start": 1576.747,
+      "duration": 2.347,
+      "text": "unbedingt unseren Kanal, aktiviert die"
+    },
+    {
+      "start": 1578.13,
+      "duration": 2.312,
+      "text": "Benachrichtigungsglocke, liked dieses"
+    },
+    {
+      "start": 1579.477,
+      "duration": 2.383,
+      "text": "Video und schaut euch bitte auch unsere"
+    },
+    {
+      "start": 1580.895,
+      "duration": 2.312,
+      "text": "vorherigen Videos an, damit ihr über"
+    },
+    {
+      "start": 1582.242,
+      "duration": 2.099,
+      "text": "die aktuellsten KI-News auf dem"
+    },
+    {
+      "start": 1583.377,
+      "duration": 2.806,
+      "text": "Laufenden bleibt. Aber in diesem Sinne,"
+    },
+    {
+      "start": 1585.22,
+      "duration": 2.38,
+      "text": "Leute, habt einen wunderschönen Tag,"
+    },
+    {
+      "start": 1586.638,
+      "duration": 2.343,
+      "text": "verbreitet Positivität und ich sehe"
+    },
+    {
+      "start": 1588.018,
+      "duration": 2.662,
+      "text": "euch ganz bald wieder. Peace out, Fuzz."
+    }
+  ]
+}

@@ -1,0 +1,3083 @@
+1
+00:00:00,480 --> 00:00:02,894
+Das ist eine ziemlich genaue
+
+2
+00:00:01,944 --> 00:00:04,864
+Darstellung davon, wie Anthropic diese
+
+3
+00:00:03,914 --> 00:00:06,783
+Seitenhiebe von OpenAI aufnimmt, ohne
+
+4
+00:00:05,834 --> 00:00:08,703
+sie tatsächlich zu beeinträchtigen,
+
+5
+00:00:07,753 --> 00:00:13,132
+da Anthropic nach all den Problemen,
+
+6
+00:00:12,171 --> 00:00:14,570
+mit denen sie als Unternehmen in den
+
+7
+00:00:13,609 --> 00:00:16,048
+letzten Monaten von den Problemen mit
+
+8
+00:00:15,087 --> 00:00:17,137
+der Ratenbegrenzung bis zur
+
+9
+00:00:16,176 --> 00:00:18,226
+Unterleistung ihrer Modelle
+
+10
+00:00:17,264 --> 00:00:19,625
+konfrontiert waren, ein ernsthaftes
+
+11
+00:00:18,664 --> 00:00:21,561
+Comeback hingelegt hat. Sie sind
+
+12
+00:00:20,619 --> 00:00:23,756
+endlich mit vielen konkurrenzfähigen
+
+13
+00:00:22,814 --> 00:00:26,010
+Modellen zurück, aber wir haben sogar
+
+14
+00:00:25,067 --> 00:00:28,147
+noch ein weiteres verrücktes Modell
+
+15
+00:00:27,205 --> 00:00:30,761
+von Anthropic in der Pipeline. Und das
+
+16
+00:00:29,825 --> 00:00:33,165
+ist Fable 5.5, das früher erscheinen
+
+17
+00:00:32,228 --> 00:00:35,695
+könnte, als die meisten Leute erwarten
+
+18
+00:00:34,695 --> 00:00:37,990
+. In Anbetracht der Sprünge, die wir
+
+19
+00:00:37,043 --> 00:00:39,841
+von der 5.0 er-Modellreihe zur 5.5
+
+20
+00:00:38,894 --> 00:00:41,745
+er-Reihe gesehen haben, könnte das
+
+21
+00:00:40,798 --> 00:00:45,364
+enorm sein. Ich habe auch das neue
+
+22
+00:00:44,407 --> 00:00:47,086
+Modell, das sie heute vorgestellt haben
+
+23
+00:00:46,086 --> 00:00:48,464
+, nämlich Sonnet 5.5, ausgiebig
+
+24
+00:00:47,507 --> 00:00:50,186
+getestet, und ehrlich gesagt könnte es
+
+25
+00:00:49,229 --> 00:00:51,564
+für viele Leute zum täglichen
+
+26
+00:00:50,607 --> 00:00:53,978
+Begleiter werden. Es ist günstiger,
+
+27
+00:00:53,045 --> 00:00:56,280
+schneller und war in meinen Tests
+
+28
+00:00:55,348 --> 00:00:58,921
+extrem konkurrenzfähig mit GPT 6 Soul
+
+29
+00:00:57,989 --> 00:01:02,553
+und in vielen Fällen sogar besser. Und
+
+30
+00:01:01,604 --> 00:01:04,548
+ich habe auch Fälle gesehen, in denen
+
+31
+00:01:03,600 --> 00:01:06,544
+es Opus 5.5 aussticht, aber günstiger
+
+32
+00:01:05,595 --> 00:01:09,354
+ist. Schaut euch das mal an. Das
+
+33
+00:01:08,399 --> 00:01:10,967
+günstigste mittelgroße Modell von
+
+34
+00:01:10,012 --> 00:01:12,401
+Anthropic ist hier draußen und
+
+35
+00:01:11,446 --> 00:01:14,059
+erstellt vollwertige Fortnite-Klone.
+
+36
+00:01:13,666 --> 00:01:17,038
+Das ist nicht nur einer der Fälle, in
+
+37
+00:01:16,100 --> 00:01:18,849
+denen dieses Modell Opus 5.5
+
+38
+00:01:17,911 --> 00:01:21,448
+ausgestochen hat. Das hat es schon oft
+
+39
+00:01:20,504 --> 00:01:22,789
+in vielen verschiedenen
+
+40
+00:01:21,845 --> 00:01:25,213
+Domänenaufgaben getan. Das alles wurde
+
+41
+00:01:24,261 --> 00:01:26,555
+mit dem 20-Dollar-Pro-Tarif
+
+42
+00:01:25,603 --> 00:01:28,185
+durchgeführt und das ist nur die
+
+43
+00:01:27,232 --> 00:01:30,101
+Spitze des Eisbergs, denn ich habe noch
+
+44
+00:01:29,149 --> 00:01:31,922
+viele weitere Tests, die ich im Laufe
+
+45
+00:01:30,970 --> 00:01:33,744
+des heutigen Videos vorstellen werde.
+
+46
+00:01:33,299 --> 00:01:36,367
+Leute, das alles muss OpenAI etwas
+
+47
+00:01:35,428 --> 00:01:38,557
+unter Druck setzen, denn der DevDay
+
+48
+00:01:37,618 --> 00:01:41,195
+steht quasi vor der Tür. Wir hatten
+
+49
+00:01:40,241 --> 00:01:43,019
+ursprünglich darüber gesprochen, dass
+
+50
+00:01:42,065 --> 00:01:44,570
+OpenAI am DevDay ein neues Modell
+
+51
+00:01:43,615 --> 00:01:46,740
+veröffentlichen wird. Es gab sogar
+
+52
+00:01:45,791 --> 00:01:48,706
+Gerüchte über die Veröffentlichung
+
+53
+00:01:47,758 --> 00:01:50,724
+von GPT 6.1, aber heute haben wir dazu
+
+54
+00:01:49,776 --> 00:01:52,829
+einige Neuigkeiten. Möglicherweise
+
+55
+00:01:51,875 --> 00:01:54,531
+handelt es sich dabei um ein Modell,
+
+56
+00:01:53,577 --> 00:01:56,675
+das jetzt verzögert wurde. Laut Wall
+
+57
+00:01:55,732 --> 00:01:58,278
+Street Journal wurde es aus
+
+58
+00:01:57,335 --> 00:02:00,569
+Sicherheitsgründen verzögert, könnte
+
+59
+00:01:59,626 --> 00:02:02,882
+man sagen. Aber ich weiß aus meiner
+
+60
+00:02:01,931 --> 00:02:04,821
+eigenen Erfahrung mit globalen Medien,
+
+61
+00:02:03,871 --> 00:02:06,562
+wie das Mediengewerbe tatsächlich
+
+62
+00:02:05,611 --> 00:02:09,057
+läuft. Manchmal arbeiten Unternehmen
+
+63
+00:02:08,094 --> 00:02:10,507
+direkt mit großen Medien zusammen, um
+
+64
+00:02:09,544 --> 00:02:11,882
+zu gestalten, wie Ankündigungen und
+
+65
+00:02:10,919 --> 00:02:14,207
+Verzögerungen kommuniziert werden. Ich
+
+66
+00:02:13,250 --> 00:02:15,908
+sage nicht, dass es hier bestätigt ist
+
+67
+00:02:14,908 --> 00:02:17,013
+, aber man kann die Punkte
+
+68
+00:02:16,056 --> 00:02:19,270
+offensichtlich verbinden. Eine
+
+69
+00:02:18,318 --> 00:02:21,140
+sicherheitsrelevante Verzögerung gibt
+
+70
+00:02:20,188 --> 00:02:23,058
+OpenAI auch mehr Zeit, an dem Modell zu
+
+71
+00:02:22,106 --> 00:02:24,976
+arbeiten, ohne dass die Verzögerung zu
+
+72
+00:02:24,024 --> 00:02:27,720
+negativen Gefühlen führt. Wie auch
+
+73
+00:02:26,775 --> 00:02:29,763
+immer, der Dev Day kommt und es gibt
+
+74
+00:02:28,818 --> 00:02:32,007
+eine Menge zu besprechen. Wir werden
+
+75
+00:02:31,054 --> 00:02:33,836
+über einige der neuen Leaks sprechen,
+
+76
+00:02:32,883 --> 00:02:35,618
+die vom Dev Day aufgetaucht sind, und
+
+77
+00:02:34,665 --> 00:02:37,400
+über einige der neuen Dinge, die sie
+
+78
+00:02:36,447 --> 00:02:39,182
+auf den Markt bringen werden, wie die
+
+79
+00:02:38,229 --> 00:02:40,824
+Cerebrus-Infrastruktur sowie den O
+
+80
+00:02:39,871 --> 00:02:43,079
+Assistant. Und auch in den chinesischen
+
+81
+00:02:42,121 --> 00:02:44,493
+Laboren wird hinter den Kulissen
+
+82
+00:02:43,536 --> 00:02:47,177
+gekocht. Wir sehen endlich die ersten
+
+83
+00:02:46,245 --> 00:02:50,085
+Ergebnisse der Clan 4.0-Reihe. Kimmy K
+
+84
+00:02:49,145 --> 00:02:52,175
+3.1 könnte möglicherweise um den
+
+85
+00:02:51,234 --> 00:02:54,503
+Nationalfeiertag herum erscheinen, der
+
+86
+00:02:53,563 --> 00:02:56,891
+in wenigen Tagen am 1. Oktober ist, und
+
+87
+00:02:55,950 --> 00:02:58,920
+Deep Seek Version 4.1 Pro scheint
+
+88
+00:02:57,980 --> 00:03:01,547
+ebenfalls näher zu rücken. Und bevor
+
+89
+00:03:00,590 --> 00:03:03,271
+wir überhaupt ins Detail gehen, würde
+
+90
+00:03:02,314 --> 00:03:04,995
+es mir wirklich die Welt bedeuten, wenn
+
+91
+00:03:04,038 --> 00:03:06,374
+ihr dieses Video liken und mich
+
+92
+00:03:05,417 --> 00:03:08,306
+abonnieren könntet. Da mir das
+
+93
+00:03:07,347 --> 00:03:09,770
+wirklich hilft, Videos für euch zu
+
+94
+00:03:08,811 --> 00:03:11,234
+machen, und es mir einfach die Welt
+
+95
+00:03:10,275 --> 00:03:12,780
+bedeuten würde, weil ich mein Bestes
+
+96
+00:03:11,821 --> 00:03:14,407
+gebe, um diese neuen Ziele zu erreichen
+
+97
+00:03:13,407 --> 00:03:15,789
+, würde es mir wirklich sehr viel
+
+98
+00:03:14,830 --> 00:03:17,213
+bedeuten, wenn ihr das einfach tun
+
+99
+00:03:16,253 --> 00:03:18,660
+könntet. Aber mit diesem Gedanken
+
+100
+00:03:17,692 --> 00:03:19,929
+lasst uns einfach direkt in das heutige
+
+101
+00:03:18,960 --> 00:03:21,604
+Video eintauchen. Zahlt ihr immer noch
+
+102
+00:03:20,640 --> 00:03:23,019
+lieber für das Scraping von Websites,
+
+103
+00:03:22,055 --> 00:03:24,325
+anstatt eure KI dafür zu bezahlen,
+
+104
+00:03:23,361 --> 00:03:26,438
+diesen Müll zu lesen? Nun, der heutige
+
+105
+00:03:25,489 --> 00:03:28,487
+Sponsor, Tiny Fish, möchte das ändern
+
+106
+00:03:27,487 --> 00:03:31,678
+. Im 45-seitigen Benchmark von Tiny
+
+107
+00:03:30,753 --> 00:03:33,556
+Fish waren die typischen
+
+108
+00:03:32,631 --> 00:03:36,335
+Fire-Crawl-Ergebnisse etwa 38%Müll,
+
+109
+00:03:35,410 --> 00:03:39,986
+Menüs, Cookie-Leisten und Werbung. Ihr
+
+110
+00:03:39,028 --> 00:03:41,582
+habt dafür bezahlt, diese Inhalte zu
+
+111
+00:03:40,624 --> 00:03:43,137
+scrappen, und zahlt erneut in Token,
+
+112
+00:03:42,179 --> 00:03:44,817
+wenn ihr das Modell zum Lesen benötigt
+
+113
+00:03:43,817 --> 00:03:47,579
+. Tiny Fish macht die Suche und den
+
+114
+00:03:46,624 --> 00:03:49,173
+Abruf in jedem Tarif kostenlos, mit
+
+115
+00:03:48,218 --> 00:03:52,165
+saubereren Inhalten für eure KI. Und
+
+116
+00:03:51,214 --> 00:03:53,915
+schickt Tiny Fish jetzt die neueste
+
+117
+00:03:52,964 --> 00:03:55,860
+Firecrawl-Rechnung, und sie werden euch
+
+118
+00:03:54,908 --> 00:03:57,561
+den entsprechenden Betrag in euren
+
+119
+00:03:56,610 --> 00:03:59,927
+Wallet-Guthaben gutschreiben. Diese
+
+120
+00:03:58,973 --> 00:04:01,611
+Guthaben treiben den Web-Agenten und
+
+121
+00:04:00,656 --> 00:04:03,551
+den Browser an. Automatisiert
+
+122
+00:04:02,597 --> 00:04:05,328
+Anmeldungen, navigiert durch Websites,
+
+123
+00:04:04,374 --> 00:04:06,878
+füllt Formulare aus und erhaltet
+
+124
+00:04:05,923 --> 00:04:08,999
+strukturierte Daten zurück. Oder
+
+125
+00:04:08,044 --> 00:04:09,948
+führe deine eigenen
+
+126
+00:04:08,993 --> 00:04:12,092
+Cloud-Browser-Workflows aus. Die Suche
+
+127
+00:04:11,138 --> 00:04:13,562
+und der Abruf bleiben auch nach
+
+128
+00:04:12,608 --> 00:04:15,400
+Aufbrauchen deines Guthabens kostenlos.
+
+129
+00:04:14,779 --> 00:04:17,300
+Keine Kreditkarten erforderlich.
+
+130
+00:04:16,460 --> 00:04:18,939
+Firecrawl muss nicht gekündigt werden.
+
+131
+00:04:18,219 --> 00:04:20,083
+Klicke auf die Links in der
+
+132
+00:04:19,115 --> 00:04:21,107
+Beschreibung unten, um dir dein
+
+133
+00:04:20,139 --> 00:04:23,093
+Guthaben zu sichern. Das Angebot endet
+
+134
+00:04:22,161 --> 00:04:25,287
+am 16. Oktober. Und vielen Dank an
+
+135
+00:04:24,325 --> 00:04:26,549
+Tinybird für das Sponsoring des
+
+136
+00:04:25,587 --> 00:04:28,801
+heutigen Videos. Fangen wir mit dem
+
+137
+00:04:27,866 --> 00:04:31,445
+Giganten an, nämlich Fable 5.5. Denn
+
+138
+00:04:30,511 --> 00:04:34,100
+Leute, dieses Modell wird der Wahnsinn.
+
+139
+00:04:33,539 --> 00:04:36,510
+Ich habe einiges zu diesem Modell
+
+140
+00:04:35,569 --> 00:04:38,720
+gesehen, und wenn das so ist, wie es
+
+141
+00:04:37,779 --> 00:04:41,049
+aussieht, und wenn es sich bestätigt,
+
+142
+00:04:40,109 --> 00:04:43,379
+könnte das etwas ganz anderes werden.
+
+143
+00:04:42,606 --> 00:04:45,811
+Genau deshalb wollte ich über Fable
+
+144
+00:04:44,872 --> 00:04:47,954
+sprechen, bevor wir uns Sonnet 5.5
+
+145
+00:04:47,016 --> 00:04:50,907
+widmen. Im Moment sieht es so aus, als
+
+146
+00:04:49,965 --> 00:04:53,180
+könnte OpenAI in den nächsten Wochen
+
+147
+00:04:52,238 --> 00:04:55,337
+einen harten Kampf bevorstehen, denn
+
+148
+00:04:54,395 --> 00:04:57,318
+Gerüchten zufolge soll Fable 5.5
+
+149
+00:04:56,377 --> 00:04:59,417
+früher erscheinen, als die meisten
+
+150
+00:04:58,475 --> 00:05:01,647
+erwarten. Und sieh dir nur die
+
+151
+00:05:00,710 --> 00:05:04,082
+Fortschritte an, die Anthropic bereits
+
+152
+00:05:03,144 --> 00:05:06,902
+in der 5.5-Familie gemacht hat. Sonnet
+
+153
+00:05:05,973 --> 00:05:09,515
+5.5 ist deutlich besser als Sonnet 5
+
+154
+00:05:08,586 --> 00:05:12,340
+und selbst Haiku 5.5 könnte weit über
+
+155
+00:05:11,411 --> 00:05:14,882
+seiner Gewichtsklasse liegen und es
+
+156
+00:05:13,953 --> 00:05:17,791
+sogar mit Soul aufnehmen. Anthropic hat
+
+157
+00:05:16,843 --> 00:05:19,755
+bereits bestätigt, dass Haiku 5.5 in
+
+158
+00:05:18,807 --> 00:05:21,720
+den nächsten Wochen erscheinen wird.
+
+159
+00:05:21,360 --> 00:05:23,930
+Stellen Sie sich also vor, was passiert
+
+160
+00:05:22,930 --> 00:05:25,420
+, wenn Anthropic diese Verbesserungen
+
+161
+00:05:24,461 --> 00:05:26,830
+übernimmt und sie auf Fable, sein
+
+162
+00:05:25,870 --> 00:05:29,429
+absolutes Pioniermodell, anwendet. Der
+
+163
+00:05:28,472 --> 00:05:30,983
+einzige Bereich, in dem OpenAI noch
+
+164
+00:05:30,026 --> 00:05:32,580
+einen großen Vorteil haben könnte,
+
+165
+00:05:31,623 --> 00:05:34,588
+ist die Token-Effizienz. Und das wird
+
+166
+00:05:33,626 --> 00:05:36,010
+eine große Rolle spielen, wenn es um
+
+167
+00:05:35,047 --> 00:05:37,132
+diese Modelle geht, die lange
+
+168
+00:05:36,170 --> 00:05:39,332
+Agentenaufgaben ausführen. Aber da GPT
+
+169
+00:05:38,332 --> 00:05:41,106
+-6.1 Astra Berichten zufolge wegen
+
+170
+00:05:40,158 --> 00:05:42,984
+Nichterfüllung der Sicherheits-und
+
+171
+00:05:42,036 --> 00:05:44,914
+Ausrichtungsanforderungen von OpenAI
+
+172
+00:05:43,966 --> 00:05:46,948
+auf Eis gelegt wurde, ist die größte
+
+173
+00:05:46,001 --> 00:05:48,879
+Frage, was OpenAI als Nächstes tut.
+
+174
+00:05:48,279 --> 00:05:51,300
+Treiben sie die aktuelle Generation mit
+
+175
+00:05:50,351 --> 00:05:53,372
+mehr RL weiter voran oder kommen wir an
+
+176
+00:05:52,424 --> 00:05:55,290
+einen Punkt, an dem sie die nächste
+
+177
+00:05:54,342 --> 00:05:57,311
+Generation von Pre-Train auf den Markt
+
+178
+00:05:56,363 --> 00:05:59,332
+bringen müssen, um im Grunde genommen
+
+179
+00:05:58,384 --> 00:06:01,198
+auf das zu reagieren, was Anthropic
+
+180
+00:06:00,249 --> 00:06:03,634
+gerade ausheckt? Denn wenn Fable 5.5
+
+181
+00:06:02,693 --> 00:06:05,982
+relativ bald veröffentlicht wird, wird
+
+182
+00:06:05,041 --> 00:06:08,095
+das definitiv das gesamte KI-Rennen
+
+183
+00:06:07,154 --> 00:06:10,405
+verändern. Wenn ihr die besten
+
+184
+00:06:09,449 --> 00:06:12,184
+KI-Tools, Workflows und Drops vor allen
+
+185
+00:06:11,229 --> 00:06:13,875
+anderen haben wollt, abonniert meinen
+
+186
+00:06:12,919 --> 00:06:15,610
+kostenlosen Newsletter mit dem Link in
+
+187
+00:06:14,654 --> 00:06:17,211
+der Beschreibung unten, der völlig
+
+188
+00:06:16,256 --> 00:06:20,615
+kostenlos ist. Anthropic hat offiziell
+
+189
+00:06:19,674 --> 00:06:22,946
+Sonnet 5.5 veröffentlicht, das zweite
+
+190
+00:06:22,006 --> 00:06:25,357
+Modell der Claude 5.5-Familie. Und
+
+191
+00:06:24,403 --> 00:06:26,744
+heute werden wir uns ein paar
+
+192
+00:06:25,790 --> 00:06:28,409
+verschiedene Tests ansehen, die wir
+
+193
+00:06:27,455 --> 00:06:31,260
+durchführen werden. Das ist etwas, das
+
+194
+00:06:30,322 --> 00:06:33,729
+wir in diesem KI-News-Video tun werden.
+
+195
+00:06:33,039 --> 00:06:35,135
+Und wenn ihr natürlich zu den
+
+196
+00:06:34,172 --> 00:06:36,525
+nächsten Abschnitten springen wollt,
+
+197
+00:06:35,561 --> 00:06:38,307
+könnt ihr das auch tun. Aber Sonnet
+
+198
+00:06:37,371 --> 00:06:40,689
+5.5 ist ein ziemlich großes Upgrade
+
+199
+00:06:39,753 --> 00:06:43,135
+gegenüber Sonnet 5. Wir alle wissen,
+
+200
+00:06:42,199 --> 00:06:45,710
+dass Sonnet 5 eine Art Katastrophe war,
+
+201
+00:06:44,774 --> 00:06:48,092
+und wir alle wissen, dass der Sprung
+
+202
+00:06:47,156 --> 00:06:50,667
+mit diesem Modell in den Benchmarks von
+
+203
+00:06:49,732 --> 00:06:53,678
+Anthropic ziemlich groß ist. Sonnet
+
+204
+00:06:52,741 --> 00:06:56,139
+5.5 ist in Bezug auf das Modell selbst
+
+205
+00:06:55,203 --> 00:06:59,632
+ziemlich gewaltig. Laut Anthropic ist
+
+206
+00:06:58,685 --> 00:07:01,659
+es mehr als 30%schneller und kann bis
+
+207
+00:07:00,712 --> 00:07:03,472
+zu 30%weniger pro Aufgabe kosten,
+
+208
+00:07:02,525 --> 00:07:05,606
+hauptsächlich durch die Verwendung von
+
+209
+00:07:04,659 --> 00:07:08,656
+weniger Token und Gesamtkosten. Ehrlich
+
+210
+00:07:07,724 --> 00:07:11,044
+gesagt, basierend auf dem, was ich
+
+211
+00:07:10,112 --> 00:07:13,568
+bisher gesehen habe, ist es ziemlich
+
+212
+00:07:12,637 --> 00:07:16,093
+tokenlastig und wirklich teuer, wenn
+
+213
+00:07:15,161 --> 00:07:18,866
+man High Reasoning verwendet. Es ist
+
+214
+00:07:17,921 --> 00:07:20,779
+irgendwie verrückt, dass dies das
+
+215
+00:07:19,833 --> 00:07:22,910
+mittelgroße Modell von Anthropic sein
+
+216
+00:07:21,964 --> 00:07:24,877
+soll, denn seine Leistung kommt dem
+
+217
+00:07:23,931 --> 00:07:26,899
+Stand der Technik bereits sehr nahe.
+
+218
+00:07:26,799 --> 00:07:29,964
+Sonnet 5.5 verbessert sich im Grunde
+
+219
+00:07:29,025 --> 00:07:32,311
+genommen auf ganzer Linie, mit einigen
+
+220
+00:07:31,371 --> 00:07:34,236
+absolut massiven Zuwächsen bei
+
+221
+00:07:33,296 --> 00:07:36,522
+Codierungs-und Agentenaufgaben, wo es
+
+222
+00:07:35,582 --> 00:07:38,808
+sogar das Sonnet 5 sowie das Opus 5.5
+
+223
+00:07:37,868 --> 00:07:40,914
+auf Terminal Bench 4 schlägt, was
+
+224
+00:07:39,974 --> 00:07:44,606
+schon irgendwie verblüffend ist. Und
+
+225
+00:07:43,656 --> 00:07:46,217
+bei alltäglichen Aufgaben, der
+
+226
+00:07:45,267 --> 00:07:48,231
+Behebung von Fehlern und der Erstellung
+
+227
+00:07:47,281 --> 00:07:49,993
+ausgefeilter Dokumente, Folien und
+
+228
+00:07:49,043 --> 00:07:52,007
+Tabellenkalkulationen kommt es Opus 5.5
+
+229
+00:07:51,057 --> 00:07:56,039
+wirklich sehr nahe. Anthropic
+
+230
+00:07:55,090 --> 00:07:57,882
+positioniert dieses Modell also als
+
+231
+00:07:56,933 --> 00:07:59,724
+schneller, kostengünstiger und als
+
+232
+00:07:58,775 --> 00:08:01,566
+Ergänzung zu Opus 5.5, weshalb ich
+
+233
+00:08:00,618 --> 00:08:03,153
+sage, dass es ein großartiger
+
+234
+00:08:02,204 --> 00:08:06,252
+Alltagsbegleiter sein könnte. Sonnet
+
+235
+00:08:05,308 --> 00:08:08,086
+5.5 hat ein Kontextfenster von 1
+
+236
+00:08:07,141 --> 00:08:10,773
+Million Token. Die maximale Ausgabe ist
+
+237
+00:08:09,827 --> 00:08:12,743
+mit 128.000 Token angegeben und der
+
+238
+00:08:11,797 --> 00:08:14,548
+Eingabepreis ist mit 2 USD pro 1
+
+239
+00:08:13,603 --> 00:08:16,628
+Million Eingabetoken und 10 USD pro 1
+
+240
+00:08:15,682 --> 00:08:19,201
+Million Ausgabetoken angegeben. Auf der
+
+241
+00:08:18,253 --> 00:08:20,960
+World of AI Benchmark und der Bob
+
+242
+00:08:20,011 --> 00:08:22,873
+Conan-Plattform, zu der ich unten in
+
+243
+00:08:21,924 --> 00:08:24,941
+der Beschreibung einen Link hinterlasse
+
+244
+00:08:23,941 --> 00:08:26,647
+, haben wir dieses Modell rigoros
+
+245
+00:08:25,699 --> 00:08:28,354
+getestet und sind zu dem Schluss
+
+246
+00:08:27,405 --> 00:08:30,267
+gekommen, dass dieses Modell derzeit
+
+247
+00:08:29,319 --> 00:08:32,025
+auf Platz 3 der Gesamtwertung der
+
+248
+00:08:31,077 --> 00:08:33,628
+Rangliste steht und GPT-6 Soul
+
+249
+00:08:32,680 --> 00:08:35,541
+übertrifft, was irgendwie verrückt
+
+250
+00:08:34,593 --> 00:08:37,664
+ist. Und ehrlich gesagt werden die
+
+251
+00:08:36,711 --> 00:08:39,357
+Ergebnisse, die Sie in diesem Video
+
+252
+00:08:38,404 --> 00:08:41,239
+sehen werden, wirklich zeigen, warum es
+
+253
+00:08:40,286 --> 00:08:43,568
+so weit oben steht. Leute, dies ist der
+
+254
+00:08:42,625 --> 00:08:45,708
+beste Weg für euch, jedes Modell zu
+
+255
+00:08:44,766 --> 00:08:47,906
+testen und Einblicke zu erhalten, was
+
+256
+00:08:46,964 --> 00:08:49,815
+ihr tun könnt und wie ihr diese
+
+257
+00:08:48,872 --> 00:08:52,128
+Plattform im Wesentlichen nutzen könnt
+
+258
+00:08:51,128 --> 00:08:54,269
+, um mit jedem KI-Modell zu beginnen.
+
+259
+00:08:53,369 --> 00:08:55,376
+Ich hinterlasse also unten in der
+
+260
+00:08:54,407 --> 00:08:56,601
+Beschreibung einen Link dazu. Ihr
+
+261
+00:08:55,635 --> 00:08:57,381
+könnt sogar auf meine
+
+262
+00:08:56,415 --> 00:08:58,567
+Prompt-Bibliothek zugreifen, daher
+
+263
+00:08:57,601 --> 00:08:59,856
+empfehle ich euch dringend, sie über
+
+264
+00:08:58,890 --> 00:09:01,076
+die Links unten in der Beschreibung
+
+265
+00:09:00,110 --> 00:09:04,056
+auszuprobieren. Sonnet 5.5 erreicht
+
+266
+00:09:03,116 --> 00:09:06,389
+beim Intelligence Index von Artificial
+
+267
+00:09:05,448 --> 00:09:08,602
+Analysis ebenfalls einen Wert von 56
+
+268
+00:09:07,662 --> 00:09:10,934
+und liegt damit nur zwei Punkte hinter
+
+269
+00:09:09,994 --> 00:09:13,327
+Opus 5.5 Max und 18 Punkte über Sonnet
+
+270
+00:09:12,387 --> 00:09:15,720
+5. Das ist ein ziemlich großer Sprung.
+
+271
+00:09:16,020 --> 00:09:18,759
+Das größte Problem, das mir bei
+
+272
+00:09:17,811 --> 00:09:20,709
+meinen eigenen Eingabeaufforderungen
+
+273
+00:09:19,762 --> 00:09:22,712
+und Tests jedoch aufgefallen ist, ist
+
+274
+00:09:21,764 --> 00:09:25,005
+die Token-Effizienz. Bei maximalem
+
+275
+00:09:24,065 --> 00:09:27,356
+Aufwand verbraucht Sonnet 5.5 etwa 100
+
+276
+00:09:26,416 --> 00:09:29,731
+Token pro Aufgabe. Das ist der höchste
+
+277
+00:09:28,774 --> 00:09:31,136
+Wert, den Artificial Analysis je
+
+278
+00:09:30,179 --> 00:09:35,888
+gemessen hat, und außerdem etwa das
+
+279
+00:09:34,943 --> 00:09:37,640
+Siebenfache von GPT-6 Astra bei
+
+280
+00:09:36,695 --> 00:09:39,447
+maximalem Aufwand. Das ist schon
+
+281
+00:09:38,502 --> 00:09:43,311
+verrückt. Aber obwohl es sich um das
+
+282
+00:09:42,374 --> 00:09:45,471
+mittelgroße Modell von Anthropic
+
+283
+00:09:44,535 --> 00:09:48,013
+handelt, schlägt es Opus 5.5 und GPT-6
+
+284
+00:09:47,076 --> 00:09:50,301
+Astra beim Terminal Bench 4 mit 64%
+
+285
+00:09:49,301 --> 00:09:52,334
+gegenüber 60%und kommt Opus bei
+
+286
+00:09:51,397 --> 00:09:53,668
+mehreren Agenten-und
+
+287
+00:09:52,732 --> 00:09:56,020
+Wissensarbeits-Benchmarks sehr nahe.
+
+288
+00:09:56,479 --> 00:09:58,799
+Ich möchte, dass Sie sich das ansehen.
+
+289
+00:09:58,279 --> 00:10:01,410
+Ich habe Claude Sonnet 5.5 in Claude
+
+290
+00:10:00,469 --> 00:10:03,364
+Code mit aktiviertem Ultra-Modus
+
+291
+00:10:02,423 --> 00:10:04,903
+gebeten, in 3 Tagen einen
+
+292
+00:10:03,962 --> 00:10:06,561
+vollständigen Call of Duty
+
+293
+00:10:05,620 --> 00:10:09,090
+Zombies-Klon zu erstellen. Und das
+
+294
+00:10:08,129 --> 00:10:10,294
+alles wurde mit einer einzigen
+
+295
+00:10:09,333 --> 00:10:12,230
+Aufforderung erledigt, Leute. Ich habe
+
+296
+00:10:11,263 --> 00:10:13,478
+gesagt, dass es keine Fragen stellen
+
+297
+00:10:12,512 --> 00:10:15,129
+und es einfach abschicken soll. Und das
+
+298
+00:10:14,169 --> 00:10:16,589
+ist die Qualität. Da kommen diese
+
+299
+00:10:15,629 --> 00:10:19,046
+Zombies auf mich zu. Und dieses Mal
+
+300
+00:10:18,089 --> 00:10:20,777
+spiele ich das Spiel nicht wirklich mit
+
+301
+00:10:19,777 --> 00:10:22,379
+, denn erinnert ihr euch, was letztes
+
+302
+00:10:21,423 --> 00:10:35,939
+Mal passiert ist? Ich habe es dann doch
+
+303
+00:10:34,982 --> 00:10:37,654
+gespielt und vergessen, die Aufnahme zu
+
+304
+00:10:36,697 --> 00:10:39,125
+beenden. Ich habe einfach
+
+305
+00:10:38,180 --> 00:10:41,228
+weitergespielt und im Grunde genommen
+
+306
+00:10:40,284 --> 00:10:43,387
+etwa 5 Minuten eurer Zeit während des
+
+307
+00:10:42,442 --> 00:10:45,701
+Videos verbraucht. Nur ich, der die
+
+308
+00:10:44,769 --> 00:10:48,339
+Simulation gespielt hat, die das Kabel
+
+309
+00:10:47,406 --> 00:10:51,053
+oder Opus 5.5 generiert hat. Aber in
+
+310
+00:10:50,106 --> 00:10:52,923
+diesem Fall könnt ihr sehen, dass
+
+311
+00:10:51,977 --> 00:10:55,061
+Sonnet 5.5 alle tatsächlichen Elemente
+
+312
+00:10:54,114 --> 00:10:57,039
+des Originalspiels mitgeliefert hat.
+
+313
+00:10:56,369 --> 00:10:58,942
+Ihr könnt die vernagelten Fenster
+
+314
+00:10:57,989 --> 00:11:00,192
+sehen, die von den Zombies
+
+315
+00:10:59,239 --> 00:11:01,986
+auseinandergerissen werden. Ihr könnt
+
+316
+00:11:01,025 --> 00:11:03,682
+die Barrieren wieder aufbauen. Ihr habt
+
+317
+00:11:02,728 --> 00:11:05,283
+eine Überraschungskiste mit einem
+
+318
+00:11:04,329 --> 00:11:07,129
+Teddybären, der sie bewegen kann. Ihr
+
+319
+00:11:06,177 --> 00:11:08,641
+habt vier Vorteile. Ihr habt
+
+320
+00:11:07,697 --> 00:11:10,713
+Pack-a-Punch, was ein echtes Feature
+
+321
+00:11:09,769 --> 00:11:13,562
+des Originalspiels ist. Und dann habt
+
+322
+00:11:12,619 --> 00:11:15,846
+ihr noch all diese coolen kleinen Dinge
+
+323
+00:11:14,903 --> 00:11:18,073
+wie die verschiedenen Waffenarten, die
+
+324
+00:11:17,130 --> 00:11:20,243
+ihr kaufen könnt, sowie das Erkunden
+
+325
+00:11:19,300 --> 00:11:24,042
+verschiedener Räume. Insgesamt bin ich
+
+326
+00:11:23,099 --> 00:11:26,082
+einfach nur verblüfft, wie gut das
+
+327
+00:11:25,139 --> 00:11:28,572
+Tool alles texturieren konnte. Es hat
+
+328
+00:11:27,621 --> 00:11:29,985
+auch all die kleinen Details
+
+329
+00:11:29,034 --> 00:11:31,544
+hinzugefügt, die man bei einem
+
+330
+00:11:30,593 --> 00:11:32,957
+mittelgroßen Modell wie dem
+
+331
+00:11:32,006 --> 00:11:34,809
+Sonnet-Output wirklich nicht erwarten
+
+332
+00:11:33,857 --> 00:11:39,713
+würde. Die Frontend-Fähigkeiten
+
+333
+00:11:38,770 --> 00:11:41,863
+scheinen bislang einzigartig zu sein,
+
+334
+00:11:40,920 --> 00:11:43,335
+und es hat seinen eigenen
+
+335
+00:11:42,391 --> 00:11:45,259
+Designgeschmack wie das Opus 5.5.
+
+336
+00:11:45,179 --> 00:11:48,505
+Insgesamt sieht es so aus, als würde
+
+337
+00:11:47,568 --> 00:11:51,021
+es bei verschiedenen Aufgaben recht gut
+
+338
+00:11:50,084 --> 00:11:53,411
+funktionieren, denn hier haben wir es
+
+339
+00:11:52,474 --> 00:11:55,927
+gebeten, eine Nvidia-GPU-Landingpage zu
+
+340
+00:11:54,990 --> 00:11:58,748
+erstellen. Eines fällt mir sofort auf:
+
+341
+00:11:57,810 --> 00:12:00,709
+Es hat die 3 D-GPU hervorragend
+
+342
+00:11:59,770 --> 00:12:03,160
+erstellt, wozu die meisten hochmodernen
+
+343
+00:12:02,222 --> 00:12:05,627
+Modelle in der Lage sind. Aber man
+
+344
+00:12:04,686 --> 00:12:07,556
+sieht auch die Reflexion, die es
+
+345
+00:12:06,614 --> 00:12:09,719
+generiert hat, das ist der Wahnsinn.
+
+346
+00:12:09,129 --> 00:12:11,898
+Man hat eine elegante kleine
+
+347
+00:12:10,962 --> 00:12:14,364
+Landingpage, die alle anderen Elemente
+
+348
+00:12:13,427 --> 00:12:16,350
+präsentiert. Ja, das Diagramm.
+
+349
+00:12:15,759 --> 00:12:18,201
+Insgesamt gefallen mir einfach die
+
+350
+00:12:17,243 --> 00:12:19,812
+dynamischen Bewegungen und die coolen
+
+351
+00:12:18,855 --> 00:12:21,509
+Funktionen und der Designgeschmack, den
+
+352
+00:12:20,552 --> 00:12:23,079
+es dieser Landingpage verliehen hat.
+
+353
+00:12:22,539 --> 00:12:26,059
+Hier ist ein 360-Grad-Produktviewer,
+
+354
+00:12:25,129 --> 00:12:28,955
+der wirklich beeindruckend ist. Dies
+
+355
+00:12:28,029 --> 00:12:31,911
+ist eine Premium-Ausgabe, die vom Cloud
+
+356
+00:12:30,985 --> 00:12:34,751
+Sonnet 5.5 generiert wurde. Hier haben
+
+357
+00:12:33,798 --> 00:12:36,001
+Sie die Möglichkeit, alle
+
+358
+00:12:35,047 --> 00:12:38,398
+verschiedenen Farben zu ändern. Ich
+
+359
+00:12:37,457 --> 00:12:40,488
+bin wirklich begeistert, dass jede
+
+360
+00:12:39,548 --> 00:12:42,699
+einzelne Funktion dieser Landingpage
+
+361
+00:12:41,758 --> 00:12:44,729
+oder dieses Viewers genau auf der
+
+362
+00:12:43,789 --> 00:12:47,119
+Grundlage unserer Vorgaben funktioniert
+
+363
+00:12:46,119 --> 00:12:50,153
+. Das ist wirklich unglaublich, denn
+
+364
+00:12:49,217 --> 00:12:52,616
+hier haben wir Sonnet 5.5 angewiesen,
+
+365
+00:12:51,681 --> 00:12:54,755
+die Skyline von New York City zu
+
+366
+00:12:53,820 --> 00:12:57,550
+erstellen. Wir haben ihm gesagt, dass
+
+367
+00:12:56,591 --> 00:12:59,142
+es mindestens 2.000 Zeilen haben soll,
+
+368
+00:12:58,183 --> 00:13:01,083
+kein Schummeln mit Auffüllung. Das ist
+
+369
+00:13:00,144 --> 00:13:03,444
+der Detailgrad, den ich wirklich nicht
+
+370
+00:13:02,504 --> 00:13:06,072
+von Sonnet erwartet hätte. Sie sehen,
+
+371
+00:13:05,133 --> 00:13:08,398
+dass Sie bei der Skyline verschiedene
+
+372
+00:13:07,459 --> 00:13:10,357
+Tageszeiten haben, zu denen Sie
+
+373
+00:13:09,418 --> 00:13:12,464
+wechseln können. Sie haben coole
+
+374
+00:13:11,522 --> 00:13:14,376
+kleine Elemente wie verschiedene
+
+375
+00:13:13,434 --> 00:13:16,346
+Details, die wir vom Modell nicht
+
+376
+00:13:15,403 --> 00:13:18,587
+wirklich erwartet hätten, wie z. B.
+
+377
+00:13:17,645 --> 00:13:20,788
+die Segelboote. Sie haben sogar die
+
+378
+00:13:19,846 --> 00:13:22,863
+Reflexionen der Wolkenkratzer sowie
+
+379
+00:13:21,920 --> 00:13:24,534
+viele andere Dinge wie einen
+
+380
+00:13:23,591 --> 00:13:25,974
+Hubschrauber, der in die
+
+381
+00:13:25,032 --> 00:13:27,934
+entgegengesetzte Richtung fliegt.
+
+382
+00:13:27,380 --> 00:13:30,365
+Trotzdem haben Sie diese coolen kleinen
+
+383
+00:13:29,416 --> 00:13:32,401
+Leute, die herumlaufen oder so animiert
+
+384
+00:13:31,452 --> 00:13:34,131
+sind, dass sie auf seltsame Weise
+
+385
+00:13:33,182 --> 00:13:37,287
+laufen. Insgesamt liebe ich einfach die
+
+386
+00:13:36,334 --> 00:13:38,992
+Qualität und die Tiefe, die es mit
+
+387
+00:13:38,040 --> 00:13:40,840
+dieser spezifischen Ausgabe generieren
+
+388
+00:13:39,887 --> 00:13:43,007
+konnte. Das ist wirklich schön zu
+
+389
+00:13:42,046 --> 00:13:44,744
+sehen. Die Tageszeit scheint
+
+390
+00:13:43,789 --> 00:13:46,409
+tatsächlich nicht zu funktionieren,
+
+391
+00:13:45,454 --> 00:13:49,295
+was der einzige Nachteil ist. Das muss
+
+392
+00:13:48,360 --> 00:13:51,810
+der beste und genaueste Minecraft-Klon
+
+393
+00:13:50,875 --> 00:13:54,196
+sein, den ich je von einem KI-Modell
+
+394
+00:13:53,260 --> 00:13:56,684
+gesehen habe. Das sind Ergebnisse, die
+
+395
+00:13:55,736 --> 00:13:58,655
+mit Sonic 5.5 erzielt wurden, und sie
+
+396
+00:13:57,707 --> 00:14:00,965
+sind wirklich beeindruckend. Es gibt
+
+397
+00:14:00,020 --> 00:14:03,061
+Höhlengenerationen, es gibt Texturen
+
+398
+00:14:02,117 --> 00:14:05,213
+für alle verschiedenen Blöcke wie im
+
+399
+00:14:04,269 --> 00:14:07,145
+ursprünglichen Sandbox-Spiel, und
+
+400
+00:14:06,200 --> 00:14:09,352
+alles scheint perfekt zu funktionieren,
+
+401
+00:14:08,407 --> 00:14:11,173
+angefangen von der Wasserphysik,
+
+402
+00:14:10,228 --> 00:14:13,269
+insbesondere der Wassereimermechanik,
+
+403
+00:14:12,324 --> 00:14:14,704
+und das Höhlensystem ist
+
+404
+00:14:13,759 --> 00:14:17,226
+wahrscheinlich das Beste. Es gibt Erze,
+
+405
+00:14:16,280 --> 00:14:19,130
+und es werden sogar Mobs in diesen
+
+406
+00:14:18,184 --> 00:14:21,306
+verschiedenen Höhlensystemen generiert
+
+407
+00:14:20,306 --> 00:14:23,047
+, wie im eigentlichen Spiel, was
+
+408
+00:14:22,102 --> 00:14:25,667
+verrückt ist, sogar Fackeln. Wir
+
+409
+00:14:24,716 --> 00:14:27,382
+kommen also an einen Punkt, an dem
+
+410
+00:14:26,431 --> 00:14:29,293
+diese Eingabeaufforderung fast bis ins
+
+411
+00:14:28,342 --> 00:14:31,253
+kleinste Detail perfektioniert ist, was
+
+412
+00:14:30,302 --> 00:14:34,766
+irgendwie verrückt ist. Es ist einfach
+
+413
+00:14:33,822 --> 00:14:36,844
+unglaublich, dass wir an einen Punkt
+
+414
+00:14:35,900 --> 00:14:38,754
+gelangen, an dem diese KI-Modelle
+
+415
+00:14:37,810 --> 00:14:41,001
+solche Spiele auf so unglaubliche Weise
+
+416
+00:14:40,057 --> 00:14:44,358
+klonen können. Wenn man nun Sonic 5.5
+
+417
+00:14:43,419 --> 00:14:46,731
+mit hoher Denkleistung auf X mit GPT-6
+
+418
+00:14:45,792 --> 00:14:48,861
+Soul oder sogar Astra mit höherer
+
+419
+00:14:47,922 --> 00:14:51,173
+Argumentation vergleicht, erhält man
+
+420
+00:14:50,234 --> 00:14:53,303
+im Grunde ähnliche Ergebnisse und
+
+421
+00:14:52,364 --> 00:14:55,493
+übertrifft in vielen Fällen sogar
+
+422
+00:14:54,554 --> 00:14:59,042
+Soul. Aber das Verrückte ist, dass man
+
+423
+00:14:58,096 --> 00:15:00,806
+diese verrückten Ergebnisse mit
+
+424
+00:14:59,859 --> 00:15:02,516
+praktisch denselben identischen
+
+425
+00:15:01,570 --> 00:15:05,366
+API-Preisen erhält. Hier ist ein
+
+426
+00:15:04,419 --> 00:15:07,354
+Vergleich von Sonic 5.5 mit dem GPT-6
+
+427
+00:15:06,407 --> 00:15:09,394
+Astra, wobei beide mit genau derselben
+
+428
+00:15:08,447 --> 00:15:10,964
+Eingabeaufforderung auf hoher
+
+429
+00:15:10,016 --> 00:15:12,900
+Argumentation auf X getestet wurden.
+
+430
+00:15:12,959 --> 00:15:16,135
+Astra war in etwa 15 Minuten fertig und
+
+431
+00:15:15,190 --> 00:15:18,366
+kostete mit dieser Ausgabe 16 US-Dollar
+
+432
+00:15:17,366 --> 00:15:20,542
+, während es mit Sonic etwa 25 Minuten
+
+433
+00:15:19,598 --> 00:15:22,719
+dauerte, aber nur 3 US-Dollar kostete.
+
+434
+00:15:22,399 --> 00:15:25,125
+Und wenn man die endgültigen Artefakte
+
+435
+00:15:24,170 --> 00:15:26,587
+tatsächlich vergleicht, ist der
+
+436
+00:15:25,631 --> 00:15:28,501
+Unterschied ziemlich deutlich. Die
+
+437
+00:15:27,555 --> 00:15:30,490
+Ergebnisse von Sonnet sehen deutlich
+
+438
+00:15:29,544 --> 00:15:32,479
+besser aus, obwohl sie fast fünfmal
+
+439
+00:15:31,533 --> 00:15:34,700
+weniger kosten. Und das kann man
+
+440
+00:15:33,756 --> 00:15:36,783
+natürlich anhand all dieser kleinen
+
+441
+00:15:35,839 --> 00:15:38,640
+Effekte erkennen, die von dieser
+
+442
+00:15:37,696 --> 00:15:41,020
+Landingpage ausgehen. Ein weiterer
+
+443
+00:15:40,079 --> 00:15:43,298
+Benchmark, bei dem Sonnet 5.5 mit Opus
+
+444
+00:15:42,357 --> 00:15:45,635
+5.5 und GPT Astra verglichen wurde, und
+
+445
+00:15:44,693 --> 00:15:47,446
+zwar bei hohem Aufwand X unter
+
+446
+00:15:46,504 --> 00:15:49,198
+Verwendung der exakt gleichen
+
+447
+00:15:48,256 --> 00:15:51,534
+Eingabeaufforderung wie bei den anderen
+
+448
+00:15:50,593 --> 00:15:53,966
+Modellen. Die Gesamtergebnisse können
+
+449
+00:15:53,016 --> 00:15:56,348
+nicht ganz mit Opus 5.5 mithalten. Man
+
+450
+00:15:55,405 --> 00:15:58,150
+kann deutlich erkennen, dass es
+
+451
+00:15:57,206 --> 00:16:00,346
+definitiv einen Unterschied gibt, aber
+
+452
+00:15:59,402 --> 00:16:02,598
+die Farbqualität sieht beim Sonnet 5.5
+
+453
+00:16:01,654 --> 00:16:04,906
+extrem gut aus. Der Kontrast ist dort
+
+454
+00:16:03,961 --> 00:16:08,311
+definitiv gut. Es dauerte etwa 1 Stunde
+
+455
+00:16:07,404 --> 00:16:12,266
+und 54 Minuten und kostete 7,73 $. Es
+
+456
+00:16:11,309 --> 00:16:14,008
+ist also definitiv ziemlich langsam bei
+
+457
+00:16:13,051 --> 00:16:15,445
+dieser Aufgabe und bei maximalem
+
+458
+00:16:14,489 --> 00:16:17,144
+Aufwand sehen die Ergebnisse definitiv
+
+459
+00:16:16,187 --> 00:16:18,886
+besser aus, aber es gibt offensichtlich
+
+460
+00:16:17,930 --> 00:16:20,999
+einen großen Kompromiss. Es verbraucht
+
+461
+00:16:20,052 --> 00:16:22,719
+offensichtlich viele Token, was
+
+462
+00:16:21,773 --> 00:16:24,494
+wahrscheinlich einer der wenigen
+
+463
+00:16:23,548 --> 00:16:26,645
+Nachteile des Sonnet-Modells bisher ist
+
+464
+00:16:25,645 --> 00:16:28,744
+. Mein Fazit zum Sonnet 5.5 ist also,
+
+465
+00:16:27,796 --> 00:16:30,640
+dass es sich um ein bemerkenswertes
+
+466
+00:16:29,692 --> 00:16:32,694
+mittelgroßes Modell handelt, das sich
+
+467
+00:16:31,746 --> 00:16:34,642
+nicht wirklich wie ein mittelgroßes
+
+468
+00:16:33,695 --> 00:16:37,173
+Modell anfühlt. Es ist ein riesiger
+
+469
+00:16:36,223 --> 00:16:38,899
+Sprung gegenüber dem Sonnet 5. Es
+
+470
+00:16:37,949 --> 00:16:40,822
+läuft 30%schneller und kostet bei den
+
+471
+00:16:39,872 --> 00:16:43,930
+meisten Aufgaben bis zu 30%weniger. Es
+
+472
+00:16:42,985 --> 00:16:46,043
+ist praktisch identisch mit Opus 5.5,
+
+473
+00:16:45,098 --> 00:16:47,989
+liegt nur in einigen verschiedenen
+
+474
+00:16:47,044 --> 00:16:50,397
+Bereichen etwas zurück. Für mich ist
+
+475
+00:16:49,448 --> 00:16:53,350
+es eher grenzwertig. Natürlich muss
+
+476
+00:16:52,406 --> 00:16:55,250
+ich es noch in mehreren Bereichen
+
+477
+00:16:54,306 --> 00:16:57,205
+weiter testen, um diese Behauptung
+
+478
+00:16:56,261 --> 00:16:59,105
+tatsächlich zu bestätigen, aber
+
+479
+00:16:58,161 --> 00:17:01,341
+insgesamt ist es ein wirklich, wirklich
+
+480
+00:17:00,396 --> 00:17:03,352
+schönes Modell und etwas, das sich
+
+481
+00:17:02,408 --> 00:17:05,476
+hervorragend als täglicher Begleiter
+
+482
+00:17:04,532 --> 00:17:07,432
+auf niedrigeren Denkebenen eignet.
+
+483
+00:17:07,419 --> 00:17:10,803
+Preislich ist es natürlich nicht das
+
+484
+00:17:09,868 --> 00:17:13,317
+Beste, aber es ist immer noch relevant
+
+485
+00:17:12,382 --> 00:17:15,463
+und günstig. Wenn euch dieses Video
+
+486
+00:17:14,507 --> 00:17:16,669
+gefällt und ihr den Kanal
+
+487
+00:17:15,714 --> 00:17:18,234
+unterstützen möchtet, könnt ihr
+
+488
+00:17:17,278 --> 00:17:19,842
+über die unten stehende Option „
+
+489
+00:17:18,842 --> 00:17:21,317
+Super Thanks“ für meinen Kanal
+
+490
+00:17:20,362 --> 00:17:23,241
+spenden. Oder ihr schließt euch
+
+491
+00:17:22,296 --> 00:17:25,217
+unserem privaten Discord an, wo ihr
+
+492
+00:17:24,272 --> 00:17:26,973
+monatlich kostenlos auf mehrere
+
+493
+00:17:26,028 --> 00:17:29,113
+Abonnements für verschiedene KI-Tools
+
+494
+00:17:28,168 --> 00:17:31,199
+zugreifen könnt, sowie auf tägliche
+
+495
+00:17:30,254 --> 00:17:33,065
+KI-News und exklusive Inhalte und
+
+496
+00:17:32,120 --> 00:17:35,341
+vieles mehr. Aber was die Zukunft
+
+497
+00:17:34,400 --> 00:17:37,586
+betrifft, haben wir ziemlich düstere
+
+498
+00:17:36,645 --> 00:17:39,772
+Neuigkeiten von OpenAI, denn GPT-6.1
+
+499
+00:17:38,831 --> 00:17:41,663
+Astra, das um den Dev Day herum
+
+500
+00:17:40,722 --> 00:17:43,731
+erscheinen sollte, wurde offiziell
+
+501
+00:17:42,790 --> 00:17:46,883
+verschoben. Laut Wall Street Journal
+
+502
+00:17:45,955 --> 00:17:49,452
+bereitete OpenAI GPT-6.1 Astra für
+
+503
+00:17:48,524 --> 00:17:51,912
+einen Start im Oktober vor. Interne
+
+504
+00:17:50,948 --> 00:17:53,138
+Tests ergaben jedoch, dass es die
+
+505
+00:17:52,175 --> 00:17:54,473
+Sicherheits-und Abstimmungsstandards
+
+506
+00:17:53,509 --> 00:17:56,738
+des Unternehmens nicht erfüllte. Das
+
+507
+00:17:55,785 --> 00:17:58,530
+Verrückte daran ist, dass das Modell
+
+508
+00:17:57,577 --> 00:18:00,087
+offenbar besser in der Lage war,
+
+509
+00:17:59,134 --> 00:18:01,832
+schwierige Aufgaben ohne menschliche
+
+510
+00:18:00,879 --> 00:18:03,577
+Hilfe durchgängig zu erledigen, und
+
+511
+00:18:02,624 --> 00:18:04,944
+Probleme wie Modellträgheit
+
+512
+00:18:03,992 --> 00:18:07,971
+verbesserte. Allerdings zeigte es auch
+
+513
+00:18:07,018 --> 00:18:09,798
+einige irreführende Verhaltensweisen,
+
+514
+00:18:08,845 --> 00:18:11,625
+die seine Vorgänger nicht hatten, und
+
+515
+00:18:10,672 --> 00:18:13,312
+berichtete manchmal ungenau, was es
+
+516
+00:18:12,358 --> 00:18:15,045
+getan hatte, und überschritt seinen
+
+517
+00:18:14,092 --> 00:18:16,919
+zulässigen Rahmen, einschließlich des
+
+518
+00:18:15,966 --> 00:18:18,699
+Versuchs, externe Tools zu verwenden,
+
+519
+00:18:17,746 --> 00:18:22,012
+wenn dies nicht vorgesehen war. Stimmt
+
+520
+00:18:21,097 --> 00:18:24,833
+das nun? Ich weiß es nicht, aber das
+
+521
+00:18:23,879 --> 00:18:26,681
+Nichteinhalten von Sicherheitsstandards
+
+522
+00:18:25,727 --> 00:18:28,529
+ist eine sehr höfliche Art, das Rennen
+
+523
+00:18:27,575 --> 00:18:30,377
+um ein Modell tatsächlich zu verlieren
+
+524
+00:18:29,377 --> 00:18:32,179
+, und meiner Meinung nach ist dies, wie
+
+525
+00:18:31,225 --> 00:18:34,027
+ich zu Beginn des Videos erwähnt habe,
+
+526
+00:18:33,073 --> 00:18:35,829
+möglicherweise eine Möglichkeit für
+
+527
+00:18:34,875 --> 00:18:37,584
+sie, die Einführung ihres Modells zu
+
+528
+00:18:36,631 --> 00:18:39,201
+verzögern, da sie nicht dieselben
+
+529
+00:18:38,248 --> 00:18:41,771
+Standards wie Anthropic erfüllen. Aber
+
+530
+00:18:40,834 --> 00:18:44,295
+egal, ich weiß wirklich nicht, was sie
+
+531
+00:18:43,359 --> 00:18:47,572
+jetzt am Dev Day vorhaben. Ich weiß,
+
+532
+00:18:46,613 --> 00:18:49,182
+dass es noch viele weitere Leaks gibt,
+
+533
+00:18:48,224 --> 00:18:50,669
+über die wir bald sprechen werden,
+
+534
+00:18:49,711 --> 00:18:52,239
+aber das ist schon ein harter Schlag,
+
+535
+00:18:51,280 --> 00:18:53,643
+denn das sollte einer der großen
+
+536
+00:18:52,684 --> 00:18:56,250
+Launches beim Dev Day sein. Aber wir
+
+537
+00:18:55,281 --> 00:18:57,409
+wissen mit Sicherheit, dass sie alle
+
+538
+00:18:56,440 --> 00:18:58,599
+ihre Always-On-Assistenten vorstellen
+
+539
+00:18:57,630 --> 00:18:59,852
+werden, über die wir gesprochen haben,
+
+540
+00:18:58,883 --> 00:19:00,885
+und ich kann euch nur wärmstens
+
+541
+00:18:59,917 --> 00:19:01,856
+empfehlen, euch das Video dazu
+
+542
+00:19:00,888 --> 00:19:02,984
+anzusehen, falls ihr das noch nicht
+
+543
+00:19:02,015 --> 00:19:05,291
+getan habt. Eine weitere Sache, die sie
+
+544
+00:19:04,342 --> 00:19:07,282
+bestätigt haben, sind die mehr als 20
+
+545
+00:19:06,333 --> 00:19:09,703
+Launches. Wir wissen nicht, was das
+
+546
+00:19:08,752 --> 00:19:11,464
+für Launches sein werden, aber ich
+
+547
+00:19:10,513 --> 00:19:14,250
+vermute ein paar Dinge. Eine der
+
+548
+00:19:13,294 --> 00:19:16,005
+wichtigsten Neuerungen ist, dass OpenAI
+
+549
+00:19:15,049 --> 00:19:17,715
+einen größeren Teil seiner Plattform
+
+550
+00:19:16,759 --> 00:19:20,177
+direkt in Codex einbringt. Dadurch
+
+551
+00:19:19,228 --> 00:19:22,221
+können Entwickler Plugins, Agenten und
+
+552
+00:19:21,272 --> 00:19:24,009
+Apps direkt über einen speziellen
+
+553
+00:19:23,060 --> 00:19:27,544
+Dev-Day erstellen. Die Sessions selbst
+
+554
+00:19:26,590 --> 00:19:29,290
+sind aber noch interessanter, denn es
+
+555
+00:19:28,336 --> 00:19:30,898
+gibt ein Codex-Game-Studio, in dem
+
+556
+00:19:29,944 --> 00:19:32,369
+Entwickler buchstäblich Spiele
+
+557
+00:19:31,415 --> 00:19:34,023
+entwickeln, die Codex herausfordern
+
+558
+00:19:33,069 --> 00:19:36,974
+sollen. Außerdem wird in einer Session
+
+559
+00:19:36,026 --> 00:19:38,920
+ein interner OpenAI-Agent enthüllt,
+
+560
+00:19:37,973 --> 00:19:40,920
+der offenbar mehr als tausend Stunden
+
+561
+00:19:39,972 --> 00:19:42,919
+lang lief und dabei Ziele, Subagenten
+
+562
+00:19:41,972 --> 00:19:44,919
+und persistente Pläne verwendete, um
+
+563
+00:19:43,971 --> 00:19:46,865
+kontinuierlich Fehler zu untersuchen
+
+564
+00:19:45,918 --> 00:19:48,970
+und eine große Codebasis zu reparieren
+
+565
+00:19:47,970 --> 00:19:52,026
+. Außerdem gibt es noch Codex has left
+
+566
+00:19:51,078 --> 00:19:54,005
+laptop, das sich darauf konzentriert,
+
+567
+00:19:53,057 --> 00:19:55,359
+dass Codex über einzelne
+
+568
+00:19:54,412 --> 00:19:57,130
+Codierungsaufgaben hinausgeht und
+
+569
+00:19:56,183 --> 00:19:59,162
+stattdessen autonom ganze Probleme und
+
+570
+00:19:58,214 --> 00:20:01,533
+Ziele bearbeitet. Und die
+
+571
+00:20:00,567 --> 00:20:02,836
+wahrscheinlich interessanteste Sitzung
+
+572
+00:20:01,869 --> 00:20:04,105
+davon ist das Thema „Was kommt nach
+
+573
+00:20:03,138 --> 00:20:06,989
+den Schleifen?“. In dieser Sitzung
+
+574
+00:20:06,039 --> 00:20:08,841
+wird OpenAI den Wandel von einfachen
+
+575
+00:20:07,892 --> 00:20:10,493
+Agentenschleifen hin zu mehreren
+
+576
+00:20:09,543 --> 00:20:12,496
+zusammenarbeitenden Agenten untersuchen
+
+577
+00:20:11,546 --> 00:20:14,298
+und wie die nächste Generation von
+
+578
+00:20:13,348 --> 00:20:16,100
+Agentenarchitekturen aussehen wird.
+
+579
+00:20:16,039 --> 00:20:18,913
+Jetzt haben wir möglicherweise einen
+
+580
+00:20:17,963 --> 00:20:20,939
+der bisher größten Dev-Day-Leaks, und
+
+581
+00:20:19,990 --> 00:20:22,914
+hier bereitet OpenAI Berichten zufolge
+
+582
+00:20:21,965 --> 00:20:25,390
+etwas namens Dots vor. Im Wesentlichen
+
+583
+00:20:24,444 --> 00:20:27,175
+antwortet es auf seine autonomen
+
+584
+00:20:26,229 --> 00:20:29,339
+KI-Begleiter wie Meta Mews und Crocbot.
+
+585
+00:20:28,579 --> 00:20:30,967
+Der größte Unterschied besteht jedoch
+
+586
+00:20:30,002 --> 00:20:32,070
+darin, dass Dot anscheinend so
+
+587
+00:20:31,106 --> 00:20:33,387
+konzipiert ist, dass es tatsächlich
+
+588
+00:20:32,423 --> 00:20:35,194
+selbstständig funktioniert. Dein Dot
+
+589
+00:20:34,240 --> 00:20:36,778
+kann anscheinend laufende Aufgaben
+
+590
+00:20:35,823 --> 00:20:38,542
+ausführen, dich benachrichtigen, wenn
+
+591
+00:20:37,587 --> 00:20:39,764
+die Recherche tatsächlich
+
+592
+00:20:38,809 --> 00:20:41,573
+abgeschlossen ist, entscheiden, wann er
+
+593
+00:20:40,619 --> 00:20:43,066
+deine Genehmigung benötigt, und
+
+594
+00:20:42,112 --> 00:20:44,876
+benutzerdefinierte Regeln befolgen, die
+
+595
+00:20:43,921 --> 00:20:46,686
+steuern, was er tun kann und was nicht.
+
+596
+00:20:46,139 --> 00:20:48,900
+Noch verrückter ist, dass jeder Dot
+
+597
+00:20:47,949 --> 00:20:50,467
+tatsächlich auf seinen eigenen
+
+598
+00:20:49,516 --> 00:20:52,375
+virtuellen Computer zugreifen könnte,
+
+599
+00:20:51,424 --> 00:20:54,186
+der als Computer deines eigenen Dots
+
+600
+00:20:53,235 --> 00:20:55,850
+bezeichnet wird, sodass der Agent
+
+601
+00:20:54,899 --> 00:20:57,759
+tatsächlich mit Websites interagieren
+
+602
+00:20:56,808 --> 00:21:00,003
+und Aufgaben erledigen kann. Es gibt
+
+603
+00:20:59,049 --> 00:21:01,620
+auch Hinweise darauf, dass ChatGPT
+
+604
+00:21:00,666 --> 00:21:03,468
+heimlich Passwörter speichern könnte,
+
+605
+00:21:02,514 --> 00:21:05,131
+sodass sich diese Agenten in deinem
+
+606
+00:21:04,177 --> 00:21:06,887
+Namen über den Browser bei Webseiten
+
+607
+00:21:05,933 --> 00:21:09,294
+anmelden können. Und anscheinend wird
+
+608
+00:21:08,340 --> 00:21:10,897
+es für Dots auch eine Reihe von 3
+
+609
+00:21:09,942 --> 00:21:13,334
+D-Anpassungsoptionen geben. Wenn das
+
+610
+00:21:12,388 --> 00:21:15,457
+alles morgen startet, könnte das Open
+
+611
+00:21:14,511 --> 00:21:17,198
+AIs bisher größter Schritt in
+
+612
+00:21:16,253 --> 00:21:19,212
+Richtung eines Always-On-Assistenten
+
+613
+00:21:18,266 --> 00:21:22,486
+sein. Aber mir fallen spontan ein, was
+
+614
+00:21:21,557 --> 00:21:24,988
+demnächst erscheinen könnte: ihr
+
+615
+00:21:24,059 --> 00:21:27,704
+Always-On-Assistent wie Grok Bot, der
+
+616
+00:21:26,776 --> 00:21:30,421
+500-Dollar-Ax-Plan, sogar Aion, falls
+
+617
+00:21:29,492 --> 00:21:32,928
+das zählt. Dann gibt es noch GPT-6.1
+
+618
+00:21:31,976 --> 00:21:34,746
+Soul, das erscheinen könnte, aber da
+
+619
+00:21:33,794 --> 00:21:36,887
+bin ich mir noch nicht so sicher. Und
+
+620
+00:21:35,924 --> 00:21:38,302
+natürlich das Codex-Update, über das
+
+621
+00:21:37,338 --> 00:21:40,266
+wir gesprochen haben. Es gibt auch ein
+
+622
+00:21:39,318 --> 00:21:42,333
+paar kleine Features in Codex, aber das
+
+623
+00:21:41,385 --> 00:21:44,348
+sind nur ein paar Dinge, über die ich
+
+624
+00:21:43,400 --> 00:21:46,509
+spekulieren kann. Ax und Anthropic,
+
+625
+00:21:45,558 --> 00:21:47,959
+weil sie einen neuen Workflow
+
+626
+00:21:47,008 --> 00:21:49,796
+eingeführt haben, bei dem Claude dir
+
+627
+00:21:48,844 --> 00:21:51,633
+beim Erstellen von Bewertungen helfen
+
+628
+00:21:50,681 --> 00:21:53,419
+kann, gegen die er dann antritt. Im
+
+629
+00:21:52,465 --> 00:21:54,977
+Grunde kann Claude Code dir dabei
+
+630
+00:21:54,023 --> 00:21:56,489
+helfen, Evaluierungen für deine
+
+631
+00:21:55,535 --> 00:21:58,276
+Anwendung zu entwerfen, Schwachstellen
+
+632
+00:21:57,321 --> 00:21:59,971
+zu identifizieren und Verbesserungen
+
+633
+00:21:59,017 --> 00:22:01,742
+vorzunehmen. Anschließend können
+
+634
+00:22:00,786 --> 00:22:03,501
+diese Änderungen wiederholt anhand der
+
+635
+00:22:02,545 --> 00:22:05,173
+Evaluierungen getestet werden, um die
+
+636
+00:22:04,217 --> 00:22:06,932
+Anwendung im Laufe der Zeit iterativ zu
+
+637
+00:22:05,976 --> 00:22:09,194
+verbessern. Dies könnte äußerst
+
+638
+00:22:08,237 --> 00:22:10,756
+nützlich für Entwickler sein, die
+
+639
+00:22:09,800 --> 00:22:11,971
+versuchen, ihre Agenten und
+
+640
+00:22:11,014 --> 00:22:13,316
+KI-Anwendungen systematisch zu
+
+641
+00:22:12,360 --> 00:22:14,748
+verbessern, anstatt sich nur auf
+
+642
+00:22:13,791 --> 00:22:16,310
+Stimmungen zu verlassen und dann zu
+
+643
+00:22:15,353 --> 00:22:17,785
+sehen, ob sich tatsächlich etwas
+
+644
+00:22:16,829 --> 00:22:20,727
+verbessert hat. Wenn wir uns den
+
+645
+00:22:19,792 --> 00:22:23,326
+chinesischen KI-Laboren zuwenden, sieht
+
+646
+00:22:22,391 --> 00:22:25,600
+es so aus, als würde das Moonshot
+
+647
+00:22:24,665 --> 00:22:27,744
+AI-Team Kimi K 3.1 auf den Markt
+
+648
+00:22:26,809 --> 00:22:29,902
+bringen. Das Modell befindet sich nun
+
+649
+00:22:28,926 --> 00:22:31,609
+in der Testphase. Berichten zufolge
+
+650
+00:22:30,678 --> 00:22:33,820
+wurde das Modell heute in Kimis
+
+651
+00:22:32,889 --> 00:22:36,307
+Backend-Modellregistrierung mit dem
+
+652
+00:22:35,377 --> 00:22:39,002
+Kimi K-1-Slug entdeckt und wurde sogar
+
+653
+00:22:38,071 --> 00:22:41,656
+im API-Katalog gefunden. Das bedeutet
+
+654
+00:22:40,709 --> 00:22:43,726
+natürlich nicht, dass K 3.1 sehr bald
+
+655
+00:22:42,779 --> 00:22:45,796
+auf den Markt kommen wird, aber es ist
+
+656
+00:22:44,849 --> 00:22:47,336
+etwas, das uns einen kleinen
+
+657
+00:22:46,389 --> 00:22:49,353
+Vorgeschmack darauf gegeben hat, wozu
+
+658
+00:22:48,406 --> 00:22:51,476
+dieses Open-Source-Flaggschiffmodell in
+
+659
+00:22:50,529 --> 00:22:53,533
+der Lage ist. Es hat offenbar 2,8
+
+660
+00:22:52,586 --> 00:22:55,292
+Billionen Parameter und auch die
+
+661
+00:22:54,346 --> 00:22:57,159
+Preisgestaltung wurde tatsächlich
+
+662
+00:22:56,212 --> 00:23:00,509
+geleakt. Und wir haben sogar DeepSeek,
+
+663
+00:22:59,560 --> 00:23:02,409
+die an der Version 4.1 Pro arbeiten,
+
+664
+00:23:01,460 --> 00:23:04,155
+die möglicherweise nur noch Tage
+
+665
+00:23:03,206 --> 00:23:05,798
+entfernt ist, denn es gab einen
+
+666
+00:23:04,849 --> 00:23:07,287
+Mitarbeiter, der an der Deep
+
+667
+00:23:06,339 --> 00:23:09,239
+Seek-Oberfläche arbeitet, und er hat
+
+668
+00:23:08,290 --> 00:23:11,241
+Berichten zufolge den Nutzern in einer
+
+669
+00:23:10,293 --> 00:23:12,936
+Beta-Gruppe mitgeteilt, dass die
+
+670
+00:23:11,987 --> 00:23:14,836
+offizielle Desktop-Version am Montag
+
+671
+00:23:13,888 --> 00:23:16,634
+oder Dienstag vor dem chinesischen
+
+672
+00:23:15,685 --> 00:23:18,380
+Nationalfeiertag erscheinen wird.
+
+673
+00:23:18,720 --> 00:23:21,585
+Interessant ist jedoch, dass Deep Seek
+
+674
+00:23:20,634 --> 00:23:23,548
+auch angekündigt hat, dass die Version
+
+675
+00:23:22,597 --> 00:23:25,364
+4.1 Pro zusammen mit der offiziellen
+
+676
+00:23:24,413 --> 00:23:27,230
+Version der Deep Seek-Oberfläche auf
+
+677
+00:23:26,279 --> 00:23:29,836
+den Markt kommen wird. Wenn dieser
+
+678
+00:23:28,892 --> 00:23:31,923
+Zeitplan also noch eingehalten wird,
+
+679
+00:23:30,980 --> 00:23:33,841
+wird wahrscheinlich auch die Deep
+
+680
+00:23:32,897 --> 00:23:36,211
+Seek-Version 4.1 Pro live gehen. Dann
+
+681
+00:23:35,274 --> 00:23:38,824
+haben wir noch Alibaba. Was braut sich
+
+682
+00:23:37,866 --> 00:23:41,045
+hinter den Kulissen zusammen? Und wir
+
+683
+00:23:40,086 --> 00:23:42,640
+haben kürzlich die Modellfamilie für
+
+684
+00:23:41,681 --> 00:23:44,030
+Qwen 4.0 auf der Aspara-Konferenz
+
+685
+00:23:43,071 --> 00:23:46,927
+gesehen. Aber jetzt haben wir dieses
+
+686
+00:23:45,993 --> 00:23:49,351
+neue mysteriöse Qwen-Vorschaumodell
+
+687
+00:23:48,417 --> 00:23:51,775
+mit dem Codenamen Qwen Latest Series
+
+688
+00:23:50,841 --> 00:23:54,396
+Invite 2609, das ist das Datum, und die
+
+689
+00:23:53,461 --> 00:23:56,558
+Evaluierungen laufen bis zum 30.
+
+690
+00:23:55,623 --> 00:23:59,355
+September. Es gibt keine Bestätigung,
+
+691
+00:23:58,394 --> 00:24:00,801
+welche Modelle tatsächlich getestet
+
+692
+00:23:59,840 --> 00:24:01,895
+werden, aber es besteht die
+
+693
+00:24:00,934 --> 00:24:03,302
+Möglichkeit, dass es sich um einen
+
+694
+00:24:02,341 --> 00:24:04,709
+frühen Blick auf das Qwen-4-Modell
+
+695
+00:24:03,748 --> 00:24:08,258
+handelt. Im Baidu-Forum gibt es
+
+696
+00:24:07,304 --> 00:24:09,878
+tatsächlich ein paar verschiedene
+
+697
+00:24:08,925 --> 00:24:11,591
+Tests für das Qwen-4-Modell, die in
+
+698
+00:24:10,637 --> 00:24:12,980
+einer geschlossenen Betaphase
+
+699
+00:24:12,026 --> 00:24:16,122
+durchgeführt wurden. Hier hat es sich
+
+700
+00:24:15,197 --> 00:24:18,677
+über mehrere Generationen hinweg
+
+701
+00:24:17,752 --> 00:24:21,682
+extrem gut geschlagen, insbesondere mit
+
+702
+00:24:20,757 --> 00:24:23,589
+Vox Art. Das sieht man bei dieser
+
+703
+00:24:22,627 --> 00:24:25,909
+Pagoda. Man sieht auch die Qualität
+
+704
+00:24:24,967 --> 00:24:27,864
+dieser Generationen, und es zeigt
+
+705
+00:24:26,921 --> 00:24:30,106
+einfach, wie unglaublich dieses Modell
+
+706
+00:24:29,164 --> 00:24:33,120
+sein wird. Und ich bin wahnsinnig
+
+707
+00:24:32,179 --> 00:24:35,485
+gespannt auf das lokale Modell, das das
+
+708
+00:24:34,544 --> 00:24:37,850
+27-Milliarden-Parameter-Modell für die
+
+709
+00:24:36,909 --> 00:24:40,096
+Qwen-4-Modellreihe sein wird, mit dem
+
+710
+00:24:39,155 --> 00:24:41,988
+wir lokal praktisch hochmoderne
+
+711
+00:24:41,047 --> 00:24:44,116
+Ergebnisse erhalten werden, was der
+
+712
+00:24:43,175 --> 00:24:47,884
+Wahnsinn sein wird. Zu guter Letzt gibt
+
+713
+00:24:46,939 --> 00:24:49,985
+es noch eine Firma namens Skil-ed AI,
+
+714
+00:24:49,040 --> 00:24:52,085
+und das ist ein Roboter, der Fußball
+
+715
+00:24:51,141 --> 00:24:54,505
+spielt, Leute. Football, wie auch immer
+
+716
+00:24:53,535 --> 00:24:57,035
+ihr es nennen wollt. Aber ich kann euch
+
+717
+00:24:56,088 --> 00:24:58,998
+mit Sicherheit sagen, dass es in ein
+
+718
+00:24:58,051 --> 00:25:01,014
+paar Jahren einen Roboter geben wird,
+
+719
+00:25:00,067 --> 00:25:02,871
+der uns alle tunneln wird, was uns
+
+720
+00:25:01,924 --> 00:25:04,781
+natürlich zum Weinen bringen wird,
+
+721
+00:25:03,834 --> 00:25:07,454
+aber das ist einfach nur Wahnsinn. Wir
+
+722
+00:25:06,499 --> 00:25:09,073
+haben hier einen Roboter, der durch
+
+723
+00:25:08,118 --> 00:25:10,782
+Eigeninitiative gelernt hat, Fußball
+
+724
+00:25:09,827 --> 00:25:12,446
+zu spielen, und nicht durch manuelle
+
+725
+00:25:11,491 --> 00:25:14,296
+Programmierung jeder Bewegung. Er hat
+
+726
+00:25:13,346 --> 00:25:15,883
+sich selbst in einer virtuellen
+
+727
+00:25:14,933 --> 00:25:17,867
+Umgebung trainiert, die etwa 140 Jahren
+
+728
+00:25:16,917 --> 00:25:19,404
+ununterbrochenem Fußballspiel
+
+729
+00:25:18,454 --> 00:25:22,411
+entspricht. Er hat unentwegt gegen sich
+
+730
+00:25:21,458 --> 00:25:24,034
+selbst gespielt, durch Versuch und
+
+731
+00:25:23,080 --> 00:25:25,842
+Irrtum gelernt und konnte schließlich
+
+732
+00:25:24,889 --> 00:25:28,464
+tatsächlich Fußball spielen. Dabei
+
+733
+00:25:27,519 --> 00:25:30,618
+wird er sogar besser als die Menschen,
+
+734
+00:25:29,673 --> 00:25:32,848
+die ihr hier seht. Ich will nicht
+
+735
+00:25:31,890 --> 00:25:34,364
+gemein sein, aber das Ergebnis ist,
+
+736
+00:25:33,407 --> 00:25:35,839
+dass sich der Roboter tatsächlich
+
+737
+00:25:34,881 --> 00:25:37,355
+bewegen, verteidigen, angreifen und
+
+738
+00:25:36,397 --> 00:25:38,787
+seine Strategie auf dem Spielfeld
+
+739
+00:25:37,829 --> 00:25:41,109
+anpassen kann. Ein weiteres verrücktes
+
+740
+00:25:40,154 --> 00:25:42,761
+Beispiel ist, wie weit Reinforcement
+
+741
+00:25:41,805 --> 00:25:44,412
+Learning und Simulation mittlerweile
+
+742
+00:25:43,456 --> 00:25:47,130
+sogar die Robotik vorantreiben. Aber
+
+743
+00:25:46,158 --> 00:25:48,236
+das war's im Grunde genommen auch schon
+
+744
+00:25:47,264 --> 00:25:49,482
+mit dem heutigen Video. Das ist ein
+
+745
+00:25:48,509 --> 00:25:50,580
+Video, für das ich wirklich sehr, sehr
+
+746
+00:25:49,608 --> 00:25:54,690
+lange gebraucht habe. Es würde mir
+
+747
+00:25:53,729 --> 00:25:56,026
+also sehr viel bedeuten, wenn ihr
+
+748
+00:25:55,065 --> 00:25:57,440
+diesem Video ein „Gefällt mir“
+
+749
+00:25:56,479 --> 00:25:58,776
+gebt, den Kanal abonniert und die
+
+750
+00:25:57,815 --> 00:26:00,347
+Benachrichtigungen aktiviert, damit ihr
+
+751
+00:25:59,386 --> 00:26:01,879
+über alle Neuigkeiten in der Welt der
+
+752
+00:26:00,919 --> 00:26:03,804
+KI auf dem Laufenden bleibt. Ich hoffe,
+
+753
+00:26:02,828 --> 00:26:04,728
+euch hat dieses Video gefallen und ihr
+
+754
+00:26:03,751 --> 00:26:05,675
+konntet etwas Wertvolles daraus lernen.
+
+755
+00:26:04,775 --> 00:26:07,296
+Ich werde all diese Links unten in der
+
+756
+00:26:06,336 --> 00:26:08,697
+Beschreibung hinterlassen, wie die
+
+757
+00:26:07,737 --> 00:26:10,058
+World of AI School Community, wie
+
+758
+00:26:09,099 --> 00:26:11,660
+unsere World of AI Vibe Coding Platform
+
+759
+00:26:10,700 --> 00:26:13,635
+und Benchmark. Schaut euch den zweiten
+
+760
+00:26:12,670 --> 00:26:15,053
+Kanal an, abonniert unseren Newsletter,
+
+761
+00:26:14,088 --> 00:26:16,365
+folgt uns auf Discord, folgt mir auf
+
+762
+00:26:15,400 --> 00:26:17,712
+Twitter und zu guter Letzt: Abonniert
+
+763
+00:26:16,747 --> 00:26:19,094
+unbedingt unseren Kanal, aktiviert die
+
+764
+00:26:18,130 --> 00:26:20,442
+Benachrichtigungsglocke, liked dieses
+
+765
+00:26:19,477 --> 00:26:21,860
+Video und schaut euch bitte auch unsere
+
+766
+00:26:20,895 --> 00:26:23,207
+vorherigen Videos an, damit ihr über
+
+767
+00:26:22,242 --> 00:26:24,341
+die aktuellsten KI-News auf dem
+
+768
+00:26:23,377 --> 00:26:26,183
+Laufenden bleibt. Aber in diesem Sinne,
+
+769
+00:26:25,220 --> 00:26:27,600
+Leute, habt einen wunderschönen Tag,
+
+770
+00:26:26,638 --> 00:26:28,981
+verbreitet Positivität und ich sehe
+
+771
+00:26:28,018 --> 00:26:30,680
+euch ganz bald wieder. Peace out, Fuzz.
