@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import time
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from .exporters import write_transcript_files
@@ -50,14 +50,14 @@ def run(
         except TranscriptBlocked as exc:
             result = TranscriptResult(video=video, status="blocked", error=str(exc))
             manifest_items.append(result.to_dict())
-        except Exception as exc:  # keep one failed video from aborting the entire channel
+        except Exception as exc:  # noqa: BLE001 - keep one failed video from aborting the channel
             result = TranscriptResult(video=video, status="failed", error=f"{type(exc).__name__}: {exc}")
             manifest_items.append(result.to_dict())
         if index != len(videos):
             time.sleep(delay_seconds)
 
     manifest = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "channel": channel_meta,
         "requested_limit": limit,
         "videos_found": len(videos),
