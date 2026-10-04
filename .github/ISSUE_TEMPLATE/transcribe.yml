@@ -1,0 +1,39 @@
+name: Transcribe a YouTube channel
+description: Start a zero-key GitHub Actions run for the latest public videos on a channel.
+title: "[transcribe] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit this form to start the transcription workflow. No YouTube API key is required.
+
+  - type: input
+    id: channel
+    attributes:
+      label: YouTube channel
+      description: Enter an @handle or a YouTube channel URL.
+      placeholder: "@OpenAI"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: limit
+    attributes:
+      label: Number of videos
+      description: How many of the latest uploads should be processed?
+      options:
+        - "5"
+        - "10"
+        - "20"
+      default: 2
+    validations:
+      required: true
+
+  - type: input
+    id: languages
+    attributes:
+      label: Preferred languages
+      description: Comma-separated language codes in priority order. If none match, the first available caption track is used.
+      value: "de,en"
+    validations:
+      required: true
