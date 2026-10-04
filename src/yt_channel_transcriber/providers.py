@@ -76,12 +76,12 @@ class InnerTubeTranscriptPanelProvider:
     @staticmethod
     def _params(video_id: str, language_code: str) -> str:
         inner = b"\n\x03asr\x12\x02" + language_code.encode() + b"\x1a\x00"
-        encoded_language = quote(base64.b64encode(inner).decode(), safe="").encode()
+        encoded_language = base64.urlsafe_b64encode(inner)
         panel = b"engagement-panel-searchable-transcript-search-panel"
         outer = (
             b"\n\x0b"
             + video_id.encode()
-            + b"\x12\x12"
+            + b"\x12\x10"
             + encoded_language
             + b"\x18\x01"
             + b"\x2a\x33"
