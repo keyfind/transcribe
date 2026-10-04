@@ -1,0 +1,166 @@
+name: Transcribe YouTube channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "YouTube @handle or channel URL"
+        required: true
+        type: string
+      limit:
+        description: "Latest videos to process"
+        required: true
+        default: "20"
+        type: choice
+        options:
+          - "5"
+          - "10"
+          - "20"
+      languages:
+        description: "Preferred caption languages, comma-separated"
+        required: true
+        default: "de,en"
+        type: string
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: transcribe-${{ github.event_name == 'issues' && github.event.issue.number || github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  transcribe:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (startsWith(github.event.issue.title, '[transcribe]') &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association))
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Set up Deno for yt-dlp
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Install package
+        run: python -m pip install .
+
+      - name: Read request
+        id: request
+        shell: bash
+        env:
+          DISPATCH_CHANNEL: ${{ inputs.channel }}
+          DISPATCH_LIMIT: ${{ inputs.limit }}
+          DISPATCH_LANGUAGES: ${{ inputs.languages }}
+        run: |
+          if [[ "${{ github.event_name }}" == "issues" ]]; then
+            python -m yt_channel_transcriber.issue_input "$GITHUB_EVENT_PATH" --github-output "$GITHUB_OUTPUT"
+          else
+            python - <<'PY'
+            import os
+            from yt_channel_transcriber.issue_input import (
+                validate_channel, validate_languages, validate_limit
+            )
+            values = {
+                "channel": validate_channel(os.environ["DISPATCH_CHANNEL"]),
+                "limit": validate_limit(os.environ["DISPATCH_LIMIT"]),
+                "languages": validate_languages(os.environ["DISPATCH_LANGUAGES"]),
+            }
+            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+                for key, value in values.items():
+                    fh.write(f"{key}={value}\n")
+            PY
+          fi
+
+      - name: Transcribe latest videos
+        id: transcribe
+        env:
+          CHANNEL: ${{ steps.request.outputs.channel }}
+          LIMIT: ${{ steps.request.outputs.limit }}
+          LANGUAGES: ${{ steps.request.outputs.languages }}
+        run: |
+          OUTPUT_DIR=$(yt-channel-transcriber \
+            "$CHANNEL" \
+            --limit "$LIMIT" \
+            --languages "$LANGUAGES" \
+            --output transcripts)
+          echo "output_dir=$OUTPUT_DIR" >> "$GITHUB_OUTPUT"
+          echo "slug=$(basename "$OUTPUT_DIR")" >> "$GITHUB_OUTPUT"
+
+      - name: Create ZIP bundle
+        run: |
+          cd "${{ steps.transcribe.outputs.output_dir }}"
+          zip -qr "../../${{ steps.transcribe.outputs.slug }}-transcripts.zip" .
+
+      - name: Upload run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.transcribe.outputs.slug }}-transcripts
+          path: |
+            ${{ steps.transcribe.outputs.output_dir }}/
+            ${{ steps.transcribe.outputs.slug }}-transcripts.zip
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Commit transcript files
+        id: commit
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add transcripts/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "transcripts: automated channel update"
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+            sleep $((attempt * 2))
+          done
+          exit 1
+
+      - name: Add job summary
+        shell: bash
+        env:
+          CHANNEL: ${{ steps.request.outputs.channel }}
+          LIMIT: ${{ steps.request.outputs.limit }}
+          LANGUAGES: ${{ steps.request.outputs.languages }}
+          SLUG: ${{ steps.transcribe.outputs.slug }}
+        run: |
+          {
+            echo "## YouTube transcription complete"
+            echo
+            printf '%s\n' "- Channel: \`$CHANNEL\`"
+            printf '%s\n' "- Videos requested: \`$LIMIT\`"
+            printf '%s\n' "- Languages: \`$LANGUAGES\`"
+            echo "- Transcript index: https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF_NAME}/transcripts/${SLUG}/README.md"
+            echo "- The ZIP bundle is attached to this workflow run as an artifact."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Comment on request issue
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" --body "Done. [Open the transcript index](https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_REF_NAME}/transcripts/${{ steps.transcribe.outputs.slug }}/README.md) or download the ZIP from this Actions run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}."
