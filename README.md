@@ -22,17 +22,18 @@ You can also use **Actions → Transcribe YouTube channel → Run workflow** ins
 The project intentionally avoids the official YouTube Data API and external API credentials:
 
 - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) resolves a public channel and lists its latest uploads. The workflow installs Deno plus the `yt-dlp[default]` extras required for current YouTube support.
-- [`youtube-transcript-api`](https://github.com/jdepoix/youtube-transcript-api) reads public/manual or auto-generated captions.
-- If a GitHub-hosted runner is blocked by YouTube, the code tries a small set of public Invidious caption endpoints as a best-effort fallback.
+- Transcript retrieval uses a fallback chain. On GitHub-hosted runners the first practical provider is [FreeTranscriptAPI](https://freetranscriptapi.com/), whose anonymous endpoint needs no key and currently allows 20 requests per hour per IP.
+- [youtube-transcript.ai](https://youtube-transcript.ai/youtube-transcript-api) is the second hosted no-key fallback and returns timestamped transcript text under fair-use limits.
+- Direct `youtube-transcript-api`, InnerTube, `yt-dlp`, Invidious and Piped providers remain as additional fallbacks.
 - GitHub's built-in `GITHUB_TOKEN` is used only to commit generated files and comment on the triggering issue. You do **not** configure or store a personal token.
 
 ## Important limitation: cloud IP blocking
 
 YouTube increasingly blocks requests from cloud-provider IP ranges. `youtube-transcript-api` explicitly documents `RequestBlocked` / `IpBlocked` failures for cloud environments. GitHub-hosted runners can therefore fail for some videos or runs even though the code requires no API key.
 
-The Invidious fallback improves the odds without requiring credentials, but public instances can rate-limit, disable endpoints, or disappear. The workflow records these cases as `blocked` instead of failing the whole channel run.
+The hosted no-key transcript providers avoid that GitHub-runner IP problem, but they are third-party services with their own availability and fair-use limits. The workflow records provider failures as `blocked` instead of aborting the whole channel run.
 
-For production-grade reliability, the clean upgrade path is a self-hosted GitHub runner on a normal residential/business connection. The repository code itself does not need to change.
+If you need higher-volume or fully self-controlled production usage, use a self-hosted GitHub runner on a normal residential/business connection or configure a transcript provider you operate yourself.
 
 ## Output layout
 
