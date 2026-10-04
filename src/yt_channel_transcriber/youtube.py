@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import UTC, datetime
 from typing import Any
 
 from yt_dlp import YoutubeDL
@@ -12,7 +12,7 @@ from .utils import normalize_channel
 def _published(entry: dict[str, Any]) -> str | None:
     timestamp = entry.get("timestamp") or entry.get("release_timestamp")
     if timestamp:
-        return datetime.utcfromtimestamp(timestamp).isoformat(timespec="seconds") + "Z"
+        return datetime.fromtimestamp(timestamp, UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
     upload_date = entry.get("upload_date")
     if upload_date and len(upload_date) == 8:
         return f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
@@ -21,7 +21,7 @@ def _published(entry: dict[str, Any]) -> str | None:
 
 def list_latest_videos(channel: str, limit: int = 20) -> tuple[dict[str, str], list[Video]]:
     if limit < 1 or limit > 100:
-        raise ValueError(f"limit must be between 1 and 100")
+        raise ValueError("limit must be between 1 and 100")
     url = normalize_channel(channel)
     options = {
         "quiet": True,
