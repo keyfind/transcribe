@@ -539,17 +539,18 @@ class InvidiousDirectTranscriptProvider:
         for base in self.instances:
             if base in self.dead_instances:
                 continue
-            instance_failed = True
+
+            hard_failure = False
             for code in codes:
-                for auto_generated in (False, True):
+                for auto_generated in (True, False):
+                    params = {"lang": code}
+                    if auto_generated:
+                        params["autogen"] = "true"
                     try:
-                        params = {"lang": code}
-                        if auto_generated:
-                            params["autogen"] = "true"
                         response = self.session.get(
                             f"{base}/api/v1/transcripts/{video.video_id}",
                             params=params,
-                            timeout=(3, 10),
+                            timeout=(2, 5),
                         )
                         if response.status_code == 404:
                             continue
@@ -579,17 +580,17 @@ class InvidiousDirectTranscriptProvider:
                         )
                     except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
                         errors.append(f"{base}/{code}: {exc}")
-                        continue
-                    finally:
-                        instance_failed = False
+                        hard_failure = True
+                        break
+                if hard_failure:
+                    break
 
-            if instance_failed:
+            if hard_failure:
                 self.dead_instances.add(base)
 
         if errors:
-            raise TranscriptBlocked("; ".join(errors[-6:]))
+            raise TranscriptBlocked("; ".join(errors[-5:]))
         raise TranscriptUnavailable("No transcript returned by public Invidious instances")
-
 
 class PipedCaptionProvider:
     def __init__(self, instances: list[str] | None = None) -> None:
@@ -667,14 +668,14 @@ class FallbackTranscriptProvider:
         errors: list[str] = []
 
         try:
-            return self.invidious_transcript.fetch(video, languages)
-        except (TranscriptUnavailable, TranscriptBlocked) as exc:
-            errors.append(f"invidious-transcript: {exc}")
-
-        try:
             return self.piped.fetch(video, languages)
         except (TranscriptUnavailable, TranscriptBlocked) as exc:
             errors.append(f"piped: {exc}")
+
+        try:
+            return self.invidious_transcript.fetch(video, languages)
+        except (TranscriptUnavailable, TranscriptBlocked) as exc:
+            errors.append(f"invidious-transcript: {exc}")
 
         try:
             return self.transcript_panel.fetch(video, languages)
