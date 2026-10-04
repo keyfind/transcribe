@@ -150,18 +150,19 @@ class FallbackTranscriptProvider:
         self.direct_blocked = False
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
-        try:
-            if not self.direct_blocked:
-                return self.direct.fetch(video, languages)
-        except TranscriptUnavailable:
-            raise
-        except TranscriptBlocked as direct_error:
-            self.direct_blocked = True
-        else:
-            direct_error = TranscriptBlocked("direct provider previously blocked")
+        direct_error = TranscriptBlocked("direct provider previously blocked")
+        if not self.direct_blocked:
             try:
-                return self.invidious.fetch(video, languages)
-            except (TranscriptUnavailable, TranscriptBlocked) as fallback_error:
-                raise TranscriptBlocked(
-                    f"Direct provider failed: {direct_error}; fallback failed: {fallback_error}"
-                ) from fallback_error
+                return self.direct.fetch(video, languages)
+            except TranscriptUnavailable:
+                raise
+            except TranscriptBlocked as exc:
+                self.direct_blocked = True
+                direct_error = exc
+
+        try:
+            return self.invidious.fetch(video, languages)
+        except (TranscriptUnavailable, TranscriptBlocked) as fallback_error:
+            raise TranscriptBlocked(
+                f"Direct provider failed: {direct_error}; fallback failed: {fallback_error}"
+            ) from fallback_error
