@@ -9,7 +9,7 @@ def normalize_channel(value: str) -> str:
     value = value.strip()
     if not value:
         raise ValueError("channel must not be empty")
-    if value.startswith("http://") or value.startswith("https://"):
+    if value.startswith(("http://", "https://")):
         url = value.rstrip("/")
         if not url.endswith("/videos"):
             url += "/videos"
