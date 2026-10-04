@@ -53,6 +53,22 @@ class InnerTubeTranscriptPanelProvider:
     ENDPOINT = "https://www.youtube.com/youtubei/v1/get_transcript"
     CLIENTS = (
         {
+            "name": "WEB",
+            "id": "1",
+            "version": "2.20260722.01.00",
+            "key": None,
+            "user_agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+            ),
+            "extra": {
+                "clientScreen": "WATCH_FULL_SCREEN",
+                "osName": "Windows",
+                "osVersion": "10.0",
+                "platform": "DESKTOP",
+            },
+        },
+        {
             "name": "ANDROID",
             "id": "3",
             "version": "20.10.38",
@@ -146,9 +162,12 @@ class InnerTubeTranscriptPanelProvider:
                     "X-YouTube-Client-Version": str(client["version"]),
                 }
                 try:
+                    query = {"prettyPrint": "false"}
+                    if client["key"]:
+                        query["key"] = str(client["key"])
                     response = requests.post(
                         self.ENDPOINT,
-                        params={"key": client["key"], "prettyPrint": "false"},
+                        params=query,
                         headers=headers,
                         json={"context": {"client": client_context}, "params": params_value},
                         timeout=(5, 15),
