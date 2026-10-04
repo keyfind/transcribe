@@ -13,8 +13,7 @@ def main() -> None:
     }
     output_path = os.environ["GITHUB_OUTPUT"]
     with open(output_path, "a", encoding="utf-8") as handle:
-        for key, value in values.items():
-            handle.write(f"{key}={value}\n")
+        handle.writelines(f"{key}={value}\n" for key, value in values.items())
 
 
 if __name__ == "__main__":
