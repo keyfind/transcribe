@@ -1,0 +1,338 @@
+{
+  "generated_at": "2026-10-04T12:51:37.372910+00:00",
+  "channel": {
+    "input": "@intheworldofai",
+    "url": "https://www.youtube.com/@intheworldofai/videos",
+    "title": "WorldofAI",
+    "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw"
+  },
+  "requested_limit": 20,
+  "videos_found": 20,
+  "completed": 0,
+  "languages": [
+    "de",
+    "en"
+  ],
+  "items": [
+    {
+      "video": {
+        "video_id": "N3REfH4N9Dg",
+        "title": "HUGE Fable 5.5 LEAK + First Preview, Gemini 4 Argon, Claude Code Update, FREE Model, & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=N3REfH4N9Dg",
+        "published_at": null,
+        "duration": 1201
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=N3REfH4N9Dg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/N3REfH4N9Dg; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/N3REfH4N9Dg; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "9zVYS00N6mg",
+        "title": "MiniMax M3.1 Flash IS REALLY GOOD! INSANELY FAST & FREE! (Fully Tested)",
+        "url": "https://www.youtube.com/watch?v=9zVYS00N6mg",
+        "published_at": null,
+        "duration": 1267
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=9zVYS00N6mg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/9zVYS00N6mg; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/9zVYS00N6mg; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "RMTWayrwYkQ",
+        "title": "Gemini 4 Argon Is Google’s Most Powerful AI Model + Early Tests!",
+        "url": "https://www.youtube.com/watch?v=RMTWayrwYkQ",
+        "published_at": null,
+        "duration": 852
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=RMTWayrwYkQ! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/RMTWayrwYkQ; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/RMTWayrwYkQ; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "uJNP_FdlR3I",
+        "title": "GPT-6.1 Sol IS INSANE! + OpenAI's DevDay: Dots, Pro 500, Ultrafast, Codex & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=uJNP_FdlR3I",
+        "published_at": null,
+        "duration": 1779
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=uJNP_FdlR3I! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/uJNP_FdlR3I; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/uJNP_FdlR3I; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "WzoDOZnHbCk",
+        "title": "HUGE Fable 5.5 LEAK, Sonnet 5.5 IS INSANE, GPT 6.1, Qwen 4.0, Kimi K3.1 & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=WzoDOZnHbCk",
+        "published_at": null,
+        "duration": 1590
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=WzoDOZnHbCk! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/WzoDOZnHbCk; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/WzoDOZnHbCk; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "TyhlQ0ufH3Y",
+        "title": "MYSTERIOUS Stealth AI Model BEATS GPT-6 Astra & It’s COMPLETELY FREE!",
+        "url": "https://www.youtube.com/watch?v=TyhlQ0ufH3Y",
+        "published_at": null,
+        "duration": 803
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=TyhlQ0ufH3Y! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/TyhlQ0ufH3Y; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/TyhlQ0ufH3Y; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "6DjIjjE3doo",
+        "title": "HUGE OpenAI DevDay LEAK! “o” AI Agent, Sonnet 5.5 BEATS GPT-6, MiniMax M3.1 OUT & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=6DjIjjE3doo",
+        "published_at": null,
+        "duration": 1034
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=6DjIjjE3doo! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/6DjIjjE3doo; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/6DjIjjE3doo; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "NuXuUNRlaqk",
+        "title": "HUGE Gemini 4 Pro LEAKS BEATS Opus 5.5! Kimi K4, New Stealth Model, ByteDance 10T & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=NuXuUNRlaqk",
+        "published_at": null,
+        "duration": 1247
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=NuXuUNRlaqk! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/NuXuUNRlaqk; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/NuXuUNRlaqk; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "h5QwrHhW28Q",
+        "title": "Google's Project Suncatcher IS SENDING AI TO SPACE!?, Sonnet 5.5, $500 ChatGPT Plan & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=h5QwrHhW28Q",
+        "published_at": null,
+        "duration": 1068
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=h5QwrHhW28Q! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/h5QwrHhW28Q; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/h5QwrHhW28Q; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "zPbbOaX5yJ8",
+        "title": "HUGE GPT-6 Astra Minor LEAK, Claude HUGE Discovery, Mimo V3.0, Sonnet 5.5, & Muse Spark 1.4! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=zPbbOaX5yJ8",
+        "published_at": null,
+        "duration": 1334
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=zPbbOaX5yJ8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/zPbbOaX5yJ8; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/zPbbOaX5yJ8; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "GJIkBVSoxUw",
+        "title": "HUGE AI NEWS: GPT-6 Sol & Luna, Opus 5.5, Sonnet 5.5, Haiku 5.5, Qwen 4.0, & Trump To Change AI!",
+        "url": "https://www.youtube.com/watch?v=GJIkBVSoxUw",
+        "published_at": null,
+        "duration": 1329
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=GJIkBVSoxUw! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/GJIkBVSoxUw; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/GJIkBVSoxUw; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "rFCaGc7owT8",
+        "title": "Claude Opus 5.5 IS THE Greatest AI Model EVER! Cheaper, Fast, & Powerful! (FULLY TESTED)",
+        "url": "https://www.youtube.com/watch?v=rFCaGc7owT8",
+        "published_at": null,
+        "duration": 1102
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=rFCaGc7owT8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/rFCaGc7owT8; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/rFCaGc7owT8; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "Nv_kTdHIVNY",
+        "title": "Xiaomi MiMo-V2.6 Pro IS THE BEST Open Source Model EVER! (Fully Tested)",
+        "url": "https://www.youtube.com/watch?v=Nv_kTdHIVNY",
+        "published_at": null,
+        "duration": 978
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Nv_kTdHIVNY! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/Nv_kTdHIVNY; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/Nv_kTdHIVNY; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "i00isgmGgGg",
+        "title": "HUGE Opus 5.5 LEAKS + Cheaper? Qwen 4, Kimi K3.1, MiniMax M3.1 & Step 5 Preview! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=i00isgmGgGg",
+        "published_at": null,
+        "duration": 869
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=i00isgmGgGg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/i00isgmGgGg; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/i00isgmGgGg; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "hUZNPCSZDaQ",
+        "title": "HUGE Fable 5.2, Opus 5.2, Sonnet 5.2 LEAKS! Gemini World, Google AI HACKS Companies & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=hUZNPCSZDaQ",
+        "published_at": null,
+        "duration": 905
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=hUZNPCSZDaQ! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/hUZNPCSZDaQ; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/hUZNPCSZDaQ; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "ZJ6RUAH--Js",
+        "title": "HUGE Gemini 4 Pro LEAKS! GPT-6 Sol Testing, Grok 4.7 UPDATE, Google RSI & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=ZJ6RUAH--Js",
+        "published_at": null,
+        "duration": 1258
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=ZJ6RUAH--Js! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/ZJ6RUAH--Js; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/ZJ6RUAH--Js; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "XMPatH1OxM8",
+        "title": "Grok 5.0 Will Be LEGENDARY, Gemini 4.0 Pro Leaks, China AI vs US AI, & Opus 5.2 Preview! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=XMPatH1OxM8",
+        "published_at": null,
+        "duration": 744
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=XMPatH1OxM8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/XMPatH1OxM8; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/XMPatH1OxM8; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "TKkdTyT6FlA",
+        "title": "NEW Opus 5.2 LEAKS, AI Development To Be Slowed Down, GPT-6 Sol Preview, DeepSeek Code 2.0, & More!",
+        "url": "https://www.youtube.com/watch?v=TKkdTyT6FlA",
+        "published_at": null,
+        "duration": 755
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=TKkdTyT6FlA! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/TKkdTyT6FlA; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/TKkdTyT6FlA; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "fyygMxVCAWI",
+        "title": "HUGE Google DeepMind RSI LEAKS! GPT-6 Astra NERFED, Kimi K2.8 Code, & More! AI NEWS",
+        "url": "https://www.youtube.com/watch?v=fyygMxVCAWI",
+        "published_at": null,
+        "duration": 697
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=fyygMxVCAWI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/fyygMxVCAWI; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/fyygMxVCAWI; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    },
+    {
+      "video": {
+        "video_id": "LadJAOZ2seU",
+        "title": "GPT-6 'Sol' Soon! Gemini 4.0 Pro Checkpoint, DeepSeek v4.1 Flash, Nano Banana 2.5, & More! AI NEWS!",
+        "url": "https://www.youtube.com/watch?v=LadJAOZ2seU",
+        "published_at": null,
+        "duration": 896
+      },
+      "status": "blocked",
+      "language": null,
+      "language_code": null,
+      "is_generated": null,
+      "provider": null,
+      "error": "Direct provider failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=LadJAOZ2seU! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; fallback failed: https://yt.chocolatemoo53.com: 403 Client Error: Forbidden for url: https://yt.chocolatemoo53.com/api/v1/captions/LadJAOZ2seU; https://invidious.tiekoetter.com: 403 Client Error: Forbidden for url: https://invidious.tiekoetter.com/api/v1/captions/LadJAOZ2seU; https://invidious.f5.si: caption response contained no cues",
+      "segments": null
+    }
+  ]
+}
