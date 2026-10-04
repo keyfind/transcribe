@@ -95,13 +95,16 @@ class InvidiousTranscriptProvider:
         )
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": "yt-channel-transcriber/0.1"})
+        self.dead_instances: set[str] = set()
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
         errors: list[str] = []
         for base in self.instances:
+            if base in self.dead_instances:
+                continue
             try:
                 listing = self.session.get(
-                    f"{base}/api/v1/captions/{video.video_id}", timeout=15
+                    f"{base}/api/v1/captions/{video.video_id}", timeout=(3, 5)
                 )
                 if listing.status_code == 404:
                     continue
@@ -119,7 +122,7 @@ class InvidiousTranscriptProvider:
                         break
                 chosen = chosen or captions[0]
                 caption_url = urljoin(base + "/", str(chosen["url"]).lstrip("/"))
-                response = self.session.get(caption_url, timeout=20)
+                response = self.session.get(caption_url, timeout=(3, 7))
                 response.raise_for_status()
                 segments = parse_vtt(response.text)
                 if not segments:
@@ -133,6 +136,7 @@ class InvidiousTranscriptProvider:
                 )
             except (requests.RequestException, ValueError, KeyError, RuntimeError) as exc:
                 errors.append(f"{base}: {exc}")
+                self.dead_instances.add(base)
                 time.sleep(0.3)
         if errors:
             raise TranscriptBlocked("; ".join(errors[-3:]))
@@ -143,13 +147,18 @@ class FallbackTranscriptProvider:
     def __init__(self) -> None:
         self.direct = YouTubeTranscriptProvider()
         self.invidious = InvidiousTranscriptProvider()
+        self.direct_blocked = False
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
         try:
-            return self.direct.fetch(video, languages)
+            if not self.direct_blocked:
+                return self.direct.fetch(video, languages)
         except TranscriptUnavailable:
             raise
         except TranscriptBlocked as direct_error:
+            self.direct_blocked = True
+        else:
+            direct_error = TranscriptBlocked("direct provider previously blocked")
             try:
                 return self.invidious.fetch(video, languages)
             except (TranscriptUnavailable, TranscriptBlocked) as fallback_error:
