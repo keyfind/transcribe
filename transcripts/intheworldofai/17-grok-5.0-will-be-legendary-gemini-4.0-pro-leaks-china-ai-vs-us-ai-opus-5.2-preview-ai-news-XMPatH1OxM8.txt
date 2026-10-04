@@ -1,0 +1,351 @@
+Wenn ich sage, dass es im KI-Bereich
+nie langweilig wird, dann meine ich das
+wirklich so, denn wir haben einige
+wahnsinnige neue Einblicke in die
+Zukunft von Grok. Und wenn Elons
+Behauptung zutrifft, könnten einige
+der kommenden Grok-Modelle Fable und
+Astra weit überlegen sein. Elon
+enthüllte zunächst, dass Grok 4.8 ein
+gewaltiges Modell mit 2,5 Billionen
+Parametern ist, das mit ihrem neuen C
+++-Software-Stack trainiert wird, und
+es soll noch diese Woche fertig
+trainiert sein, bevor es in das
+Reinforcement Learning geht. Aber davor
+kommt noch Grok 4.7, das anscheinend
+unmittelbar bevorsteht und jeden Tag
+veröffentlicht werden könnte. Doch
+Elon beließ es nicht dabei. Er legte
+im Grunde dar, was er von der gesamten
+kommenden Grok-Familie erwartet, und
+behauptete, dass Grok 4.7 die Leistung
+von Opus 5 erreichen könnte, während
+Grok 5 und die Modelle darüber sowie
+darunter in ihren Fähigkeiten völlig
+anders sein könnten. Hier gibt es
+tatsächlich eine Menge zu besprechen.
+Unterdessen scheint Google an einem
+neuen Programmiermodell zu arbeiten.
+Ein geheimnisvoller Prüfpunkt namens
+„Antigravity Preview“ tauchte
+kürzlich rund um die Gemini-API auf,
+versehen mit dem Datum 26. September.
+Dies könnte potenziell ein auf
+Programmierung fokussiertes Modell für
+Antigravity sein oder sogar ein
+separater Checkpoint aus der Gemini 4.0
+-Familie. Was auch immer es ist, es ist
+definitiv interessant und wir haben
+bereits ein paar Vorschauen darauf.
+Dann haben wir eine massive Debatte
+über die Verlangsamung der
+KI-Entwicklung, ein Thema, über das
+wir in den letzten Videos bereits
+gesprochen haben. Nachdem Dario Amodei
+Bedenken hinsichtlich des Tempos des
+KI-Fortschritts geäußert hatte,
+explodierte die Diskussion. Trump
+sprach sich heute gegen zusätzliche
+KI-Leitplanken aus, und nun hat China
+auf die Debatte um die Verlangsamung
+reagiert und gewarnt, dass Panikmache,
+Konfrontation und bösartiger
+Wettbewerb die globale KI-Governance
+stören könnten. Jetzt sprechen also
+wichtige Persönlichkeiten in Amerika
+davon, das Tempo zu drosseln, während
+China im Grunde sagt, man solle den
+Fortschritt weiter vorantreiben. Diese
+wachsende Kluft könnte zu einer der
+wichtigsten Dynamiken werden, die die
+Zukunft des KI-Wettlaufs prägen. Und
+schließlich hatten wir gestern über
+Opus 5.2 gesprochen, das
+möglicherweise bald kommt, aber wir
+hatten tatsächlich nichts, um Ihnen
+diesen Checkpoint zu zeigen. Nun, heute
+haben wir unsere erste Vorschau auf
+dieses Modell, und es ist geradezu irre
+, was man damit alles machen kann. Es
+gibt noch viel mehr zu behandeln, also
+stürzen wir uns einfach direkt darauf.
+Es gibt viele Dinge im KI-Bereich, die
+ich nicht wirklich auf dem
+YouTube-Kanal präsentiere, auf die Sie
+aber über meinen kostenlosen
+Newsletter zugreifen können–den Link
+dazu finden Sie unten in der
+Beschreibung, wo Sie sich völlig
+kostenlos anmelden können. Wir
+beginnen mit Elon Musk, der
+überraschenderweise über Grok 4.8
+sprach, obwohl Grok 4.7 noch nicht
+einmal veröffentlicht ist, was jedoch
+in Kürze, wahrscheinlich jeden Tag,
+passieren sollte. Im Grunde fing alles
+auf X an, wo Elon gefragt wurde, wann
+wir neben Grok 4.7 etwas von SpaceX AI
+erwarten können, woraufhin Elon mit
+einem ziemlich massiven Update
+antwortete. Er begann über Grok 4.8 zu
+sprechen, ein Modell mit 2,5 Billionen
+Parametern, das bereits dort trainiert
+wurde oder dessen Training mit dem
+neuen C ++ Software-Stack bald
+abgeschlossen sein wird. Und das ist
+etwas, das wahrscheinlich nächste
+Woche mit dem Training beginnen sollte.
+Aber wir sprechen hier von einem 2,5
+Billionen Parameter umfassenden
+Grok-Modell, das seinen
+Haupttrainingslauf diese Woche
+abschließen sollte, bevor es in eine
+Phase des bestärkenden Lernens geht.
+Dass Elon bereits öffentlich über
+Grok 4.8 spricht, während wir noch auf
+Grok 4.7 warten, deutet darauf hin,
+dass die Grok-Pipeline derzeit extrem
+schnell voranschreitet. Und es ist
+irgendwie lustig. Es ist wirklich
+ironisch, dass dieser Typ davon sprach,
+KI zu verlangsamen, und Dario zustimmte
+, während er gleichzeitig über all
+diese neuen Grok-Modelle spricht, die
+veröffentlicht werden. Doch dann ging
+Elon noch einen Schritt weiter und
+lieferte uns im Grunde eine Roadmap
+für die nächsten Grok-Modelle und wo
+er erwartet, dass jedes von ihnen
+landen wird. Laut Elon sollte Grok 4.7
+in etwa auf Augenhöhe mit Opus 5.0
+sein, in einigen Bereichen besser und
+in anderen schlechter. Obwohl er zugibt
+, dass sie die multimodale Leistung
+noch verbessern müssen. Dann sollte
+Grok 4.8 eine spürbare Verbesserung
+gegenüber 4.7 sein. Aber mit Grok 4.9
+wurde es noch interessanter, da Elon
+glaubt, dass es Astra-und
+Fable-Leistungsniveaus erreichen
+könnte. Und dann gibt es noch Grok 5,
+wozu Elon einfach sagt, dass es besser
+als alles andere sein könnte.
+Natürlich sind das Elons eigene
+Einschätzungen, und wir werden
+unabhängige Benchmarks und Praxistests
+brauchen, bevor wir sie für bare
+Münze nehmen. Aber wenn diese Roadmap
+auch nur annähernd genau ist, könnte
+SpaceX AI in nur wenigen
+Modelliterationen von der Leistung
+eines Opus 5 zu unglaublich günstigen
+Preisen in Richtung führender
+Spitzenleistung mit Grok 5 vorstoßen.
+In den letzten Tagen haben wir über
+diese massive Debatte berichtet, ob die
+KI-Entwicklung verlangsamt werden muss.
+Sie kam richtig in Gang, nachdem
+Anthropic-CEO Dario einen langen
+Aufsatz veröffentlichte, in dem er
+argumentierte, dass die KI-Entwicklung
+an der Grenze schnell mit
+Sicherheitsmaßnahmen verlangsamt
+werden sollte, damit sie in einer
+angemessenen Umgebung gehalten wird und
+der Menschheit nicht schaden kann. Was
+dies besonders bedeutsam machte, war,
+dass Sam Altman und Elon Teile von
+Darios Argumentation öffentlich
+unterstützten, wobei Musk einfach
+sagte, dass Dario Recht hat. Plötzlich
+stimmten die Leiter mehrerer großer
+amerikanischer KI-Labore zu, dass wir
+das Tempo womöglich tatsächlich
+drosseln müssen. Doch heute schaltete
+sich Präsident Trump völlig
+überraschend direkt in die Debatte ein
+und vertrat im Grunde die gegenteilige
+Position. Trump argumentierte, dass KI
+keine zusätzlichen Schutzmaßnahmen
+brauche, da die US-Regierung bereits
+über enorme strafrechtliche und
+regulatorische Befugnisse gegenüber
+diesen Unternehmen verfüge. Er ging
+dann gezielt gegen Dario vor und
+behauptete, seine Regierung habe
+KI-Größen wie ihn daran gehindert,
+das zu tun, was Trump als schlecht oder
+potenziell schädlich beschrieb. Und
+Trump beließ es nicht dabei. Er machte
+einfach weiter. Er behauptete, es gäbe
+eine kranke Verschwörung gegen KI und
+Rechenzentren, und argumentierte, dass
+eine Verlangsamung der amerikanischen
+KI-Entwicklung letztlich China
+zugutekäme. Seine Kernbotschaft war
+denkbar einfach. Wer bei der KI gewinnt
+, gewinnt alles. Trump glaubt, dass die
+USA China bei der KI derzeit anführen
+–womit er nicht ganz unrecht hat–
+und er will offensichtlich nicht, dass
+zusätzliche Beschränkungen diesen
+Vorsprung gefährden. Diese Debatte
+geht inzwischen weit über KI-Forscher
+hinaus, die sich auf X streiten. Einige
+der größten KI-CEOs Amerikas sagen,
+wir müssten das Wettrennen an der
+technologischen Grenze vielleicht
+tatsächlich verlangsamen, während der
+Präsident und andere Nationen das
+Gegenteil behaupten. Das Kuriose ist,
+dass China tatsächlich offiziell auf
+diese Forderungen zur Verlangsamung der
+KI-Entwicklung reagiert hat, was die
+ganze Situation noch interessanter
+macht. Im Wesentlichen erklärten sie,
+dass Panikmache, Konfrontation und
+erbitterter Wettbewerb nur den Prozess
+der globalen KI-Governance stören
+würden, was in niemandes Interesse
+liegt. Und genau hier wird die
+Situation richtig wichtig. Einige der
+größten amerikanischen KI-CEOs, wie
+ich bereits erwähnte, warnen, dass die
+Entwicklung an der technologischen
+Grenze zu schnell voranschreiten
+könnte und gefährlich sei. Doch jetzt
+stellt sich China gegen angstgetriebene
+Beschränkungen und betont stattdessen
+die kontinuierliche globale
+KI-Entwicklung. Und dann ist da noch
+Trump, der argumentiert, dass derjenige
+, der bei der KI gewinnt, das ganze
+Rennen gewinnt. Wir beobachten also im
+Grunde drei konkurrierende Kräfte.
+KI-Labore, die sich um Sicherheit
+sorgen, die US-Regierung, die sich
+darum sorgt, wer das Rennen gewinnt
+oder verliert, und China, das vor Angst
+, Konfrontation und der Störung des
+KI-Fortschritts warnt. Als Nächstes
+gibt es etwas Geheimnisvolles, das in
+der Gemini-API unter dem Namen „
+anti-gravity preview 09 2026“
+aufgetaucht ist. Berichten zufolge mit
+131.000 Input-und 65.000 Output-Token
+Kontext. Zuerst fragten sich die Leute,
+ob dies mit Googles kürzlichem
+RSI-Teasing oder vielleicht einem neuen
+Coding-Modell zusammenhängen könnte.
+Doch ein Google-Entwickler bestätigte
+tatsächlich, dass es sich nicht um ein
+neues Modell handelt. Es hängt mit
+Googles „Anti-Gravity Agent Harness
+“ zusammen, worüber sie im Laufe
+dieser Woche weitere Informationen
+veröffentlichen werden. Es handelt
+sich also wahrscheinlich nicht um
+Gemini 4.0, das sich hinter diesem
+neuen Namen verbirgt, der hier in
+diesem Checkpoint gelistet ist. Aber
+wir haben einige Informationen über
+den Gemini 4.0-Checkpoint. Hier haben
+wir endlich unser erstes echtes
+Anzeichen für Gemini 4 Pro. Es gibt
+einen neuen internen Checkpoint, der
+Berichten zufolge unter dem Codenamen
+Argon aufgetaucht ist, und wir haben
+nun das, was als erster Output des
+Modells gilt, der bei hoher
+Denkleistung etwa 2,4 Minuten dauerte.
+Das größte bisher bemerkbare Upgrade
+ist der Kontext. Berichten zufolge hat
+es ein massives Ausgabelimit von 256K,
+ein Anstieg von 64K bei der vorherigen
+Gemini-Modellreihe, bei der es sich,
+glaube ich, um die Pro-Serie handelte.
+Und dazu ein potenzielles
+Kontextfenster von 2 Millionen Token,
+obwohl das anscheinend noch nicht
+endgültig festgelegt wurde. Gemini 4
+Pro sieht also definitiv so aus, als
+würde es mit dieser Veröffentlichung
+endlich an Fahrt gewinnen. Und die
+Generierung scheint mit diesem
+Checkpoint bisher ziemlich unglaublich
+auszusehen. Wenn Ihnen dieses Video
+gefällt und Sie den Kanal
+unterstützen möchten, können Sie
+eine Spende über die „Super Thanks
+“-Option unten in Erwägung ziehen.
+Oder Sie treten unserem privaten
+Discord bei, wo Sie monatlich
+kostenlosen Zugriff auf verschiedene
+KI-Tool-Abos, tägliche KI-News,
+exklusive Inhalte und vieles mehr
+erhalten. Zuletzt werfen wir einen
+Blick auf einige neue Vorschauen von
+Claude Opus 5.2. Wir haben kürzlich im
+letzten Video über das 5.2-Modell
+gesprochen, und basierend auf dem
+aktuellen 5.2-Slug scheint Anthropic
+möglicherweise Opus 5.1 zu
+überspringen und Opus 5.2 direkt
+innerhalb von Claude Code per
+Grayscale-Test zu testen, während es
+weiterhin als reguläres Opus 5-Modell
+angezeigt wird. Die frühen Vergleiche
+zeigen bisher einen ziemlich massiven
+Unterschied. Das vermutete geroutete
+Modell scheint viel schneller zu sein,
+liefert sauberere Ergebnisse und ist
+weitaus eher bereit, größere Aufgaben
+zu übernehmen. Es gibt sogar einen
+einfachen Test, der gerade die Runde
+macht. Fragen Sie Claude Code: Kennst
+du Tibo, den Reset-Typen? Suchen Sie
+nicht, und wenn es ihn erkennt, besteht
+die Chance, dass Ihre Anfragen an den
+neueren Checkpoint weitergeleitet
+werden. Natürlich ist das noch keine
+offizielle Bestätigung, aber die
+bisherige Ausgabequalität dieses
+Modells ist definitiv unglaublich. Was
+mir bisher aufgefallen ist, ist, dass
+es sich bei der SVG-Generierung
+auszeichnet. Man kann sehen, dass es
+sehr qualitativ ist. Das sieht man
+sogar bei diesem Pelikan. Im Schnabel
+ist dieser Fisch zu sehen, was ein
+wirklich cooles Detail ist, das es
+sogar hinzugefügt hat. Es hat sogar
+den Text auf dem Fahrrad koloriert
+sowie alles animiert. Das ist also eine
+ziemlich elegante Generierung von Opus
+5.2. Das war es dann soweit von mir
+für das heutige Video. Ich hoffe, es
+hat euch gefallen und ihr konntet einen
+Mehrwert daraus ziehen. Falls noch
+nicht geschehen, schaut euch unbedingt
+den World of AI Insider Club an, unsere
+neu gestartete Community, in der ihr
+Zugang zu all diesen fantastischen
+Vorteilen erhaltet, die euch im Bereich
+KI enorm weiterhelfen werden. Schaut
+euch auf jeden Fall auch die World of
+AI 5 Current-Plattform und das
+Benchmark an. Werft einen Blick auf
+unseren zweiten Kanal. Abonniert den
+Newsletter. Kommt auf unseren Discord.
+Folgt mir auf Twitter. Und zu guter
+Letzt: Abonniert den Kanal, aktiviert
+die Glocke, gebt dem Video ein Like und
+schaut euch unsere früheren Videos an,
+damit ihr bei den neuesten
+KI-Nachrichten immer auf dem Laufenden
+bleibt. Aber mit diesen Gedanken, Leute
+, habt einen fantastischen Tag.
+Verbreitet Positivität, und wir sehen
+uns schon bald wieder. Macht’s gut,
+Leute.

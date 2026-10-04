@@ -1,0 +1,2639 @@
+1
+00:00:00,100 --> 00:00:03,350
+Die letzten 24 Stunden waren ziemlich
+
+2
+00:00:02,411 --> 00:00:05,369
+verrückt. Wir hatten einige neue
+
+3
+00:00:04,415 --> 00:00:06,792
+Modell-Drops von den größten
+
+4
+00:00:05,837 --> 00:00:08,398
+KI-Laboren, aber es ist noch nicht
+
+5
+00:00:07,444 --> 00:00:10,233
+einmal ein ganzer Tag vergangen und wir
+
+6
+00:00:09,279 --> 00:00:11,931
+haben bereits bahnbrechende KI-News,
+
+7
+00:00:10,977 --> 00:00:13,400
+über die wir sprechen können.
+
+8
+00:00:12,783 --> 00:00:15,344
+Beginnen wir mit dem versteckten
+
+9
+00:00:14,393 --> 00:00:17,402
+Astra-Minor-Modell von OpenAI. Jetzt
+
+10
+00:00:16,447 --> 00:00:20,118
+eine Pause. Ich habe diesen Modellnamen
+
+11
+00:00:19,164 --> 00:00:21,770
+nie gewählt, also sag nichts dazu,
+
+12
+00:00:20,816 --> 00:00:23,514
+aber das Modell wurde im Hilfe-Center
+
+13
+00:00:22,560 --> 00:00:25,258
+von OpenAI entdeckt und ist Berichten
+
+14
+00:00:24,304 --> 00:00:26,956
+zufolge sogar besser als GPT-6 Soul,
+
+15
+00:00:26,002 --> 00:00:29,898
+abgesehen vom Namen. Allerdings hat
+
+16
+00:00:28,948 --> 00:00:31,694
+OpenAI inzwischen alle Verweise auf
+
+17
+00:00:30,744 --> 00:00:33,041
+Astra Minor entfernt, aber
+
+18
+00:00:32,091 --> 00:00:34,788
+möglicherweise wissen wir bereits
+
+19
+00:00:33,838 --> 00:00:36,484
+einige Informationen über dieses
+
+20
+00:00:35,534 --> 00:00:38,180
+mysteriöse Modell, die wir heute
+
+21
+00:00:37,230 --> 00:00:41,990
+aufdecken werden. MiniMax M 3.1 wurde
+
+22
+00:00:41,058 --> 00:00:44,232
+im offiziellen Modellkatalog von
+
+23
+00:00:43,300 --> 00:00:46,883
+MiniMax entdeckt und könnte sehr bald
+
+24
+00:00:45,951 --> 00:00:49,564
+erscheinen. Gleichzeitig tauchte auf
+
+25
+00:00:48,618 --> 00:00:51,384
+OpenCode und OpenRouter ein neues
+
+26
+00:00:50,438 --> 00:00:53,472
+Stealth-Modell namens Space Money auf,
+
+27
+00:00:52,525 --> 00:00:55,560
+ein weiterer seltsamer Name, mit einem
+
+28
+00:00:54,613 --> 00:00:57,647
+Kontextfenster von 1 Million Token und
+
+29
+00:00:56,701 --> 00:00:59,200
+multimodaler Unterstützung.
+
+30
+00:00:58,899 --> 00:01:02,411
+Interessanterweise passt sein Tokenizer
+
+31
+00:01:01,475 --> 00:01:04,923
+perfekt zu MiniMax M3, auch wenn seine
+
+32
+00:01:03,987 --> 00:01:07,500
+Leistung bisher eher enttäuschend war.
+
+33
+00:01:06,999 --> 00:01:09,624
+Kommen wir zu Anthropic: Claude hat
+
+34
+00:01:08,670 --> 00:01:11,434
+möglicherweise tatsächlich eine neue
+
+35
+00:01:10,481 --> 00:01:13,199
+wissenschaftliche Entdeckung gemacht.
+
+36
+00:01:12,460 --> 00:01:15,751
+Rund 950 Claude-Agenten durchsuchten
+
+37
+00:01:14,815 --> 00:01:18,234
+mehr als 200.000 Enzyme und entdeckten
+
+38
+00:01:17,298 --> 00:01:20,526
+ein bisher unbekanntes biologisches
+
+39
+00:01:19,590 --> 00:01:22,627
+System mit Ähnlichkeiten zu den
+
+40
+00:01:21,691 --> 00:01:24,983
+Mustern, die ursprünglich zu CRISPR
+
+41
+00:01:24,047 --> 00:01:27,348
+führten. Die Wissenschaftler von
+
+42
+00:01:26,393 --> 00:01:28,716
+Anthropic überprüften diese
+
+43
+00:01:27,762 --> 00:01:30,449
+Entdeckung dann in einem echten Labor
+
+44
+00:01:29,495 --> 00:01:33,294
+und nannten sie Kunst. Wir wissen nicht
+
+45
+00:01:32,337 --> 00:01:34,769
+genau, was sie bewirkt, aber dies
+
+46
+00:01:33,813 --> 00:01:36,461
+könnte ein erster Vorgeschmack darauf
+
+47
+00:01:35,505 --> 00:01:38,067
+sein, wie KI echte wissenschaftliche
+
+48
+00:01:37,110 --> 00:01:41,235
+Entdeckungen beschleunigt. Apropos
+
+49
+00:01:40,292 --> 00:01:43,293
+Anthropic: Sonnet 5.5 befindet sich
+
+50
+00:01:42,350 --> 00:01:45,523
+offenbar bereits im Stealth-Test, aber
+
+51
+00:01:44,580 --> 00:01:47,467
+Preise und andere Details sickern
+
+52
+00:01:46,524 --> 00:01:49,697
+bereits durch, die wir heute aufdecken
+
+53
+00:01:48,754 --> 00:01:52,531
+werden. Anthropic erwog auch, den
+
+54
+00:01:51,586 --> 00:01:54,648
+Plan-Modus komplett aus dem Plot-Code
+
+55
+00:01:53,704 --> 00:01:56,432
+zu entfernen und ihn durch eine
+
+56
+00:01:55,487 --> 00:01:58,605
+einstellbare Aufwandsstufe über Shift
+
+57
+00:01:57,661 --> 00:02:00,834
++ Tab zu ersetzen, worüber wir später
+
+58
+00:01:59,890 --> 00:02:03,280
+sprechen werden. Wir haben außerdem
+
+59
+00:02:02,345 --> 00:02:05,551
+Informationen zum neuen Spark 1.4,
+
+60
+00:02:04,616 --> 00:02:07,888
+Xiaomis kommender Memo Version 3.0,
+
+61
+00:02:06,953 --> 00:02:10,094
+neuen OpenAI-Sprachupdates, einem
+
+62
+00:02:09,159 --> 00:02:12,041
+weiteren Gemini-Modell, neuen
+
+63
+00:02:11,106 --> 00:02:14,227
+Meta-Brillen und vielem mehr. Also,
+
+64
+00:02:13,255 --> 00:02:15,223
+lasst uns einfach mal alles genauer
+
+65
+00:02:14,251 --> 00:02:16,681
+unter die Lupe nehmen. KI schreibt die
+
+66
+00:02:15,729 --> 00:02:18,508
+Apps, die ihr nutzt, und die Werbung,
+
+67
+00:02:17,556 --> 00:02:20,410
+die ihr überspringt. Da blinzelt doch
+
+68
+00:02:19,456 --> 00:02:22,512
+keiner, oder? Eine E-Mail damit und ihr
+
+69
+00:02:21,566 --> 00:02:24,764
+seid ein Betrüger. Nehmen wir mal an,
+
+70
+00:02:23,808 --> 00:02:26,653
+GPT hat das gesponsert. Also, testen
+
+71
+00:02:25,715 --> 00:02:29,156
+wir es mal. Hier ist der unberührte
+
+72
+00:02:28,215 --> 00:02:31,656
+erste KI-Entwurf. In Super, ihrem
+
+73
+00:02:30,715 --> 00:02:33,986
+neuesten Humanizer, fügt ihr ihn ein,
+
+74
+00:02:33,046 --> 00:02:36,558
+klickt und lasst ihn laufen. Hier ist
+
+75
+00:02:35,605 --> 00:02:38,767
+das Ergebnis. Dieselbe zentrale Idee,
+
+76
+00:02:37,813 --> 00:02:40,299
+aber achte auf die Formulierung.
+
+77
+00:02:39,779 --> 00:02:42,881
+Vergleicht es mit dem Original. Jetzt
+
+78
+00:02:41,937 --> 00:02:45,131
+Pangram, dieselbe unveränderte Ausgabe
+
+79
+00:02:44,131 --> 00:02:46,932
+, und das ist die aufgezeichnete
+
+80
+00:02:45,988 --> 00:02:49,201
+Wiederholung. Mal sehen, was der
+
+81
+00:02:48,256 --> 00:02:53,519
+Detektor sagt. Da ist es.
+
+82
+00:02:52,979 --> 00:02:55,604
+Handgeschrieben bewertet dieses
+
+83
+00:02:54,656 --> 00:02:57,177
+Beispiel als 100%von Menschen
+
+84
+00:02:56,229 --> 00:02:59,095
+geschrieben. Newsletter,
+
+85
+00:02:58,162 --> 00:03:01,568
+Kundenentwürfe, Landingpages, kalte
+
+86
+00:03:00,634 --> 00:03:04,176
+E-Mails, LinkedIn-Posts. Du bist immer
+
+87
+00:03:03,218 --> 00:03:06,091
+noch der Editor. Du hast das Recht,
+
+88
+00:03:05,130 --> 00:03:07,399
+zusammen mit der KI zu schreiben.
+
+89
+00:03:07,100 --> 00:03:11,059
+Stealth GPT.ai ist die beste Wahl.
+
+90
+00:03:10,930 --> 00:03:14,020
+Fangen wir zunächst mit Astra Minor an
+
+91
+00:03:13,020 --> 00:03:15,521
+, denn dieses Modell scheint
+
+92
+00:03:14,575 --> 00:03:18,194
+tatsächlich echt zu sein. Es wurde
+
+93
+00:03:17,246 --> 00:03:19,908
+direkt im Hilfecenter von OpenAI
+
+94
+00:03:18,960 --> 00:03:21,882
+entdeckt, und das buchstäblich einen
+
+95
+00:03:20,934 --> 00:03:24,574
+Tag nach dem Start von GPT-6 Soul. Das
+
+96
+00:03:23,626 --> 00:03:26,651
+Verrückte ist jedoch, dass Astra Minor
+
+97
+00:03:25,703 --> 00:03:28,727
+innerhalb der GPT-6-Familie noch höher
+
+98
+00:03:27,779 --> 00:03:30,700
+angesiedelt zu sein scheint als Soul.
+
+99
+00:03:30,120 --> 00:03:32,843
+OpenAI hat den Verweis auf Astra Minor
+
+100
+00:03:31,889 --> 00:03:34,386
+umgehend aus seiner Dokumentation
+
+101
+00:03:33,431 --> 00:03:36,340
+entfernt. Wir haben ein paar wichtige
+
+102
+00:03:35,381 --> 00:03:39,028
+Details darüber erfahren. Astra Minor
+
+103
+00:03:38,079 --> 00:03:41,041
+wurde ausdrücklich als unterstütztes
+
+104
+00:03:40,093 --> 00:03:43,004
+Hauptmodell aufgeführt, getrennt von
+
+105
+00:03:42,055 --> 00:03:46,276
+Astra, Soul und Luna. Es unterliegt
+
+106
+00:03:45,322 --> 00:03:47,607
+außerdem demselben Daybreak
+
+107
+00:03:46,653 --> 00:03:49,351
+Cyber-Zugriffsframework wie Astra und
+
+108
+00:03:48,397 --> 00:03:51,050
+verfügt über die standardmäßigen
+
+109
+00:03:50,096 --> 00:03:53,921
+Daybreak Blue-Schutzmaßnahmen. Bislang
+
+110
+00:03:52,967 --> 00:03:55,667
+kennen wir noch nicht die Benchmarks,
+
+111
+00:03:54,713 --> 00:03:57,322
+Preise, das Kontextfenster oder den
+
+112
+00:03:56,368 --> 00:03:58,654
+Zeitpunkt der tatsächlichen
+
+113
+00:03:57,700 --> 00:04:00,492
+Markteinführung oder ob sie überhaupt
+
+114
+00:03:59,538 --> 00:04:02,806
+eingeführt wird. Wir wissen nicht
+
+115
+00:04:01,868 --> 00:04:05,027
+einmal genau, wofür der Name Minor
+
+116
+00:04:04,088 --> 00:04:07,372
+steht. Meine derzeitige Theorie ist,
+
+117
+00:04:06,418 --> 00:04:09,165
+dass es sich hierbei um eine kleinere,
+
+118
+00:04:08,211 --> 00:04:10,774
+kostengünstigere und effizientere
+
+119
+00:04:09,820 --> 00:04:12,567
+Version von Astra handeln könnte, die
+
+120
+00:04:11,613 --> 00:04:14,314
+die große Lücke zwischen GPT-6 Soul
+
+121
+00:04:13,360 --> 00:04:16,154
+und der Vollversion von Astra schließt
+
+122
+00:04:15,154 --> 00:04:18,473
+. Das ist im Moment aber nur reine
+
+123
+00:04:17,517 --> 00:04:21,642
+Spekulation. So oder so sieht das nicht
+
+124
+00:04:20,700 --> 00:04:23,241
+mehr nach einem zufälligen
+
+125
+00:04:22,298 --> 00:04:25,467
+Konfigurationsleck aus, denn der Astra
+
+126
+00:04:24,524 --> 00:04:27,693
+Minor scheint ein echtes OpenAI-Modell
+
+127
+00:04:26,750 --> 00:04:29,919
+zu sein und gehört zur GPT-6-Familie.
+
+128
+00:04:30,160 --> 00:04:33,162
+Vielleicht sehen wir das noch in diesem
+
+129
+00:04:32,214 --> 00:04:34,909
+Monat oder sogar Anfang nächsten
+
+130
+00:04:33,960 --> 00:04:37,286
+Monats. Tut mir leid, dass ich so ein
+
+131
+00:04:36,327 --> 00:04:38,947
+bisschen auf die Schliche komme, Leute,
+
+132
+00:04:37,988 --> 00:04:40,607
+aber wenn ihr es noch nicht getan habt,
+
+133
+00:04:39,649 --> 00:04:42,227
+dann abonniert bitte den YouTube-Kanal
+
+134
+00:04:41,268 --> 00:04:43,680
+„World of AI“ und liked dieses
+
+135
+00:04:42,722 --> 00:04:45,300
+Video, denn das hilft mir wirklich und
+
+136
+00:04:44,341 --> 00:04:46,794
+hilft mir, jeden Tag mehr Videos zu
+
+137
+00:04:45,836 --> 00:04:48,559
+machen. Es unterstützt mich wirklich
+
+138
+00:04:47,599 --> 00:04:50,159
+sehr, daher würde ich mich sehr freuen
+
+139
+00:04:49,159 --> 00:04:51,479
+, wenn ihr das auch tun könntet.
+
+140
+00:04:52,599 --> 00:04:56,240
+Minimax M 3.1 wurde im offiziellen
+
+141
+00:04:55,318 --> 00:04:59,271
+Modellkatalog von Minimax entdeckt und
+
+142
+00:04:58,349 --> 00:05:02,224
+erscheint damit offensichtlich vor M3
+
+143
+00:05:01,301 --> 00:05:05,291
+und M 2.7. Interessanterweise hat das
+
+144
+00:05:04,348 --> 00:05:06,955
+Modell derzeit jedoch keinen
+
+145
+00:05:06,012 --> 00:05:09,264
+Konfigurationsblock. Es steht nicht auf
+
+146
+00:05:08,303 --> 00:05:10,715
+der Whitelist und erscheint nicht im
+
+147
+00:05:09,754 --> 00:05:12,165
+ausgelieferten Code von Minimax, was
+
+148
+00:05:11,205 --> 00:05:13,734
+stark darauf hindeutet, dass es sich um
+
+149
+00:05:12,773 --> 00:05:15,223
+eine inszenierte Version handelt, die
+
+150
+00:05:14,263 --> 00:05:17,572
+aber noch unangekündigt ist. Obwohl
+
+151
+00:05:16,627 --> 00:05:19,510
+wir es noch nicht wissen oder eine
+
+152
+00:05:18,565 --> 00:05:21,725
+offizielle Bestätigung haben, sieht es
+
+153
+00:05:20,781 --> 00:05:23,663
+so aus, als ob Minimax bereit ist,
+
+154
+00:05:22,719 --> 00:05:25,879
+dieses neue Modell zu veröffentlichen.
+
+155
+00:05:25,080 --> 00:05:27,607
+Es sollte vielleicht innerhalb der
+
+156
+00:05:26,652 --> 00:05:29,000
+nächsten 2 Wochen erscheinen.
+
+157
+00:05:28,612 --> 00:05:31,349
+Außerdem ist gerade ein neues
+
+158
+00:05:30,406 --> 00:05:33,607
+Stealth-Modell namens SpaceBunny Alpha
+
+159
+00:05:32,665 --> 00:05:35,691
+auf OpenRouter, OpenCode und vielen
+
+160
+00:05:34,749 --> 00:05:37,833
+anderen Plattformen aufgetaucht, das
+
+161
+00:05:36,891 --> 00:05:39,744
+für die nächste Woche komplett
+
+162
+00:05:38,802 --> 00:05:41,941
+kostenlos ist. Es verfügt über ein
+
+163
+00:05:40,986 --> 00:05:43,645
+riesiges Kontextfenster von 1 Million
+
+164
+00:05:42,690 --> 00:05:45,349
+Token mit multimodaler Unterstützung
+
+165
+00:05:44,394 --> 00:05:47,571
+und ohne Datenspeicherung. Aber hier
+
+166
+00:05:46,626 --> 00:05:49,803
+wird es interessant. Es gibt immer mehr
+
+167
+00:05:48,850 --> 00:05:51,349
+Hinweise darauf, dass SpaceBunny
+
+168
+00:05:50,396 --> 00:05:53,035
+tatsächlich der neue MiniMax M 3.1
+
+169
+00:05:52,082 --> 00:05:54,534
+sein könnte, denn wenn man auf
+
+170
+00:05:53,581 --> 00:05:56,174
+Chinesisch dazu aufgefordert wird,
+
+171
+00:05:55,221 --> 00:05:58,048
+identifiziert sich das Modell Berichten
+
+172
+00:05:57,095 --> 00:06:00,167
+zufolge als MiniMax-Modell. Und was
+
+173
+00:05:59,231 --> 00:06:02,723
+noch wichtiger ist, sein Text-Tokenizer
+
+174
+00:06:01,787 --> 00:06:05,192
+passt perfekt zum MiniMax M3. Der
+
+175
+00:06:04,236 --> 00:06:06,879
+Bild-Tokenizer ist jedoch anders, was
+
+176
+00:06:05,924 --> 00:06:08,523
+möglicherweise auf ein verbessertes
+
+177
+00:06:07,567 --> 00:06:09,900
+multimodales System hindeutet.
+
+178
+00:06:09,589 --> 00:06:12,730
+Natürlich bestätigt das alles noch
+
+179
+00:06:11,790 --> 00:06:14,931
+nicht zu 100%, dass SpaceBunny M 3.1
+
+180
+00:06:13,991 --> 00:06:18,378
+ist. Aber dass M 3.1 gleichzeitig im
+
+181
+00:06:17,429 --> 00:06:20,111
+Katalog von MiniMax erscheint und
+
+182
+00:06:19,162 --> 00:06:22,048
+dieses neue Stealth-Modell auftaucht,
+
+183
+00:06:21,099 --> 00:06:25,281
+ist auf jeden Fall interessant. Eines
+
+184
+00:06:24,325 --> 00:06:27,925
+möchte ich gleich vorweg sagen. Ich
+
+185
+00:06:26,980 --> 00:06:29,640
+sage nicht, dass dieses Modell
+
+186
+00:06:28,695 --> 00:06:31,411
+schrecklich ist, aber in puncto
+
+187
+00:06:30,466 --> 00:06:33,293
+Webentwicklung kann es mit vielen
+
+188
+00:06:32,348 --> 00:06:35,230
+anderen Open-Source-Modellen nicht
+
+189
+00:06:34,285 --> 00:06:38,631
+mithalten. Die Leistung von Space Bunny
+
+190
+00:06:37,680 --> 00:06:40,541
+war bisher in den Bereichen Physik und
+
+191
+00:06:39,590 --> 00:06:41,912
+vielen dieser verschiedenen
+
+192
+00:06:40,961 --> 00:06:43,382
+Webentwicklungstests ziemlich
+
+193
+00:06:42,431 --> 00:06:46,187
+schrecklich. Denn hier wurde es in
+
+194
+00:06:45,239 --> 00:06:48,104
+verschiedenen Physikszenen, darunter
+
+195
+00:06:47,156 --> 00:06:49,813
+eine Explosion, ein Tornado, ein
+
+196
+00:06:48,865 --> 00:06:51,678
+platzender Ballon und herabfallende
+
+197
+00:06:50,730 --> 00:06:53,699
+Wassertropfen, gegen GLM 5.3 getestet.
+
+198
+00:06:53,799 --> 00:06:57,340
+Hier hat GLM 5.3 Space Bunny bei
+
+199
+00:06:56,420 --> 00:07:00,200
+Newtons Wiege ganz klar geschlagen.
+
+200
+00:07:00,059 --> 00:07:02,798
+Beide Modelle hatten bei der Simulation
+
+201
+00:07:01,843 --> 00:07:04,493
+von Wassertropfen und Tornados große
+
+202
+00:07:03,538 --> 00:07:07,244
+Probleme. Aber egal, Space Bunny ist im
+
+203
+00:07:06,305 --> 00:07:09,375
+Vergleich zu GLM 5.3, das für all
+
+204
+00:07:08,436 --> 00:07:11,749
+diese verschiedenen Tests etwa 40 Cent
+
+205
+00:07:10,810 --> 00:07:14,831
+gekostet hat, derzeit kostenlos. Anhand
+
+206
+00:07:13,879 --> 00:07:16,631
+dieser Ergebnisse lässt sich jedoch
+
+207
+00:07:15,680 --> 00:07:18,578
+klar erkennen, dass es hinsichtlich der
+
+208
+00:07:17,627 --> 00:07:20,379
+Performance eine große Lücke gibt.
+
+209
+00:07:20,200 --> 00:07:22,536
+Hier beispielsweise scheiterte das
+
+210
+00:07:21,576 --> 00:07:23,402
+Programm sogar an der
+
+211
+00:07:22,441 --> 00:07:24,778
+Minecraft-Eingabeaufforderung, was
+
+212
+00:07:23,817 --> 00:07:26,716
+ziemlich unglücklich ist. Hier werden
+
+213
+00:07:25,774 --> 00:07:28,978
+fehlerhafte Texturen ausgegeben und es
+
+214
+00:07:28,036 --> 00:07:31,065
+ist nicht wirklich gut darin, einen
+
+215
+00:07:30,123 --> 00:07:33,326
+guten Sandbox-Klon des ursprünglichen
+
+216
+00:07:32,384 --> 00:07:36,827
+Minecraft-Spiels zu formulieren. Und
+
+217
+00:07:35,889 --> 00:07:39,136
+wenn man Space Money mit Javelin 5.3
+
+218
+00:07:38,198 --> 00:07:41,632
+vergleicht, hoffe ich wirklich, dass es
+
+219
+00:07:40,694 --> 00:07:43,691
+sich nicht um das MiniMax-Modell
+
+220
+00:07:42,754 --> 00:07:45,938
+handelt, aber es ist auf jeden Fall
+
+221
+00:07:45,000 --> 00:07:47,810
+sehr schnell und bietet viele
+
+222
+00:07:46,873 --> 00:07:49,995
+großartige Verbesserungen bei den
+
+223
+00:07:49,057 --> 00:07:53,857
+Texteingabeaufforderungen. Ich weiß
+
+224
+00:07:52,901 --> 00:07:55,510
+nicht, ob das für jeden interessant
+
+225
+00:07:54,555 --> 00:07:56,940
+ist, aber wenn wir zu Anthropic
+
+226
+00:07:55,985 --> 00:07:58,593
+wechseln, hat Claude möglicherweise
+
+227
+00:07:57,638 --> 00:08:00,202
+gerade eine echte wissenschaftliche
+
+228
+00:07:59,247 --> 00:08:02,542
+Entdeckung gemacht. Das ist ziemlich
+
+229
+00:08:01,587 --> 00:08:04,215
+abgefahren, und ich fand es wirklich
+
+230
+00:08:03,260 --> 00:08:05,617
+interessant, weil es eines der
+
+231
+00:08:04,662 --> 00:08:07,290
+verrücktesten Beispiele dafür ist,
+
+232
+00:08:06,335 --> 00:08:08,918
+wie KI für echte wissenschaftliche
+
+233
+00:08:07,963 --> 00:08:11,032
+Forschung eingesetzt wird. Natürlich
+
+234
+00:08:10,081 --> 00:08:12,857
+haben wir viele Entwicklungen in der
+
+235
+00:08:11,907 --> 00:08:14,633
+Krebsforschung mit anderen Modellen
+
+236
+00:08:13,683 --> 00:08:16,459
+gesehen, aber hier hat Anthropic vor
+
+237
+00:08:15,508 --> 00:08:17,889
+Kurzem ein eigenes modulares
+
+238
+00:08:16,939 --> 00:08:19,813
+Biologielabor aufgebaut, in dem Claude
+
+239
+00:08:18,863 --> 00:08:21,491
+mit menschlichen Wissenschaftlern
+
+240
+00:08:20,540 --> 00:08:24,709
+zusammenarbeitet. Für dieses
+
+241
+00:08:23,777 --> 00:08:26,567
+Experiment liefen etwa 950
+
+242
+00:08:25,636 --> 00:08:29,320
+Claude-Agenten 21 Stunden lang parallel
+
+243
+00:08:28,388 --> 00:08:31,728
+und verwendeten etwa 210 Millionen
+
+244
+00:08:30,797 --> 00:08:34,137
+Token, um mehr als 200.000 Reverse
+
+245
+00:08:33,206 --> 00:08:38,210
+Transkriptasen zu durchsuchen. Das sind
+
+246
+00:08:37,269 --> 00:08:40,509
+Enzyme, die im Wesentlichen RNA in DNA
+
+247
+00:08:39,568 --> 00:08:42,954
+kopieren. Und hier wird es interessant,
+
+248
+00:08:41,997 --> 00:08:44,599
+denn Claude wurde nicht ausdrücklich
+
+249
+00:08:43,642 --> 00:08:46,330
+gesagt, wonach er bei dieser Entdeckung
+
+250
+00:08:45,373 --> 00:08:48,416
+suchen sollte. Einer der Agenten
+
+251
+00:08:47,463 --> 00:08:49,869
+bemerkte unabhängig davon ein
+
+252
+00:08:48,916 --> 00:08:51,322
+seltsames, sich wiederholendes
+
+253
+00:08:50,369 --> 00:08:53,197
+DNA-Muster, das sich neben einem dieser
+
+254
+00:08:52,243 --> 00:08:55,419
+Enzyme befand. Das erregte seine
+
+255
+00:08:54,462 --> 00:08:56,905
+Aufmerksamkeit, weil die Struktur
+
+256
+00:08:55,948 --> 00:08:58,435
+Ähnlichkeiten mit CRISPR aufwies.
+
+257
+00:08:57,714 --> 00:09:01,541
+CRISPR ist ein biologisches Muster mit
+
+258
+00:09:00,615 --> 00:09:03,624
+Arrays, das Wissenschaftler
+
+259
+00:09:02,699 --> 00:09:04,889
+letztendlich zur
+
+260
+00:09:03,964 --> 00:09:07,419
+Gen-Editierungstechnologie CRISPR
+
+261
+00:09:06,493 --> 00:09:10,389
+führte. Claude untersuchte dieses
+
+262
+00:09:09,435 --> 00:09:11,953
+Muster, verglich es mit bekannten
+
+263
+00:09:10,999 --> 00:09:13,562
+biologischen Systemen, durchsuchte
+
+264
+00:09:12,608 --> 00:09:15,217
+vorhandene Forschungsergebnisse und
+
+265
+00:09:14,263 --> 00:09:16,781
+kennzeichnete es schließlich als
+
+266
+00:09:15,827 --> 00:09:18,298
+potenziell neues Modell, das von
+
+267
+00:09:17,344 --> 00:09:19,678
+menschlichen Wissenschaftlern
+
+268
+00:09:18,724 --> 00:09:22,426
+untersucht werden könnte. Die Forscher
+
+269
+00:09:21,478 --> 00:09:24,097
+von Anthropic übernahmen dann,
+
+270
+00:09:23,149 --> 00:09:26,081
+testeten es in einem echten Labor und
+
+271
+00:09:25,133 --> 00:09:27,857
+bestätigten, dass es sich um ein
+
+272
+00:09:26,909 --> 00:09:29,475
+bisher nicht charakterisiertes
+
+273
+00:09:28,528 --> 00:09:31,199
+biologisches System handelt, das
+
+274
+00:09:30,251 --> 00:09:33,287
+tatsächlich real ist. Daher nannten
+
+275
+00:09:32,341 --> 00:09:36,200
+sie es ART. Nun ist es wichtig, dass
+
+276
+00:09:35,253 --> 00:09:38,197
+wir das nicht überbewerten, denn das
+
+277
+00:09:37,249 --> 00:09:39,615
+ist etwas, das die meisten
+
+278
+00:09:38,668 --> 00:09:41,717
+KI-Nachrichtenagenturen wie ich am Ende
+
+279
+00:09:40,769 --> 00:09:44,634
+tun. Aber das ist etwas, von dem wir
+
+280
+00:09:43,685 --> 00:09:46,615
+immer noch nicht genau wissen, wozu es
+
+281
+00:09:45,665 --> 00:09:48,494
+tatsächlich in der Lage ist, so wie
+
+282
+00:09:47,544 --> 00:09:50,474
+ART, und es gibt derzeit keine Beweise
+
+283
+00:09:49,525 --> 00:09:52,049
+dafür, dass es wie CRISPR zur
+
+284
+00:09:51,099 --> 00:09:53,979
+Genbearbeitung verwendet werden kann.
+
+285
+00:09:53,484 --> 00:09:56,246
+Aber die Tatsache, dass KI einen
+
+286
+00:09:55,301 --> 00:09:58,008
+riesigen biologischen Datensatz
+
+287
+00:09:57,063 --> 00:09:59,935
+durchsucht, etwas bemerkt hat, das
+
+288
+00:09:58,990 --> 00:10:02,083
+Menschen zuvor übersehen hatten, eine
+
+289
+00:10:01,138 --> 00:10:04,010
+Hypothese aufgestellt und dann mit
+
+290
+00:10:03,066 --> 00:10:06,213
+Wissenschaftlern zusammengearbeitet hat
+
+291
+00:10:05,213 --> 00:10:09,664
+, ist etwas, woran KI tatsächlich
+
+292
+00:10:08,714 --> 00:10:11,807
+arbeiten könnte. Das ist natürlich
+
+293
+00:10:10,852 --> 00:10:13,514
+ein Experiment, aber es ist verrückt
+
+294
+00:10:12,559 --> 00:10:15,041
+zu sehen, dass KI auf diese Weise
+
+295
+00:10:14,086 --> 00:10:17,327
+eingesetzt werden kann. Laut Anthropic
+
+296
+00:10:16,376 --> 00:10:19,290
+würde diese Art von Analyse für einen
+
+297
+00:10:18,339 --> 00:10:21,008
+Experten normalerweise Wochen oder
+
+298
+00:10:20,057 --> 00:10:23,273
+sogar Monate dauern. Und jetzt wollen
+
+299
+00:10:22,329 --> 00:10:25,399
+sie diesen Prozess in der Genomik und
+
+300
+00:10:24,455 --> 00:10:27,132
+anderen Bereichen der Biologie
+
+301
+00:10:26,188 --> 00:10:29,784
+wiederholen. Das macht Dario Amodeis
+
+302
+00:10:28,830 --> 00:10:31,495
+Prognose noch interessanter, denn er
+
+303
+00:10:30,542 --> 00:10:32,976
+glaubt, dass KI potenziell dazu
+
+304
+00:10:32,022 --> 00:10:34,410
+beitragen könnte, die meisten
+
+305
+00:10:33,456 --> 00:10:36,168
+Krankheiten innerhalb der nächsten 5
+
+306
+00:10:35,214 --> 00:10:38,452
+bis 10 Jahre zu heilen. Er bezeichnet
+
+307
+00:10:37,505 --> 00:10:40,212
+das Ergebnis allerdings als kaum
+
+308
+00:10:39,265 --> 00:10:42,185
+möglich und sagt, dass KI im Grunde
+
+309
+00:10:41,239 --> 00:10:44,212
+jede Phase der biologischen Forschung
+
+310
+00:10:43,265 --> 00:10:46,467
+beschleunigen müsste. Wie Dario es
+
+311
+00:10:45,512 --> 00:10:48,199
+ausdrückt, besteht der erste Schritt
+
+312
+00:10:47,245 --> 00:10:49,659
+darin, zu beweisen, dass KI bei
+
+313
+00:10:48,704 --> 00:10:51,346
+biologischen Entdeckungen helfen und
+
+314
+00:10:50,391 --> 00:10:53,079
+diese letztendlich vorantreiben kann.
+
+315
+00:10:53,379 --> 00:10:56,347
+Claude hat hier natürlich keinen Krebs
+
+316
+00:10:55,398 --> 00:10:57,610
+geheilt, aber es hat uns
+
+317
+00:10:56,660 --> 00:10:59,579
+möglicherweise nur einen ersten Blick
+
+318
+00:10:58,629 --> 00:11:01,396
+in eine Zukunft gewährt, in der KI
+
+319
+00:11:00,447 --> 00:11:03,163
+definitiv bei diesen Fortschritten
+
+320
+00:11:02,214 --> 00:11:05,907
+helfen kann. Wenn du die besten
+
+321
+00:11:04,951 --> 00:11:07,658
+KI-Tools, Workflows und Drops vor allen
+
+322
+00:11:06,702 --> 00:11:09,191
+anderen haben möchtest, abonniere
+
+323
+00:11:08,235 --> 00:11:10,855
+meinen kostenlosen Newsletter mit dem
+
+324
+00:11:09,899 --> 00:11:12,431
+Link in der Beschreibung unten, der
+
+325
+00:11:11,475 --> 00:11:15,504
+völlig kostenlos ist. Muse Spark 1.4
+
+326
+00:11:14,565 --> 00:11:17,810
+wurde jetzt im offenen Code entdeckt,
+
+327
+00:11:16,871 --> 00:11:20,116
+aber es gibt einen wichtigen Haken an
+
+328
+00:11:19,177 --> 00:11:22,355
+der Sache. Was in Muse Spark 1.4
+
+329
+00:11:21,413 --> 00:11:24,208
+tatsächlich erscheint, ist der
+
+330
+00:11:23,266 --> 00:11:26,351
+Mitwirkende, nicht die vollständige
+
+331
+00:11:25,409 --> 00:11:29,062
+Flaggschiff-Version von Spark 1.4. Das
+
+332
+00:11:28,109 --> 00:11:30,675
+scheint der gleichen Strategie zu
+
+333
+00:11:29,723 --> 00:11:32,478
+folgen, die wir bei Spark 1.2 und 1.3
+
+334
+00:11:31,526 --> 00:11:34,329
+gesehen haben, zu denen ich noch nicht
+
+335
+00:11:33,376 --> 00:11:36,941
+einmal ein Video gemacht habe. Hier
+
+336
+00:11:35,981 --> 00:11:38,552
+erscheint jedoch zuerst die günstigere
+
+337
+00:11:37,592 --> 00:11:39,921
+Contributor-Version, im Austausch
+
+338
+00:11:38,961 --> 00:11:41,210
+dafür, dass die Daten für das
+
+339
+00:11:40,250 --> 00:11:43,246
+Training verwendet werden dürfen. Und
+
+340
+00:11:42,295 --> 00:11:45,002
+im Moment wird diese Statistikseite
+
+341
+00:11:44,051 --> 00:11:46,758
+fast ohne Verwendung angezeigt, was
+
+342
+00:11:45,806 --> 00:11:48,709
+darauf hindeutet, dass dies einfach nur
+
+343
+00:11:47,757 --> 00:11:50,465
+ein frühes Verzeichnisleck vor der
+
+344
+00:11:49,513 --> 00:11:52,221
+eigentlichen Veröffentlichung sein
+
+345
+00:11:51,269 --> 00:11:54,767
+könnte. Und das neueste offiziell
+
+346
+00:11:53,827 --> 00:11:56,939
+angekündigte Modell ist immer noch
+
+347
+00:11:56,000 --> 00:11:59,112
+Muse Spark 1.3, 1.4 wurde also noch
+
+348
+00:11:58,172 --> 00:12:02,107
+nicht veröffentlicht. Und das sollte
+
+349
+00:12:01,156 --> 00:12:03,876
+auch niemanden mit dem mysteriösen
+
+350
+00:12:02,925 --> 00:12:05,497
+Watermelon-Modell verwirren, das
+
+351
+00:12:04,546 --> 00:12:07,413
+anscheinend tatsächlich deutlich mehr
+
+352
+00:12:06,462 --> 00:12:10,416
+Rechenleistung verbraucht. Spark 1.4
+
+353
+00:12:09,465 --> 00:12:12,069
+sieht eher wie ein inkrementelles
+
+354
+00:12:11,118 --> 00:12:13,673
+Upgrade aus, während Watermelon
+
+355
+00:12:12,722 --> 00:12:15,424
+möglicherweise ein viel größeres
+
+356
+00:12:14,472 --> 00:12:18,333
+Modell ist, auf das wir warten. Wie
+
+357
+00:12:17,384 --> 00:12:20,277
+auch immer, Meta hat die Dinge dieses
+
+358
+00:12:19,328 --> 00:12:22,017
+Jahr definitiv ernst genommen und
+
+359
+00:12:21,068 --> 00:12:25,738
+arbeitet an einem großen Comeback. Als
+
+360
+00:12:24,818 --> 00:12:28,605
+Nächstes testet Anthropic offenbar
+
+361
+00:12:27,684 --> 00:12:31,471
+bereits Claude Sonnet 5.5 unter dem
+
+362
+00:12:30,551 --> 00:12:33,940
+Modellnamen Claude Sonnet 5-5.
+
+363
+00:12:33,280 --> 00:12:36,180
+Berichten zufolge erhielten einige
+
+364
+00:12:35,236 --> 00:12:38,192
+Partner nur 24 Stunden lang Zugriff
+
+365
+00:12:37,248 --> 00:12:40,308
+darauf. Dies geschah offensichtlich
+
+366
+00:12:39,353 --> 00:12:42,011
+direkt nach der Veröffentlichung von
+
+367
+00:12:41,056 --> 00:12:44,547
+Opus 5.5. In diesem Blogbeitrag wurde
+
+368
+00:12:43,612 --> 00:12:47,136
+erklärt, dass Haiku 5.5 und Sonnet 5.5
+
+369
+00:12:46,201 --> 00:12:49,402
+in den nächsten Wochen erscheinen
+
+370
+00:12:48,466 --> 00:12:52,499
+werden. Es ist wirklich schön zu sehen
+
+371
+00:12:51,499 --> 00:12:53,846
+, dass Sonnet oder Anthropic
+
+372
+00:12:52,894 --> 00:12:55,944
+tatsächlich ihr Wort halten. Die
+
+373
+00:12:54,978 --> 00:12:57,226
+bisherigen geleakten Spezifikationen
+
+374
+00:12:56,261 --> 00:12:58,509
+für das Sonnet-Modell sind ziemlich
+
+375
+00:12:57,544 --> 00:13:00,397
+interessant. Es ist immer noch recht
+
+376
+00:12:59,454 --> 00:13:02,673
+teuer, das ist also das einzig Traurige
+
+377
+00:13:01,673 --> 00:13:05,431
+. Berichten zufolge verfügt Sonnet 5.5
+
+378
+00:13:04,491 --> 00:13:07,703
+jedoch über ein Kontextfenster von 1
+
+379
+00:13:06,763 --> 00:13:10,035
+Million Token mit bis zu 128.000 Token
+
+380
+00:13:09,094 --> 00:13:12,247
+an Ausgabe und adaptivem Denken, das
+
+381
+00:13:11,306 --> 00:13:14,459
+jetzt standardmäßig aktiviert ist.
+
+382
+00:13:13,668 --> 00:13:16,280
+Eine weitere bemerkenswerte Änderung
+
+383
+00:13:15,324 --> 00:13:18,024
+ist, dass die erzwungene Verwendung von
+
+384
+00:13:17,068 --> 00:13:19,681
+Tools offenbar eingestellt wurde, was
+
+385
+00:13:18,724 --> 00:13:21,032
+darauf schließen lässt, dass
+
+386
+00:13:20,076 --> 00:13:22,558
+Anthropic möchte, dass das Modell
+
+387
+00:13:21,602 --> 00:13:24,215
+intelligenter entscheidet, wann Tools
+
+388
+00:13:23,258 --> 00:13:26,015
+tatsächlich erforderlich sind. Die
+
+389
+00:13:25,068 --> 00:13:28,041
+Preisgestaltung könnte ein wichtiger
+
+390
+00:13:27,095 --> 00:13:29,908
+Teil dieser Version sein, denn die
+
+391
+00:13:28,961 --> 00:13:31,775
+aktuell geleakten Zahlen besagen 2
+
+392
+00:13:30,828 --> 00:13:33,802
+US-Dollar für 1 Million Input-Token,
+
+393
+00:13:32,855 --> 00:13:35,295
+10 US-Dollar für 1 Million
+
+394
+00:13:34,349 --> 00:13:37,162
+Output-Token und nur 20 Cent pro 1
+
+395
+00:13:36,215 --> 00:13:38,816
+Million Token für Cash-Reads.
+
+396
+00:13:38,980 --> 00:13:42,144
+Natürlich ist das noch nicht offiziell
+
+397
+00:13:41,144 --> 00:13:43,865
+, aber der Leaker, den wir hier
+
+398
+00:13:42,920 --> 00:13:47,546
+vorstellen, ist Light Lyra. Er hat
+
+399
+00:13:46,607 --> 00:13:49,813
+tatsächlich vor allen anderen über
+
+400
+00:13:48,874 --> 00:13:52,019
+Opus 1.5 gesprochen und lag mit der
+
+401
+00:13:51,080 --> 00:13:54,102
+Preisangabe, die am Ende für 1.5
+
+402
+00:13:53,163 --> 00:13:56,307
+veröffentlicht wurde, tatsächlich
+
+403
+00:13:55,368 --> 00:14:00,840
+richtig. Und zum Thema Anthropic: Einer
+
+404
+00:13:59,887 --> 00:14:02,687
+der leitenden Entwickler hinter Claude
+
+405
+00:14:01,734 --> 00:14:04,345
+Code hat gerade verraten, dass sie
+
+406
+00:14:03,392 --> 00:14:05,955
+erwägen, den Plan-Modus komplett
+
+407
+00:14:05,003 --> 00:14:07,995
+abzuschaffen. Stattdessen könnte die
+
+408
+00:14:07,035 --> 00:14:09,338
+Tastenkombination Umschalt + Tab
+
+409
+00:14:08,379 --> 00:14:10,844
+verwendet werden, um den Aufwand des
+
+410
+00:14:09,885 --> 00:14:13,470
+Modells anzupassen. Das Argument ist,
+
+411
+00:14:12,525 --> 00:14:15,034
+dass die neueren Modelle so
+
+412
+00:14:14,090 --> 00:14:16,878
+leistungsfähig werden, dass sie
+
+413
+00:14:15,934 --> 00:14:18,387
+einfach keinen dedizierten
+
+414
+00:14:17,443 --> 00:14:20,971
+Planungsmodus mehr benötigen. Aber ich
+
+415
+00:14:20,017 --> 00:14:22,364
+bin ehrlich gesagt nicht ganz
+
+416
+00:14:21,410 --> 00:14:24,370
+überzeugt davon. Der Plan-Modus ist
+
+417
+00:14:23,411 --> 00:14:25,874
+nicht unbedingt nur für die Agenten
+
+418
+00:14:24,914 --> 00:14:27,620
+gedacht. Er ist auch für die Person
+
+419
+00:14:26,659 --> 00:14:29,330
+nützlich, die ihn verwendet. Ich
+
+420
+00:14:28,390 --> 00:14:31,576
+verwende es manchmal, wenn ich genau
+
+421
+00:14:30,637 --> 00:14:33,822
+festlegen möchte, was gebaut werden
+
+422
+00:14:32,883 --> 00:14:35,948
+soll. Im Grunde kann ich es von einem
+
+423
+00:14:34,990 --> 00:14:37,569
+Agenten überprüfen lassen oder einen
+
+424
+00:14:36,611 --> 00:14:38,941
+beliebigen Agenten diesen Ansatz
+
+425
+00:14:37,982 --> 00:14:40,437
+überprüfen lassen, Änderungen an
+
+426
+00:14:39,478 --> 00:14:42,058
+meinem eigenen Plan vornehmen, den ich
+
+427
+00:14:41,099 --> 00:14:43,554
+mit dem Agenten entwickle, und erst
+
+428
+00:14:42,596 --> 00:14:45,134
+dann kann ich mit der Bearbeitung des
+
+429
+00:14:44,175 --> 00:14:46,713
+Codes beginnen oder den Agenten daran
+
+430
+00:14:45,754 --> 00:14:49,184
+arbeiten lassen. Selbst wenn die
+
+431
+00:14:48,234 --> 00:14:51,120
+Modelle gut genug werden, um intern zu
+
+432
+00:14:50,170 --> 00:14:53,006
+planen, denke ich immer noch, dass es
+
+433
+00:14:52,056 --> 00:14:54,893
+sinnvoll ist, einen dedizierten Modus
+
+434
+00:14:53,942 --> 00:14:56,779
+zu haben, in dem man die KI zunächst
+
+435
+00:14:55,828 --> 00:14:58,566
+als Planer verwenden und dann einen
+
+436
+00:14:57,615 --> 00:15:00,502
+Agenten die zweite Einschätzung geben
+
+437
+00:14:59,551 --> 00:15:02,319
+kann. Ich würde es vorziehen, wenn
+
+438
+00:15:01,355 --> 00:15:03,780
+sich ein Planungsmodus weiterentwickelt
+
+439
+00:15:02,780 --> 00:15:05,564
+, anstatt ihn ganz zu verschwinden. Das
+
+440
+00:15:04,632 --> 00:15:07,944
+ist nur meine Meinung, und das ist
+
+441
+00:15:07,012 --> 00:15:10,324
+etwas, das viele andere Leute auch
+
+442
+00:15:09,392 --> 00:15:13,300
+sagen. Als Nächstes kommen ein paar
+
+443
+00:15:12,347 --> 00:15:15,011
+neue Funktionen, die in Claude Code
+
+444
+00:15:14,058 --> 00:15:17,212
+eingeführt werden. Hier führt
+
+445
+00:15:16,262 --> 00:15:19,217
+Anthropic Projekte ein, die ich vor ein
+
+446
+00:15:18,267 --> 00:15:21,172
+paar Wochen bereits erwähnt habe, die
+
+447
+00:15:20,222 --> 00:15:22,977
+aber jetzt für Claude Code auf dem
+
+448
+00:15:22,027 --> 00:15:25,760
+Desktop und im Web verfügbar sind. Im
+
+449
+00:15:24,812 --> 00:15:27,692
+Grunde genommen fungiert ein Projekt
+
+450
+00:15:26,744 --> 00:15:29,624
+als eine Konversation, in der Claude
+
+451
+00:15:28,676 --> 00:15:31,399
+die Arbeit automatisch in mehrere
+
+452
+00:15:30,451 --> 00:15:33,070
+Threads aufteilen, sie parallel
+
+453
+00:15:32,122 --> 00:15:34,949
+ausführen und den Kontext zwischen
+
+454
+00:15:34,002 --> 00:15:37,221
+ihnen austauschen kann. Und sie sogar
+
+455
+00:15:36,253 --> 00:15:38,422
+weiterarbeiten lassen kann, während
+
+456
+00:15:37,454 --> 00:15:40,000
+Sie nicht da sind. Sie haben außerdem
+
+457
+00:15:39,033 --> 00:15:41,177
+lokale Unterstützung hinzugefügt,
+
+458
+00:15:40,210 --> 00:15:42,420
+sodass diese Threads direkt auf Ihrem
+
+459
+00:15:41,453 --> 00:15:43,565
+eigenen Rechner ausgeführt werden
+
+460
+00:15:42,598 --> 00:15:45,294
+können. Sie ist ab heute für
+
+461
+00:15:44,343 --> 00:15:46,870
+ausgewählte Pro-und Max-Nutzer
+
+462
+00:15:45,920 --> 00:15:48,742
+verfügbar, eine breitere Einführung
+
+463
+00:15:47,791 --> 00:15:51,728
+folgt in Kürze. Und Claude Code Cloud
+
+464
+00:15:50,776 --> 00:15:53,604
+Sessions sind jetzt auch offiziell als
+
+465
+00:15:52,652 --> 00:15:55,346
+Research Preview verfügbar. Das
+
+466
+00:15:54,388 --> 00:15:56,493
+bedeutet, dass Sie mit dem
+
+467
+00:15:55,536 --> 00:15:58,192
+Programmieren von Aufgaben in der Cloud
+
+468
+00:15:57,235 --> 00:15:59,807
+beginnen können und Claude auch dann
+
+469
+00:15:58,849 --> 00:16:01,379
+weiterarbeiten kann, wenn Ihr Laptop
+
+470
+00:16:00,421 --> 00:16:03,432
+zugeklappt ist. Da alles auf der
+
+471
+00:16:02,495 --> 00:16:05,711
+Infrastruktur von Anthropic läuft,
+
+472
+00:16:04,774 --> 00:16:07,927
+sind Cloud-Sessions in den Pro-und
+
+473
+00:16:06,991 --> 00:16:10,207
+Max-Plänen enthalten und Anthropic
+
+474
+00:16:09,270 --> 00:16:12,233
+gewährt bestehenden Abonnenten
+
+475
+00:16:11,296 --> 00:16:14,703
+außerdem ein einmaliges Bonusguthaben
+
+476
+00:16:13,766 --> 00:16:16,982
+von 100 $ für Pro-Pläne und 250 $
+
+477
+00:16:16,045 --> 00:16:19,399
+für Max-Pläne. Dieses Guthaben kann
+
+478
+00:16:18,446 --> 00:16:21,279
+zunächst aufgebraucht werden, bevor es
+
+479
+00:16:20,326 --> 00:16:22,736
+wieder in Ihren normalen Tarif
+
+480
+00:16:21,783 --> 00:16:24,899
+einfließt. Anschließend können Sie
+
+481
+00:16:23,939 --> 00:16:26,499
+Cloud-Sessions über das Web, Ihr Handy
+
+482
+00:16:25,499 --> 00:16:27,979
+, Ihren Desktop oder direkt über die
+
+483
+00:16:27,019 --> 00:16:29,419
+Befehlszeilenschnittstelle starten.
+
+484
+00:16:29,499 --> 00:16:32,180
+Wenn Ihnen dieses Video gefällt und
+
+485
+00:16:31,227 --> 00:16:33,955
+Sie den Kanal unterstützen möchten,
+
+486
+00:16:33,002 --> 00:16:35,731
+können Sie über die Option „Super
+
+487
+00:16:34,777 --> 00:16:37,319
+Thanks“ unten für meinen Kanal
+
+488
+00:16:36,366 --> 00:16:39,266
+spenden. Oder Sie können unserem
+
+489
+00:16:38,320 --> 00:16:41,334
+privaten Discord-Server beitreten, wo
+
+490
+00:16:40,389 --> 00:16:43,294
+Sie monatlich kostenlos auf mehrere
+
+491
+00:16:42,348 --> 00:16:45,416
+Abonnements für verschiedene KI-Tools
+
+492
+00:16:44,471 --> 00:16:47,321
+zugreifen können, sowie tägliche
+
+493
+00:16:46,376 --> 00:16:49,172
+KI-News und exklusive Inhalte und
+
+494
+00:16:48,226 --> 00:16:52,105
+vieles mehr. Ich weiß, wir alle wissen
+
+495
+00:16:51,105 --> 00:16:54,161
+, dass Kimi K 3.1 recht bald erscheinen
+
+496
+00:16:53,213 --> 00:16:56,163
+wird, aber es sieht so aus, als ob es
+
+497
+00:16:55,216 --> 00:16:58,114
+jetzt tatsächlich bestätigt wurde,
+
+498
+00:16:57,166 --> 00:17:00,117
+denn die Community hat entdeckt, dass
+
+499
+00:16:59,169 --> 00:17:02,120
+Kimis Online-Konfiguration mit diesem
+
+500
+00:17:01,172 --> 00:17:04,175
+neuen Kimi K 3.1-Agenten-Routingmodell
+
+501
+00:17:03,228 --> 00:17:06,125
+aktualisiert wurde und es bereits in
+
+502
+00:17:05,178 --> 00:17:07,970
+der Liste der verfügbaren Modelle
+
+503
+00:17:07,023 --> 00:17:10,124
+angezeigt wird. Die Konfigurationen
+
+504
+00:17:09,164 --> 00:17:11,612
+umfassen die Denkmodi „Low“, „
+
+505
+00:17:10,612 --> 00:17:13,141
+High“ und „Max“ mit dem riesigen
+
+506
+00:17:12,181 --> 00:17:14,709
+Kontextfenster von 1 Million Token und
+
+507
+00:17:13,750 --> 00:17:16,238
+der fortgesetzten Unterstützung für
+
+508
+00:17:15,278 --> 00:17:19,063
+Swarm. Dies geschieht auch nur wenige
+
+509
+00:17:18,117 --> 00:17:20,848
+Tage, nachdem Kimi 3.1 in diesem
+
+510
+00:17:19,902 --> 00:17:22,959
+mysteriösen Pi-Post angekündigt hat.
+
+511
+00:17:23,439 --> 00:17:25,834
+Obwohl 3.1 noch nicht offiziell
+
+512
+00:17:24,879 --> 00:17:27,589
+veröffentlicht wurde, scheint es, als
+
+513
+00:17:26,634 --> 00:17:29,164
+stünde die Veröffentlichung kurz
+
+514
+00:17:28,209 --> 00:17:32,393
+bevor. Als Nächstes ändert Xiaomi
+
+515
+00:17:31,459 --> 00:17:34,378
+bereits die zugrunde liegende
+
+516
+00:17:33,445 --> 00:17:36,960
+Architektur für Mimo Version 3.0, und
+
+517
+00:17:36,026 --> 00:17:38,879
+wir haben gerade Version 2.6
+
+518
+00:17:37,945 --> 00:17:41,569
+vorgestellt. Es sieht so aus, als ob
+
+519
+00:17:40,617 --> 00:17:43,275
+das Team bereits an der Architektur
+
+520
+00:17:42,323 --> 00:17:45,076
+für diese neue 3.0-Familie arbeitet,
+
+521
+00:17:44,124 --> 00:17:46,830
+um sie für lang laufende KI-Agenten
+
+522
+00:17:45,877 --> 00:17:49,950
+effizienter zu machen. Der Grund dafür
+
+523
+00:17:49,000 --> 00:17:51,729
+ist im Grunde, dass der Kontext von
+
+524
+00:17:50,778 --> 00:17:53,656
+KI-Agenten ständig wächst, was ihren
+
+525
+00:17:52,705 --> 00:17:56,941
+Betrieb immer teurer macht. Diese neue
+
+526
+00:17:55,993 --> 00:17:59,021
+Architektur löst dieses Problem, indem
+
+527
+00:17:58,073 --> 00:18:00,737
+sie den KV-Cache zwischen Ebenen
+
+528
+00:17:59,789 --> 00:18:02,661
+gemeinsam nutzt und wiederverwendet.
+
+529
+00:18:02,002 --> 00:18:04,576
+Dabei geht sie intelligent mit den
+
+530
+00:18:03,622 --> 00:18:06,335
+vorherigen Token um, die tatsächlich
+
+531
+00:18:05,381 --> 00:18:09,597
+für die Spannung benötigt werden. Die
+
+532
+00:18:08,649 --> 00:18:11,707
+Ergebnisse sind ziemlich beeindruckend,
+
+533
+00:18:10,759 --> 00:18:13,605
+denn bei einem Kontextfenster von 1
+
+534
+00:18:12,658 --> 00:18:15,346
+Million Token verwendet sie etwa
+
+535
+00:18:14,399 --> 00:18:17,192
+fünfmal weniger Prefill-Flops und
+
+536
+00:18:16,245 --> 00:18:19,143
+einen 4,5-mal kleineren KV-Cache als
+
+537
+00:18:18,196 --> 00:18:20,990
+die Mimo-Version 2.6, während sie
+
+538
+00:18:20,042 --> 00:18:23,047
+gleichzeitig den Abruf langer Kontexte
+
+539
+00:18:22,099 --> 00:18:25,970
+verbessert. Im Wesentlichen sollte
+
+540
+00:18:25,025 --> 00:18:28,165
+diese neue Architektur für die Version
+
+541
+00:18:27,219 --> 00:18:30,030
+3.0 umfangreiche Kontext-und lang
+
+542
+00:18:29,085 --> 00:18:31,785
+andauernde Agentenaufgaben viel
+
+543
+00:18:30,840 --> 00:18:33,925
+schneller und effizienter verarbeiten.
+
+544
+00:18:33,620 --> 00:18:36,048
+Bei einem Wechsel zu OpenAI hat die
+
+545
+00:18:35,088 --> 00:18:37,394
+ChatGPT-Sprachfunktion heute ein
+
+546
+00:18:36,435 --> 00:18:39,246
+umfangreiches Upgrade erhalten. Die
+
+547
+00:18:38,295 --> 00:18:40,764
+Sprachfunktion kann jetzt Ihre
+
+548
+00:18:39,813 --> 00:18:42,625
+verbundenen Apps wie E-Mail, Kalender
+
+549
+00:18:41,674 --> 00:18:44,437
+und Slack verwenden und kann von den
+
+550
+00:18:43,486 --> 00:18:46,150
+GPT-6-Modellen Astra, Sol und Luna
+
+551
+00:18:45,199 --> 00:18:48,264
+unterstützt werden. Das wahrscheinlich
+
+552
+00:18:47,306 --> 00:18:49,837
+größte Update ist jedoch, dass die
+
+553
+00:18:48,880 --> 00:18:51,240
+Sprachfunktion jetzt mit ChatGPT
+
+554
+00:18:50,283 --> 00:18:53,196
+zusammenarbeiten kann. Das bedeutet,
+
+555
+00:18:52,241 --> 00:18:54,800
+dass Sie buchstäblich mit ChatGPT
+
+556
+00:18:53,846 --> 00:18:56,038
+sprechen und es Dokumente,
+
+557
+00:18:55,084 --> 00:18:57,276
+Präsentationen, Websites,
+
+558
+00:18:56,322 --> 00:18:58,972
+Tabellenkalkulationen erstellen oder
+
+559
+00:18:58,018 --> 00:19:00,806
+sogar komplexe Browseraufgaben für Sie
+
+560
+00:18:59,852 --> 00:19:02,848
+erledigen lassen können. Dieses Modell
+
+561
+00:19:01,885 --> 00:19:04,252
+wird derzeit weltweit eingeführt und
+
+562
+00:19:03,289 --> 00:19:05,509
+verwandelt im Grunde genommen die
+
+563
+00:19:04,546 --> 00:19:06,950
+Sprachsteuerung von etwas, mit dem man
+
+564
+00:19:05,987 --> 00:19:08,318
+einfach nur sprechen kann, in etwas,
+
+565
+00:19:07,355 --> 00:19:09,759
+das tatsächlich Maßnahmen für einen
+
+566
+00:19:08,796 --> 00:19:11,200
+ergreifen kann, damit man seine Arbeit
+
+567
+00:19:10,237 --> 00:19:14,272
+erledigen kann. Google hat zwei neue
+
+568
+00:19:13,345 --> 00:19:17,216
+Modelle vorgestellt, Gemini 3.8/TTS und
+
+569
+00:19:16,289 --> 00:19:19,865
+Gemini 3.8 Flashlight TTS, die laut
+
+570
+00:19:18,939 --> 00:19:22,736
+Google die bislang ausdrucksstärksten
+
+571
+00:19:21,809 --> 00:19:25,680
+Modelle für die Audiogenerierung sind.
+
+572
+00:19:25,739 --> 00:19:28,481
+Diese Modelle wurden entwickelt, um
+
+573
+00:19:27,531 --> 00:19:29,875
+eine viel natürlichere und
+
+574
+00:19:28,925 --> 00:19:31,767
+ausdrucksstärkere Sprache für Dinge
+
+575
+00:19:30,817 --> 00:19:33,610
+wie KI-Unterstützung, Erzählungen,
+
+576
+00:19:32,660 --> 00:19:35,552
+Podcasts oder andere Sprachanwendungen
+
+577
+00:19:34,601 --> 00:19:38,381
+zu generieren. Beide Modelle sind über
+
+578
+00:19:37,434 --> 00:19:40,273
+die Gemini API und Google AI Studio
+
+579
+00:19:39,325 --> 00:19:41,744
+verfügbar, wobei Flash das
+
+580
+00:19:40,797 --> 00:19:43,530
+leistungsstärkere Modell ist und
+
+581
+00:19:42,583 --> 00:19:45,107
+Flashlight eine leichtere und
+
+582
+00:19:44,159 --> 00:19:48,519
+kostengünstigere Option bietet. Zu
+
+583
+00:19:47,559 --> 00:19:49,839
+guter Letzt hat Meta heute etwas
+
+584
+00:19:48,879 --> 00:19:51,279
+ziemlich Einzigartiges vorgestellt.
+
+585
+00:19:51,059 --> 00:19:54,097
+Hierbei geht es zwar nicht zu 100%um KI
+
+586
+00:19:53,097 --> 00:19:56,032
+, aber es handelt sich um einige neue
+
+587
+00:19:55,084 --> 00:19:57,966
+Produkte, die auf den Markt gebracht
+
+588
+00:19:57,018 --> 00:19:59,639
+wurden und bei denen KI mit dem
+
+589
+00:19:58,691 --> 00:20:01,678
+eigentlichen Produkt selbst verknüpft
+
+590
+00:20:00,730 --> 00:20:04,396
+ist. Heute haben sie nämlich diese
+
+591
+00:20:03,454 --> 00:20:06,141
+beeindruckende neue VR-Brille
+
+592
+00:20:05,200 --> 00:20:08,411
+vorgestellt, die nur etwa 100 g wiegt,
+
+593
+00:20:07,469 --> 00:20:10,214
+also ungefähr so viel wie ein
+
+594
+00:20:09,272 --> 00:20:12,961
+Kartenspiel. Meta behauptet, dass dies
+
+595
+00:20:12,008 --> 00:20:14,716
+das beste Anzeigesystem ist, das das
+
+596
+00:20:13,763 --> 00:20:16,611
+Unternehmen jemals entwickelt hat. Im
+
+597
+00:20:15,679 --> 00:20:19,252
+Wesentlichen vereint es Kino, Computer
+
+598
+00:20:18,320 --> 00:20:21,893
+und Spielekonsole in einer Brille, die
+
+599
+00:20:20,960 --> 00:20:24,981
+von einem KI-System gesteuert wird. Man
+
+600
+00:20:24,035 --> 00:20:27,086
+erhält riesige virtuelle Bildschirme,
+
+601
+00:20:26,140 --> 00:20:29,190
+vollständige 3 D-Umgebungen und sogar
+
+602
+00:20:28,244 --> 00:20:31,789
+DisplayPort über USB-C. Leute, die sie
+
+603
+00:20:30,830 --> 00:20:33,416
+ausprobiert haben, sagten, dass es sich
+
+604
+00:20:32,456 --> 00:20:34,961
+wirklich so anfühlte, als hätte man
+
+605
+00:20:34,002 --> 00:20:36,894
+einen Computer im Gesicht. Eine Demo
+
+606
+00:20:35,944 --> 00:20:38,407
+deutete an, dass man mithilfe
+
+607
+00:20:37,458 --> 00:20:40,375
+virtueller Arbeitsbereiche sogar einen
+
+608
+00:20:39,426 --> 00:20:43,264
+ganzen Film bearbeiten kann. Auch Metas
+
+609
+00:20:42,314 --> 00:20:45,230
+KI-Strategie wird immer interessanter,
+
+610
+00:20:44,280 --> 00:20:47,095
+denn laut Zuckerberg verschenkt Muse
+
+611
+00:20:46,145 --> 00:20:48,859
+riesige Mengen an Token, Berichten
+
+612
+00:20:47,910 --> 00:20:50,724
+zufolge etwa 100 Millionen Token pro
+
+613
+00:20:49,775 --> 00:20:52,741
+Woche, zusammen mit dem Zugang zu einer
+
+614
+00:20:51,791 --> 00:20:55,807
+virtuellen Maschine. Die größere Idee
+
+615
+00:20:54,845 --> 00:20:57,261
+scheint darin zu bestehen, KI-Agenten
+
+616
+00:20:56,299 --> 00:20:58,715
+dazu zu bringen, Nutzern tatsächlich
+
+617
+00:20:57,753 --> 00:21:00,169
+bei der Durchführung von Geschäften
+
+618
+00:20:59,207 --> 00:21:02,178
+und Transaktionen zu helfen. Dabei
+
+619
+00:21:01,227 --> 00:21:03,798
+könnte Meta möglicherweise mit
+
+620
+00:21:02,847 --> 00:21:05,664
+Transaktionsgebühren Geld verdienen,
+
+621
+00:21:04,713 --> 00:21:07,431
+anstatt sich nur auf Abonnements zu
+
+622
+00:21:06,481 --> 00:21:10,366
+verlassen. Wenn Meta diese Brille
+
+623
+00:21:09,417 --> 00:21:12,160
+tatsächlich mit leistungsfähigen
+
+624
+00:21:11,211 --> 00:21:14,056
+persönlichen KI-Agenten kombiniert,
+
+625
+00:21:13,107 --> 00:21:15,799
+könnte die Interaktion mit einem
+
+626
+00:21:14,850 --> 00:21:18,920
+Computer völlig anders werden. Ehrlich
+
+627
+00:21:17,960 --> 00:21:20,120
+gesagt, das war definitiv ein
+
+628
+00:21:19,160 --> 00:21:22,207
+unglaublicher Tag im Bereich der KI. Es
+
+629
+00:21:21,274 --> 00:21:24,425
+passiert noch viel mehr. Um auf dem
+
+630
+00:21:23,468 --> 00:21:26,089
+Laufenden zu bleiben, solltet ihr euch
+
+631
+00:21:25,131 --> 00:21:27,795
+unbedingt ein paar dieser verschiedenen
+
+632
+00:21:26,837 --> 00:21:29,288
+Bereiche ansehen, wie zum Beispiel
+
+633
+00:21:28,330 --> 00:21:31,235
+unsere Schul-Community. Dort könnt ihr
+
+634
+00:21:30,279 --> 00:21:32,993
+natürlich immer über alle Neuigkeiten
+
+635
+00:21:32,037 --> 00:21:34,662
+aus der Welt der KI auf dem Laufenden
+
+636
+00:21:33,706 --> 00:21:37,245
+bleiben. Außerdem erhaltet ihr jeden
+
+637
+00:21:36,306 --> 00:21:39,541
+Monat Zugriff auf kostenlose KI-Tools
+
+638
+00:21:38,601 --> 00:21:41,798
+und viele weitere Vorteile. Außerdem
+
+639
+00:21:40,843 --> 00:21:43,501
+könnt ihr frühzeitig auf KI-Modelle
+
+640
+00:21:42,546 --> 00:21:45,959
+zugreifen. Schaut euch auch die Welt
+
+641
+00:21:45,011 --> 00:21:47,571
+der KI von Coding Platform und
+
+642
+00:21:46,623 --> 00:21:49,646
+Benchmark an. Werft einen Blick auf den
+
+643
+00:21:48,685 --> 00:21:50,750
+Newsletter, werdet Teil des
+
+644
+00:21:49,790 --> 00:21:52,250
+Discord-Kanals, folgt mir auf Twitter
+
+645
+00:21:51,289 --> 00:21:53,709
+und schaut euch schließlich unseren
+
+646
+00:21:52,749 --> 00:21:55,435
+zweiten Kanal an. Tritt der
+
+647
+00:21:54,486 --> 00:21:57,460
+Twitter-Seite bei und folge mir auf dem
+
+648
+00:21:56,511 --> 00:21:59,197
+YouTube-Kanal. Abonniert unbedingt
+
+649
+00:21:58,225 --> 00:21:59,999
+unseren Kanal, aktiviert die
+
+650
+00:21:59,026 --> 00:22:01,022
+Benachrichtigungsglocke, gebt diesem
+
+651
+00:22:00,050 --> 00:22:02,128
+Video ein „Gefällt mir“ und schaut
+
+652
+00:22:01,156 --> 00:22:03,206
+euch auch unsere vorherigen Videos an,
+
+653
+00:22:02,234 --> 00:22:04,313
+um über die aktuellsten Cydia-News auf
+
+654
+00:22:03,340 --> 00:22:05,532
+dem Laufenden zu bleiben. In diesem
+
+655
+00:22:04,566 --> 00:22:06,764
+Sinne wünsche ich euch allen einen
+
+656
+00:22:05,799 --> 00:22:07,826
+wunderschönen Tag, verbreitet
+
+657
+00:22:06,860 --> 00:22:09,058
+Positivität und ich sehe euch ganz
+
+658
+00:22:08,093 --> 00:22:11,158
+bald wieder. Ich glaube, ich habe es
+
+659
+00:22:10,213 --> 00:22:13,523
+vermasselt, euch alles zu zeigen. Bis
+
+660
+00:22:12,563 --> 00:22:14,163
+später, Leute.

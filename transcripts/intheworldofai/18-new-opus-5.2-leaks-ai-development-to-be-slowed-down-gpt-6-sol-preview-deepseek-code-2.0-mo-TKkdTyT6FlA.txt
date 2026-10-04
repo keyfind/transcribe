@@ -1,0 +1,346 @@
+Wir haben heute einen ziemlich
+interessanten Tag für KI-Nachrichten,
+denn wir haben einige neue Erkenntnisse
+zu Anthropics neuem Modell, Claude Opus
+5.2, das anscheinend schon bald
+erscheinen wird. Es wird erwartet, dass
+dies Fähigkeiten auf Fabel-Niveau in
+die Opus-Familie bringt, was bedeutet,
+dass es wahrscheinlich extrem teuer
+sein wird, aber möglicherweise eines
+der leistungsfähigsten Modelle von
+Anthropic bisher ist. Aber Anthropic
+ist nicht das einzige Unternehmen, das
+etwas plant, denn OpenAI scheint
+ebenfalls bereit zu sein, mit GPT-6 die
+nächste Modellgeneration auf den Markt
+zu bringen, wobei Soul und Luna Teil
+dieser Modellreihe sein werden. Wir
+sind uns noch nicht sicher, was es mit
+Hera als Teil von GPT-6 auf sich hat,
+aber wir haben endlich erste Vorschauen
+auf diese Modelle erhalten, und die
+Ergebnisse sind momentan ziemlich wild.
+Obwohl Soul im Vergleich zu Astra als
+Modell leicht verkleinert zu sein
+scheint, liefert es bereits Ergebnisse,
+die überraschend nah an die Leistung
+von Asher heranreichen, und das alles
+zu deutlich geringeren Kosten. Und die
+Dinge werden noch seltsamer, denn
+gestern haben wir darüber gesprochen,
+wie Anthropic-CEO Dario Amodei dazu
+aufrief, den Prozess der KI-Entwicklung
+zu verlangsamen. Und das hat plötzlich
+dazu geführt, dass andere KI-Größen
+wie Elon Musk sowie Sam Altman die Idee
+zu unterstützen schienen, die
+Entwicklung von Spitzen-KI-Modellen zu
+bremsen. Warum sprechen so viele
+führende KI-Köpfe zur gleichen Zeit
+darüber? Man fragt sich, ob sie intern
+etwas gesehen haben? Haben sie die AGI
+erreicht? Haben sie tatsächlich etwas
+getan, das der Gesellschaft schaden
+könnte? Wir haben natürlich keine
+Ahnung, aber das Timing ist definitiv
+interessant. Dann schaltete sich Donald
+Trump in die Unterhaltung ein, lehnte
+die Idee ab, dass die KI-Entwicklung
+verlangsamt werden sollte, und
+argumentierte, dass die Vereinigten
+Staaten weiterhin auf dieses neue
+KI-Tempo drängen sollten, was uns
+wahrscheinlich innerhalb weniger Jahre
+in die AGI-Diskussionen führen würde.
+Also hat sich die KI-Skalierung
+irgendwie zu einer noch größeren
+politischen Debatte entwickelt.
+Unterdessen arbeitet DeepSeek Berichten
+zufolge an DeepSeek Coder 2.0, bei dem
+es sich Gerüchten zufolge um ein
+massives Coding-Modell mit 3 Billionen
+Parametern und offenen Gewichten
+handelt. Das Ziel scheint zu sein, die
+Fähigkeiten auf Spitzen-Niveau
+vollständig darauf auszurichten, mit
+GPT-Coding-Modellen gleichzuziehen und
+gleichzeitig die Gewichte offen zu
+halten, was eine enorme Leistung für
+die Serie sowie für das Unternehmen
+selbst wäre. Nun gibt es natürlich
+noch viel mehr zu besprechen, also
+tauchen wir einfach direkt in alles ein
+. Es gibt eine Menge Dinge im
+KI-Bereich, die ich nicht wirklich auf
+den YouTube-Kanal bringe, und auf die
+Sie über meinen kostenlosen Newsletter
+zugreifen können–den Link dazu
+finden Sie unten in der Beschreibung,
+wo Sie sich völlig kostenlos anmelden
+können. Beginnen wir mit Claude Opus
+5.2, denn dieses Modell wurde
+anscheinend bei Anthropic gesichtet,
+was darauf hindeutet, dass ein
+größeres Claude-Upgrade näher rückt
+. Es gibt zwar noch sehr wenige
+Informationen über Claude Opus 5.2,
+daher sollte man diese Leaks mit
+Vorsicht genießen, aber wir wissen,
+dass dieses Modell intern gesehen wurde
+, was bedeutet, dass Anthropic kurz vor
+der Veröffentlichung steht. Opus wird
+definitiv ein riesiges Upgrade,
+besonders mit der 5.2-Version, aber man
+fragt sich, warum sie die 5.1
+eigentlich übersprungen haben. Ich bin
+mir nicht sicher warum, aber dieses
+Opus-Upgrade wäre ziemlich interessant
+, da Opus 5 bereits darauf ausgelegt
+war, der Intelligenz von Fable
+erstaunlich nahezukommen und dabei
+deutlich günstiger zu sein. Die große
+Frage ist also, wie weit Anthropic mit
+Opus 5.2 gehen will. Da Stable 5.1 und
+Mythos 5.1 die Entwicklung von
+Anthropic bereits vorantreiben, könnte
+ein verbessertes Opus-Modell einige
+dieser Verbesserungen erben,
+insbesondere bei Coding-Agenten,
+langfristigen Aufgaben sowie logischem
+Denken. Letzteres ist vorerst
+Spekulation, aber wenn Anthropic mehr
+seiner Spitzenfähigkeiten in die
+Opus-Familie einbringen kann, könnte
+Opus 5.2 eines der praktischen Modelle
+werden, die man täglich nutzen möchte
+. Und wenn sie das Preisproblem bei
+diesem Opus-Modell lösen können,
+würde das die Sicht vieler Leute auf
+die Modelle von Anthropic definitiv
+verändern. Aber das ist nicht das
+Einzige, das bald erscheinen könnte,
+denn OpenAI scheint sich auch auf die
+Veröffentlichung von GPT-6 Soul und
+Luna vorzubereiten. Wir sehen nun die
+ersten Vorab-Einblicke darauf, was GPT-
+6 Soul tatsächlich leisten kann. Ich
+vermute, dass sie es möglicherweise am
+Dev Day veröffentlichen werden, der
+später in diesem Monat stattfindet.
+Das wäre definitiv ein riesiges
+Upgrade und ein neues Modell, das sie
+veröffentlichen würden–im Grunde
+eine kosteneffiziente Version von Astra
+. Eines der verrücktesten Beispiele
+bisher ist die Erstellung des
+Todessterns, wobei GPT-6 Soul die
+Aufgabe erhielt, in einer
+vollständigen Simulation des
+Todessterns aus Star Wars mit maximalem
+logischem Aufwand im
+Zero-Shot-Verfahren zu arbeiten. Das
+Modell arbeitete etwa 9 Minuten lang
+daran und generierte rund 72.000 Token,
+was für einen einzigen Versuch
+natürlich eine wahnsinnige Menge an
+Output ist. Was dies besonders
+interessant macht, ist, dass Soul nicht
+als das absolute High-End-Modell von
+OpenAI gedacht ist. Das ist etwas, das
+Astra übertreffen wird. Dies ist eine
+Stufe unter Astra, die versucht, dessen
+Fähigkeiten zu imitieren, dabei aber
+offensichtlich weitaus effizienter und
+kostengünstiger ist. Wenn wir also
+eine bessere Preisstruktur für dieses
+Modell bekommen, wäre es
+offensichtlich ein großartiges Modell
+für den täglichen Gebrauch, das man
+möglicherweise jeden Tag nutzen
+könnte. Aber sie arbeiten auch an der
+Veröffentlichung des GPT-6
+Luna-Modells, das als kosteneffizientes
+Modell Teil der GPT-6-Familie sein soll
+. Hier ist eine weitere Demo des GPT-6
+Soul-Modells. Die Programmierung und
+die Frontend-Arbeit sind definitiv
+beeindruckend, besonders wenn man
+bedenkt, dass dies das günstigere GPT-
+6-Modell sein soll, das unterhalb von
+Astra angesiedelt ist. Und genau das
+könnte Soul so bedeutend machen, denn
+wenn die ersten Preisberichte stimmen,
+könnten wir potenziell
+Programmierfähigkeiten auf
+Astra-Niveau zu deutlich geringeren
+Kosten erhalten. Wir wissen, dass das
+Astra-Modell recht teuer ist. Wenn wir
+also eine reduzierte Preisstruktur für
+das Soul-Modell aus derselben Familie
+bekommen, wäre es für alltägliche
+Programmieraufgaben und agentische
+Workflows deutlich praktischer. Als
+Nächstes haben wir Dario Amodei, den
+CEO von Anthropic, über den wir
+gestern bereits berichtet haben,
+nachdem er einen neuen Artikel
+veröffentlichte, in dem er über das
+Tempo an der KI-Front diskutiert. Der
+Zeitpunkt ist ziemlich interessant,
+denn obwohl Dario davor warnt, wie
+schnell sich die KI-Entwicklung
+beschleunigt, gibt es keine
+öffentlichen Anzeichen dafür, dass
+Anthropic selbst die Entwicklung seiner
+kommenden Spitzenmodelle pausiert. Wie
+wir gerade besprochen haben,
+konzentrieren sie sich auf Opus 5.2 und
+auf ein neues Modell, das nach der
+Fable-oder Mythos-Serie kommen wird.
+Der wichtigere Punkt, den Dario
+anspricht, ist jedoch, wohin das alles
+letztendlich führen wird. Er glaubt,
+dass wir an einen Punkt kommen, an dem
+KI-Systeme selbst maßgeblich an der
+Entwicklung der nächsten KI-Generation
+beteiligt sind. Er sagt in seinem
+Artikel ausdrücklich, dass sich der
+KI-Fortschritt seit etwa diesem Sommer
+drastisch beschleunigt hat. Und das
+haben Sie ja auch gesehen. Ich habe
+ständig vom KI-Sommer gesprochen. Wir
+haben so viele neue Modelle gesehen.
+Ich bin momentan unterwegs und habe
+Schwierigkeiten, diese
+Modell-Review-Videos zu produzieren.
+Und man merkt deutlich, dass die
+Videoqualität nicht mit dem
+vergleichbar ist, was wir vor meiner
+Reise hatten. Trotzdem mache ich so
+viele KI-Review-Videos, und es ist
+einfach verrückt, weil wir jeden
+zweiten Tag ein neues Modell bekommen.
+Und genau das treibt die KI-Entwicklung
+bei Anthropic maßgeblich voran.
+Natürlich wird es dabei helfen, neue
+Nachfolger und KI-Modelle zu bauen,
+aber es beschleunigt definitiv das
+Rennen an der KI-Front rasant. Und
+sobald Modelle maßgeblich an der
+Entwicklung zukünftiger Modelle
+beteiligt sind, argumentiert Dario im
+Grunde, dass die Verbesserungsrate
+atemberaubend schnell werden könnte.
+Dies ist im Wesentlichen die Idee
+hinter rekursiver Selbstverbesserung
+oder RSI. Da KI zunehmend bei der
+KI-Forschung hilft, entstehen
+offensichtlich bessere KI-Systeme, was
+den Forschungsprozess noch weiter
+beschleunigen kann. Dario erwähnte
+daraufhin einige ziemlich extreme
+potenzielle Risiken durch RSI, was bei
+vielen Leuten für Angst sorgte. Denn
+wenn wir diesen Punkt erreichen,
+könnte dies im Grunde zu vielen
+Cyberangriffen führen; eine Menge
+schädlicher Dinge könnten aufgrund
+von KI-Anwendungsfällen und anderen
+Faktoren entstehen. Und kurz nachdem
+Dario diese Aussage gemacht hatte,
+schienen Elon Musk und Sam Altman
+plötzlich eine Verlangsamung des
+KI-Wettlaufs zu unterstützen, was
+einen fragen lässt, was sie eigentlich
+erschreckt hat, da sie alle aus dem
+Nichts dasselbe sagten. Es gibt
+natürlich eine ganze Reihe von
+Möglichkeiten. Vielleicht sehen diese
+Labore intern Fähigkeiten, die weitaus
+näher an AGI liegen als das, was wir
+öffentlich gesehen haben. Oder ganz im
+Gegenteil: Vielleicht befürchten die
+führenden Labore, dass ihre
+Wettbewerbsvorteile schwinden, und eine
+allgemeine Verlangsamung hilft, ihre
+Position und Bewertung zu schützen.
+Das ist natürlich alles Spekulation,
+aber das Timing der aktuellen
+Ereignisse lässt einen schon grübeln.
+Und das Lustige ist, dass Donald Trump,
+der Präsident der Vereinigten Staaten,
+praktisch aus dem Nichts auftauchte und
+sich zufällig in dieses Gespräch
+einmischte, um sich gegen die Idee
+einer Verlangsamung der KI-Entwicklung
+zu wehren. Seine Position ist im Grunde
+das Gegenteil: Amerika sollte nicht vom
+Gas gehen, besonders während es mit
+Ländern wie China im Bereich KI
+konkurriert. Wir haben also einige der
+größten Namen der KI-Branche, die
+plötzlich davon sprechen, den
+Fortschritt zu verlangsamen. Hier sagt
+Trump im Grunde das Gegenteil und meint
+, dass sie einfach weitermachen sollten
+. Es ist auf jeden Fall wirklich
+interessant und amüsant. Wenn dir
+dieses Video gefällt und du den Kanal
+unterstützen möchtest, kannst du eine
+Spende über die „Super Thanks“-
+Option unten in Betracht ziehen. Oder
+du trittst unserem privaten Discord bei
+, wo du monatlich kostenlosen Zugriff
+auf verschiedene KI-Tools sowie
+tägliche KI-Nachrichten, exklusive
+Inhalte und mehr erhältst. Zuletzt
+gibt es einige ziemlich massive neue
+Updates von DeepSeek mit DeepSeek Code
+2.0. Dies ist ein Modell, dessen
+Veröffentlichung für September
+geplant ist, und Gerüchten zufolge
+könnte es ein Modell mit über 3
+Billionen Parametern und einem 1-
+Million-Token-Kontextfenster sein, das
+zudem Open-Weight bleibt. Sie verfügen
+außerdem über
+Computer-Nutzungsfähigkeiten, und der
+Fokus liegt diesmal angeblich auf
+Effizienz sowie der Fähigkeit, den
+Bildschirm präzise zu steuern. Die
+verrückteste Behauptung ist, dass
+DeepSeek anscheinend Leistungen
+anstrebt, die mit den besten Modellen
+wie Fable oder sogar GPT konkurrieren
+oder diese grundlegend übertreffen
+könnten. Natürlich sollte man das mit
+Vorsicht genießen, da ich glaube, dass
+das nur Hype ist, aber letztendlich
+wäre dies ein wirklich cooles Modell
+aus China von DeepSeek, das mit dem
+aktuellen Stand der Technik
+konkurrieren würde. Aber das war es
+auch schon, Leute, mit allem, was in
+der Welt der KI passiert. Falls ihr es
+noch nicht getan habt, schaut euch
+unbedingt die Welt der KI in der School
+Community an, wo ihr Zugang zu
+Vorab-Modellen sowie kostenlosen Zugang
+zu KI-Tools erhaltet. Werft unbedingt
+einen Blick auf die Welt der KI-5-
+Coding-Plattform und das Benchmark.
+Schaut euch den zweiten Kanal an.
+Stellt außerdem sicher, dass ihr euch
+für den Newsletter anmeldet. Tretet
+unserem Discord bei. Folgt mir auf
+Twitter. Und zu guter Letzt: Abonniert
+den Kanal, aktiviert die
+Benachrichtigungsglocke, liked dieses
+Video und schaut euch unsere früheren
+Videos an, damit ihr bei den neuesten
+KI-Nachrichten auf dem Laufenden bleibt
+. Aber mit diesem Gedanken, Leute, habt
+einen fantastischen Tag. Wir sind
+durchweg positiv, und ich sehe euch
+sehr bald wieder. Macht's gut, Leute.

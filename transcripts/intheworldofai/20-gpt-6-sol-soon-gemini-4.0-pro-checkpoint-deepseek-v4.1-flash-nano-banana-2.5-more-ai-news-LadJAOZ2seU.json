@@ -1,0 +1,2107 @@
+{
+  "video": {
+    "video_id": "LadJAOZ2seU",
+    "title": "GPT-6 'Sol' Soon! Gemini 4.0 Pro Checkpoint, DeepSeek v4.1 Flash, Nano Banana 2.5, & More! AI NEWS!",
+    "url": "https://www.youtube.com/watch?v=LadJAOZ2seU",
+    "published_at": null,
+    "duration": 896
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.1,
+      "duration": 3.065,
+      "text": "Wirklich ein unglaublicher Tag für"
+    },
+    {
+      "start": 2.224,
+      "duration": 3.184,
+      "text": "KI-News, denn es gibt viele spannende"
+    },
+    {
+      "start": 4.467,
+      "duration": 3.297,
+      "text": "Dinge zu besprechen. Beginnen wir mit"
+    },
+    {
+      "start": 6.821,
+      "duration": 3.091,
+      "text": "Google: Sie haben intern ihren ersten"
+    },
+    {
+      "start": 8.969,
+      "duration": 2.526,
+      "text": "neuen Gemini Pro-Checkpoint"
+    },
+    {
+      "start": 10.552,
+      "duration": 3.035,
+      "text": "veröffentlicht, der möglicherweise"
+    },
+    {
+      "start": 12.644,
+      "duration": 2.639,
+      "text": "Teil der kommenden Gemini 4.0"
+    },
+    {
+      "start": 14.34,
+      "duration": 3.786,
+      "text": "Pro-Modellreihe sein könnte. Dies ist"
+    },
+    {
+      "start": 17.192,
+      "duration": 3.241,
+      "text": "der erste neue Pro-Checkpoint seit"
+    },
+    {
+      "start": 19.499,
+      "duration": 3.572,
+      "text": "geraumer Zeit, und die ersten Anzeichen"
+    },
+    {
+      "start": 22.136,
+      "duration": 3.374,
+      "text": "sehen bisher extrem vielversprechend"
+    },
+    {
+      "start": 24.576,
+      "duration": 3.442,
+      "text": "aus. Die Modell-ID ist öffentlich"
+    },
+    {
+      "start": 27.07,
+      "duration": 2.963,
+      "text": "sichtbar, und nach dem, was wir bisher"
+    },
+    {
+      "start": 29.085,
+      "duration": 2.653,
+      "text": "sehen, könnte dies ein wirklich"
+    },
+    {
+      "start": 30.79,
+      "duration": 2.809,
+      "text": "leistungsstarkes neues Modell sein."
+    },
+    {
+      "start": 33.18,
+      "duration": 2.813,
+      "text": "Apropos Google: Berichten zufolge"
+    },
+    {
+      "start": 35.048,
+      "duration": 2.483,
+      "text": "bereiten sie auch ein neues"
+    },
+    {
+      "start": 36.586,
+      "duration": 3.143,
+      "text": "Nano-Banana-Modell vor, möglicherweise"
+    },
+    {
+      "start": 38.784,
+      "duration": 2.923,
+      "text": "das Nano-Banana 2.5, und die ersten"
+    },
+    {
+      "start": 40.762,
+      "duration": 3.143,
+      "text": "Ergebnisse sehen ziemlich beeindruckend"
+    },
+    {
+      "start": 42.96,
+      "duration": 3.664,
+      "text": "aus. Kommen wir zu DeepSeek: Wie ich"
+    },
+    {
+      "start": 45.678,
+      "duration": 2.744,
+      "text": "bereits in meinem ausführlichen"
+    },
+    {
+      "start": 47.476,
+      "duration": 2.635,
+      "text": "Testvideo erwähnt habe, wurde"
+    },
+    {
+      "start": 49.166,
+      "duration": 2.961,
+      "text": "offiziell DeepSeek Version 4.1 Flash"
+    },
+    {
+      "start": 51.182,
+      "duration": 3.249,
+      "text": "veröffentlicht. Es ist intelligenter,"
+    },
+    {
+      "start": 53.484,
+      "duration": 2.954,
+      "text": "schneller und effizienter und könnte"
+    },
+    {
+      "start": 55.491,
+      "duration": 2.902,
+      "text": "eines der besten Open-Source-Modelle"
+    },
+    {
+      "start": 57.445,
+      "duration": 3.529,
+      "text": "sein, die derzeit verfügbar sind. Wenn"
+    },
+    {
+      "start": 60.022,
+      "duration": 2.749,
+      "text": "man sich die Benchmarks ansieht, ist"
+    },
+    {
+      "start": 61.82,
+      "duration": 2.92,
+      "text": "die Leistung wirklich enorm. Es ist"
+    },
+    {
+      "start": 63.784,
+      "duration": 2.483,
+      "text": "wahnsinnig schnell, und einige der"
+    },
+    {
+      "start": 65.31,
+      "duration": 2.527,
+      "text": "Ergebnisse, die ich bisher getestet"
+    },
+    {
+      "start": 66.88,
+      "duration": 2.44,
+      "text": "habe, sind absolut beeindruckend."
+    },
+    {
+      "start": 69.179,
+      "duration": 2.669,
+      "text": "Gestern haben wir auch darüber"
+    },
+    {
+      "start": 70.902,
+      "duration": 2.992,
+      "text": "gesprochen, dass OpenAI und Anthropic"
+    },
+    {
+      "start": 72.948,
+      "duration": 2.238,
+      "text": "angeblich an einem noch"
+    },
+    {
+      "start": 74.24,
+      "duration": 2.939,
+      "text": "leistungsfähigeren Modell arbeiten."
+    },
+    {
+      "start": 77.739,
+      "duration": 3.023,
+      "text": "Wir haben sogar einen kleinen Einblick"
+    },
+    {
+      "start": 79.815,
+      "duration": 2.917,
+      "text": "in das bekommen, was möglicherweise"
+    },
+    {
+      "start": 81.785,
+      "duration": 2.971,
+      "text": "das OpenAI GPT-7-Modell sein könnte,"
+    },
+    {
+      "start": 83.809,
+      "duration": 2.97,
+      "text": "das eventuell mit dem Bell-Checkpoint"
+    },
+    {
+      "start": 85.832,
+      "duration": 2.811,
+      "text": "in Verbindung steht, über den wir"
+    },
+    {
+      "start": 87.696,
+      "duration": 2.651,
+      "text": "bereits berichtet haben und der"
+    },
+    {
+      "start": 89.4,
+      "duration": 2.544,
+      "text": "angeblich ein jahrzehntealtes"
+    },
+    {
+      "start": 90.998,
+      "duration": 2.97,
+      "text": "mathematisches Problem in nur wenigen"
+    },
+    {
+      "start": 93.021,
+      "duration": 3.669,
+      "text": "Tagen gelöst hat. Aber jetzt kommen"
+    },
+    {
+      "start": 95.73,
+      "duration": 2.503,
+      "text": "sogar noch verrücktere Informationen"
+    },
+    {
+      "start": 97.273,
+      "duration": 3.056,
+      "text": "ans Licht. Ich höre, dass OpenAI der"
+    },
+    {
+      "start": 99.386,
+      "duration": 2.866,
+      "text": "Verifizierung der Hodge-Vermutung"
+    },
+    {
+      "start": 101.309,
+      "duration": 3.6,
+      "text": "extrem nahekommen könnte. Nun,"
+    },
+    {
+      "start": 103.957,
+      "duration": 2.851,
+      "text": "entweder OpenAI oder Anthropic könnten"
+    },
+    {
+      "start": 105.856,
+      "duration": 2.424,
+      "text": "auch bei einem anderen Problem"
+    },
+    {
+      "start": 107.328,
+      "duration": 4.049,
+      "text": "ernsthafte Fortschritte machen. Beides"
+    },
+    {
+      "start": 110.436,
+      "duration": 3.143,
+      "text": "sind Probleme der Millennium-Preise."
+    },
+    {
+      "start": 113.519,
+      "duration": 2.849,
+      "text": "Das basiert natürlich noch auf"
+    },
+    {
+      "start": 115.428,
+      "duration": 3.207,
+      "text": "Berichten und Gerüchten, also sollte"
+    },
+    {
+      "start": 117.695,
+      "duration": 3.267,
+      "text": "man es mit Vorsicht genießen, aber es"
+    },
+    {
+      "start": 120.021,
+      "duration": 3.088,
+      "text": "ist irgendwie wahnsinnig, denn dies"
+    },
+    {
+      "start": 122.169,
+      "duration": 3.028,
+      "text": "sind Millennium-Probleme, die seit"
+    },
+    {
+      "start": 124.257,
+      "duration": 3.326,
+      "text": "vielen Jahren ungelöst waren, nun aber"
+    },
+    {
+      "start": 126.643,
+      "duration": 3.207,
+      "text": "tatsächlich innerhalb weniger Monate"
+    },
+    {
+      "start": 128.91,
+      "duration": 4.221,
+      "text": "oder sogar Tage gelöst werden. Das ist"
+    },
+    {
+      "start": 132.179,
+      "duration": 2.801,
+      "text": "absolut verrückt, und es gibt noch so"
+    },
+    {
+      "start": 134.028,
+      "duration": 2.754,
+      "text": "viel mehr zu besprechen, also tauchen"
+    },
+    {
+      "start": 135.829,
+      "duration": 2.989,
+      "text": "wir einfach direkt ein. Dein"
+    },
+    {
+      "start": 137.863,
+      "duration": 2.75,
+      "text": "Coding-Agent hat 900 Zeilen geschrieben"
+    },
+    {
+      "start": 139.613,
+      "duration": 2.706,
+      "text": ", während du zu Mittag gegessen hast."
+    },
+    {
+      "start": 141.719,
+      "duration": 2.64,
+      "text": "Sei ehrlich, hast du sie alle gelesen?"
+    },
+    {
+      "start": 143.959,
+      "duration": 2.722,
+      "text": "Niemand tut das. Wir überfliegen sie,"
+    },
+    {
+      "start": 145.719,
+      "duration": 2.412,
+      "text": "wir geben sie frei und wir hoffen das"
+    },
+    {
+      "start": 147.17,
+      "duration": 3.184,
+      "text": "Beste. Das Problem ist nicht der Code,"
+    },
+    {
+      "start": 149.398,
+      "duration": 2.641,
+      "text": "sondern dass die einzige Möglichkeit"
+    },
+    {
+      "start": 151.083,
+      "duration": 2.73,
+      "text": "für deinen Agenten, sich zu erklären,"
+    },
+    {
+      "start": 152.857,
+      "duration": 3.093,
+      "text": "eine weitere Textwüste ist. Scrimbas"
+    },
+    {
+      "start": 154.997,
+      "duration": 2.807,
+      "text": "neues „Explain“-Feature bietet eine"
+    },
+    {
+      "start": 156.85,
+      "duration": 3.139,
+      "text": "zweite Option. Du stellst eine Frage"
+    },
+    {
+      "start": 159.043,
+      "duration": 2.936,
+      "text": "und erhältst innerhalb von 2 oder 3"
+    },
+    {
+      "start": 161.032,
+      "duration": 2.668,
+      "text": "Sekunden ein Video als Antwort."
+    },
+    {
+      "start": 163.459,
+      "duration": 2.872,
+      "text": "Verknüpfen Sie es mit Cloud Code for"
+    },
+    {
+      "start": 165.381,
+      "duration": 2.974,
+      "text": "Sir oder Codex mit deren MCP-Plugin und"
+    },
+    {
+      "start": 167.405,
+      "duration": 2.974,
+      "text": "es liest Ihr tatsächliches Repository."
+    },
+    {
+      "start": 170.106,
+      "duration": 2.783,
+      "text": "Verweisen Sie auf einen Pull Request"
+    },
+    {
+      "start": 171.938,
+      "duration": 2.585,
+      "text": "und Ihr gesamtes Team sieht sich"
+    },
+    {
+      "start": 173.573,
+      "duration": 2.783,
+      "text": "endlich die Erklärung an, nicht nur"
+    },
+    {
+      "start": 175.406,
+      "duration": 2.733,
+      "text": "den Code. Leute fragen es alles"
+    },
+    {
+      "start": 177.184,
+      "duration": 2.747,
+      "text": "Mögliche, vom Lösen von Problemen bis"
+    },
+    {
+      "start": 178.976,
+      "duration": 2.703,
+      "text": "zur Messung des Brennstoffs der Sonne."
+    },
+    {
+      "start": 181.08,
+      "duration": 2.599,
+      "text": "Sie können es auf der Website, in"
+    },
+    {
+      "start": 182.726,
+      "duration": 2.364,
+      "text": "ChatGPT oder direkt über die"
+    },
+    {
+      "start": 184.137,
+      "duration": 3.176,
+      "text": "Chrome-Erweiterung nutzen. Ein großes"
+    },
+    {
+      "start": 186.353,
+      "duration": 2.223,
+      "text": "Dankeschön an Scrimba für das"
+    },
+    {
+      "start": 187.615,
+      "duration": 2.56,
+      "text": "Sponsoring des heutigen Videos. Ich"
+    },
+    {
+      "start": 189.207,
+      "duration": 1.923,
+      "text": "empfehle Ihnen daher sehr, es"
+    },
+    {
+      "start": 190.162,
+      "duration": 2.178,
+      "text": "auszuprobieren–die Links finden Sie"
+    },
+    {
+      "start": 191.372,
+      "duration": 2.648,
+      "text": "unten in der Beschreibung. Scrimba"
+    },
+    {
+      "start": 193.071,
+      "duration": 2.909,
+      "text": "Explain, fragen Sie es einfach etwas."
+    },
+    {
+      "start": 195.38,
+      "duration": 3.388,
+      "text": "Beginnen wir mit der GPT-6 Soul, die"
+    },
+    {
+      "start": 197.834,
+      "duration": 3.521,
+      "text": "offiziell in freier Wildbahn gesichtet"
+    },
+    {
+      "start": 200.421,
+      "duration": 3.555,
+      "text": "wurde. Vor wenigen Tagen gab es"
+    },
+    {
+      "start": 203.051,
+      "duration": 3.802,
+      "text": "Gerüchte, dass GPT-6 Soul bei OpenAI"
+    },
+    {
+      "start": 205.929,
+      "duration": 3.746,
+      "text": "intern getestet wird. Und nun sehen wir"
+    },
+    {
+      "start": 208.72,
+      "duration": 2.771,
+      "text": "erste Anzeichen dafür, dass das Modell"
+    },
+    {
+      "start": 210.536,
+      "duration": 3.566,
+      "text": "öffentlich auftaucht. Nach den ersten"
+    },
+    {
+      "start": 213.16,
+      "duration": 3.242,
+      "text": "vorliegenden Informationen scheint GPT-"
+    },
+    {
+      "start": 215.402,
+      "duration": 3.243,
+      "text": "6 Soul extrem schnell zu sein und zudem"
+    },
+    {
+      "start": 217.702,
+      "duration": 3.185,
+      "text": "eine deutliche Verbesserung gegenüber"
+    },
+    {
+      "start": 219.945,
+      "duration": 4.256,
+      "text": "GPT-5.6 Soul darzustellen. Wir wissen"
+    },
+    {
+      "start": 223.245,
+      "duration": 2.55,
+      "text": "noch nicht, wie groß dieser Sprung"
+    },
+    {
+      "start": 224.839,
+      "duration": 2.638,
+      "text": "sein wird, aber die Tatsache, dass es"
+    },
+    {
+      "start": 226.521,
+      "duration": 2.727,
+      "text": "bereits gesichtet wurde, bedeutet, dass"
+    },
+    {
+      "start": 228.292,
+      "duration": 2.638,
+      "text": "OpenAI kurz vor der Veröffentlichung"
+    },
+    {
+      "start": 229.974,
+      "duration": 3.805,
+      "text": "steht. Vielleicht sehen wir es sogar"
+    },
+    {
+      "start": 232.84,
+      "duration": 3.147,
+      "text": "noch vor dem DevDay, der später im"
+    },
+    {
+      "start": 235.049,
+      "duration": 4.43,
+      "text": "September stattfindet. Dies lässt mich"
+    },
+    {
+      "start": 238.549,
+      "duration": 3.24,
+      "text": "vermuten, dass OpenAI das GPT-6-"
+    },
+    {
+      "start": 240.789,
+      "duration": 3.73,
+      "text": "Rate-Limit-Problem schnell löst, indem"
+    },
+    {
+      "start": 243.589,
+      "duration": 3.03,
+      "text": "eine neue, abgestufte Version"
+    },
+    {
+      "start": 245.689,
+      "duration": 3.66,
+      "text": "veröffentlicht wird, die–natürlich"
+    },
+    {
+      "start": 248.349,
+      "duration": 3.73,
+      "text": "–etwas schwächer als Astra ist, aber"
+    },
+    {
+      "start": 251.149,
+      "duration": 3.31,
+      "text": "knapp darunter liegt, um die Rate"
+    },
+    {
+      "start": 253.529,
+      "duration": 2.75,
+      "text": "Limits nicht vollständig"
+    },
+    {
+      "start": 255.349,
+      "duration": 4.364,
+      "text": "auszuschöpfen. Als Nächstes: Google"
+    },
+    {
+      "start": 258.77,
+      "duration": 2.878,
+      "text": "hat heute einen brandneuen Gemini"
+    },
+    {
+      "start": 260.705,
+      "duration": 2.991,
+      "text": "Pro-Checkpoint veröffentlicht, der"
+    },
+    {
+      "start": 262.753,
+      "duration": 2.821,
+      "text": "merklich besser aussieht als der"
+    },
+    {
+      "start": 264.631,
+      "duration": 3.402,
+      "text": "vorherige. Ich muss sagen, dieser hier"
+    },
+    {
+      "start": 267.083,
+      "duration": 2.654,
+      "text": "wirkt in Bezug auf seine Leistung"
+    },
+    {
+      "start": 268.787,
+      "duration": 3.437,
+      "text": "ziemlich seriös. Einer der neuesten"
+    },
+    {
+      "start": 271.286,
+      "duration": 3.189,
+      "text": "Tests zeigte, wie Gemini Pro diesen"
+    },
+    {
+      "start": 273.537,
+      "duration": 3.314,
+      "text": "unglaublich detaillierten Pfau in SVG"
+    },
+    {
+      "start": 275.913,
+      "duration": 2.313,
+      "text": "erzeugte, komplett im"
+    },
+    {
+      "start": 277.289,
+      "duration": 3.576,
+      "text": "Zero-Shot-Verfahren. Es verbrauchte"
+    },
+    {
+      "start": 279.924,
+      "duration": 3.122,
+      "text": "etwa 24.000 Token, dauerte bei hohem"
+    },
+    {
+      "start": 282.105,
+      "duration": 3.122,
+      "text": "Reasoning-Aufwand etwa 6 Minuten und"
+    },
+    {
+      "start": 284.286,
+      "duration": 2.709,
+      "text": "das Endergebnis ist definitiv"
+    },
+    {
+      "start": 286.054,
+      "duration": 3.39,
+      "text": "beeindruckend. Auf jeden Fall besser"
+    },
+    {
+      "start": 288.487,
+      "duration": 2.518,
+      "text": "als einige Ergebnisse, die ich sogar"
+    },
+    {
+      "start": 290.047,
+      "duration": 3.114,
+      "text": "von Astra und Fable gesehen habe. Und"
+    },
+    {
+      "start": 292.228,
+      "duration": 3.088,
+      "text": "genau diese Modell-ID ist jetzt"
+    },
+    {
+      "start": 294.384,
+      "duration": 4.705,
+      "text": "öffentlich sichtbar. Wir wissen auch,"
+    },
+    {
+      "start": 298.157,
+      "duration": 3.519,
+      "text": "dass der vorherige Projekt-Checkpoint"
+    },
+    {
+      "start": 300.744,
+      "duration": 3.518,
+      "text": "Argon 160 hieß, was interessant ist,"
+    },
+    {
+      "start": 303.33,
+      "duration": 3.383,
+      "text": "und er wurde in der Arena unter dem"
+    },
+    {
+      "start": 305.781,
+      "duration": 5.24,
+      "text": "Namen Gemini 3.8 Flash getestet. Google"
+    },
+    {
+      "start": 310.078,
+      "duration": 2.937,
+      "text": "arbeitet also eindeutig hinter den"
+    },
+    {
+      "start": 312.072,
+      "duration": 3.165,
+      "text": "Kulissen an diesen Projekt-Checkpoints"
+    },
+    {
+      "start": 314.294,
+      "duration": 3.051,
+      "text": "weiter, und ich gehe davon aus, dass"
+    },
+    {
+      "start": 316.402,
+      "duration": 3.051,
+      "text": "dies geschieht, um zu trainieren und"
+    },
+    {
+      "start": 318.51,
+      "duration": 2.994,
+      "text": "alles für die Gemini Pro 4.0-Serie"
+    },
+    {
+      "start": 320.561,
+      "duration": 3.556,
+      "text": "vorzubereiten. Es gibt viele"
+    },
+    {
+      "start": 323.153,
+      "duration": 2.282,
+      "text": "Entwicklungen im Bereich KI, die ich"
+    },
+    {
+      "start": 324.471,
+      "duration": 2.317,
+      "text": "nicht direkt auf meinem YouTube-Kanal"
+    },
+    {
+      "start": 325.824,
+      "duration": 2.282,
+      "text": "präsentiere, auf die ihr aber über"
+    },
+    {
+      "start": 327.142,
+      "duration": 2.389,
+      "text": "meinen kostenlosen Newsletter zugreifen"
+    },
+    {
+      "start": 328.566,
+      "duration": 2.419,
+      "text": "könnt. Der Link dazu steht in der"
+    },
+    {
+      "start": 330.021,
+      "duration": 2.326,
+      "text": "Videobeschreibung, und ihr könnt ihn"
+    },
+    {
+      "start": 331.383,
+      "duration": 3.16,
+      "text": "dort völlig gratis abonnieren. Als"
+    },
+    {
+      "start": 333.593,
+      "duration": 2.652,
+      "text": "Nächstes: Wie ich euch in meinem"
+    },
+    {
+      "start": 335.295,
+      "duration": 2.952,
+      "text": "letzten Video erzählt habe, in dem ich"
+    },
+    {
+      "start": 337.297,
+      "duration": 2.602,
+      "text": "DeepSeek Version 4.1 Flash vorab"
+    },
+    {
+      "start": 338.949,
+      "duration": 2.852,
+      "text": "getestet habe, wurde das Modell heute"
+    },
+    {
+      "start": 340.851,
+      "duration": 3.278,
+      "text": "offiziell veröffentlicht. Dieses"
+    },
+    {
+      "start": 343.184,
+      "duration": 2.587,
+      "text": "DeepSeek 4.1 Flash-Modell ist"
+    },
+    {
+      "start": 344.826,
+      "duration": 2.532,
+      "text": "intelligenter, schneller und"
+    },
+    {
+      "start": 346.413,
+      "duration": 3.135,
+      "text": "effizienter konzipiert und bietet zudem"
+    },
+    {
+      "start": 348.603,
+      "duration": 3.6,
+      "text": "native Vision-Fähigkeiten. Was jedoch"
+    },
+    {
+      "start": 351.251,
+      "duration": 2.838,
+      "text": "wirklich interessant ist, ist die neue"
+    },
+    {
+      "start": 353.138,
+      "duration": 4.037,
+      "text": "Architektur, die DeepSeek verwendet. Es"
+    },
+    {
+      "start": 356.233,
+      "duration": 3.04,
+      "text": "ist ein riesiges MoE-Modell mit 552"
+    },
+    {
+      "start": 358.331,
+      "duration": 3.272,
+      "text": "Milliarden Parametern, aber dank seiner"
+    },
+    {
+      "start": 360.662,
+      "duration": 1.291,
+      "text": "neuen"
+    },
+    {
+      "start": 361.011,
+      "duration": 2.981,
+      "text": "Causal-Encoder-Decoder-Architektur"
+    },
+    {
+      "start": 363.051,
+      "duration": 2.981,
+      "text": "aktiviert es nur etwa 8 Milliarden"
+    },
+    {
+      "start": 365.09,
+      "duration": 2.923,
+      "text": "Parameter für die Eingabe und 16"
+    },
+    {
+      "start": 367.071,
+      "duration": 2.923,
+      "text": "Milliarden für die Ausgabe–was"
+    },
+    {
+      "start": 369.052,
+      "duration": 4.023,
+      "text": "eigentlich kaum zu glauben ist. Im"
+    },
+    {
+      "start": 372.133,
+      "duration": 2.73,
+      "text": "Grunde versucht DeepSeek, mehr"
+    },
+    {
+      "start": 373.92,
+      "duration": 3.019,
+      "text": "Intelligenz bei deutlich geringerem"
+    },
+    {
+      "start": 375.997,
+      "duration": 3.642,
+      "text": "Rechenaufwand zu liefern. Sie haben"
+    },
+    {
+      "start": 378.679,
+      "duration": 2.48,
+      "text": "zudem neue Vortrainingsmethoden sowie"
+    },
+    {
+      "start": 380.199,
+      "duration": 2.32,
+      "text": "ein umfangreicheres Reinforcement"
+    },
+    {
+      "start": 381.559,
+      "duration": 3.828,
+      "text": "Learning eingeführt. Laut DeepSeek"
+    },
+    {
+      "start": 384.452,
+      "duration": 3.541,
+      "text": "übertreffen die Ergebnisse der Version"
+    },
+    {
+      "start": 387.058,
+      "duration": 3.151,
+      "text": "4.1 Flash in vielen verschiedenen"
+    },
+    {
+      "start": 389.274,
+      "duration": 2.369,
+      "text": "Benchmarks einige der"
+    },
+    {
+      "start": 390.708,
+      "duration": 3.02,
+      "text": "Flaggschiff-Modelle, natürlich"
+    },
+    {
+      "start": 392.793,
+      "duration": 3.476,
+      "text": "einschließlich der Version 4 Pro, und"
+    },
+    {
+      "start": 395.335,
+      "duration": 4.158,
+      "text": "zwar in fast jedem Test. Wenn man sich"
+    },
+    {
+      "start": 398.541,
+      "duration": 2.754,
+      "text": "die Benchmarks tatsächlich ansieht,"
+    },
+    {
+      "start": 400.343,
+      "duration": 2.656,
+      "text": "zeigt dies deutlich, wie nah es an"
+    },
+    {
+      "start": 402.048,
+      "duration": 2.851,
+      "text": "diese Flaggschiff-Modelle heranreicht."
+    },
+    {
+      "start": 405.04,
+      "duration": 2.99,
+      "text": "Auf der „World of AI“-Benchmark-und"
+    },
+    {
+      "start": 407.081,
+      "duration": 2.991,
+      "text": "Viper-Coding-Plattform haben wir dieses"
+    },
+    {
+      "start": 409.123,
+      "duration": 2.99,
+      "text": "Modell rigoros getestet, und dabei sind"
+    },
+    {
+      "start": 411.165,
+      "duration": 2.99,
+      "text": "wir zu dem Schluss gekommen, dass es in"
+    },
+    {
+      "start": 413.206,
+      "duration": 2.787,
+      "text": "der Gesamtwertung über alle unsere"
+    },
+    {
+      "start": 415.044,
+      "duration": 2.786,
+      "text": "Benchmarks hinweg den siebten Platz"
+    },
+    {
+      "start": 416.881,
+      "duration": 3.33,
+      "text": "belegt. Es überzeugt in fast allen"
+    },
+    {
+      "start": 419.263,
+      "duration": 3.039,
+      "text": "Bereichen, und die Tatsache, dass es in"
+    },
+    {
+      "start": 421.355,
+      "duration": 2.987,
+      "text": "der Lage ist, Kimi K3 zu übertreffen,"
+    },
+    {
+      "start": 423.394,
+      "duration": 3.695,
+      "text": "ist schon verrückt. Leute, das hier"
+    },
+    {
+      "start": 426.135,
+      "duration": 2.837,
+      "text": "ist eine Flash-Variante. DeepSeek hat"
+    },
+    {
+      "start": 428.021,
+      "duration": 2.929,
+      "text": "mit diesem Modell wirklich ganze Arbeit"
+    },
+    {
+      "start": 430.0,
+      "duration": 2.78,
+      "text": "geleistet; es ist ein Modell, das in"
+    },
+    {
+      "start": 431.83,
+      "duration": 2.83,
+      "text": "vielen generativen Workflows glänzt."
+    },
+    {
+      "start": 433.84,
+      "duration": 2.804,
+      "text": "Ich kann nur jedem empfehlen, es sich"
+    },
+    {
+      "start": 435.693,
+      "duration": 2.707,
+      "text": "anzusehen und auszuprobieren, um zu"
+    },
+    {
+      "start": 437.449,
+      "duration": 2.659,
+      "text": "sehen, wie ihr es in euren eigenen"
+    },
+    {
+      "start": 439.157,
+      "duration": 2.707,
+      "text": "Benchmarks nutzen könnt und um ein"
+    },
+    {
+      "start": 440.913,
+      "duration": 2.756,
+      "text": "besseres Gefühl dafür zu bekommen,"
+    },
+    {
+      "start": 442.718,
+      "duration": 3.245,
+      "text": "was damit möglich ist. Dies gewährt"
+    },
+    {
+      "start": 445.01,
+      "duration": 2.582,
+      "text": "euch zudem kostenlosen Zugriff auf"
+    },
+    {
+      "start": 446.638,
+      "duration": 2.815,
+      "text": "meine Prompt-Bibliothek, daher empfehle"
+    },
+    {
+      "start": 448.499,
+      "duration": 2.396,
+      "text": "ich euch sehr, auch das einmal"
+    },
+    {
+      "start": 449.942,
+      "duration": 3.877,
+      "text": "auszuprobieren. Hier ist nun ein"
+    },
+    {
+      "start": 452.873,
+      "duration": 3.095,
+      "text": "Vergleich zwischen DeepSeek Version 4.1"
+    },
+    {
+      "start": 455.022,
+      "duration": 2.88,
+      "text": "Flash und Gemini 3.8 Flash, bei dem"
+    },
+    {
+      "start": 456.956,
+      "duration": 2.504,
+      "text": "beide anhand verschiedener 3"
+    },
+    {
+      "start": 458.514,
+      "duration": 3.095,
+      "text": "D-Geometrie-Aufgaben gegenübergestellt"
+    },
+    {
+      "start": 460.662,
+      "duration": 4.814,
+      "text": "werden. Dabei wurden beiden Modellen"
+    },
+    {
+      "start": 464.53,
+      "duration": 3.006,
+      "text": "sechs verschiedene 3 D-Geometrietests"
+    },
+    {
+      "start": 466.59,
+      "duration": 2.138,
+      "text": "vorgelegt, die sie im"
+    },
+    {
+      "start": 467.782,
+      "duration": 2.897,
+      "text": "Zero-Shot-Verfahren lösen mussten,"
+    },
+    {
+      "start": 469.734,
+      "duration": 3.872,
+      "text": "darunter auch ein Torusknoten. Dazu"
+    },
+    {
+      "start": 472.673,
+      "duration": 3.333,
+      "text": "kommen ein Menger-Schwamm sowie ein"
+    },
+    {
+      "start": 475.072,
+      "duration": 4.539,
+      "text": "paar andere komplexe Szenen. Dies wurde"
+    },
+    {
+      "start": 478.666,
+      "duration": 3.101,
+      "text": "mithilfe von KI-und ML-APIs umgesetzt,"
+    },
+    {
+      "start": 480.822,
+      "duration": 2.934,
+      "text": "und was die Effizienz betrifft, war"
+    },
+    {
+      "start": 482.811,
+      "duration": 3.1,
+      "text": "Gemini der klare Sieger, da es weniger"
+    },
+    {
+      "start": 484.967,
+      "duration": 2.437,
+      "text": "Token verbraucht und zudem"
+    },
+    {
+      "start": 486.459,
+      "duration": 4.409,
+      "text": "kostengünstiger ist. Doch bei der"
+    },
+    {
+      "start": 489.94,
+      "duration": 3.533,
+      "text": "Überprüfung der Ergebnisqualität"
+    },
+    {
+      "start": 492.545,
+      "duration": 3.822,
+      "text": "übertraf DeepSeek Version 4.1 Flash in"
+    },
+    {
+      "start": 495.439,
+      "duration": 3.822,
+      "text": "vielen Ausgaben sogar Gemini 3.8 Flash,"
+    },
+    {
+      "start": 498.334,
+      "duration": 4.422,
+      "text": "was wirklich erfreulich ist. Über alle"
+    },
+    {
+      "start": 501.816,
+      "duration": 3.267,
+      "text": "sechs Ergebnisse hinweg kostete es mit"
+    },
+    {
+      "start": 504.142,
+      "duration": 3.088,
+      "text": "Gemini nur 11 Cent, während es bei"
+    },
+    {
+      "start": 506.29,
+      "duration": 3.236,
+      "text": "DeepSeek etwa 27 Cent kostete. Ich"
+    },
+    {
+      "start": 508.588,
+      "duration": 3.17,
+      "text": "betone das in meinem vollständigen"
+    },
+    {
+      "start": 510.82,
+      "duration": 3.294,
+      "text": "Demovideo, dessen Anschauung ich sehr"
+    },
+    {
+      "start": 513.176,
+      "duration": 3.046,
+      "text": "empfehle, aber hier wird DeepSeek"
+    },
+    {
+      "start": 515.284,
+      "duration": 3.294,
+      "text": "Version 4.1 Flash bei Betrachtung der"
+    },
+    {
+      "start": 517.64,
+      "duration": 3.689,
+      "text": "Preise erst richtig verrückt. Ich"
+    },
+    {
+      "start": 520.379,
+      "duration": 2.853,
+      "text": "weiß, in diesem Vergleich sahen wir,"
+    },
+    {
+      "start": 522.282,
+      "duration": 2.802,
+      "text": "dass das DeepSeek-Modell viel teurer"
+    },
+    {
+      "start": 524.134,
+      "duration": 2.553,
+      "text": "war bzw. das Gemini-Modell viel"
+    },
+    {
+      "start": 525.737,
+      "duration": 4.074,
+      "text": "günstiger als DeepSeek. Doch auf dem"
+    },
+    {
+      "start": 528.879,
+      "duration": 3.168,
+      "text": "Terminal Bench 2.1 erreichte die"
+    },
+    {
+      "start": 531.114,
+      "duration": 3.642,
+      "text": "Version 4.1 Flash angeblich 90,6 Punkte"
+    },
+    {
+      "start": 533.824,
+      "duration": 3.303,
+      "text": "und liegt damit vor vielen anderen"
+    },
+    {
+      "start": 536.195,
+      "duration": 3.642,
+      "text": "Modellen wie Opus 5, Gemini 1.5 Pro und"
+    },
+    {
+      "start": 538.904,
+      "duration": 3.575,
+      "text": "sogar DeepSeeks eigener Version 4 Pro."
+    },
+    {
+      "start": 542.64,
+      "duration": 3.292,
+      "text": "Und wenn man dieses Modell mit diesen"
+    },
+    {
+      "start": 544.994,
+      "duration": 2.92,
+      "text": "Giganten vergleicht, ergibt die"
+    },
+    {
+      "start": 546.976,
+      "duration": 3.107,
+      "text": "Preisgestaltung absolut Sinn, denn"
+    },
+    {
+      "start": 549.145,
+      "duration": 3.106,
+      "text": "DeepSeek berechnet nur 30 Cent pro"
+    },
+    {
+      "start": 551.313,
+      "duration": 3.293,
+      "text": "Million Eingabe-Token und 1,20 Dollar"
+    },
+    {
+      "start": 553.668,
+      "duration": 4.707,
+      "text": "pro Million Ausgabe-Token. Man erhält"
+    },
+    {
+      "start": 557.424,
+      "duration": 2.413,
+      "text": "also auch in Nebenzeiten noch"
+    },
+    {
+      "start": 558.886,
+      "duration": 2.804,
+      "text": "günstigere Preise, was dies zu einer"
+    },
+    {
+      "start": 560.739,
+      "duration": 2.56,
+      "text": "deutlich preiswerteren Option im"
+    },
+    {
+      "start": 562.347,
+      "duration": 1.927,
+      "text": "Vergleich zu diesen"
+    },
+    {
+      "start": 563.322,
+      "duration": 3.968,
+      "text": "Flaggschiff-Modellen macht. Und denkt"
+    },
+    {
+      "start": 566.329,
+      "duration": 2.478,
+      "text": "daran, Leute: Dies ist ein Modell, das"
+    },
+    {
+      "start": 567.846,
+      "duration": 3.407,
+      "text": "unglaublich schnell ist. Man erreicht"
+    },
+    {
+      "start": 570.319,
+      "duration": 3.578,
+      "text": "etwa 300 bis 400 Token pro Sekunde, was"
+    },
+    {
+      "start": 572.963,
+      "duration": 4.979,
+      "text": "irgendwie irre ist. Das ist krass, denn"
+    },
+    {
+      "start": 576.995,
+      "duration": 3.057,
+      "text": "es hat einen vollständigen FPS-Shooter"
+    },
+    {
+      "start": 579.105,
+      "duration": 3.941,
+      "text": "erstellt. Das ist DeepSeek Version 4.1"
+    },
+    {
+      "start": 582.115,
+      "duration": 3.431,
+      "text": "Flash, Leute. Das ist nicht Astra, das"
+    },
+    {
+      "start": 584.594,
+      "duration": 3.458,
+      "text": "ist nicht Fable. Das wurde vollständig"
+    },
+    {
+      "start": 587.11,
+      "duration": 3.846,
+      "text": "vom DeepSeek-Modell programmiert. Es"
+    },
+    {
+      "start": 590.025,
+      "duration": 3.532,
+      "text": "gibt Animationen, Farbtöne und sogar"
+    },
+    {
+      "start": 592.625,
+      "duration": 3.395,
+      "text": "dynamische Bewegungen wie in echten"
+    },
+    {
+      "start": 595.089,
+      "duration": 4.169,
+      "text": "FPS-Shootern. Und das Modell konnte"
+    },
+    {
+      "start": 598.329,
+      "duration": 3.641,
+      "text": "sogar alle Texturen sowie funktionale"
+    },
+    {
+      "start": 601.042,
+      "duration": 3.784,
+      "text": "Komponenten wie verschiedene Waffen und"
+    },
+    {
+      "start": 603.897,
+      "duration": 3.214,
+      "text": "Spielstile hinzufügen–es ist"
+    },
+    {
+      "start": 606.182,
+      "duration": 3.142,
+      "text": "wirklich unglaublich, dass das"
+    },
+    {
+      "start": 608.395,
+      "duration": 3.882,
+      "text": "DeepSeek-Modell dazu fähig ist. Ich"
+    },
+    {
+      "start": 611.323,
+      "duration": 2.784,
+      "text": "hatte anfangs keine großen Erwartungen"
+    },
+    {
+      "start": 613.153,
+      "duration": 2.738,
+      "text": "an DeepSeek, aber es sieht so aus, als"
+    },
+    {
+      "start": 614.937,
+      "duration": 2.464,
+      "text": "würden sie ein wirklich starkes"
+    },
+    {
+      "start": 616.447,
+      "duration": 4.298,
+      "text": "Comeback feiern. In Zukunft könnte es"
+    },
+    {
+      "start": 619.815,
+      "duration": 3.304,
+      "text": "auch im Bereich KI und Mathematik"
+    },
+    {
+      "start": 622.189,
+      "duration": 3.514,
+      "text": "absolut verrückt werden, ebenso wie"
+    },
+    {
+      "start": 624.773,
+      "duration": 3.514,
+      "text": "bei diesem neuen Modell, das derzeit"
+    },
+    {
+      "start": 627.357,
+      "duration": 3.095,
+      "text": "von OpenAI trainiert wird, dem"
+    },
+    {
+      "start": 629.522,
+      "duration": 4.065,
+      "text": "GPT-Bell-Modell. Dieser Checkpoint wird"
+    },
+    {
+      "start": 632.655,
+      "duration": 3.639,
+      "text": "wahrscheinlich GPT 6.5 oder sogar GPT 7"
+    },
+    {
+      "start": 635.361,
+      "duration": 3.703,
+      "text": "sein. Anthropic hat zudem ein geheimes"
+    },
+    {
+      "start": 638.123,
+      "duration": 3.261,
+      "text": "Modell, das weit überlegen gegenüber"
+    },
+    {
+      "start": 640.444,
+      "duration": 4.245,
+      "text": "Fable ist. Beide Labore verfügen über"
+    },
+    {
+      "start": 643.753,
+      "duration": 3.495,
+      "text": "dieses unglaubliche neue KI-System, das"
+    },
+    {
+      "start": 646.312,
+      "duration": 3.43,
+      "text": "sie beide trainieren, und beide lösen"
+    },
+    {
+      "start": 648.806,
+      "duration": 3.495,
+      "text": "damit einige unglaubliche Probleme, die"
+    },
+    {
+      "start": 651.365,
+      "duration": 3.175,
+      "text": "seit vielen Jahren ungelöst sind."
+    },
+    {
+      "start": 654.395,
+      "duration": 4.032,
+      "text": "Einigen neuen Gerüchten zufolge kommt"
+    },
+    {
+      "start": 657.507,
+      "duration": 3.953,
+      "text": "OpenAI dem Beweis der Hodge-Vermutung"
+    },
+    {
+      "start": 660.54,
+      "duration": 3.713,
+      "text": "sehr nahe, was etwas ist, das seit"
+    },
+    {
+      "start": 663.333,
+      "duration": 3.474,
+      "text": "vielen, vielen Jahren ungelöst"
+    },
+    {
+      "start": 665.887,
+      "duration": 3.692,
+      "text": "geblieben ist. Und sie machen auch"
+    },
+    {
+      "start": 668.63,
+      "duration": 2.969,
+      "text": "ernsthafte Fortschritte bei der Lösung"
+    },
+    {
+      "start": 670.65,
+      "duration": 3.553,
+      "text": "der Birch-Vermutung. Dies sind zwei"
+    },
+    {
+      "start": 673.256,
+      "duration": 2.964,
+      "text": "berühmte Millennium-Probleme, einige"
+    },
+    {
+      "start": 675.273,
+      "duration": 3.017,
+      "text": "der schwierigsten ungelösten Probleme"
+    },
+    {
+      "start": 677.343,
+      "duration": 3.078,
+      "text": "der Mathematik. Und anscheinend ist das"
+    },
+    {
+      "start": 679.463,
+      "duration": 2.296,
+      "text": "Rennen, das hinter den Kulissen"
+    },
+    {
+      "start": 680.801,
+      "duration": 2.505,
+      "text": "zwischen diesen Laboren stattfindet,"
+    },
+    {
+      "start": 682.348,
+      "duration": 2.421,
+      "text": "mit nichts zu vergleichen, was wir"
+    },
+    {
+      "start": 683.811,
+      "duration": 3.342,
+      "text": "jemals zuvor gesehen haben. Wenn diese"
+    },
+    {
+      "start": 686.206,
+      "duration": 2.92,
+      "text": "Berichte tatsächlich wahr sind, was"
+    },
+    {
+      "start": 688.179,
+      "duration": 3.027,
+      "text": "höchstwahrscheinlich der Fall ist, da"
+    },
+    {
+      "start": 690.259,
+      "duration": 2.92,
+      "text": "OpenAI einen der Berichte bestätigt"
+    },
+    {
+      "start": 692.232,
+      "duration": 2.76,
+      "text": "hat, könnten wir möglicherweise"
+    },
+    {
+      "start": 694.046,
+      "duration": 2.973,
+      "text": "erleben, wie drei Millennium-Probleme"
+    },
+    {
+      "start": 696.072,
+      "duration": 3.08,
+      "text": "innerhalb eines einzigen Monats gelöst"
+    },
+    {
+      "start": 698.205,
+      "duration": 2.974,
+      "text": "werden, was absolut historisch wäre."
+    },
+    {
+      "start": 701.619,
+      "duration": 2.635,
+      "text": "Natürlich sind das noch unbestätigte"
+    },
+    {
+      "start": 703.297,
+      "duration": 2.636,
+      "text": "Gerüchte, also nehmt es mit Vorsicht,"
+    },
+    {
+      "start": 704.976,
+      "duration": 2.679,
+      "text": "aber das ist irgendwie verrückt, Leute"
+    },
+    {
+      "start": 706.655,
+      "duration": 4.156,
+      "text": ". Wir erreichen einen Punkt, an dem die"
+    },
+    {
+      "start": 709.867,
+      "duration": 3.052,
+      "text": "KI wahnsinnig schnell voranschreitet."
+    },
+    {
+      "start": 712.759,
+      "duration": 2.762,
+      "text": "Wenn euch dieses Video gefällt und ihr"
+    },
+    {
+      "start": 714.566,
+      "duration": 2.491,
+      "text": "den Kanal unterstützen möchtet,"
+    },
+    {
+      "start": 716.102,
+      "duration": 2.717,
+      "text": "könnt ihr eine Spende über die Super"
+    },
+    {
+      "start": 717.864,
+      "duration": 2.446,
+      "text": "Thanks-Option unter dem Video in"
+    },
+    {
+      "start": 719.356,
+      "duration": 2.753,
+      "text": "Betracht ziehen. Oder ihr könnt"
+    },
+    {
+      "start": 721.168,
+      "duration": 3.254,
+      "text": "unserem privaten Discord beitreten, wo"
+    },
+    {
+      "start": 723.482,
+      "duration": 3.075,
+      "text": "ihr monatlich kostenlosen Zugang zu"
+    },
+    {
+      "start": 725.617,
+      "duration": 3.016,
+      "text": "mehreren Abonnements verschiedener"
+    },
+    {
+      "start": 727.693,
+      "duration": 2.957,
+      "text": "KI-Tools sowie tägliche KI-News,"
+    },
+    {
+      "start": 729.709,
+      "duration": 2.957,
+      "text": "exklusive Inhalte und vieles mehr"
+    },
+    {
+      "start": 731.726,
+      "duration": 1.534,
+      "text": "erhaltet."
+    },
+    {
+      "start": 732.439,
+      "duration": 3.432,
+      "text": "Kommen wir zu Google: Ein mysteriöses"
+    },
+    {
+      "start": 734.935,
+      "duration": 3.24,
+      "text": "neues Nano-Banana-Bildmodell namens"
+    },
+    {
+      "start": 737.239,
+      "duration": 3.24,
+      "text": "Spicy Mayo–lustiger Name–ist in"
+    },
+    {
+      "start": 739.543,
+      "duration": 3.368,
+      "text": "Eleonora aufgetaucht, und es ist noch"
+    },
+    {
+      "start": 741.975,
+      "duration": 3.835,
+      "text": "unklar, was genau das ist. Es ist"
+    },
+    {
+      "start": 744.869,
+      "duration": 3.163,
+      "text": "vielleicht nicht das Nano Banana 2.5,"
+    },
+    {
+      "start": 747.09,
+      "duration": 2.579,
+      "text": "könnte aber ein Flash-oder"
+    },
+    {
+      "start": 748.727,
+      "duration": 3.73,
+      "text": "Light-Update sein. Wir haben bereits"
+    },
+    {
+      "start": 751.51,
+      "duration": 3.014,
+      "text": "das GPT-Bildmodell 2.5, das gerade von"
+    },
+    {
+      "start": 753.577,
+      "duration": 3.167,
+      "text": "OpenAI veröffentlicht wurde. Es ergibt"
+    },
+    {
+      "start": 755.795,
+      "duration": 2.849,
+      "text": "also Sinn, dass Google versucht, mit"
+    },
+    {
+      "start": 757.695,
+      "duration": 2.9,
+      "text": "dieser neuen Variante Marktanteile zu"
+    },
+    {
+      "start": 759.646,
+      "duration": 2.798,
+      "text": "gewinnen, und die Veröffentlichung"
+    },
+    {
+      "start": 761.495,
+      "duration": 3.536,
+      "text": "könnte sehr bald erfolgen. Es gibt"
+    },
+    {
+      "start": 764.082,
+      "duration": 2.866,
+      "text": "tatsächlich einen Vergleich zwischen"
+    },
+    {
+      "start": 765.998,
+      "duration": 2.513,
+      "text": "dem GPT-Bildmodell 2.5 und dem"
+    },
+    {
+      "start": 767.561,
+      "duration": 2.715,
+      "text": "Spicy-Mayo-Checkpoint, bei dem der"
+    },
+    {
+      "start": 769.326,
+      "duration": 2.513,
+      "text": "gleiche Minecraft-Kamel-Prompt"
+    },
+    {
+      "start": 770.89,
+      "duration": 2.613,
+      "text": "verwendet wurde, bei dem man die"
+    },
+    {
+      "start": 772.554,
+      "duration": 2.916,
+      "text": "Benutzeroberfläche des Sandbox-Spiels"
+    },
+    {
+      "start": 774.52,
+      "duration": 4.607,
+      "text": "nachbilden möchte. Das GPT-Bildmodell"
+    },
+    {
+      "start": 778.193,
+      "duration": 3.243,
+      "text": "2.5 produzierte dabei die genauere"
+    },
+    {
+      "start": 780.502,
+      "duration": 3.441,
+      "text": "Spieloberfläche, während Spicy Mayo"
+    },
+    {
+      "start": 783.009,
+      "duration": 3.111,
+      "text": "ein optisch ansprechenderes Bild"
+    },
+    {
+      "start": 785.186,
+      "duration": 4.276,
+      "text": "erzeugte. Es ist wirklich eine Frage"
+    },
+    {
+      "start": 788.521,
+      "duration": 3.076,
+      "text": "der persönlichen Vorliebe, welches"
+    },
+    {
+      "start": 790.656,
+      "duration": 2.957,
+      "text": "Modell bei der Generierung dieses"
+    },
+    {
+      "start": 792.673,
+      "duration": 3.135,
+      "text": "Bildes bessere Arbeit geleistet hat,"
+    },
+    {
+      "start": 794.867,
+      "duration": 3.195,
+      "text": "aber in Bezug auf die Genauigkeit hat"
+    },
+    {
+      "start": 797.121,
+      "duration": 3.627,
+      "text": "GPT die bessere Arbeit geleistet. Was"
+    },
+    {
+      "start": 799.798,
+      "duration": 2.943,
+      "text": "jedoch ein optisch ansprechenderes Bild"
+    },
+    {
+      "start": 801.791,
+      "duration": 2.345,
+      "text": "angeht, denke ich, dass das"
+    },
+    {
+      "start": 803.186,
+      "duration": 2.396,
+      "text": "Gemini-Modell das GPT-Modell"
+    },
+    {
+      "start": 804.631,
+      "duration": 4.213,
+      "text": "übertroffen hat. Ein wirklich kleines"
+    },
+    {
+      "start": 807.899,
+      "duration": 3.008,
+      "text": "Update, aber ChatGPT Voice kann jetzt"
+    },
+    {
+      "start": 809.961,
+      "duration": 3.118,
+      "text": "GPT 5.6 Soul und GPT 6 Astra verwenden."
+    },
+    {
+      "start": 813.059,
+      "duration": 2.437,
+      "text": "Natürlich macht dies die"
+    },
+    {
+      "start": 814.553,
+      "duration": 3.127,
+      "text": "Sprachintelligenz weitaus klüger, da"
+    },
+    {
+      "start": 816.738,
+      "duration": 3.07,
+      "text": "sie diese neueren Modelle nutzt, die"
+    },
+    {
+      "start": 818.865,
+      "duration": 2.725,
+      "text": "offensichtlich einen späteren"
+    },
+    {
+      "start": 820.647,
+      "duration": 3.338,
+      "text": "Wissensstand haben. Und natürlich"
+    },
+    {
+      "start": 823.03,
+      "duration": 2.746,
+      "text": "verfügen die Modelle selbst über mehr"
+    },
+    {
+      "start": 824.821,
+      "duration": 5.07,
+      "text": "Intelligenz. OpenAI hört nicht auf,"
+    },
+    {
+      "start": 828.939,
+      "duration": 2.662,
+      "text": "Neues zu veröffentlichen, denn sie"
+    },
+    {
+      "start": 830.648,
+      "duration": 2.804,
+      "text": "haben gerade einen neuen Daten-Agenten"
+    },
+    {
+      "start": 832.5,
+      "duration": 2.804,
+      "text": "für ChatGPT Work eingeführt, mit dem"
+    },
+    {
+      "start": 834.351,
+      "duration": 2.472,
+      "text": "man bestehende Datenquellen des"
+    },
+    {
+      "start": 835.87,
+      "duration": 2.614,
+      "text": "Unternehmens verbinden und einfach"
+    },
+    {
+      "start": 837.532,
+      "duration": 2.519,
+      "text": "Fragen stellen kann, um Daten in"
+    },
+    {
+      "start": 839.099,
+      "duration": 2.756,
+      "text": "Antworten, interaktive Dashboards und"
+    },
+    {
+      "start": 840.903,
+      "duration": 3.872,
+      "text": "sogar Aktionen zu verwandeln. Man kann"
+    },
+    {
+      "start": 843.819,
+      "duration": 2.555,
+      "text": "sogar das Daten-Plugin hinzufügen,"
+    },
+    {
+      "start": 845.418,
+      "duration": 2.687,
+      "text": "seine Quellen verbinden und direkt mit"
+    },
+    {
+      "start": 847.15,
+      "duration": 2.51,
+      "text": "den Daten des eigenen Unternehmens"
+    },
+    {
+      "start": 848.704,
+      "duration": 2.905,
+      "text": "chatten. Aber das war es auch schon,"
+    },
+    {
+      "start": 850.642,
+      "duration": 2.214,
+      "text": "Leute, für das heutige Video zu den"
+    },
+    {
+      "start": 851.889,
+      "duration": 2.315,
+      "text": "aktuellen Entwicklungen in der Welt der"
+    },
+    {
+      "start": 853.237,
+      "duration": 2.968,
+      "text": "KI. Falls ihr unseren World of AI"
+    },
+    {
+      "start": 855.248,
+      "duration": 2.633,
+      "text": "Insider Club noch nicht kennt–unsere"
+    },
+    {
+      "start": 856.924,
+      "duration": 2.634,
+      "text": "School-Community, in der ihr Zugang zu"
+    },
+    {
+      "start": 858.601,
+      "duration": 2.676,
+      "text": "vielen coolen Vorteilen wie kostenlosen"
+    },
+    {
+      "start": 860.32,
+      "duration": 2.677,
+      "text": "monatlichen KI-Abonnements, Vorabzugang"
+    },
+    {
+      "start": 862.04,
+      "duration": 2.676,
+      "text": "zu KI-Modellen und vielem mehr erhaltet"
+    },
+    {
+      "start": 863.716,
+      "duration": 2.676,
+      "text": "–, kann ich euch nur empfehlen, einen"
+    },
+    {
+      "start": 865.435,
+      "duration": 2.118,
+      "text": "Blick auf die Links in der"
+    },
+    {
+      "start": 866.596,
+      "duration": 3.449,
+      "text": "Videobeschreibung zu werfen. Außerdem"
+    },
+    {
+      "start": 869.09,
+      "duration": 2.576,
+      "text": "erhaltet ihr kostenlosen Zugang zur"
+    },
+    {
+      "start": 870.711,
+      "duration": 2.712,
+      "text": "World of AI Bot Camp-Plattform und zum"
+    },
+    {
+      "start": 872.468,
+      "duration": 2.894,
+      "text": "Benchmark. Auch das solltet ihr euch"
+    },
+    {
+      "start": 874.403,
+      "duration": 2.461,
+      "text": "über die Links in der Beschreibung"
+    },
+    {
+      "start": 875.906,
+      "duration": 2.808,
+      "text": "ansehen. Schaut auf unserem zweiten"
+    },
+    {
+      "start": 877.751,
+      "duration": 2.456,
+      "text": "Kanal vorbei, abonniert den Newsletter,"
+    },
+    {
+      "start": 879.244,
+      "duration": 2.381,
+      "text": "tretet dem Discord bei, folgt mir auf"
+    },
+    {
+      "start": 880.662,
+      "duration": 2.231,
+      "text": "Twitter und stellt zu guter Letzt"
+    },
+    {
+      "start": 881.931,
+      "duration": 2.381,
+      "text": "sicher, dass ihr den Kanal abonniert,"
+    },
+    {
+      "start": 883.349,
+      "duration": 2.343,
+      "text": "die Glocke aktiviert, das Video likt"
+    },
+    {
+      "start": 884.73,
+      "duration": 2.231,
+      "text": "und euch unsere vorherigen Videos"
+    },
+    {
+      "start": 885.999,
+      "duration": 2.343,
+      "text": "anseht, damit ihr über die neuesten"
+    },
+    {
+      "start": 887.379,
+      "duration": 2.306,
+      "text": "KI-Nachrichten und Entwicklungen in"
+    },
+    {
+      "start": 888.723,
+      "duration": 2.455,
+      "text": "diesem Bereich auf dem Laufenden bleibt"
+    },
+    {
+      "start": 890.178,
+      "duration": 2.419,
+      "text": ". In diesem Sinne, Leute, habt einen"
+    },
+    {
+      "start": 891.634,
+      "duration": 2.029,
+      "text": "großartigen Tag, verbreitet"
+    },
+    {
+      "start": 892.699,
+      "duration": 2.286,
+      "text": "Positivität und wir sehen uns ganz"
+    },
+    {
+      "start": 894.022,
+      "duration": 2.401,
+      "text": "bald wieder. Macht's gut, Leute."
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+Anthropic ist zurück mit einem
+bahnbrechenden neuen Modell: Claude
+Opus 5.5, dem ersten Modell der neuen
+Claude 5.5-Familie. Und mein Gott,
+dieses Modell ist wirklich unglaublich.
+Es ist ein bedeutender Fortschritt
+gegenüber Opus 5, besonders bei
+agentischem Programmieren,
+Computernutzung und Wissensarbeit,
+während es auf dem Niveau von Claude
+Fable 5.1 agiert. Sie haben richtig
+gehört, Claude Fable 5.1 bei den
+meisten Aufgaben und dabei 40%
+günstiger im Betrieb als Opus 5.
+Erinnern Sie sich, wie all diese
+KI-Labore davon sprachen, das Tempo an
+der technologischen Front zu drosseln?
+Nun, Opus 5.5 ist das erste Modell von
+Anthropic, das seit dieser Ankündigung
+veröffentlicht wurde. Wie frühere
+Versionen wurde es vor der Einführung
+von externen Gutachtern getestet,
+darunter Meter sowie Frontier Design.
+Anthropic gibt zudem an, dass dies ihre
+bisher umfassendste
+Alignment-Evaluierung ist, und Opus 5.5
+erzielte dabei sein bisher stärkstes
+Ergebnis. Wie bereits erwähnt,
+arbeitet Opus 5.5 auf dem Niveau von
+Fable 5.1, ist dabei aber etwa 30%
+schneller und 40%günstiger pro Aufgabe
+als Opus 5. Für Claude Code führt
+Anthropic ebenfalls ein großes Upgrade
+durch. Die 5-Stunden-Sitzungslimits
+werden um 20%erhöht, und das liegt
+daran, dass Opus 5.5 kostengünstiger
+ist. Sie können innerhalb dieser
+Grenzen etwa 25%mehr Nutzung
+herausholen. Ein weiterer Punkt ist,
+dass Plus-, Pro-, Max-und Team-Nutzer
+einen Reset erhalten, den sie jederzeit
+verwenden können, was den Nutzern mit
+diesem neueren Modell wesentlich mehr
+Flexibilität bietet. Leute, tut mir
+wirklich leid, dass ich das Video
+unterbreche, aber es würde mir sehr
+viel bedeuten, wenn ihr dieses Video
+liken, den Kanal abonnieren und die
+Glocke aktivieren könntet, da viele
+von euch noch nicht abonniert haben. Es
+hilft mir wirklich sehr, mehr Videos zu
+machen und euch bessere Inhalte zu
+liefern. Auf der „World of AI“-
+Benchmark-und Vibe-Coding-Plattform
+haben wir es bereits in mehreren
+Bereichen bewertet und sind zu dem
+Schluss gekommen, dass dies das derzeit
+am besten bewertete Modell auf dem
+Markt ist, sogar vor Astra, was
+irgendwie wahnsinnig ist, Leute. Hier
+glänzt Opus 5.5 in verschiedenen
+Disziplinen wie agentischem Handeln,
+Schlussfolgerung und Debugging,
+während es gleichzeitig in vielen
+anderen Bereichen neue Maßstäbe setzt
+. Und wenn Sie Ihr eigenes Modell sowie
+Ihren eigenen Endpunkt bewerten
+möchten, um ein besseres Gefühl
+dafür zu bekommen, wie Sie diese
+Modelle nutzen können, empfehle ich
+dringend, den „World of AI“-
+Benchmark auszuprobieren. Dies ist ein
+Tool, mit dem Sie sogar komplett
+kostenlos starten können. Was die
+Leistung angeht, ist Opus 5.5 ein
+bedeutendes Upgrade gegenüber Opus 5.
+Doch hier haben sie das Modell in
+verschiedenen Bereichen getestet, und
+beim agentischen Programmieren mit
+Terminal Bench 4.0 übertrifft es
+sowohl Fable 5.1 als auch GPT-6 Astral
+–und das mit einem ziemlich
+beachtlichen Vorsprung, was irgendwie
+verrückt ist. Beim Cursor Bench GDP
+Eval setzt es neue Maßstäbe und
+erreicht bei diesen Benchmark-Werten
+Höchstwerte im Vergleich zu anderen
+führenden Modellen. Sogar bei Dingen
+wie OSWorld, also der Computernutzung,
+schneidet es im Vergleich zu den
+anderen Modellen ziemlich gut ab, was
+wirklich schön zu sehen ist. Mir ist
+im Blogbeitrag aufgefallen, dass eine
+Aufgabe damit eine Code-Migration von
+680.000 Zeilen in unter einem Tag
+bewältigte–eine Arbeit, die
+normalerweise Wochen dauern würde. Es
+optimierte 39 von 40 Webseiten ohne
+Funktionsverlust und übertraf andere
+Claude-Modelle beim Erstellen eines
+ausgereiften Spiels durch einen
+einzigen Prompt, was zeigt, dass dies
+ein echtes Allround-Modell ist, das in
+vielen Bereichen glänzt. Ich habe auch
+gesehen, dass Claude Opus 5.5 auf dem
+Index von Artificial Analysis den
+ersten Platz bei diesem Benchmark
+belegt, bei gleichzeitig 20%
+Preissenkung und einem höheren
+Cache-Hit-Rabatt. Und wo Opus 5.5
+wirklich herausragt, ist seine
+Effizienz. Es kostet weniger pro Token
+und verbraucht weniger Token pro
+Aufgabe, was zu etwa 40%niedrigeren
+Token-Kosten führt als bei Opus 5. Es
+gibt auch einen Schnellmodus in Claude
+Code und auf der Claude-Plattform, der
+bis zu 2,5-mal höhere
+Geschwindigkeiten bietet und 8 $ pro 1
+Million Input-Token sowie 40 $ pro 1
+Million Output-Token kostet. Die
+allgemeine Preisgestaltung für Opus
+5.5 im Standardmodus liegt bei 4 $ pro
+1 Million Input-Token–was viel
+günstiger ist als zuvor–und 20 $ pro
+1 Million Output-Token. Etwas, das mir
+außerdem aufgefallen ist: Das Modell
+ist sehr token-intensiv, was bedeutet,
+dass es nicht ganz so token-effizient
+ist, wie es scheint. Es verbraucht
+tatsächlich eine ganze Menge an Token.
+Behalten Sie das also im Hinterkopf.
+Wenn Sie die besten KI-Tools, Workflows
+und Neuigkeiten vor allen anderen
+erhalten möchten, abonnieren Sie
+meinen kostenlosen Newsletter über den
+Link in der Beschreibung unten, der
+absolut kostenlos ist. Wenn Sie jetzt
+mit diesem Modell loslegen möchten,
+können Sie das ganz einfach über den
+Claude-Chatbot tun oder auch über
+deren API-Plattform darauf zugreifen.
+Und wenn Sie es nutzen und testen sowie
+unser Coding-Harness verwenden möchten
+, das selbst ein großartiges Tool ist,
+können Sie es über die Links in der
+Beschreibung unten ausprobieren. Und
+das ist eine großartige Möglichkeit
+für dich, es auszuprobieren und mit
+diesem Modell loszulegen. Bei der
+Spieleentwicklung konnte Opus 5.5 in
+einem einzigen Durchlauf ein komplettes
+Spiel im Mario Kart-Stil erstellen, und
+das Ergebnis sieht deutlich besser aus
+als bei Fable 5.1. Dies wurde von
+Bridge Bench durchgeführt und ist
+wirklich wahnsinnig, denn die Liebe zum
+Detail ist beeindruckend. Es hat die
+bekannten Charaktere Mario und Luigi
+erschaffen, die tatsächlich spielbar
+sind, aber es ist verrückt, weil man
+alle Komponenten dieses Klons hat, wie
+den Geschwindigkeits-Boost und die
+verschiedenen Extras, die man auf der
+Karte einsammeln kann. Und das ist
+tatsächlich viel besser als das, was
+ich bei Fable 5.1 mit genau demselben
+Prompt gesehen habe, da Fable 5.1
+Schwierigkeiten hatte, denselben Test
+in der gleichen Qualität wie Opus 5.1
+durchzuführen. Dies ist zweifellos
+eine der beeindruckendsten Coding-Demos
+, die ich je von einem KI-Modell
+gesehen habe. Und siehst du das hier?
+Dies ist eine vollständige Simulation
+des Launch-Videos für Claude Opus 5.5.
+Aber wir haben eine komplette Kopie
+davon, die tatsächlich von Opus 5.5
+programmiert wurde, was ich mir
+wirklich nicht hätte vorstellen
+können. Hier hat jemand den
+ursprünglichen Tweet genommen und das
+Modell angewiesen, ihn ohne externe
+Musik, Sounds, Bilddateien oder
+ähnliches nachzuprogrammieren. Das ist
+alles vollständig von Grund auf neu
+programmiert worden. Das ist einfach
+wahnsinnig, denn man hat dieses
+komplette Video, das von Opus 5.5
+programmiert wurde und das Launch-Video
+selbst nachahmt. Soweit ich das
+beurteilen kann, ist dies ein Modell,
+das sich hervorragend für die
+Erstellung von Videos und Animationen
+eignet. Die Entwicklung ist
+offensichtlich etwas, das Anthropic
+perfektioniert hat, aber dies ist der
+nächste Bereich, in dem diese Modelle
+meiner Meinung nach ihre Dominanz
+ausbauen. Hier hat es dieses Mosaik mit
+13.000 einzelnen Kacheln vollständig
+programmiert. Dies wurde komplett von
+Opus 5.5 durch Code gezeichnet und
+animiert, ohne dass ein einziges Bild
+verwendet wurde. Es ist ziemlich
+verrückt, dass es in der Lage ist,
+eine solche Aufgabe mit seinen
+kreativen Programmierfähigkeiten zu
+bewältigen. Und nur um dir einen
+Anhaltspunkt dafür zu geben, wie viel
+besser Opus 1.5 im Vergleich zu GPT-6
+Astra ist: Hier erhielten beide den
+gleichen Prompt, um ein autonomes
+Waymo-Fahrzeug in 3GS zu erstellen. Und
+ja, Opus 1.5 sieht hier wirklich
+beeindruckend aus, denn der Detailgrad
+und die allgemeine Ausführung zeigen,
+dass diese Version im Vergleich zu
+Astra die wahre Größe zeigt. Es hat
+die Physik, die Gesamtabmessungen sowie
+die Shader dieser Generation im
+Vergleich zum Astra-Modell perfekt
+getroffen. Und man kann sehen, dass es
+bei den Lidar-Kameras sowie den
+Sensoren großartige Arbeit geleistet
+hat. Und es hat alle Komponenten, die
+wir beim echten Auto sehen, präzise
+generiert. Und es fügt diesen
+Detailgrad hinzu, den man bei GPT-6
+Astra nicht wirklich sehen würde. Dies
+hier ist eine SUV-Generation der
+Nintendo Switch. Und das ist kein Bild
+oder Video, das tatsächlich von
+Nintendo ausgegeben wurde. Dies ist
+etwas, das von Opus 5.5 mit maximalem
+Reasoning ausgegeben wurde. Aber das
+Verrückte ist, Leute, dass es bei
+dieser Generation 20%oder 27%des
+Sitzungslimits eines 20-Dollar-Plans
+verbraucht hat. Daher ist es manchmal
+vielleicht nicht das Beste, dieses
+Modell als tägliches Arbeitsgerät zu
+verwenden. Vielleicht sollte man es bei
+komplexen Projekten auf maximales
+Reasoning einstellen. Aber für
+einfachere Aufgaben kann man zu Haiku
+oder–Entschuldigung, nicht Haiku,
+sondern Sonnet–wechseln. Und wo wir
+gerade von Haiku sprechen: Sie
+versuchen tatsächlich, es bald
+zurückzubringen. Wir werden also
+vielleicht in den nächsten paar Wochen
+ein Haiku 5.5-Modell bekommen. Als
+Nächstes hat Opus 5.5 diesen
+vollständigen Minecraft-Klon erstellt.
+Und das ist das erste Mal, dass ich die
+Möglichkeit habe, bestimmte Dinge wie
+den Ton anzupassen. Ich werde den Ton
+tatsächlich einschalten, weil ich
+bereits weiß, dass es meine Ohrhörer
+zerstören wird, wenn ich einen Block
+zerbreche, aber es ist etwas, das einem
+diese Flexibilität gibt, all diese
+verschiedenen Einstellungen anzupassen,
+wie die Wolken sowie ein paar andere
+Dinge wie Helligkeit, Sichtfeld, und
+ich kann tatsächlich eine neue Welt
+erstellen, und wir können weitermachen
+und uns das tatsächlich ansehen. Hört
+mal rein, Leute. Es hat Soundeffekte
+hinzugefügt. Bevor ich mich in diese
+Demo stürze, möchte ich die
+Soundeffekte einschalten, weil ich
+weiß, dass es mein Ohr zerstört, wenn
+ich diesen Block zerbreche. Okay, wir
+sind zurück, und das ist einfach
+wahnsinnig, Leute. Das ist definitiv
+der beste Minecraft-Klon, den ich je
+gesehen habe, was die Visualisierung
+der vollständigen Textur des
+Sandbox-Spiels angeht. Es hat auch
+mehrere Mobs hinzugefügt. Man kann
+sehen, dass es sogar Soundeffekte gibt,
+wenn man diese verschiedenen Mobs
+trifft, und es hat nicht nur einen Mob
+hinzugefügt, sondern gleich mehrere
+wie Schafe sowie Kühe, und dann hat
+man sogar all die verschiedenen
+Funktionen wie im ursprünglichen
+Sandbox-Spiel. Das zeigt also nur, wie
+intelligent und wie unglaublich dieses
+Modell ist. Jetzt gibt es sogar ein
+Inventarsystem. Wenn ich also einen
+Block abbaue, kann ich daraus
+verschiedene Gegenstände herstellen,
+was unglaublich ist. Also, lass uns
+tatsächlich etwas herstellen. Und um
+ehrlich zu sein, wenn ich allein wäre
+Was zum Oh, entschuldigt das, Leute.
+Wie ich schon sagte, ich wollte nicht,
+dass meine Ohren zerstört werden, aber
+Claude Code hatte andere Pläne. Es hat
+am Ende eine der verschiedenen Demos
+gestartet, an denen ich eigentlich mit
+Opus 5.5 gearbeitet habe. Es hat
+willkürlich einen Server gestartet und
+fing an, wahnsinnig laute Geräusche
+abzuspielen, die meine Kopfhörer
+völlig zerstört haben, aber jetzt
+haben wir einen Zombie-Klon, den ich
+gleich zeigen werde, aber zurück zu
+unserer Demo. Hier in unserer Demo bin
+ich gerade im Kreativmodus, aber schaut
+euch nur an, wie gut es die
+Texturierung all dieser verschiedenen
+einzelnen Gegenstände hinbekommen hat.
+Man hat sogar eine Spitzhacke. Wenn wir
+nach unten gehen, zeige ich euch mal,
+was es tatsächlich leisten konnte. Es
+gibt verschiedene Erze. Es gibt sogar
+verschiedene Höhlensysteme, die ich
+gesehen habe. Das Einzige, was mir
+bisher aufgefallen ist, ist, dass das
+Beleuchtungssystem zwar funktioniert,
+aber nicht so gut ist wie das, was ich
+zuvor beim Fable-Modell gesehen habe,
+aber egal, ich zeige euch jetzt die
+Höhlensysteme. Leider glaube ich nicht
+, dass es Höhlensysteme gibt, aber
+insgesamt hat es einen wirklich
+großartigen Sandbox-Klon des
+ursprünglichen Minecraft-Spiels
+erstellt. Leute, wie versprochen, hier
+habe ich es gebeten, ein Call of Duty
+Zombies-Spiel in 3D zu erstellen, und
+schaut euch nur die Qualität an, Leute
+. Das ist etwas, das ich noch bei
+keinem KI-Modell gesehen habe. Die
+Beleuchtung, die Textur, sogar alle
+Attribute des ursprünglichen Spiels
+wurden vollständig ausprogrammiert,
+Leute. Das sieht man an einigen dieser
+Animationen sowie daran, wie man
+verschiedene Türen öffnen kann. Hier
+kann man sogar verschiedene
+Gegenstände kaufen, was man zwar auch
+mit anderen Modellen hätte tun können
+, aber nicht in dieser Qualität, Leute
+. Das ist etwas, von dem ich nie
+erwartet hätte, dass irgendein Modell
+es tatsächlich generiert, Leute. Das
+ist einfach wahnsinnig.
+Sofortiger Kill.
+Wir haben sogar diese
+Barriere-Wiederaufbaufunktion, die
+hinzugefügt wurde und die sogar eine
+wirklich coole Animation hat.
+Hilfe. Ich werde gerade eingekesselt.
+Oh, Mist, Mann. Zimmermann. Mal sehen.
+Jetzt kann ich einen weiteren Bereich
+öffnen. Hier sehen Sie den Innenhof,
+und er fügt viele coole verschiedene
+Dinge hinzu, die ich von diesem Modell
+wirklich nicht erwartet hätte, Leute.
+Dies beinhaltet Beleuchtungen und
+verschiedene Bereiche, in die man
+hineinzoomen kann. Insgesamt bin ich
+wirklich begeistert von der Qualität,
+die dieses Modell erzeugt hat.
+Wenn es um Front-End-Entwicklung geht,
+glänzt das Modell besonders, und ich
+glaube wirklich, dass es den ersten
+Platz einnimmt. Es schlägt sich in
+diesem speziellen Bereich bemerkenswert
+gut. Es ist definitiv teuer, aber es
+liefert die besten Ergebnisse basierend
+auf der Beschreibung, die Sie ihm geben
+. Hier ist ein weiterer Vergleich, der
+den Sprung zeigt, denn Opus 5 kostete
+bei dieser speziellen Erstellung einer
+Vulkaninsel mit Dinosauriern etwa 1,60
+$. Aber Opus 5.5 kostete etwa 3,40 $.
+Das Ergebnis von Opus 5.5 war insgesamt
+dramatisch reichhaltiger, mit einer
+Unterwasser-Schnittszene, die ich so
+bei keinem anderen Modell bisher
+gesehen habe. Es gibt auch
+Unterwasserwelt, wie man an dem Wal
+sehen kann, der auf und ab springt. Man
+hat Vegetation, Mammuts, Nordlichter
+und viel mehr Details in der gesamten
+Szene. Das habe ich bei allen
+Generationen gesehen, und es zeigt
+einfach, wie viel besser Opus 5.5 ist.
+Und es sieht in vielen dieser
+verschiedenen Fälle definitiv viel
+besser aus als Astra. Wenn Ihnen dieses
+Video gefällt und Sie den Kanal
+unterstützen möchten, können Sie
+über die „Super Thanks“-Option
+unten eine Spende tätigen. Oder Sie
+können unserem privaten Discord
+beitreten, wo Sie monatlich kostenlosen
+Zugriff auf mehrere Abonnements für
+verschiedene KI-Tools erhalten. Dazu
+gibt es tägliche KI-Nachrichten,
+exklusive Inhalte und vieles mehr.
+Insgesamt ist Opus 5.5 eine enorme
+Verbesserung gegenüber den anderen
+Opus 5-Modellen, und es sind nicht nur
+die zusätzlichen Details, die es
+besser machen. Es ist in der Lage,
+insgesamt bessere Ergebnisse in
+mehreren Bereichen zu erzielen. Ich
+weiß, es verbraucht eine Menge Token,
+aber es setzt neue Maßstäbe auf dem
+aktuellen Stand der Technik. Dies ist
+das beste Modell, das derzeit
+verfügbar ist, und es bietet zudem
+eine wirklich günstige Preisstruktur.
+Sie haben also viele zusätzliche
+Vorteile durch dieses Modell. Ich kann
+nur empfehlen, es auszuprobieren, um zu
+sehen, wie es funktioniert. Vielleicht
+nicht für jede einzelne Aufgabe, da
+man einfache Dinge natürlich an ein
+billigeres Modell delegieren kann, aber
+es wird Ihnen in vielen Bereichen
+helfen, besonders wenn es darum geht,
+komplexe Aufgaben zu erledigen. Ich
+werde alle Links, die ich im heutigen
+Video verwende, unten in die
+Beschreibung setzen. Es würde mir
+wirklich viel bedeuten, Leute, wenn ihr
+euch die Welt der KI-Benchmarks und die
+Vibe-Coding-Plattform ansehen könntet.
+Schaut euch unbedingt auch unsere neue
+School-Community an. Kommt zu unserem
+zweiten Kanal. Abonniert den Newsletter
+. Tretet dem Discord bei. Folgt mir auf
+Twitter. Und zuletzt: Vergesst nicht,
+den Kanal zu abonnieren, die Glocke zu
+aktivieren, das Video zu liken und euch
+unsere früheren Videos anzusehen,
+damit ihr bei den neuesten KI-News auf
+dem Laufenden bleibt. Aber mit diesem
+Gedanken, Leute, habt einen
+großartigen Tag. Verbreitet
+Positivität und wir sehen uns schon
+ganz bald wieder. Macht’s gut, Leute.

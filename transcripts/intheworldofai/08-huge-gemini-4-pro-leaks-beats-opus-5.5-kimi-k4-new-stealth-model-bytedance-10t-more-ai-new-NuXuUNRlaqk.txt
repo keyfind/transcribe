@@ -1,0 +1,604 @@
+Wir haben heute riesige Neuigkeiten von
+Google: Es sieht so aus, als könnte
+Gemini 4 Pro schon bald erscheinen.
+Dieser neue Checkpoint namens Barium B,
+der heute in der Arena aufgetaucht ist,
+ist absolut beeindruckend und so etwas
+haben wir bisher noch nicht gesehen. Er
+scheint, wie frühere Test-Checkpoints,
+als Gemini 3.8 Flash getarnt zu sein,
+und ich bin wirklich überwältigt von
+der Detailtiefe, die dieses Modell
+erzeugen kann. In einer Demo erstellte
+es ein wahnsinnig detailliertes 3
+D-Formel-1-Auto, das ehrlich gesagt
+deutlich besser aussieht als das, was
+wir von Opus 5.5 und GPT-6 Astra kennen
+–ein sehr vielversprechendes Zeichen.
+Es gibt außerdem ein neues,
+mysteriöses Modell namens Pixel Canary
+, das heute völlig unerwartet und
+kostenlos im Client aufgetaucht ist.
+Völlig kostenlos, und das Verrückte
+daran ist, dass es offenbar gleichauf
+mit GPT-6 Astra liegt. Es schlägt
+Kimmy K3 bei den
+Next.js-Agenten-Evaluierungen im Client
+, einem Benchmark für echte
+Entwicklungsaufgaben, und einige der
+Ergebnisse dieses Modells sind wirklich
+der Wahnsinn. Es gibt neue Updates für
+Claude Code: Anstatt bei Erreichen des
+5-Stunden-Limits komplett gesperrt zu
+werden, gewährt dir Claude nun ein
+kleines Kontingent aus deinem
+wöchentlichen Limit, um einen sauberen
+Abschlusspunkt zu finden und die Arbeit
+zu beenden. Wo wir gerade von neuen
+Modellen sprechen: Genau wie damals,
+als ich Spark 1.4 entdeckt und auf X
+gepostet habe, ist mir etwas sehr
+Interessantes aufgefallen. Im Katalog
+von Open Codes befinden sich mehrere
+Modelle in der Entwicklung, darunter
+GLM 5.5 Flash, GLM 5.4, Kimik4 und
+DeepSeek Version 4.1 Pro. Das bedeutet,
+dass offizielle Modelle bereits
+getestet werden und in Kürze
+erscheinen dürften. Wir haben
+außerdem wichtige Updates zum
+Hugging-Face-Zwischenfall bei OpenAI:
+Das Unternehmen gibt an, dass sein
+Forschungsagent versehentlich Trainings
+-und Evaluierungsdaten an
+Drittanbieterdienste gesendet hat. Das
+Verrückteste daran ist jedoch, dass es
+in 53 Fällen um Bilder ging, die von
+Nutzern hochgeladen und als nicht
+gelistete Links auf Bild-Hosting-Seiten
+veröffentlicht wurden. OpenAI gibt an,
+dass der Großteil der Inhalte bereits
+entfernt wurde und neue
+Sicherheitsvorkehrungen getroffen
+wurden. Dies ist jedoch ein neues,
+brisantes Detail, das im Zuge des
+Hugging-Face-Vorfalls ans Licht
+gekommen ist. Zuletzt haben wir noch
+ByteDance, die möglicherweise an etwas
+absolut Gigantischem arbeiten.
+Berichten zufolge entwickeln sie ein
+Modell mit 10 Billionen Parametern. Wir
+haben endlich neue Informationen
+darüber, was es leisten könnte und
+wie es das Rennen um KI-Modelle
+aufmischen wird. Es gibt noch so viel
+mehr zu besprechen, darunter ein
+möglicher Reset des Ratenlimits für
+die kostenlose ChatGPT-Version, der
+diese Woche ansteht, ein weiteres
+riesiges Claude-Code-Feature und vieles
+mehr. Bevor wir jedoch in alles
+eintauchen, Leute, würde es mir
+unglaublich viel bedeuten, wenn ihr
+dieses Video liked und den Kanal
+abonniert, da es mir wirklich hilft,
+diese Videos weiter zu produzieren.
+Also, bitte tut das doch, falls ihr es
+noch nicht getan habt. Aber mit diesem
+Gedanken: Lassen Sie uns direkt mit dem
+heutigen Upload weitermachen. Bevor wir
+anfangen: Der heutige Sponsor ist
+Arcade, und ich möchte euch von einer
+Abkürzung erzählen, die ich genommen
+habe. Du gibst deinem Agenten einen
+API-Schlüssel, ein Service-Konto,
+vollen Zugriff, und es funktioniert.
+Dann fängt er an, echte Arbeit zu
+leisten: Datensätze aktualisieren,
+Tickets schließen, Geld bewegen. Nun,
+jede Aktion hat einen Wirkungsbereich.
+Also sperrst du dieses Konto. Jetzt
+kann er kaum noch etwas tun, und nichts
+davon lässt sich auf eine echte Person
+zurückführen. Also lässt du ihn die
+Berechtigungen des Benutzers erben.
+Jetzt kann er löschen, was auch immer
+der Benutzer kann, und dein Audit-Log
+kann sie nicht unterscheiden. Arcade
+korrigiert die Grenze. Es ist die
+Action-Runtime für KI-Agenten. Die
+Agenten agieren als ihr Benutzer und
+überschreiten nie ihren eigenen Rahmen
+. Jede Aktion durchläuft zwei
+Prüfungen: Was die Person tun kann und
+was der Agent tun darf. Wird eine der
+beiden Linien überschritten, stoppt es
+. Jede Aktion hinterlässt einen
+Datensatz: den Agenten, den Benutzer,
+das System. 8.000 Tools, jedes
+Framework. Probiert es also kostenlos
+aus unter arcade. dev über die Links
+in der Videobeschreibung unten. Aber
+mit diesem Gedanken: Lasst uns direkt
+wieder in den heutigen Upload
+eintauchen. Beginnen wir mit diesem
+neuen Gemini-Checkpoint, denn Google
+könnte hier ernsthaft etwas Großes
+planen, da dieser neue Gemini 4
+Pro-Checkpoint namens Baryon B
+Berichten zufolge in der Arena getestet
+wird, wo er scheinbar unter dem Gemini
+3.8 Flash-Modell verborgen ist. Und
+Leute, ich bin wirklich beeindruckt von
+der Qualität und dem Detailgrad, den
+wir hier sehen. Einige der
+Generierungen sehen absolut wahnsinnig
+aus. Und wenn dies wirklich ein früher
+Einblick in das ist, was Gemini 4 Pro
+sein wird, ist Gemini ernsthaft wieder
+im Spiel, da viele dieser Demos das
+Astra-Modell sowie das neue Opus 5.5
+möglicherweise übertreffen. Hier hat
+es sich bei diesem SVG-Prompt besonders
+gut geschlagen. Es hat den PS5-
+Controller erstellt, und dies ist eine
+wirklich akkurate Darstellung des PS5-
+Controllers in SVG. Und das sieht man
+an dem Detailgrad, den es bei jeder
+Komponente dieses PS5-Controllers
+ausgeben konnte. Man erkennt das an den
+transparenten Tasten auf beiden Seiten.
+Sogar die verschiedenen Sticks sowie
+das Logo werden präzise generiert,
+wobei der LED-Farbton von der
+Haupttaste ausgeht. Und dann gibt es
+noch ein paar weitere Kleinigkeiten,
+wie etwa PS5-Texturen, die Teil des
+Controllers selbst sind. Und wenn du
+dieses Modell testen möchtest, musst
+du einfach zu Arena gehen, wo du dich
+völlig kostenlos registrieren kannst.
+Geh in den Battle-Modus und wähle dann
+die Code-Option oder was auch immer dir
+zur Verfügung steht, aber die
+Wahrscheinlichkeit, Gemini 3.8 zu
+erhalten, ist höher, wenn du eine
+Anfrage wie zum Beispiel zur Erstellung
+einer Website sendest. Nachdem du eine
+Anfrage gesendet hast, hast du zwei
+verschiedene Optionen zur Auswahl,
+sobald der Generierungsvorgang
+abgeschlossen ist, und es wird dann
+enthüllt, welches Modell sie erstellt
+hat. Und wenn dort der Modell-Slug für
+Gemini 3.8 steht, bedeutet das
+höchstwahrscheinlich, dass es sich um
+den neuen Gemini 4-Checkpunkt handelt.
+Es kann jedoch sein, dass Arena diesen
+neuen Checkpunkt bis zur
+Veröffentlichung meines Videos bereits
+wieder entfernt hat, also behalte das
+im Hinterkopf. Du kannst also
+tatsächlich abstimmen, welches Modell
+besser war. In diesem Fall siehst du,
+dass zwei dieser Modelle zwei separate
+Landingpages generiert haben, und du
+kannst dann darüber abstimmen, welches
+die bessere Arbeit geleistet hat. Schau
+dir jetzt einmal diese kompakte
+Voxel-Pagode an. Dies wurde Berichten
+zufolge von dem zweiten Gemini 4-
+Checkpunkt generiert, über den wir
+sprechen, aber der Detailgrad ist
+ehrlich gesagt unglaublich, besonders
+wenn man bedenkt, dass solche
+Ergebnisse in nur 5 Minuten erstellt
+werden. Schau dir nur den Detailgrad
+und die Atmosphäre des Gemini 4
+Pro-Checkpunkts an; es ist
+beeindruckend, wie viele Details der
+spezifischen Pagode zugeschrieben
+werden. Es scheint, als würde Google
+bei diesem Modell auch stark auf
+Geschwindigkeit setzen, da dieser
+Checkpunkt die Ergebnisse deutlich
+schneller ausgeben kann als die
+vorherigen Pro-Modelle. Das ist also
+ein weiterer Vorfall, den wir bemerkt
+haben. Und ich bin mir jetzt ziemlich
+sicher, dass Gemini 4 früher als
+erwartet kommt. Das Modell befindet
+sich Berichten zufolge bereits im
+frühen Post-Training, und das Team
+möchte anscheinend so schnell wie
+möglich eine frühe Version
+veröffentlichen. Es wurde in den
+letzten Wochen auch mehrfach in Arena
+getestet, und basierend auf den ersten
+Ergebnissen, die wir heute gesehen
+haben, scheint es ehrlich gesagt auf
+Augenhöhe mit GPT-6 Astra zu sein, was
+ein sehr vielversprechendes Zeichen ist
+. Und ich hoffe wirklich, dass sie
+diesen Checkpunkt auch veröffentlichen
+, denn oft setzen sie das am Ende gar
+nicht um. Sie veröffentlichen am Ende
+eine abgeschwächte Version dieses
+Checkpoints. Google scheint ebenfalls
+zuversichtlich, dass dieser Checkpoint,
+den sie derzeit getestet haben, sie
+zurück ins Rennen an der Spitze
+bringen kann, was von vielen Medien
+berichtet wurde. Es gibt jedoch
+natürlich keine Bestätigung, wann
+Gemini 4 erscheinen wird, aber es sieht
+so aus, als ob es ziemlich bald kommen
+sollte. Es gibt viele Dinge im
+KI-Bereich, die ich nicht wirklich auf
+dem YouTube-Kanal zeige, und auf die du
+über meinen kostenlosen Newsletter
+zugreifen kannst, für den du dich
+über den Link in der Beschreibung
+unten völlig kostenlos anmelden kannst
+. Dies ist etwas anderes, das von
+diesem neuen Barium-Checkpoint
+generiert wurde, nämlich Gemini 4 Pro,
+und das ist eine ziemlich interessante
+Simulation eines Kampfjets, der den
+Hangar verlässt, und ich muss sagen,
+das ist ziemlich cool. Nichts
+Außergewöhnliches, aber es ist
+einfach eine coole 3 GS-Simulation
+dieses Kampfjets. Als Nächstes haben
+wir ein mysteriöses, neues
+Stealth-Modell namens Pixel Canary, das
+vor ein paar Stunden einfach zufällig
+aufgetaucht ist und derzeit für
+begrenzte Zeit komplett kostenlos im
+Client verfügbar ist. Dieses Modell
+ist tatsächlich ziemlich interessant,
+denn bei der
+Next.js-Agenten-Evaluierung, die
+Modelle bei realen
+Next.js-Entwicklungsaufgaben testet,
+erreichte dieses Canary-Modell
+angeblich eine Erfolgsquote von 90%,
+gleichauf mit GPT-6 Astra bei komplexem
+Denken und besser als Kimmy K3 mit 84%.
+Und mit zusätzlicher Dokumentation
+durch Agents MD springt der Wert sogar
+auf 97%. Seine Hauptstärke scheint
+bisher die Frontend-und mobile
+Entwicklung zu sein, einschließlich
+App-Router-Migrationen, Datenabruf,
+Caching, Bild-und Schriftoptimierung
+sowie View-Transitionen. Die Identität
+dieses Modells ist noch ein Rätsel,
+und es taucht scheinbar über das
+Vercel AI-Gateway unter dem Codenamen
+stealth pixel-canary auf. Die Namen
+Pixel und Canary lassen natürlich
+Vermutungen aufkommen, ob es eine
+Verbindung zu Google geben könnte,
+aber dafür gibt es bisher keine
+Bestätigung. Du kannst es derzeit
+komplett kostenlos direkt in Pine
+ausprobieren. Ich muss jedoch sagen,
+dass es bei meinem Test extrem langsam
+war. Einige Leute sagen zwar, es sei
+recht schnell gewesen, aber in meiner
+VS Code-Sitzung war es mit dem von mir
+generierten Prompt ziemlich langsam.
+Das solltest du also definitiv im
+Hinterkopf behalten. Die Leistung sieht
+beeindruckend aus, aber die
+Geschwindigkeit ist momentan nicht die
+größte Stärke. Als Nächstes gibt es
+großartige Neuigkeiten für Codex-und
+ChatGPT-Work-Nutzer, denn heute hatten
+viele Leute, mich eingeschlossen,
+einige Probleme und Ausfallzeiten. Und
+hier sagt OpenAI, dass es bald wieder
+verfügbar sein sollte. Ich glaube, es
+ist jetzt bereits wieder online. Aber
+das war ein Fall, bei dem das Team
+angab, es habe Verbindungsprobleme mit
+jeder Claude-und Codex-Instanz gegeben.
+Aufgrund dieser Störung kündigte
+OpenAI an, für alle zahlenden Nutzer
+sowohl bei Codex als auch bei ChatGPT
+einen Reset durchzuführen. Wenn ihr
+also eure Limits zuvor bereits
+ausgeschöpft hattet, solltet ihr im
+Grunde einen kompletten Neustart
+erhalten. Das ist definitiv eine nette
+Geste von OpenAI, und ich finde es
+wirklich gut, was sie tun, besonders
+wenn es einen Ausfall gibt. Als
+Nächstes haben wir ein neues Modell,
+die LongChat 2.5 Preview, die offiziell
+live ist. Es verfügt über insgesamt
+1,6 Billionen Parameter, davon etwa 48
+Milliarden aktive Parameter, und ein
+Kontextfenster von 1 Million Token. Es
+ist nativ multimodal, was schön ist,
+aber das Interessante ist eigentlich
+nicht die Anzahl der Parameter. Es ist
+das, wofür das Modell eigentlich
+entwickelt wurde. Dies ist ein Modell,
+das sich stark auf langfristige
+Agentenaufgaben konzentriert, was
+bedeutet, dass es in Terminals,
+Browsern, GUIs, Tabellenkalkulationen
+und sogar Designtools arbeiten kann,
+während es gleichzeitig viel längere
+Aufgaben bewältigt. Das Programmieren
+wurde mit den LongChat-Modellen stark
+verbessert, und es lässt sich in viele
+andere Coding-Agenten integrieren, die
+wir alle nutzen, wie Claude Code,
+Hermes, Open Code, Kilo und viele
+andere. Die Preisgestaltung fand ich
+interessant, und was mir an diesen
+Modellen wirklich gefällt, ist, dass
+sie etwa 30 Cent für 1 Million
+Input-Token und 1,20 Dollar für 1
+Million Output-Token kostet.
+Zusätzlich erhalten bestehende Nutzer
+5 Millionen kostenlose Credits bzw.
+Token. Und denkt daran, dies ist nur
+eine Vorschau. Sie werden LongChat 2.5
+bis zur offiziellen Veröffentlichung,
+die noch aussteht, weiter verbessern.
+Dies ist also definitiv ein weiteres
+Modell, das man im Auge behalten sollte
+. Als Nächstes haben wir ein wirklich
+nützliches Update für Claude Code.
+Früher war es so, dass wenn man mitten
+in einer Aufgabe sein 5-Stunden-Limit
+erreichte, Claude einfach anhielt,
+selbst wenn es gerade mitten in der
+Bearbeitung des Codes war. Jetzt
+versucht Claude Code, einen sauberen
+Haltepunkt zu finden, indem es eine
+kleine feste Menge von eurem
+Wochenlimit nutzt, um abzuschließen,
+was möglich ist, anstatt euch abrupt
+zu unterbrechen. Mit der Einführung
+erhalten Pro-Nutzer dies einmal pro
+Woche, während Max-und
+Team-Premium-Nutzer es jedes Mal
+bekommen, wenn sie ihr 5-
+Stunden-Sitzungslimit erreichen. Und
+wenn ihr danach noch möchtet, dass
+Claude weiterarbeitet, könnt ihr dies
+durch zusätzliche Nutzung fortsetzen.
+Es ist eine kleine Änderung, aber
+ehrlich gesagt ein sehr nützliches
+Komfort-Update, das Claude Code
+eingeführt hat, und ich liebe es
+wirklich, was sie mit diesen neuen
+Updates erreichen wollen. Vor Kurzem
+habe ich einen Weg gefunden, neue
+Entwicklungsmodelle im Katalog von Open
+Code tatsächlich ausfindig zu machen.
+Und seitdem sind mehrere neue,
+unveröffentlichte Modelle aufgetaucht,
+wie GLM 5.5 Flash, GLM 5.4, Kimi K4 und
+DeepSeek Version 4.1 Pro. Wir wissen
+zwar nicht, wann diese Modelle
+offiziell erscheinen, und ihr
+Erscheinen hier bestätigt natürlich
+keine baldige Veröffentlichung, aber
+dass alle vier bereits in Open Code
+auftauchen, ist definitiv interessant
+und zeigt, dass uns ein wilder Herbst
+mit neuen Modellveröffentlichungen
+bevorsteht. Ich weiß, dieser nächste
+Abschnitt mag wie gesponsert klingen,
+aber das ist tatsächlich nicht der
+Fall. Ich wollte euch damit wirklich
+nur weiterhelfen. Hier habe ich
+herausgefunden, dass NVIDIA den Zugang
+zu vier unglaublich leistungsstarken
+KI-Modellen komplett kostenlos anbietet
+, und man braucht nicht einmal eine
+Kreditkarte. Denn hier bieten sie vier
+Modelle an, wie etwa DeepSeek Version
+4.1 Flash. Man erhält GLM 5.3 sowie
+die Flash-Variante und Kimiko 3 über
+die Plattform von NVIDIA. Und das ist
+nicht nur ein Playground, denn man
+erhält tatsächlich Zugriff auf diese
+Modelle über eine OpenAI-kompatible
+API, was bedeutet, dass man sie
+ziemlich einfach in seine Apps,
+Coding-Tools und Workflows integrieren
+kann. Wenn ihr also mit diesen Modellen
+experimentieren wollt, findet ihr die
+Links dazu unten in der Beschreibung;
+ein Blick darauf lohnt sich definitiv.
+Es gibt jedoch eine ziemlich wichtige
+Sache, die man beachten sollte, bevor
+man diese kostenlosen Modelle nutzt.
+NVIDIA stellt klar, dass während der
+kostenlosen Testphase eure Ein-und
+Ausgaben aufgezeichnet werden, um den
+Dienst bereitzustellen und NVIDIA bei
+der Verbesserung seiner Produkte und
+Dienste, einschließlich des Trainings
+seiner KI-Modelle, zu unterstützen.
+Sie warnen ausdrücklich davor,
+Zugangsdaten, Informationen oder
+persönliche Daten hochzuladen, sofern
+dies nicht gestattet ist. Also ja, ihr
+erhaltet kostenlos Zugang zu extrem
+leistungsstarken Modellen, aber ich
+würde definitiv keinen privaten Code,
+sensible Firmendaten oder persönliche
+Informationen in diese Endpunkte
+eingeben. Wenn euch dieses Video
+gefällt und ihr den Kanal
+unterstützen möchtet, könnt ihr
+über die „Super Thanks“-Option
+unten eine Spende in Betracht ziehen.
+Oder ihr könnt unserem privaten
+Discord beitreten, wo ihr monatlich
+kostenlosen Zugriff auf mehrere
+Abonnements für verschiedene KI-Tools,
+tägliche KI-News, exklusive Inhalte
+und vieles mehr erhaltet. Als Nächstes
+eine Geschichte, die noch wilder wird,
+denn OpenAI hat enthüllt, dass
+während des Hugging-Face-Vorfalls ein
+KI-Agent in seiner Forschungsumgebung
+tatsächlich Wege gefunden hat, die
+beabsichtigten Beschränkungen zu
+umgehen, auf das Internet zuzugreifen,
+mit anderen Agenten zu kommunizieren
+und mit Drittsystemen zu interagieren,
+obwohl er das nicht sollte. Und nun hat
+OpenAI enthüllt, dass tatsächlich
+einige Daten unsachgemäß an
+Drittanbieterdienste gesendet wurden.
+Das meiste davon stammte anscheinend
+nicht von Nutzern, aber sie entdeckten
+53 Fälle, in denen von Nutzern
+hochgeladene Bilder als nicht gelistete
+Links auf externen Bild-Hosting-Seiten
+veröffentlicht wurden. OpenAI gibt an,
+dass diese von Konten stammten, die der
+Modellverbesserung zugestimmt hatten,
+und die Bilder bereits von diesen
+Konten entkoppelt und durch einen
+Privatsphärenfilter gelaufen waren.
+Aber was das Ganze noch viel
+verrückter und diesen Vorfall so
+interessant macht, ist, dass diese
+Agenten im Grunde unbeabsichtigte Wege
+aus der Umgebung fanden, in die sie
+gesetzt wurden. Sie wollten im Grunde
+Wege finden, aus all diesen
+verschiedenen Umgebungen auszubrechen,
+damit sie tun können, was sie wollen.
+Sie hatten ihren eigenen Kopf, kann man
+sagen. OpenAI sagt, dass die Agenten
+Wege entdeckten, miteinander zu
+kommunizieren und Internetzugang zu
+erlangen, was wild ist, und
+schließlich Schwachstellen in der
+eigenen Forschungsinfrastruktur und dem
+Hugging-Face-System ausnutzten. OpenAI
+sagt, dass dies etwas ist, woran sie
+seit diesem Vorfall gearbeitet haben,
+und sie arbeiten mit den
+Hosting-Anbietern zusammen, um den
+größten Teil der betroffenen Inhalte
+zu entfernen, und arbeiten daran, den
+Rest zu entfernen. Und jetzt werden sie
+natürlich deutlich stärkere
+Sicherheitsvorkehrungen, Überwachung,
+Sandboxing und
+Alignment-Sicherheitsmaßnahmen
+implementieren. Aber die ganze
+Situation, die wir gesehen haben, ist
+ehrlich gesagt einfach wild, weil wir
+jetzt abtrünnige Agenten haben, die
+tun, was sie wollen, und es ist
+verrückt, wenn man sich vorstellt, wie
+es wird, wenn KI noch viel
+intelligenter wird. Wir werden diese
+abtrünnigen Agenten haben, die tun,
+was sie wollen, es sei denn, wir
+ergreifen geeignete Maßnahmen und
+stellen genügend
+Sicherheitsvorkehrungen auf. Als
+Nächstes müssen wir über Chinas
+absolut massiven KI-Infrastruktur-Boom
+sprechen, denn wie ich schon sagte,
+glaube ich ernsthaft, dass die Leute
+den nächsten Schritt von ByteDance
+unterschätzen, der aus der
+chinesischen KI-Szene kommen wird. Und
+das liegt daran, dass es neue Daten von
+SemiAnalysis gibt, die über tausend
+Rechenzentrumseinrichtungen bei mehr
+als 60 Betreibern allein in China
+kartieren und zeigen, wie schnell das
+Land die für KI benötigte
+Infrastruktur aufbaut. Und einige
+dieser Zahlen sind ziemlich verrückt,
+denn Chinas größter Hyperscaler
+mietet Berichten zufolge etwa 1/5 der
+gesamten Kapazität des Landes,
+während massive 100-
+Megawatt-Implementierungen in etwa 12
+Monaten online gehen können. Dies
+alles geschieht parallel zu Chinas
+umfassender Strategie, östliche Daten
+im Westen zu verarbeiten, bei der
+enorme Mengen an Recheninfrastruktur in
+Regionen verlagert werden, in denen
+Strom und Land leichter verfügbar sind
+. Und genau deshalb spreche ich immer
+wieder von ByteDance. Alle
+konzentrieren sich auf die
+Modellveröffentlichungen selbst, doch
+im Hintergrund findet ein gewaltiges
+Wettrennen um die Infrastruktur statt.
+Wenn ByteDance tatsächlich an diesem
+neuen Modell mit 10 Billionen
+Parametern arbeitet, baut China
+eindeutig die Recheninfrastruktur auf,
+um diesen Ehrgeiz zu unterstützen–
+und deshalb könnten wir das Modell
+laut früherer Berichte noch in diesem
+Jahr sehen. Zuletzt haben wir Agent
+Ultra, was einen ziemlich coolen
+Fortschritt für Deep-Research-Agenten
+darstellt. Ich habe das heute auf X
+gesehen und fand es sehr interessant,
+da viele Leute hier im Kanal nach neuen
+Strategien für Deep-Research-Agenten
+suchen. Ich glaube, dieser
+Deep-Research-Agent wird euch
+weiterhelfen, denn Agent Ultra kann
+ganze Schwärme von Agenten
+koordinieren, um ein Thema parallel zu
+erforschen. Es wurde von X für massive
+Forschungsaufgaben entwickelt, bei
+denen man Hunderte oder Tausende von
+Quellen durchgehen, umfassende Listen
+erstellen, Informationen vergleichen
+und schließlich alles zu einer Antwort
+zusammenführen muss. Interessant ist
+dabei, dass Agent Ultra bei der
+Web-Recherche auf dem neuesten Stand
+der Technik ist und gleichzeitig ein
+optimales Verhältnis zwischen Kosten
+und Recherchequalität bietet. Es ist
+also definitiv ein ziemlich cooler
+Fortschritt, und ich wollte das
+unbedingt in diesem Video zeigen. Aber
+das war es auch schon für das heutige
+Video. Falls ihr es noch nicht getan
+habt, schaut euch unbedingt die „
+World of AI“ innerhalb unserer
+School-Community an. Werft einen Blick
+auf das „World of AI“-Benchmark und
+die Viper-Plattform. Schaut euch auch
+meinen zweiten Kanal an. Dort könnt
+ihr euch über die neuesten
+KI-Nachrichten auf dem Laufenden halten
+. Abonniert den Newsletter, tretet dem
+Discord bei und folgt mir auf Twitter.
+Und vergesst nicht, den Kanal zu
+abonnieren, die Glocke zu aktivieren,
+das Video zu liken und euch unsere
+früheren Videos anzusehen, damit ihr
+bei den neuesten KI-News auf dem
+Laufenden bleibt. Damit wünsche ich
+euch einen fantastischen Tag.
+Verbreitet Positivität, und wir sehen
+uns in Kürze wieder. Macht’s gut,
+Leute.

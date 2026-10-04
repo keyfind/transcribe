@@ -1,0 +1,411 @@
+Was für ein großartiger Tag in der
+KI-Welt und ein perfekter Start ins
+Wochenende, denn Anthropic bereitet
+hinter den Kulissen einiges vor. Die
+nächste Version von Fable, Opus und
+Sonnet wird Berichten zufolge bereits
+im Stillen auf verschiedenen
+Cloud-Plattformen und Konten getestet.
+Es sieht so aus, als ob Anthropic
+wieder seine alte Strategie verfolgt,
+die gesamte Modellreihe auf einmal zu
+veröffentlichen. Und wo wir gerade von
+diesen Modellen sprechen: Wir haben
+möglicherweise einen ersten Blick auf
+Fable 5.2. Und das Ganze sieht wirklich
+beeindruckend aus. Fable 5.2 wird
+anscheinend über Claude Code getestet,
+wobei einige Anfragen für Fable 5.1
+Berichten zufolge auf das neuere Modell
+umgeleitet werden. Wir haben auch
+diesen Vergleich zwischen Fable 5.2 und
+Opus 5.2 mit demselben Raketen-Testlauf
+für beide. Schauen Sie sich einfach
+mal die Ergebnisse an. Sie sind
+deutlich besser als zuvor und
+unglaublich realistisch. OpenAI sollte
+nach Astra etwas in petto haben, denn
+diese neuen Modelle wirken ziemlich
+beeindruckend. Als Nächstes haben wir
+Gemini 4 Pro, das kurz vor der
+Veröffentlichung steht. Doch das
+vermeintliche Benchmark-Blatt, das auf
+X die Runde macht, ist tatsächlich
+eine Fälschung. Ich wollte das im
+heutigen Video klarstellen, damit ihr
+nicht alle auf dieses KI-generierte
+Benchmark-Blatt hereinfallt. Davon
+abgesehen gibt es neue Vergleiche, bei
+denen Gemini 4 Pro dem Modell Astra
+sehr nahe kommt. Wo wir gerade bei
+Google sind: Diese Geschichte ist
+verrückt, denn während einer
+Cybersicherheitsbewertung griff Gemini
+unerwartet auf das offene Internet zu
+und drang in Systeme von drei echten
+Unternehmen ein. Google gibt an, dass
+das Modell jeden Einbruch stoppte,
+nachdem es erkannte, dass die Systeme
+nicht Teil der Testumgebung waren. Und
+schließlich kommt bald sogar Gemini
+Worlds. Im Grunde treibt Google damit
+die Entwicklung interaktiver,
+KI-generierter Welten voran, in denen
+man in immersive Umgebungen eintauchen
+und alles von mikroskopischen Systemen
+bis hin zum tiefen Weltraum erkunden
+kann. Und es passiert noch so viel mehr
+. Also, lassen Sie uns einfach direkt
+eintauchen. Leute, es gibt zwei neue
+Updates. Falls ihr noch nicht abonniert
+habt, würde mir das unglaublich viel
+bedeuten, denn das unterstützt den
+Kanal und hilft mir, jeden Tag mehr
+Videos für euch zu machen. Und falls
+ihr die School-Community noch nicht
+kennt: Das ist ein Insider-Club, der
+euch Zugang zu all diesen fantastischen
+Vorteilen bietet, wie monatliche
+kostenlose Abonnements für KI-Tools
+sowie Vorabzugang zu verschiedenen
+Modellen, die ihr als Beta testen
+könnt. Da steckt noch viel mehr
+dahinter. Wenn ihr mehr darüber lesen
+wollt, findet ihr einen Link dazu in
+der Beschreibung unten. Beginnen wir
+mit dem, was D heute früher erwähnt
+hat. Neue Versionen von Fable, Opus und
+Sonnet werden Berichten zufolge
+heimlich über verschiedene
+Cloud-Oberflächen und Konten getestet.
+Wir wissen bereits, dass Opus 5.2
+ziemlich bald erscheint, aber heute
+haben wir erfahren, dass auch Fable 5.2
+in Kürze folgen wird. Und nun gibt es
+Spuren eines Sonnet-Modells, das
+getestet wird. Aber was ist mit Haiku
+passiert? Das ist irgendwie lustig, da
+wir seit wahrscheinlich einem halben
+Jahr nichts mehr davon gehört haben.
+Was aber wirklich interessant ist: Es
+könnte bedeuten, dass Anthropic seine
+alte Strategie zur Markteinführung des
+gesamten Portfolios zurückbringt, bei
+der mehrere Cloud-Modelle gleichzeitig
+erscheinen. Und wenn man all die Tests
+betrachtet, die wir gesehen haben,
+scheint bei Anthropic hinter den
+Kulissen definitiv etwas Großes im
+Gange zu sein. Dies führt uns direkt
+zu Fable 5.2, das anscheinend gerade in
+Claude Code getestet wird, wobei einige
+Anfragen für Fable 5.1 Berichten
+zufolge an das neuere Modell
+weitergeleitet werden. Eine Methode,
+mit der Leute dies getestet haben, ist
+der Prompt: „Wer ist Tibo, der
+Reset-Typ? Nutze kein Web und keinen
+Speicher.“ Die Ergebnisse deuten
+darauf hin, dass einige Nutzer bereits
+auf Fable 5.2 zugreifen könnten. Im
+Grunde wird dieser Prompt als
+Routing-Test verwendet. Die Idee
+dahinter ist, dass Tibo ein sehr
+aktueller und nischiger Bezugspunkt ist
+, den das ältere Fable 5.1-Modell
+angeblich nicht kannte. Deshalb fragen
+die Leute, wer Tibo, der Reset-Typ, ist
+und ob Claude ohne Websuche oder
+Speicher korrekt weiß, wer Tibo ist.
+Die Leute sehen dies als Hinweis darauf
+, dass die Anfrage möglicherweise an
+einen neueren Checkpoint wie Fable 5.2
+weitergeleitet wurde, dessen
+Trainingsstichtag oder internes Wissen
+aktueller ist. Ehrlich gesagt, was für
+eine verrückte Woche für KI, egal was
+wir gerade sonst noch sehen. Denn wir
+haben Gemini 4, das Berichten zufolge
+innerhalb der Arena unter Gemini 3.8
+Flash getestet wird. Rock 4.7 scheint
+ebenfalls bereit zu sein. Wir sehen
+auch einige Demos, die möglicherweise
+mit Opus 5.2 und GPT-6 Soul verknüpft
+sind, was ebenfalls einsatzbereit ist.
+Wir könnten auf eine massive Welle
+neuer Spitzenmodelle zusteuern, die
+bald erscheinen. Wir haben noch nicht
+einmal die neuen chinesischen
+KI-Modelle erwähnt, die in Kürze auf
+den Markt kommen werden. Ich habe
+Informationen, dass Mini Max in Kürze
+ein Modell herausbringen sollte. Aber
+schaut euch das hier mal an. Hier
+konnte das neue Fable 5.2-Modell auf
+Max Reasoning das Schiff Titanic
+simulieren, wie es mit dem Eisberg
+kollidiert, und schaut euch das nur mal
+an, Leute. Das wurde tatsächlich
+komplett in 3GS gemacht, sieht aber
+hinsichtlich der Shader, der
+Animationen und sogar des Storyboards
+ziemlich realistisch aus. Es wurde
+vollständig mit Fable 5.2 erstellt,
+und es ist einfach wahnsinnig, dass es
+sogar Soundeffekte, Musik und all diese
+verschiedenen visuellen Elemente
+hinzugefügt hat. Dies ist nun ein
+ziemlich interessantes Spiel, das das
+Modell vollständig erschaffen hat.
+Fable 5.2 erstellte sowohl dieses Video
+als auch dieses Spiel, wobei die
+Anfrage Berichten zufolge von Fable 5.1
+an diesen neueren Checkpoint
+weitergeleitet wurde. Aber schauen Sie
+sich nur die Qualität dieses
+Ergebnisses an. Es ist wirklich
+beeindruckend und fügt eine Menge
+verschiedener Elemente hinzu, die wir
+so bei keinem anderen Modell gesehen
+haben. Dieser Checkpoint zeigt uns
+wirklich, wie beeindruckend dieser
+frühe Blick auf Fable 5.2 ist, da es
+in Bezug auf seine agentischen
+Programmierfähigkeiten wirklich
+leistungsfähig ist, besonders wenn es
+darum geht, verschiedene Arten von
+Visuals und Spielen zu programmieren.
+Basierend auf diesem Frontend ist es
+natürlich noch etwas zu früh für
+diese Behauptung, aber es sieht
+wirklich so aus, als würde Fable 5.2
+sich die Design-Krone zurückholen, was
+bedeutet, dass es definitiv den ersten
+Platz als bestes Modell für Frontend-
+oder Webentwicklung zurückerobern wird
+. Denn dies ist ein Frontend, das Fable
+5.2 mit verschiedenen Paketen und
+Typografien generiert hat. Man sieht,
+wie klar und schön es diese
+Landingpage mit Scroll-Triggern und all
+diesen Elementen entwickeln konnte–
+alles generiert mit diesem einfachen
+Frontend, das es in einem einzigen
+Prompt vollständig programmieren
+konnte. Im Grunde könnte Anthropic
+aber zwei Monster gleichzeitig
+aushecken. Wir hatten bereits Opus 5.2
+erwähnt, das sich anscheinend darauf
+konzentriert, Programmierung und
+agentische Arbeit mit Opus auf ein
+neues Level zu heben; aber Fable 5.2
+könnte ein massiver Sprung für die
+Spieleentwicklung, visuelle
+Programmierung sowie
+Gen-Z-Programmierung sein. Und hier
+werden wir diese zwei neuen
+beeindruckenden Modelle von Anthropic
+bekommen, die die Grenzen noch weiter
+verschieben werden. Hier ist nun eine
+weitere Generierung von Fable 5.2, die
+einfach unglaublich ist, Leute. Dies
+ist ein vollwertiger Brawl-Stars-Klon,
+der nach nur einer Stunde vollständig
+entwickelt wurde. Und es hat all dies
+in reinem Code mit Three.js erstellt.
+Schauen Sie sich nur die Qualität
+dieses Spiels an, das das neue Fable
+5.2 generiert hat. Dies sieht wirklich
+nach einem ziemlich ausgereiften Spiel
+aus, für das ein Entwickler
+wahrscheinlich mehrere Wochen gebraucht
+hätte, um es vollständig zu
+programmieren. Mit Animationen und
+verschiedenen Texturen, alles wurde
+vollständig von Fable 5.2 generiert.
+Ich kann einfach nicht glauben, dass
+dieses Modell eine solche Qualität
+ausgeben konnte. Schauen wir nach vorne
+: Wir wissen, dass Gemini 4 angeblich
+in der Arena getestet wird, und bisher
+schlägt es sich in fast jedem Bereich
+beachtlich gut. Derselbe Prompt wurde
+mit GBC-6 Astra ausgeführt, und im
+direkten Vergleich wirkt die Version
+von Gemini 4 unglaublich stark; man
+kann wirklich sagen, dass es absolut
+mit den modernsten Modellen
+vergleichbar ist. Aber heute haben wir
+auch die Gemini 4-Benchmarks gesehen,
+die angeblichen Benchmarks, die
+überall auf X kursierten. Doch Leute,
+das ist eine Fälschung. Das ist ein
+komplettes Bild, das von einer KI
+generiert wurde. Tut mir leid, euch da
+enttäuschen zu müssen, aber wir haben
+viele neue, beeindruckende Vergleiche
+für euch. Dies ist ein Test, bei dem
+Gemini 4 gegen Fable 5 und GBZ 6 Astra
+antrat. Gemini 4 Pro konnte bei dieser
+spezifischen Generierung unglaublich
+detaillierte Strukturen erzeugen, und
+man sieht einfach, dass es ein extrem
+ausgefeiltes Endergebnis liefert, das
+vielleicht sogar besser aussieht als
+das der beiden anderen Modelle. Wenn
+euch dieses Video gefällt und ihr den
+Kanal unterstützen möchtet, könnt
+ihr eine Spende über die „Super
+Thanks“-Option unter dem Video in
+Betracht ziehen. Oder ihr könnt
+unserem privaten Discord beitreten, wo
+ihr monatlich kostenlosen Zugang zu
+mehreren Abonnements verschiedener
+KI-Tools sowie tägliche KI-News,
+exklusive Inhalte und vieles mehr
+erhaltet. Als Nächstes folgt eine
+ziemlich interessante Geschichte, laut
+dem Wall Street Journal. Googles Gemini
+hat angeblich während eines
+Cybersicherheitstests auf das offene
+Internet zugegriffen und ist in die
+Systeme von drei echten Unternehmen
+eingedrungen. Dies wird als der erste
+bekannte Ausbruch eines
+Google-KI-Modells beschrieben. Google
+ist mit diesem neuen Modell also
+definitiv auf einem guten Weg. Google
+erklärte jedoch, dass das Modell jeden
+Eindringversuch stoppte, sobald es
+erkannte, dass es auf ein echtes
+Unternehmen zugegriffen hatte, und gab
+an, dass der Vorfall keinen Schaden
+verursacht habe. Google teilte
+außerdem mit, dass der Vorfall zum
+damaligen Zeitpunkt keine umfassendere
+öffentliche Bekanntmachung erforderte.
+Das ist eine wirklich coole und
+interessante Geschichte von Google,
+besonders da ihre Modelle bisher eher
+unter den Erwartungen geblieben sind.
+Dies deutet wirklich darauf hin, dass
+ihre neuen Modelle in Bezug auf ihre
+Fähigkeiten in verschiedenen Bereichen
+ziemlich kompetent sind. Als Nächstes:
+XAI hat Grok 4.7 heute doch nicht
+veröffentlicht, da es so aussieht, als
+sei es auf nächste Woche verschoben
+worden. Aber sie haben Grok Voice
+Transcribe 2.0 angekündigt. Dies ist
+ein mehrsprachiges
+Spracherkennungsmodell, das laut
+Artificial Analysis derzeit bei der
+Genauigkeit von 32
+Streaming-Transkriptionsmodellen auf
+Platz eins liegt. Es unterstützt
+außerdem sowohl Batch-als auch
+Echtzeit-Streaming sowie Funktionen wie
+Sprecher-Diarisierung,
+Mehrkanal-Transkription, 18-Biasing,
+automatische Formatierung, das
+Entfernen von Füllwörtern und
+intelligente Spracherkennung. XCI
+entwickelt Grok also eindeutig über
+ein reines Sprachmodell hinaus weiter
+in Richtung Echtzeit-Sprach-und
+Audio-KI. Als Nächstes gibt es ein
+ziemlich großes Update für Claude
+Code, das gerade Unterstützung für
+agents.md hinzugefügt hat. Ab dieser
+neueren Version 2.1.277 prüft Claude
+Code automatisch auf agents.md und
+verwendet diese Datei, falls keine
+Claude.md im Ordner gefunden wird;
+dieses Verhalten lässt sich über den
+Befehl/config steuern. Das wirklich
+Interessante daran ist, dass dies auf
+Claude Code Mods und einem kommenden
+System basiert, mit dem Entwickler die
+Claude-Code-Umgebung anpassen und sogar
+ihre eigenen Produktanweisungen
+erstellen können. Claude Code wird
+durch dieses neue Feature also in
+Zukunft deutlich flexibler anpassbar
+sein. Kommen wir zu KI-Leaks: Es wurden
+Gemini Worlds gezeigt–eine
+beeindruckende frühe Demo, die ein
+unglaublich detailliertes, immersives
+Umgebungssystem präsentiert, in dem
+man verschiedene Welten erkunden kann.
+Google verfolgt hier einen spannenden
+Ansatz, denn ich bin überzeugt, dass
+dies eine großartige interaktive
+Methode zum Lernen und zur
+Präsentation verschiedener
+Visualisierungen ist. Die Idee ist,
+dass man sich durch KI-generierte
+Welten bewegen und sie aus
+verschiedenen Perspektiven erkunden
+kann–egal ob mikroskopisch klein,
+völlig imaginär oder tief im Weltraum
+. Google investiert bereits stark in
+diese Richtung mit Genie 3 und Project
+Genie, das interaktive Umgebungen in
+Echtzeit während der Navigation
+generiert. Sollte diese
+Gemini-Worlds-Demo authentisch sein,
+sieht es so aus, als könnte Google
+dieses Konzept noch weiter vorantreiben
+. Jede hier gezeigte Umgebung sieht
+unglaublich detailliert aus, und ich
+bin sehr gespannt, wann sie dies
+tatsächlich veröffentlichen werden.
+Zuletzt gibt es ein Update von Figure:
+Sie haben nun Helix 2.5 vollständig
+eingeführt, und das ist wirklich
+beeindruckend. Ich möchte diesen
+humanoiden Roboter unbedingt kaufen und
+bei mir zu Hause haben, da er die Art
+und Weise, wie Roboter unser Leben
+unterstützen–etwa beim Wäschefalten
+oder in der Küche–, revolutionieren
+wird. Es gibt nun Aufnahmen von vier
+Stunden, in denen Helix 2.5 in 30
+verschiedenen Haushalten ohne
+zusätzliches Training arbeitet. Dabei
+wurden zufällig ausgewählte Roboter
+aus dem Standby-Modus in unbekannte
+Umgebungen geschickt, in denen sie
+zuvor noch nie waren. Und hier ist es
+in der Lage, tatsächlich in völlig
+unterschiedlichen realen Umgebungen zu
+arbeiten, ohne für jedes Zuhause neu
+trainiert werden zu müssen. Dies ist
+ein weiterer großer Einblick in die
+Richtung, in die sich
+Allzweck-Humanoide schon bald
+entwickeln werden. Aber Leute, das war
+es auch schon mit dem heutigen Video.
+Ich werde alle Links, die ich im
+heutigen Video verwendet habe, unten in
+die Beschreibung setzen. Schaut euch
+unbedingt den World of AI Insider Club
+an, das ist unsere Schul-Community.
+Werft einen Blick auf die World of AI
+Bob Kading Plattform und das Benchmark,
+um bessere Einblicke zu erhalten,
+welches Modell ihr verwenden solltet.
+Schaut euch den zweiten Kanal an.
+Meldet euch unbedingt für unseren
+Newsletter an. Kommt zu uns auf Discord
+. Folgt mir auf Twitter. Und zu guter
+Letzt: Abonniert den Kanal. Aktiviert
+die Benachrichtigungsglocke. Gebt
+diesem Video ein Like. Und bitte seht
+euch unsere früheren Videos an, damit
+ihr bei den neuesten KI-Nachrichten auf
+dem Laufenden bleibt. Aber mit diesem
+Gedanken, Leute, habt einen
+großartigen Tag. Verbreitet
+Positivität. Und wir sehen uns schon
+bald wieder. Macht's gut, Leute.

@@ -1,0 +1,660 @@
+Die letzten 24 Stunden waren ziemlich
+verrückt. Wir hatten einige neue
+Modell-Drops von den größten
+KI-Laboren, aber es ist noch nicht
+einmal ein ganzer Tag vergangen und wir
+haben bereits bahnbrechende KI-News,
+über die wir sprechen können.
+Beginnen wir mit dem versteckten
+Astra-Minor-Modell von OpenAI. Jetzt
+eine Pause. Ich habe diesen Modellnamen
+nie gewählt, also sag nichts dazu,
+aber das Modell wurde im Hilfe-Center
+von OpenAI entdeckt und ist Berichten
+zufolge sogar besser als GPT-6 Soul,
+abgesehen vom Namen. Allerdings hat
+OpenAI inzwischen alle Verweise auf
+Astra Minor entfernt, aber
+möglicherweise wissen wir bereits
+einige Informationen über dieses
+mysteriöse Modell, die wir heute
+aufdecken werden. MiniMax M 3.1 wurde
+im offiziellen Modellkatalog von
+MiniMax entdeckt und könnte sehr bald
+erscheinen. Gleichzeitig tauchte auf
+OpenCode und OpenRouter ein neues
+Stealth-Modell namens Space Money auf,
+ein weiterer seltsamer Name, mit einem
+Kontextfenster von 1 Million Token und
+multimodaler Unterstützung.
+Interessanterweise passt sein Tokenizer
+perfekt zu MiniMax M3, auch wenn seine
+Leistung bisher eher enttäuschend war.
+Kommen wir zu Anthropic: Claude hat
+möglicherweise tatsächlich eine neue
+wissenschaftliche Entdeckung gemacht.
+Rund 950 Claude-Agenten durchsuchten
+mehr als 200.000 Enzyme und entdeckten
+ein bisher unbekanntes biologisches
+System mit Ähnlichkeiten zu den
+Mustern, die ursprünglich zu CRISPR
+führten. Die Wissenschaftler von
+Anthropic überprüften diese
+Entdeckung dann in einem echten Labor
+und nannten sie Kunst. Wir wissen nicht
+genau, was sie bewirkt, aber dies
+könnte ein erster Vorgeschmack darauf
+sein, wie KI echte wissenschaftliche
+Entdeckungen beschleunigt. Apropos
+Anthropic: Sonnet 5.5 befindet sich
+offenbar bereits im Stealth-Test, aber
+Preise und andere Details sickern
+bereits durch, die wir heute aufdecken
+werden. Anthropic erwog auch, den
+Plan-Modus komplett aus dem Plot-Code
+zu entfernen und ihn durch eine
+einstellbare Aufwandsstufe über Shift
++ Tab zu ersetzen, worüber wir später
+sprechen werden. Wir haben außerdem
+Informationen zum neuen Spark 1.4,
+Xiaomis kommender Memo Version 3.0,
+neuen OpenAI-Sprachupdates, einem
+weiteren Gemini-Modell, neuen
+Meta-Brillen und vielem mehr. Also,
+lasst uns einfach mal alles genauer
+unter die Lupe nehmen. KI schreibt die
+Apps, die ihr nutzt, und die Werbung,
+die ihr überspringt. Da blinzelt doch
+keiner, oder? Eine E-Mail damit und ihr
+seid ein Betrüger. Nehmen wir mal an,
+GPT hat das gesponsert. Also, testen
+wir es mal. Hier ist der unberührte
+erste KI-Entwurf. In Super, ihrem
+neuesten Humanizer, fügt ihr ihn ein,
+klickt und lasst ihn laufen. Hier ist
+das Ergebnis. Dieselbe zentrale Idee,
+aber achte auf die Formulierung.
+Vergleicht es mit dem Original. Jetzt
+Pangram, dieselbe unveränderte Ausgabe
+, und das ist die aufgezeichnete
+Wiederholung. Mal sehen, was der
+Detektor sagt. Da ist es.
+Handgeschrieben bewertet dieses
+Beispiel als 100%von Menschen
+geschrieben. Newsletter,
+Kundenentwürfe, Landingpages, kalte
+E-Mails, LinkedIn-Posts. Du bist immer
+noch der Editor. Du hast das Recht,
+zusammen mit der KI zu schreiben.
+Stealth GPT.ai ist die beste Wahl.
+Fangen wir zunächst mit Astra Minor an
+, denn dieses Modell scheint
+tatsächlich echt zu sein. Es wurde
+direkt im Hilfecenter von OpenAI
+entdeckt, und das buchstäblich einen
+Tag nach dem Start von GPT-6 Soul. Das
+Verrückte ist jedoch, dass Astra Minor
+innerhalb der GPT-6-Familie noch höher
+angesiedelt zu sein scheint als Soul.
+OpenAI hat den Verweis auf Astra Minor
+umgehend aus seiner Dokumentation
+entfernt. Wir haben ein paar wichtige
+Details darüber erfahren. Astra Minor
+wurde ausdrücklich als unterstütztes
+Hauptmodell aufgeführt, getrennt von
+Astra, Soul und Luna. Es unterliegt
+außerdem demselben Daybreak
+Cyber-Zugriffsframework wie Astra und
+verfügt über die standardmäßigen
+Daybreak Blue-Schutzmaßnahmen. Bislang
+kennen wir noch nicht die Benchmarks,
+Preise, das Kontextfenster oder den
+Zeitpunkt der tatsächlichen
+Markteinführung oder ob sie überhaupt
+eingeführt wird. Wir wissen nicht
+einmal genau, wofür der Name Minor
+steht. Meine derzeitige Theorie ist,
+dass es sich hierbei um eine kleinere,
+kostengünstigere und effizientere
+Version von Astra handeln könnte, die
+die große Lücke zwischen GPT-6 Soul
+und der Vollversion von Astra schließt
+. Das ist im Moment aber nur reine
+Spekulation. So oder so sieht das nicht
+mehr nach einem zufälligen
+Konfigurationsleck aus, denn der Astra
+Minor scheint ein echtes OpenAI-Modell
+zu sein und gehört zur GPT-6-Familie.
+Vielleicht sehen wir das noch in diesem
+Monat oder sogar Anfang nächsten
+Monats. Tut mir leid, dass ich so ein
+bisschen auf die Schliche komme, Leute,
+aber wenn ihr es noch nicht getan habt,
+dann abonniert bitte den YouTube-Kanal
+„World of AI“ und liked dieses
+Video, denn das hilft mir wirklich und
+hilft mir, jeden Tag mehr Videos zu
+machen. Es unterstützt mich wirklich
+sehr, daher würde ich mich sehr freuen
+, wenn ihr das auch tun könntet.
+Minimax M 3.1 wurde im offiziellen
+Modellkatalog von Minimax entdeckt und
+erscheint damit offensichtlich vor M3
+und M 2.7. Interessanterweise hat das
+Modell derzeit jedoch keinen
+Konfigurationsblock. Es steht nicht auf
+der Whitelist und erscheint nicht im
+ausgelieferten Code von Minimax, was
+stark darauf hindeutet, dass es sich um
+eine inszenierte Version handelt, die
+aber noch unangekündigt ist. Obwohl
+wir es noch nicht wissen oder eine
+offizielle Bestätigung haben, sieht es
+so aus, als ob Minimax bereit ist,
+dieses neue Modell zu veröffentlichen.
+Es sollte vielleicht innerhalb der
+nächsten 2 Wochen erscheinen.
+Außerdem ist gerade ein neues
+Stealth-Modell namens SpaceBunny Alpha
+auf OpenRouter, OpenCode und vielen
+anderen Plattformen aufgetaucht, das
+für die nächste Woche komplett
+kostenlos ist. Es verfügt über ein
+riesiges Kontextfenster von 1 Million
+Token mit multimodaler Unterstützung
+und ohne Datenspeicherung. Aber hier
+wird es interessant. Es gibt immer mehr
+Hinweise darauf, dass SpaceBunny
+tatsächlich der neue MiniMax M 3.1
+sein könnte, denn wenn man auf
+Chinesisch dazu aufgefordert wird,
+identifiziert sich das Modell Berichten
+zufolge als MiniMax-Modell. Und was
+noch wichtiger ist, sein Text-Tokenizer
+passt perfekt zum MiniMax M3. Der
+Bild-Tokenizer ist jedoch anders, was
+möglicherweise auf ein verbessertes
+multimodales System hindeutet.
+Natürlich bestätigt das alles noch
+nicht zu 100%, dass SpaceBunny M 3.1
+ist. Aber dass M 3.1 gleichzeitig im
+Katalog von MiniMax erscheint und
+dieses neue Stealth-Modell auftaucht,
+ist auf jeden Fall interessant. Eines
+möchte ich gleich vorweg sagen. Ich
+sage nicht, dass dieses Modell
+schrecklich ist, aber in puncto
+Webentwicklung kann es mit vielen
+anderen Open-Source-Modellen nicht
+mithalten. Die Leistung von Space Bunny
+war bisher in den Bereichen Physik und
+vielen dieser verschiedenen
+Webentwicklungstests ziemlich
+schrecklich. Denn hier wurde es in
+verschiedenen Physikszenen, darunter
+eine Explosion, ein Tornado, ein
+platzender Ballon und herabfallende
+Wassertropfen, gegen GLM 5.3 getestet.
+Hier hat GLM 5.3 Space Bunny bei
+Newtons Wiege ganz klar geschlagen.
+Beide Modelle hatten bei der Simulation
+von Wassertropfen und Tornados große
+Probleme. Aber egal, Space Bunny ist im
+Vergleich zu GLM 5.3, das für all
+diese verschiedenen Tests etwa 40 Cent
+gekostet hat, derzeit kostenlos. Anhand
+dieser Ergebnisse lässt sich jedoch
+klar erkennen, dass es hinsichtlich der
+Performance eine große Lücke gibt.
+Hier beispielsweise scheiterte das
+Programm sogar an der
+Minecraft-Eingabeaufforderung, was
+ziemlich unglücklich ist. Hier werden
+fehlerhafte Texturen ausgegeben und es
+ist nicht wirklich gut darin, einen
+guten Sandbox-Klon des ursprünglichen
+Minecraft-Spiels zu formulieren. Und
+wenn man Space Money mit Javelin 5.3
+vergleicht, hoffe ich wirklich, dass es
+sich nicht um das MiniMax-Modell
+handelt, aber es ist auf jeden Fall
+sehr schnell und bietet viele
+großartige Verbesserungen bei den
+Texteingabeaufforderungen. Ich weiß
+nicht, ob das für jeden interessant
+ist, aber wenn wir zu Anthropic
+wechseln, hat Claude möglicherweise
+gerade eine echte wissenschaftliche
+Entdeckung gemacht. Das ist ziemlich
+abgefahren, und ich fand es wirklich
+interessant, weil es eines der
+verrücktesten Beispiele dafür ist,
+wie KI für echte wissenschaftliche
+Forschung eingesetzt wird. Natürlich
+haben wir viele Entwicklungen in der
+Krebsforschung mit anderen Modellen
+gesehen, aber hier hat Anthropic vor
+Kurzem ein eigenes modulares
+Biologielabor aufgebaut, in dem Claude
+mit menschlichen Wissenschaftlern
+zusammenarbeitet. Für dieses
+Experiment liefen etwa 950
+Claude-Agenten 21 Stunden lang parallel
+und verwendeten etwa 210 Millionen
+Token, um mehr als 200.000 Reverse
+Transkriptasen zu durchsuchen. Das sind
+Enzyme, die im Wesentlichen RNA in DNA
+kopieren. Und hier wird es interessant,
+denn Claude wurde nicht ausdrücklich
+gesagt, wonach er bei dieser Entdeckung
+suchen sollte. Einer der Agenten
+bemerkte unabhängig davon ein
+seltsames, sich wiederholendes
+DNA-Muster, das sich neben einem dieser
+Enzyme befand. Das erregte seine
+Aufmerksamkeit, weil die Struktur
+Ähnlichkeiten mit CRISPR aufwies.
+CRISPR ist ein biologisches Muster mit
+Arrays, das Wissenschaftler
+letztendlich zur
+Gen-Editierungstechnologie CRISPR
+führte. Claude untersuchte dieses
+Muster, verglich es mit bekannten
+biologischen Systemen, durchsuchte
+vorhandene Forschungsergebnisse und
+kennzeichnete es schließlich als
+potenziell neues Modell, das von
+menschlichen Wissenschaftlern
+untersucht werden könnte. Die Forscher
+von Anthropic übernahmen dann,
+testeten es in einem echten Labor und
+bestätigten, dass es sich um ein
+bisher nicht charakterisiertes
+biologisches System handelt, das
+tatsächlich real ist. Daher nannten
+sie es ART. Nun ist es wichtig, dass
+wir das nicht überbewerten, denn das
+ist etwas, das die meisten
+KI-Nachrichtenagenturen wie ich am Ende
+tun. Aber das ist etwas, von dem wir
+immer noch nicht genau wissen, wozu es
+tatsächlich in der Lage ist, so wie
+ART, und es gibt derzeit keine Beweise
+dafür, dass es wie CRISPR zur
+Genbearbeitung verwendet werden kann.
+Aber die Tatsache, dass KI einen
+riesigen biologischen Datensatz
+durchsucht, etwas bemerkt hat, das
+Menschen zuvor übersehen hatten, eine
+Hypothese aufgestellt und dann mit
+Wissenschaftlern zusammengearbeitet hat
+, ist etwas, woran KI tatsächlich
+arbeiten könnte. Das ist natürlich
+ein Experiment, aber es ist verrückt
+zu sehen, dass KI auf diese Weise
+eingesetzt werden kann. Laut Anthropic
+würde diese Art von Analyse für einen
+Experten normalerweise Wochen oder
+sogar Monate dauern. Und jetzt wollen
+sie diesen Prozess in der Genomik und
+anderen Bereichen der Biologie
+wiederholen. Das macht Dario Amodeis
+Prognose noch interessanter, denn er
+glaubt, dass KI potenziell dazu
+beitragen könnte, die meisten
+Krankheiten innerhalb der nächsten 5
+bis 10 Jahre zu heilen. Er bezeichnet
+das Ergebnis allerdings als kaum
+möglich und sagt, dass KI im Grunde
+jede Phase der biologischen Forschung
+beschleunigen müsste. Wie Dario es
+ausdrückt, besteht der erste Schritt
+darin, zu beweisen, dass KI bei
+biologischen Entdeckungen helfen und
+diese letztendlich vorantreiben kann.
+Claude hat hier natürlich keinen Krebs
+geheilt, aber es hat uns
+möglicherweise nur einen ersten Blick
+in eine Zukunft gewährt, in der KI
+definitiv bei diesen Fortschritten
+helfen kann. Wenn du die besten
+KI-Tools, Workflows und Drops vor allen
+anderen haben möchtest, abonniere
+meinen kostenlosen Newsletter mit dem
+Link in der Beschreibung unten, der
+völlig kostenlos ist. Muse Spark 1.4
+wurde jetzt im offenen Code entdeckt,
+aber es gibt einen wichtigen Haken an
+der Sache. Was in Muse Spark 1.4
+tatsächlich erscheint, ist der
+Mitwirkende, nicht die vollständige
+Flaggschiff-Version von Spark 1.4. Das
+scheint der gleichen Strategie zu
+folgen, die wir bei Spark 1.2 und 1.3
+gesehen haben, zu denen ich noch nicht
+einmal ein Video gemacht habe. Hier
+erscheint jedoch zuerst die günstigere
+Contributor-Version, im Austausch
+dafür, dass die Daten für das
+Training verwendet werden dürfen. Und
+im Moment wird diese Statistikseite
+fast ohne Verwendung angezeigt, was
+darauf hindeutet, dass dies einfach nur
+ein frühes Verzeichnisleck vor der
+eigentlichen Veröffentlichung sein
+könnte. Und das neueste offiziell
+angekündigte Modell ist immer noch
+Muse Spark 1.3, 1.4 wurde also noch
+nicht veröffentlicht. Und das sollte
+auch niemanden mit dem mysteriösen
+Watermelon-Modell verwirren, das
+anscheinend tatsächlich deutlich mehr
+Rechenleistung verbraucht. Spark 1.4
+sieht eher wie ein inkrementelles
+Upgrade aus, während Watermelon
+möglicherweise ein viel größeres
+Modell ist, auf das wir warten. Wie
+auch immer, Meta hat die Dinge dieses
+Jahr definitiv ernst genommen und
+arbeitet an einem großen Comeback. Als
+Nächstes testet Anthropic offenbar
+bereits Claude Sonnet 5.5 unter dem
+Modellnamen Claude Sonnet 5-5.
+Berichten zufolge erhielten einige
+Partner nur 24 Stunden lang Zugriff
+darauf. Dies geschah offensichtlich
+direkt nach der Veröffentlichung von
+Opus 5.5. In diesem Blogbeitrag wurde
+erklärt, dass Haiku 5.5 und Sonnet 5.5
+in den nächsten Wochen erscheinen
+werden. Es ist wirklich schön zu sehen
+, dass Sonnet oder Anthropic
+tatsächlich ihr Wort halten. Die
+bisherigen geleakten Spezifikationen
+für das Sonnet-Modell sind ziemlich
+interessant. Es ist immer noch recht
+teuer, das ist also das einzig Traurige
+. Berichten zufolge verfügt Sonnet 5.5
+jedoch über ein Kontextfenster von 1
+Million Token mit bis zu 128.000 Token
+an Ausgabe und adaptivem Denken, das
+jetzt standardmäßig aktiviert ist.
+Eine weitere bemerkenswerte Änderung
+ist, dass die erzwungene Verwendung von
+Tools offenbar eingestellt wurde, was
+darauf schließen lässt, dass
+Anthropic möchte, dass das Modell
+intelligenter entscheidet, wann Tools
+tatsächlich erforderlich sind. Die
+Preisgestaltung könnte ein wichtiger
+Teil dieser Version sein, denn die
+aktuell geleakten Zahlen besagen 2
+US-Dollar für 1 Million Input-Token,
+10 US-Dollar für 1 Million
+Output-Token und nur 20 Cent pro 1
+Million Token für Cash-Reads.
+Natürlich ist das noch nicht offiziell
+, aber der Leaker, den wir hier
+vorstellen, ist Light Lyra. Er hat
+tatsächlich vor allen anderen über
+Opus 1.5 gesprochen und lag mit der
+Preisangabe, die am Ende für 1.5
+veröffentlicht wurde, tatsächlich
+richtig. Und zum Thema Anthropic: Einer
+der leitenden Entwickler hinter Claude
+Code hat gerade verraten, dass sie
+erwägen, den Plan-Modus komplett
+abzuschaffen. Stattdessen könnte die
+Tastenkombination Umschalt + Tab
+verwendet werden, um den Aufwand des
+Modells anzupassen. Das Argument ist,
+dass die neueren Modelle so
+leistungsfähig werden, dass sie
+einfach keinen dedizierten
+Planungsmodus mehr benötigen. Aber ich
+bin ehrlich gesagt nicht ganz
+überzeugt davon. Der Plan-Modus ist
+nicht unbedingt nur für die Agenten
+gedacht. Er ist auch für die Person
+nützlich, die ihn verwendet. Ich
+verwende es manchmal, wenn ich genau
+festlegen möchte, was gebaut werden
+soll. Im Grunde kann ich es von einem
+Agenten überprüfen lassen oder einen
+beliebigen Agenten diesen Ansatz
+überprüfen lassen, Änderungen an
+meinem eigenen Plan vornehmen, den ich
+mit dem Agenten entwickle, und erst
+dann kann ich mit der Bearbeitung des
+Codes beginnen oder den Agenten daran
+arbeiten lassen. Selbst wenn die
+Modelle gut genug werden, um intern zu
+planen, denke ich immer noch, dass es
+sinnvoll ist, einen dedizierten Modus
+zu haben, in dem man die KI zunächst
+als Planer verwenden und dann einen
+Agenten die zweite Einschätzung geben
+kann. Ich würde es vorziehen, wenn
+sich ein Planungsmodus weiterentwickelt
+, anstatt ihn ganz zu verschwinden. Das
+ist nur meine Meinung, und das ist
+etwas, das viele andere Leute auch
+sagen. Als Nächstes kommen ein paar
+neue Funktionen, die in Claude Code
+eingeführt werden. Hier führt
+Anthropic Projekte ein, die ich vor ein
+paar Wochen bereits erwähnt habe, die
+aber jetzt für Claude Code auf dem
+Desktop und im Web verfügbar sind. Im
+Grunde genommen fungiert ein Projekt
+als eine Konversation, in der Claude
+die Arbeit automatisch in mehrere
+Threads aufteilen, sie parallel
+ausführen und den Kontext zwischen
+ihnen austauschen kann. Und sie sogar
+weiterarbeiten lassen kann, während
+Sie nicht da sind. Sie haben außerdem
+lokale Unterstützung hinzugefügt,
+sodass diese Threads direkt auf Ihrem
+eigenen Rechner ausgeführt werden
+können. Sie ist ab heute für
+ausgewählte Pro-und Max-Nutzer
+verfügbar, eine breitere Einführung
+folgt in Kürze. Und Claude Code Cloud
+Sessions sind jetzt auch offiziell als
+Research Preview verfügbar. Das
+bedeutet, dass Sie mit dem
+Programmieren von Aufgaben in der Cloud
+beginnen können und Claude auch dann
+weiterarbeiten kann, wenn Ihr Laptop
+zugeklappt ist. Da alles auf der
+Infrastruktur von Anthropic läuft,
+sind Cloud-Sessions in den Pro-und
+Max-Plänen enthalten und Anthropic
+gewährt bestehenden Abonnenten
+außerdem ein einmaliges Bonusguthaben
+von 100 $ für Pro-Pläne und 250 $
+für Max-Pläne. Dieses Guthaben kann
+zunächst aufgebraucht werden, bevor es
+wieder in Ihren normalen Tarif
+einfließt. Anschließend können Sie
+Cloud-Sessions über das Web, Ihr Handy
+, Ihren Desktop oder direkt über die
+Befehlszeilenschnittstelle starten.
+Wenn Ihnen dieses Video gefällt und
+Sie den Kanal unterstützen möchten,
+können Sie über die Option „Super
+Thanks“ unten für meinen Kanal
+spenden. Oder Sie können unserem
+privaten Discord-Server beitreten, wo
+Sie monatlich kostenlos auf mehrere
+Abonnements für verschiedene KI-Tools
+zugreifen können, sowie tägliche
+KI-News und exklusive Inhalte und
+vieles mehr. Ich weiß, wir alle wissen
+, dass Kimi K 3.1 recht bald erscheinen
+wird, aber es sieht so aus, als ob es
+jetzt tatsächlich bestätigt wurde,
+denn die Community hat entdeckt, dass
+Kimis Online-Konfiguration mit diesem
+neuen Kimi K 3.1-Agenten-Routingmodell
+aktualisiert wurde und es bereits in
+der Liste der verfügbaren Modelle
+angezeigt wird. Die Konfigurationen
+umfassen die Denkmodi „Low“, „
+High“ und „Max“ mit dem riesigen
+Kontextfenster von 1 Million Token und
+der fortgesetzten Unterstützung für
+Swarm. Dies geschieht auch nur wenige
+Tage, nachdem Kimi 3.1 in diesem
+mysteriösen Pi-Post angekündigt hat.
+Obwohl 3.1 noch nicht offiziell
+veröffentlicht wurde, scheint es, als
+stünde die Veröffentlichung kurz
+bevor. Als Nächstes ändert Xiaomi
+bereits die zugrunde liegende
+Architektur für Mimo Version 3.0, und
+wir haben gerade Version 2.6
+vorgestellt. Es sieht so aus, als ob
+das Team bereits an der Architektur
+für diese neue 3.0-Familie arbeitet,
+um sie für lang laufende KI-Agenten
+effizienter zu machen. Der Grund dafür
+ist im Grunde, dass der Kontext von
+KI-Agenten ständig wächst, was ihren
+Betrieb immer teurer macht. Diese neue
+Architektur löst dieses Problem, indem
+sie den KV-Cache zwischen Ebenen
+gemeinsam nutzt und wiederverwendet.
+Dabei geht sie intelligent mit den
+vorherigen Token um, die tatsächlich
+für die Spannung benötigt werden. Die
+Ergebnisse sind ziemlich beeindruckend,
+denn bei einem Kontextfenster von 1
+Million Token verwendet sie etwa
+fünfmal weniger Prefill-Flops und
+einen 4,5-mal kleineren KV-Cache als
+die Mimo-Version 2.6, während sie
+gleichzeitig den Abruf langer Kontexte
+verbessert. Im Wesentlichen sollte
+diese neue Architektur für die Version
+3.0 umfangreiche Kontext-und lang
+andauernde Agentenaufgaben viel
+schneller und effizienter verarbeiten.
+Bei einem Wechsel zu OpenAI hat die
+ChatGPT-Sprachfunktion heute ein
+umfangreiches Upgrade erhalten. Die
+Sprachfunktion kann jetzt Ihre
+verbundenen Apps wie E-Mail, Kalender
+und Slack verwenden und kann von den
+GPT-6-Modellen Astra, Sol und Luna
+unterstützt werden. Das wahrscheinlich
+größte Update ist jedoch, dass die
+Sprachfunktion jetzt mit ChatGPT
+zusammenarbeiten kann. Das bedeutet,
+dass Sie buchstäblich mit ChatGPT
+sprechen und es Dokumente,
+Präsentationen, Websites,
+Tabellenkalkulationen erstellen oder
+sogar komplexe Browseraufgaben für Sie
+erledigen lassen können. Dieses Modell
+wird derzeit weltweit eingeführt und
+verwandelt im Grunde genommen die
+Sprachsteuerung von etwas, mit dem man
+einfach nur sprechen kann, in etwas,
+das tatsächlich Maßnahmen für einen
+ergreifen kann, damit man seine Arbeit
+erledigen kann. Google hat zwei neue
+Modelle vorgestellt, Gemini 3.8/TTS und
+Gemini 3.8 Flashlight TTS, die laut
+Google die bislang ausdrucksstärksten
+Modelle für die Audiogenerierung sind.
+Diese Modelle wurden entwickelt, um
+eine viel natürlichere und
+ausdrucksstärkere Sprache für Dinge
+wie KI-Unterstützung, Erzählungen,
+Podcasts oder andere Sprachanwendungen
+zu generieren. Beide Modelle sind über
+die Gemini API und Google AI Studio
+verfügbar, wobei Flash das
+leistungsstärkere Modell ist und
+Flashlight eine leichtere und
+kostengünstigere Option bietet. Zu
+guter Letzt hat Meta heute etwas
+ziemlich Einzigartiges vorgestellt.
+Hierbei geht es zwar nicht zu 100%um KI
+, aber es handelt sich um einige neue
+Produkte, die auf den Markt gebracht
+wurden und bei denen KI mit dem
+eigentlichen Produkt selbst verknüpft
+ist. Heute haben sie nämlich diese
+beeindruckende neue VR-Brille
+vorgestellt, die nur etwa 100 g wiegt,
+also ungefähr so viel wie ein
+Kartenspiel. Meta behauptet, dass dies
+das beste Anzeigesystem ist, das das
+Unternehmen jemals entwickelt hat. Im
+Wesentlichen vereint es Kino, Computer
+und Spielekonsole in einer Brille, die
+von einem KI-System gesteuert wird. Man
+erhält riesige virtuelle Bildschirme,
+vollständige 3 D-Umgebungen und sogar
+DisplayPort über USB-C. Leute, die sie
+ausprobiert haben, sagten, dass es sich
+wirklich so anfühlte, als hätte man
+einen Computer im Gesicht. Eine Demo
+deutete an, dass man mithilfe
+virtueller Arbeitsbereiche sogar einen
+ganzen Film bearbeiten kann. Auch Metas
+KI-Strategie wird immer interessanter,
+denn laut Zuckerberg verschenkt Muse
+riesige Mengen an Token, Berichten
+zufolge etwa 100 Millionen Token pro
+Woche, zusammen mit dem Zugang zu einer
+virtuellen Maschine. Die größere Idee
+scheint darin zu bestehen, KI-Agenten
+dazu zu bringen, Nutzern tatsächlich
+bei der Durchführung von Geschäften
+und Transaktionen zu helfen. Dabei
+könnte Meta möglicherweise mit
+Transaktionsgebühren Geld verdienen,
+anstatt sich nur auf Abonnements zu
+verlassen. Wenn Meta diese Brille
+tatsächlich mit leistungsfähigen
+persönlichen KI-Agenten kombiniert,
+könnte die Interaktion mit einem
+Computer völlig anders werden. Ehrlich
+gesagt, das war definitiv ein
+unglaublicher Tag im Bereich der KI. Es
+passiert noch viel mehr. Um auf dem
+Laufenden zu bleiben, solltet ihr euch
+unbedingt ein paar dieser verschiedenen
+Bereiche ansehen, wie zum Beispiel
+unsere Schul-Community. Dort könnt ihr
+natürlich immer über alle Neuigkeiten
+aus der Welt der KI auf dem Laufenden
+bleiben. Außerdem erhaltet ihr jeden
+Monat Zugriff auf kostenlose KI-Tools
+und viele weitere Vorteile. Außerdem
+könnt ihr frühzeitig auf KI-Modelle
+zugreifen. Schaut euch auch die Welt
+der KI von Coding Platform und
+Benchmark an. Werft einen Blick auf den
+Newsletter, werdet Teil des
+Discord-Kanals, folgt mir auf Twitter
+und schaut euch schließlich unseren
+zweiten Kanal an. Tritt der
+Twitter-Seite bei und folge mir auf dem
+YouTube-Kanal. Abonniert unbedingt
+unseren Kanal, aktiviert die
+Benachrichtigungsglocke, gebt diesem
+Video ein „Gefällt mir“ und schaut
+euch auch unsere vorherigen Videos an,
+um über die aktuellsten Cydia-News auf
+dem Laufenden zu bleiben. In diesem
+Sinne wünsche ich euch allen einen
+wunderschönen Tag, verbreitet
+Positivität und ich sehe euch ganz
+bald wieder. Ich glaube, ich habe es
+vermasselt, euch alles zu zeigen. Bis
+später, Leute.

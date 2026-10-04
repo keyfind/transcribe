@@ -1,0 +1,333 @@
+Es geht wild zu in der KI-Welt, und
+Google könnte langsam ein riesiges
+Comeback feiern. Heute haben wir einige
+ziemlich interessante Erkenntnisse, die
+darauf hindeuten, dass Google DeepMind
+offiziell RSI erreicht hat, was für
+rekursive Selbstverbesserung steht. Im
+Grunde bedeutet das, dass ein KI-Agent
+seine eigenen Fähigkeiten verbessern
+kann. Zuverlässige Leaker haben auf
+etwas namens RSI-Modell hingewiesen,
+einen Checkpoint, der erst gestern
+entdeckt wurde. Das wurde innerhalb von
+Google Bard X gefunden. Das könnten
+mehr als nur Gerüchte sein, denn
+Google gibt an, dass Demis Hassabis
+seine Aufmerksamkeit auf AGI richtet,
+während Berichte nahelegen, dass
+Sergey Brin Ressourcen in Richtung RSI
+lenkt. Während also alle auf Gemini 4
+warten, trainiert Google
+möglicherweise hinter den Kulissen den
+Trainer. Kommen wir zu Moonshot AI: Der
+Gemini K 2.8-Code wurde im Gemini-Code
+entdeckt und scheint langsam ausgerollt
+zu werden. Die frühen Generationen
+wirken vergleichbar mit Kimi K3, aber
+mit weitaus effizienterem Denken, was
+offensichtlich ein riesiges Upgrade
+sein wird, wenn man bedenkt, wie lange
+der K3 tatsächlich zum Denken braucht.
+Bei OpenAI dachten die Leute, dass GPT-
+6 Astra abgeschwächt wurde, nachdem
+die Generationen flacher und
+synthetischer wirkten. Aber anscheinend
+wurde Astra selbst gar nicht
+herabgestuft. Die Regression stammte
+von veralteten Skill-Dateien und falsch
+konfigurierten Inferenz-Engines. OpenAI
+hat jedoch zugehört und das Problem
+Berichten zufolge innerhalb von etwa 24
+bis 36 Stunden behoben, was ziemlich
+solide ist. Sie haben am Ende sogar
+allen einen Reset gegeben, auch wenn
+das nicht jeden betroffen hat. Es gibt
+noch viel mehr zu besprechen, also
+tauchen wir einfach direkt ein. Es gibt
+viele Dinge im KI-Bereich, die ich
+nicht wirklich auf dem YouTube-Kanal
+veröffentliche, aber ihr könnt über
+meinen kostenlosen Newsletter darauf
+zugreifen–den Link findet ihr in der
+Beschreibung, wo ihr euch völlig
+kostenlos anmelden könnt. Beginnen wir
+mit Dario, dem CEO von Anthropic, der
+ganz unerwartet einen neuen Essay
+veröffentlicht hat, in dem er die
+KI-Industrie dazu aufruft, die
+Entwicklung von Spitzenmodellen zu
+verlangsamen. Ich weiß nicht, was
+dieser Typ macht oder warum er solche
+Sachen überhaupt anspricht. Hier steht
+ein kompletter Börsengang bevor und er
+schwächt sich im Grunde selbst, indem
+er diese Art von Debatte darüber
+anheizt, dass KI verlangsamt werden
+sollte. Er schlug einen dreiteiligen
+Plan vor, wobei Anthropic bereits
+zugesagt hat, Drittprüfern auf
+Mitarbeiterebene Zugriff auf ein System
+zu gewähren, um Sicherheit und
+Ausrichtung zu überwachen. Was das
+Ganze jedoch interessant macht, ist,
+dass Dario gleichzeitig extrem
+optimistisch in Bezug auf KI ist,
+weshalb ich etwas verwirrt war, da er
+irgendwie dem widerspricht, was er zu
+implizieren versucht. Er glaubt
+außerdem, dass sie die meisten
+schweren Krankheiten heilen, das
+Wirtschaftswachstum massiv
+beschleunigen und innerhalb der
+nächsten 5 bis 10 Jahre eine Welt des
+Überflusses schaffen könnte. Im
+Grunde glaubt Dario also, dass KI die
+Menschheit völlig verändern könnte,
+meint aber auch, dass wir das Tempo
+drosseln müssen. Weiter geht es damit,
+dass Google DeepMind RSI überraschend
+nahe gekommen sein könnte oder es
+vielleicht sogar erreicht hat–für
+diejenigen, die es nicht wissen: das
+steht für rekursive Selbstverbesserung
+. Und wenn an dieser Sache tatsächlich
+etwas dran ist, könnte es einer der
+größten Umbrüche sein, den wir je in
+der KI erlebt haben. Es gab Berichte,
+dass Sergey Brin massiv Ressourcen in
+die RSI-Forschung lenkt, wobei Leute
+ihn als extrem engagiert für RSI und
+AGI beschreiben. Auch Demis Hassabis
+widmet Berichten zufolge seine volle
+Aufmerksamkeit der AGI. Aber das Ganze
+wird noch interessanter, wenn man sich
+Google ansieht und was sie mit ihren
+Modellen gemacht haben. Google hat
+davon gesprochen, agentische Schleifen
+zu nutzen, die Modelle rekursiv
+bewerten und verfeinern. Und DeepMind
+hat RSI Berichten zufolge als wichtigen
+Teil ihrer gesamten Investitionsthese
+bezeichnet. Nun gibt es jemanden namens
+Lyra, und im Grunde stammen alle diese
+Leaks tatsächlich von ihm. Er verwies
+auf die schnelle Veröffentlichung der
+kürzlichen Flash-Modelle, die Google
+herausgebracht hat, und fragte im
+Grunde: „Wie sonst kann Google diese
+Modelle so schnell ausliefern und
+verbessern?“ Denn wenn man darüber
+nachdenkt: Gemini 3.7 und Gemini 3.8
+wurden im Grunde in einer Zeitspanne
+von nur einem Monat veröffentlicht. Er
+stellt im Grunde die Vermutung auf,
+dass sie ein internes RSI-Modell haben,
+das ihnen hilft, rekursiv über diese
+Modelle nachzudenken und sie zu
+verbessern, um schneller bessere
+Versionen zu veröffentlichen. Er hatte
+im Grunde eine Konfiguration namens
+RSI-Modell in den internen Backlogs
+gefunden, die aufgetaucht war und
+erstaunlich gut mit früheren
+Kommentaren rund um RSI sowie Live-RL
+übereinstimmt. Die Theorie ist, dass
+Google ein internes System haben
+könnte, bei dem KI hilft, die nächste
+KI-Modellgeneration bei Google zu
+bewerten, zu trainieren und zu
+verbessern. Im Grunde hilft KI dabei,
+eine intelligentere KI zu bauen.
+Natürlich ist noch nichts bestätigt,
+aber diese Leaks, die gerade
+aufgetaucht sind, deuten im Grunde
+darauf hin, dass Google offiziell RSI
+erreicht hat. Google trainiert
+vielleicht nicht einfach nur ein
+weiteres neues Spitzenmodell. Sie
+könnten potenziell den Trainer selbst
+trainieren, während alle auf Gemini 4
+warten. Und wenn es ihnen gelungen ist,
+diesen Feedback-Loop intern deutlich
+weiter voranzutreiben, könnte dieses
+Gemini 4-Modell einen viel größeren
+Sprung bedeuten, als die Leute erwarten
+. Die große Frage ist also: Baut
+DeepMind im Stillen die Technologie,
+die die nächste Generation von
+Gemini-Modellen grundlegend anders
+macht? Und könnte dies endlich Googles
+massives KI-Comeback sein? Ich glaube
+wirklich, dass sie sich langsam einem
+Comeback nähern, aber wer weiß das
+schon. Als Nächstes haben wir die Kimi
+K 2.8 Preview, die überraschend in
+Kimi Code aufgetaucht ist. Das war
+definitiv eine überraschende
+Veröffentlichung, da wir nicht
+erwartet hatten, dass das Moonshot
+AI-Team dieses Modell herausbringt.
+Laut Dokumentation bietet Kimi K 2.8
+das gleiche Leistungsniveau wie K3,
+verfügt aber offenbar über
+effizienteres Denken. Es unterstützt
+zudem das riesige 1-
+Million-Token-Kontextfenster sowie Bild
+-und Videoeingaben, zusammen mit
+niedrigen, hohen und maximalen
+Reasoning-Modi. Und ehrlich gesagt
+könnte der effizientere Denkprozess
+das größte Upgrade hier sein. Kimi K3
+ist, wie wir alle wissen, ein wirklich
+großartiges Modell. Es ist eines der
+besten Open-Source-Modelle, die es
+derzeit gibt. Aber eines der größten
+Probleme dieses Modells ist, dass es
+bei jeder Anfrage viel zu lange
+nachdenkt. Es neigt dazu, bei einfachen
+Aufgaben zu lange zu grübeln, was
+einer der Gründe ist, warum man es
+vielleicht nicht nutzen möchte. Wenn K
+2.8 also eine ähnliche Leistung bei
+deutlich schnellerem Reasoning liefern
+kann, könnte es ein wirklich
+nützliches Modell sein. Nutzer mit
+einem Kimi-Coding-Abo sehen das Modell
+bereits in ihrem Plan erscheinen. Das
+Lustige ist jedoch die Namensgebung, da
+wir von K3 zurück auf K 2.8 gegangen
+sind–das ist vielleicht das erste Mal
+, dass ich sehe, wie ein Unternehmen
+bei einer neuen Version die Nummer
+senkt. Wenn dir dieses Video gefällt
+und du den Kanal unterstützen
+möchtest, kannst du eine Spende über
+die Super Thanks-Option unten in
+Erwägung ziehen. Oder du trittst
+unserem privaten Discord bei, wo du
+monatlich kostenlosen Zugriff auf
+verschiedene KI-Tools sowie tägliche
+KI-News, exklusive Inhalte und vieles
+mehr erhältst. Weiter geht es mit
+OpenAI, denn in den letzten Tagen gab
+es zahlreiche Berichte, die behaupten,
+dass GPT-6 Astra seit dem Start
+schlechter geworden ist. Wenn man sich
+einige dieser Demos ansieht, versteht
+man ehrlich gesagt sofort, warum die
+Leute anfangen, Fragen zu stellen. Die
+Leute haben die Astra-Version vom Tag
+der Veröffentlichung mit der heutigen
+Version verglichen, unter Verwendung
+derselben Prompts und
+Reasoning-Einstellungen. Die
+Startversion wirkte merklich
+fotorealistischer, schärfer und
+stärker bei der Generierung dieser
+komplexen 3 D-Szenen. Die neueren
+Generationen wirken hingegen flacher,
+synthetischer und insgesamt weniger
+beeindruckend. Dies führte sofort zu
+Spekulationen in der Community, dass
+GPT-6 Astra beschnitten wurde, und zur
+Frage, warum Frontier-Modell-Labore
+ihre Modelle nach der ersten Hype-Phase
+immer so stark einschränken. Das ist
+jedoch anscheinend nicht passiert.
+OpenAI untersuchte diese Berichte von
+Nutzern auf X und fand einige
+tatsächliche Fehler. Das hängt
+tatsächlich mit alten Skills zusammen,
+die für ältere Modelle entwickelt
+wurden und zu oft auslösten, was Astra
+manchmal daran hinderte, die eigene
+Arbeit richtig zu überprüfen. Es gab
+zudem ein freiwilliges Experiment zur
+Kontextverwaltung, das zu vorzeitigen
+Stopps oder Antworten auf ältere
+Nachrichten führte, wovon laut OpenAI
+etwa 4.000 bis 5.000 Nutzer betroffen
+waren. Und was wahrscheinlich am
+wichtigsten ist: OpenAI entdeckte
+fehlerhaft konfigurierte
+Inferenz-Engines, die bei einem Teil
+des Astra-Datenverkehrs zu einer
+messbaren Qualitätsverschlechterung
+führten. Diese Probleme wurden
+inzwischen behoben oder deaktiviert,
+zusammen mit einigen kleineren
+Verbesserungen, die Astra konsistenter
+machen und die Selbstprüfung
+verbessern sollen. Die Berichte, nach
+denen Astra schlechter geworden sei,
+waren also teilweise wahr, aber für
+die meisten Nutzer nicht wirklich
+zutreffend. Tatsächlich waren auch nur
+5.000 Personen von diesem Fehler
+betroffen. Und obwohl nur ein kleiner
+Teil der Nutzer betroffen war, hat
+OpenAI auf die Community gehört, das
+Problem identifiziert und innerhalb von
+etwa 24 bis 36 Stunden Korrekturen
+bereitgestellt. Aber das ist noch nicht
+alles, denn sie haben jedem einzelnen
+zahlenden OpenAI-Nutzer einen Reset
+gewährt, was unglaublich ist. Denn sie
+haben jetzt alle Limits für die
+gesamte Woche zurückgesetzt, damit man
+Astra noch intensiver nutzen kann. In
+Zukunft ist GPT Live 1 offiziell über
+die API verfügbar, was ChatGPTs
+natürlichere Sprachkonversationen
+direkt zu den Entwicklern bringt. Das
+große Feature hierbei ist, dass
+Sprachassistenten jetzt zuhören
+können, während sie sprechen,
+ähnlich wie bei Gemini Live. Dadurch
+wirken Unterhaltungen wesentlich
+natürlicher, anstatt ständig darauf
+warten zu müssen, dass die andere
+Seite fertig ist. Entwickler können
+GPT Live One zudem mit Modellen und
+Agenten ihrer Wahl koppeln, was den Weg
+für deutlich leistungsfähigere
+Echtzeit-Sprachassistenten ebnet. Das
+ist ehrlich gesagt ein ziemlich großes
+Upgrade für jeden, der KI-Assistenten,
+Kundensupport-Bots oder andere
+sprachbasierte Anwendungen entwickelt.
+Aber das war es auch schon für das
+heutige Video über alles, was in der
+Welt der KI passiert. Schaut unbedingt
+im World of AI Insider Club vorbei. Das
+ist unsere School-Community, die wir
+kürzlich gestartet haben, und ihr
+erhaltet Zugang zu kostenlosen KI-Tools
+, zur World of AI Viper
+Coding-Plattform sowie zu verschiedenen
+Kursen, in denen ich zeige, wie man
+diese Agenten optimal einsetzt. Ihr
+habt außerdem die Möglichkeit,
+frühen Zugriff auf Modelle zu erhalten
+, um diese in der Beta-Phase zu testen.
+Das ist etwas, bei dem ich mit
+verschiedenen Laboren zusammenarbeite,
+um euch Zugang zu verschaffen, und ihr
+könnt ganz einfach über die Links in
+der Videobeschreibung loslegen. Werft
+unbedingt auch einen Blick auf die Welt
+der KI mit Putting Platform und
+Benchmark. Schaut euch den zweiten
+Kanal an, abonniert den Newsletter,
+tretet dem Discord bei, folgt mir auf
+Twitter und abonniert natürlich auch
+den Kanal, aktiviert die Glocke, liked
+dieses Video und schaut euch unsere
+vorherigen Videos an, damit ihr bei den
+neuesten KI-Nachrichten auf dem
+Laufenden bleibt. Aber mit diesem
+Gedanken, Leute, habt einen
+fantastischen Tag, bleibt positiv und
+wir sehen uns schon bald wieder.
+Macht’s gut, Leute.

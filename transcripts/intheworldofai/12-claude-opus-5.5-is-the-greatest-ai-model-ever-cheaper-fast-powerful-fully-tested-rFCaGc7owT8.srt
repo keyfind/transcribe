@@ -1,0 +1,1799 @@
+1
+00:00:00,560 --> 00:00:03,514
+Anthropic ist zurück mit einem
+
+2
+00:00:02,577 --> 00:00:05,783
+bahnbrechenden neuen Modell: Claude
+
+3
+00:00:04,846 --> 00:00:08,179
+Opus 5.5, dem ersten Modell der neuen
+
+4
+00:00:07,242 --> 00:00:11,239
+Claude 5.5-Familie. Und mein Gott,
+
+5
+00:00:10,299 --> 00:00:13,639
+dieses Modell ist wirklich unglaublich.
+
+6
+00:00:13,040 --> 00:00:15,841
+Es ist ein bedeutender Fortschritt
+
+7
+00:00:14,894 --> 00:00:17,589
+gegenüber Opus 5, besonders bei
+
+8
+00:00:16,642 --> 00:00:19,019
+agentischem Programmieren,
+
+9
+00:00:18,072 --> 00:00:20,873
+Computernutzung und Wissensarbeit,
+
+10
+00:00:19,926 --> 00:00:22,886
+während es auf dem Niveau von Claude
+
+11
+00:00:21,939 --> 00:00:25,336
+Fable 5.1 agiert. Sie haben richtig
+
+12
+00:00:24,399 --> 00:00:27,488
+gehört, Claude Fable 5.1 bei den
+
+13
+00:00:26,551 --> 00:00:29,450
+meisten Aufgaben und dabei 40%
+
+14
+00:00:28,450 --> 00:00:31,540
+günstiger im Betrieb als Opus 5.
+
+15
+00:00:30,919 --> 00:00:33,164
+Erinnern Sie sich, wie all diese
+
+16
+00:00:32,203 --> 00:00:34,682
+KI-Labore davon sprachen, das Tempo an
+
+17
+00:00:33,721 --> 00:00:36,200
+der technologischen Front zu drosseln?
+
+18
+00:00:35,520 --> 00:00:38,566
+Nun, Opus 5.5 ist das erste Modell von
+
+19
+00:00:37,620 --> 00:00:40,720
+Anthropic, das seit dieser Ankündigung
+
+20
+00:00:39,774 --> 00:00:43,040
+veröffentlicht wurde. Wie frühere
+
+21
+00:00:42,105 --> 00:00:45,576
+Versionen wurde es vor der Einführung
+
+22
+00:00:44,641 --> 00:00:47,787
+von externen Gutachtern getestet,
+
+23
+00:00:46,852 --> 00:00:50,259
+darunter Meter sowie Frontier Design.
+
+24
+00:00:49,885 --> 00:00:53,325
+Anthropic gibt zudem an, dass dies ihre
+
+25
+00:00:52,388 --> 00:00:54,577
+bisher umfassendste
+
+26
+00:00:53,640 --> 00:00:57,080
+Alignment-Evaluierung ist, und Opus 5.5
+
+27
+00:00:56,143 --> 00:00:59,459
+erzielte dabei sein bisher stärkstes
+
+28
+00:00:58,521 --> 00:01:02,595
+Ergebnis. Wie bereits erwähnt,
+
+29
+00:01:01,659 --> 00:01:04,949
+arbeitet Opus 5.5 auf dem Niveau von
+
+30
+00:01:04,013 --> 00:01:07,175
+Fable 5.1, ist dabei aber etwa 30%
+
+31
+00:01:06,175 --> 00:01:09,656
+schneller und 40%günstiger pro Aufgabe
+
+32
+00:01:08,720 --> 00:01:12,477
+als Opus 5. Für Claude Code führt
+
+33
+00:01:11,523 --> 00:01:14,283
+Anthropic ebenfalls ein großes Upgrade
+
+34
+00:01:13,328 --> 00:01:16,630
+durch. Die 5-Stunden-Sitzungslimits
+
+35
+00:01:15,686 --> 00:01:18,675
+werden um 20%erhöht, und das liegt
+
+36
+00:01:17,732 --> 00:01:20,834
+daran, dass Opus 5.5 kostengünstiger
+
+37
+00:01:19,891 --> 00:01:22,960
+ist. Sie können innerhalb dieser
+
+38
+00:01:22,011 --> 00:01:24,451
+Grenzen etwa 25%mehr Nutzung
+
+39
+00:01:23,502 --> 00:01:27,029
+herausholen. Ein weiterer Punkt ist,
+
+40
+00:01:26,087 --> 00:01:29,225
+dass Plus-, Pro-, Max-und Team-Nutzer
+
+41
+00:01:28,283 --> 00:01:31,537
+einen Reset erhalten, den sie jederzeit
+
+42
+00:01:30,595 --> 00:01:33,791
+verwenden können, was den Nutzern mit
+
+43
+00:01:32,849 --> 00:01:35,987
+diesem neueren Modell wesentlich mehr
+
+44
+00:01:35,045 --> 00:01:38,897
+Flexibilität bietet. Leute, tut mir
+
+45
+00:01:37,939 --> 00:01:40,333
+wirklich leid, dass ich das Video
+
+46
+00:01:39,376 --> 00:01:41,896
+unterbreche, aber es würde mir sehr
+
+47
+00:01:40,939 --> 00:01:43,459
+viel bedeuten, wenn ihr dieses Video
+
+48
+00:01:42,502 --> 00:01:44,980
+liken, den Kanal abonnieren und die
+
+49
+00:01:44,023 --> 00:01:46,543
+Glocke aktivieren könntet, da viele
+
+50
+00:01:45,586 --> 00:01:48,728
+von euch noch nicht abonniert haben. Es
+
+51
+00:01:47,769 --> 00:01:50,348
+hilft mir wirklich sehr, mehr Videos zu
+
+52
+00:01:49,388 --> 00:01:51,764
+machen und euch bessere Inhalte zu
+
+53
+00:01:50,805 --> 00:01:55,165
+liefern. Auf der „World of AI“-
+
+54
+00:01:54,165 --> 00:01:56,976
+Benchmark-und Vibe-Coding-Plattform
+
+55
+00:01:56,028 --> 00:01:58,684
+haben wir es bereits in mehreren
+
+56
+00:01:57,735 --> 00:02:00,495
+Bereichen bewertet und sind zu dem
+
+57
+00:01:59,547 --> 00:02:02,565
+Schluss gekommen, dass dies das derzeit
+
+58
+00:02:01,617 --> 00:02:04,376
+am besten bewertete Modell auf dem
+
+59
+00:02:03,428 --> 00:02:06,032
+Markt ist, sogar vor Astra, was
+
+60
+00:02:05,084 --> 00:02:09,364
+irgendwie wahnsinnig ist, Leute. Hier
+
+61
+00:02:08,420 --> 00:02:11,274
+glänzt Opus 5.5 in verschiedenen
+
+62
+00:02:10,330 --> 00:02:13,353
+Disziplinen wie agentischem Handeln,
+
+63
+00:02:12,409 --> 00:02:15,150
+Schlussfolgerung und Debugging,
+
+64
+00:02:14,206 --> 00:02:17,116
+während es gleichzeitig in vielen
+
+65
+00:02:16,173 --> 00:02:19,363
+anderen Bereichen neue Maßstäbe setzt
+
+66
+00:02:18,363 --> 00:02:21,204
+. Und wenn Sie Ihr eigenes Modell sowie
+
+67
+00:02:20,241 --> 00:02:22,384
+Ihren eigenen Endpunkt bewerten
+
+68
+00:02:21,421 --> 00:02:23,639
+möchten, um ein besseres Gefühl
+
+69
+00:02:22,676 --> 00:02:24,893
+dafür zu bekommen, wie Sie diese
+
+70
+00:02:23,930 --> 00:02:26,259
+Modelle nutzen können, empfehle ich
+
+71
+00:02:25,295 --> 00:02:27,476
+dringend, den „World of AI“-
+
+72
+00:02:26,476 --> 00:02:29,279
+Benchmark auszuprobieren. Dies ist ein
+
+73
+00:02:28,324 --> 00:02:30,764
+Tool, mit dem Sie sogar komplett
+
+74
+00:02:29,809 --> 00:02:32,884
+kostenlos starten können. Was die
+
+75
+00:02:31,951 --> 00:02:35,145
+Leistung angeht, ist Opus 5.5 ein
+
+76
+00:02:34,212 --> 00:02:37,739
+bedeutendes Upgrade gegenüber Opus 5.
+
+77
+00:02:37,819 --> 00:02:40,584
+Doch hier haben sie das Modell in
+
+78
+00:02:39,637 --> 00:02:42,616
+verschiedenen Bereichen getestet, und
+
+79
+00:02:41,670 --> 00:02:44,488
+beim agentischen Programmieren mit
+
+80
+00:02:43,542 --> 00:02:46,307
+Terminal Bench 4.0 übertrifft es
+
+81
+00:02:45,360 --> 00:02:48,393
+sowohl Fable 5.1 als auch GPT-6 Astral
+
+82
+00:02:47,393 --> 00:02:49,944
+–und das mit einem ziemlich
+
+83
+00:02:48,997 --> 00:02:51,976
+beachtlichen Vorsprung, was irgendwie
+
+84
+00:02:51,030 --> 00:02:55,484
+verrückt ist. Beim Cursor Bench GDP
+
+85
+00:02:54,534 --> 00:02:57,206
+Eval setzt es neue Maßstäbe und
+
+86
+00:02:56,257 --> 00:02:59,081
+erreicht bei diesen Benchmark-Werten
+
+87
+00:02:58,132 --> 00:03:00,956
+Höchstwerte im Vergleich zu anderen
+
+88
+00:03:00,006 --> 00:03:03,908
+führenden Modellen. Sogar bei Dingen
+
+89
+00:03:02,960 --> 00:03:05,928
+wie OSWorld, also der Computernutzung,
+
+90
+00:03:04,980 --> 00:03:07,637
+schneidet es im Vergleich zu den
+
+91
+00:03:06,689 --> 00:03:09,606
+anderen Modellen ziemlich gut ab, was
+
+92
+00:03:08,657 --> 00:03:12,502
+wirklich schön zu sehen ist. Mir ist
+
+93
+00:03:11,563 --> 00:03:14,831
+im Blogbeitrag aufgefallen, dass eine
+
+94
+00:03:13,893 --> 00:03:17,161
+Aufgabe damit eine Code-Migration von
+
+95
+00:03:16,222 --> 00:03:19,245
+680.000 Zeilen in unter einem Tag
+
+96
+00:03:18,306 --> 00:03:21,146
+bewältigte–eine Arbeit, die
+
+97
+00:03:20,207 --> 00:03:24,609
+normalerweise Wochen dauern würde. Es
+
+98
+00:03:23,671 --> 00:03:26,830
+optimierte 39 von 40 Webseiten ohne
+
+99
+00:03:25,892 --> 00:03:29,175
+Funktionsverlust und übertraf andere
+
+100
+00:03:28,236 --> 00:03:31,396
+Claude-Modelle beim Erstellen eines
+
+101
+00:03:30,458 --> 00:03:33,370
+ausgereiften Spiels durch einen
+
+102
+00:03:32,432 --> 00:03:35,715
+einzigen Prompt, was zeigt, dass dies
+
+103
+00:03:34,777 --> 00:03:38,121
+ein echtes Allround-Modell ist, das in
+
+104
+00:03:37,183 --> 00:03:42,148
+vielen Bereichen glänzt. Ich habe auch
+
+105
+00:03:41,217 --> 00:03:44,749
+gesehen, dass Claude Opus 5.5 auf dem
+
+106
+00:03:43,817 --> 00:03:47,075
+Index von Artificial Analysis den
+
+107
+00:03:46,144 --> 00:03:49,402
+ersten Platz bei diesem Benchmark
+
+108
+00:03:48,470 --> 00:03:51,386
+belegt, bei gleichzeitig 20%
+
+109
+00:03:50,386 --> 00:03:53,508
+Preissenkung und einem höheren
+
+110
+00:03:52,576 --> 00:03:56,457
+Cache-Hit-Rabatt. Und wo Opus 5.5
+
+111
+00:03:55,523 --> 00:03:58,481
+wirklich herausragt, ist seine
+
+112
+00:03:57,546 --> 00:04:01,047
+Effizienz. Es kostet weniger pro Token
+
+113
+00:04:00,108 --> 00:04:03,037
+und verbraucht weniger Token pro
+
+114
+00:04:02,098 --> 00:04:05,208
+Aufgabe, was zu etwa 40%niedrigeren
+
+115
+00:04:04,268 --> 00:04:07,934
+Token-Kosten führt als bei Opus 5. Es
+
+116
+00:04:06,992 --> 00:04:10,192
+gibt auch einen Schnellmodus in Claude
+
+117
+00:04:09,250 --> 00:04:12,449
+Code und auf der Claude-Plattform, der
+
+118
+00:04:11,507 --> 00:04:13,781
+bis zu 2,5-mal höhere
+
+119
+00:04:12,839 --> 00:04:16,038
+Geschwindigkeiten bietet und 8 $ pro 1
+
+120
+00:04:15,096 --> 00:04:18,180
+Million Input-Token sowie 40 $ pro 1
+
+121
+00:04:17,238 --> 00:04:20,564
+Million Output-Token kostet. Die
+
+122
+00:04:19,632 --> 00:04:23,095
+allgemeine Preisgestaltung für Opus
+
+123
+00:04:22,163 --> 00:04:25,763
+5.5 im Standardmodus liegt bei 4 $ pro
+
+124
+00:04:24,831 --> 00:04:28,020
+1 Million Input-Token–was viel
+
+125
+00:04:27,089 --> 00:04:30,757
+günstiger ist als zuvor–und 20 $ pro
+
+126
+00:04:29,825 --> 00:04:34,219
+1 Million Output-Token. Etwas, das mir
+
+127
+00:04:33,271 --> 00:04:36,175
+außerdem aufgefallen ist: Das Modell
+
+128
+00:04:35,227 --> 00:04:38,183
+ist sehr token-intensiv, was bedeutet,
+
+129
+00:04:37,234 --> 00:04:40,139
+dass es nicht ganz so token-effizient
+
+130
+00:04:39,190 --> 00:04:42,568
+ist, wie es scheint. Es verbraucht
+
+131
+00:04:41,615 --> 00:04:44,440
+tatsächlich eine ganze Menge an Token.
+
+132
+00:04:43,680 --> 00:04:45,879
+Behalten Sie das also im Hinterkopf.
+
+133
+00:04:45,000 --> 00:04:47,590
+Wenn Sie die besten KI-Tools, Workflows
+
+134
+00:04:46,631 --> 00:04:48,976
+und Neuigkeiten vor allen anderen
+
+135
+00:04:48,017 --> 00:04:50,363
+erhalten möchten, abonnieren Sie
+
+136
+00:04:49,403 --> 00:04:51,994
+meinen kostenlosen Newsletter über den
+
+137
+00:04:51,034 --> 00:04:53,462
+Link in der Beschreibung unten, der
+
+138
+00:04:52,502 --> 00:04:55,550
+absolut kostenlos ist. Wenn Sie jetzt
+
+139
+00:04:54,590 --> 00:04:57,057
+mit diesem Modell loslegen möchten,
+
+140
+00:04:56,097 --> 00:04:58,645
+können Sie das ganz einfach über den
+
+141
+00:04:57,686 --> 00:05:00,071
+Claude-Chatbot tun oder auch über
+
+142
+00:04:59,111 --> 00:05:01,619
+deren API-Plattform darauf zugreifen.
+
+143
+00:05:00,979 --> 00:05:03,869
+Und wenn Sie es nutzen und testen sowie
+
+144
+00:05:02,917 --> 00:05:05,808
+unser Coding-Harness verwenden möchten
+
+145
+00:05:04,808 --> 00:05:07,698
+, das selbst ein großartiges Tool ist,
+
+146
+00:05:06,747 --> 00:05:09,540
+können Sie es über die Links in der
+
+147
+00:05:08,588 --> 00:05:11,547
+Beschreibung unten ausprobieren. Und
+
+148
+00:05:10,583 --> 00:05:12,906
+das ist eine großartige Möglichkeit
+
+149
+00:05:11,942 --> 00:05:14,230
+für dich, es auszuprobieren und mit
+
+150
+00:05:13,265 --> 00:05:15,781
+diesem Modell loszulegen. Bei der
+
+151
+00:05:14,833 --> 00:05:17,692
+Spieleentwicklung konnte Opus 5.5 in
+
+152
+00:05:16,743 --> 00:05:19,758
+einem einzigen Durchlauf ein komplettes
+
+153
+00:05:18,809 --> 00:05:21,823
+Spiel im Mario Kart-Stil erstellen, und
+
+154
+00:05:20,875 --> 00:05:23,837
+das Ergebnis sieht deutlich besser aus
+
+155
+00:05:22,889 --> 00:05:26,235
+als bei Fable 5.1. Dies wurde von
+
+156
+00:05:25,286 --> 00:05:28,025
+Bridge Bench durchgeführt und ist
+
+157
+00:05:27,076 --> 00:05:30,070
+wirklich wahnsinnig, denn die Liebe zum
+
+158
+00:05:29,121 --> 00:05:32,761
+Detail ist beeindruckend. Es hat die
+
+159
+00:05:31,828 --> 00:05:35,211
+bekannten Charaktere Mario und Luigi
+
+160
+00:05:34,277 --> 00:05:37,726
+erschaffen, die tatsächlich spielbar
+
+161
+00:05:36,793 --> 00:05:40,242
+sind, aber es ist verrückt, weil man
+
+162
+00:05:39,308 --> 00:05:42,824
+alle Komponenten dieses Klons hat, wie
+
+163
+00:05:41,890 --> 00:05:45,140
+den Geschwindigkeits-Boost und die
+
+164
+00:05:44,207 --> 00:05:47,656
+verschiedenen Extras, die man auf der
+
+165
+00:05:46,722 --> 00:05:51,202
+Karte einsammeln kann. Und das ist
+
+166
+00:05:50,262 --> 00:05:53,489
+tatsächlich viel besser als das, was
+
+167
+00:05:52,549 --> 00:05:55,776
+ich bei Fable 5.1 mit genau demselben
+
+168
+00:05:54,836 --> 00:05:57,822
+Prompt gesehen habe, da Fable 5.1
+
+169
+00:05:56,882 --> 00:06:00,109
+Schwierigkeiten hatte, denselben Test
+
+170
+00:05:59,169 --> 00:06:02,457
+in der gleichen Qualität wie Opus 5.1
+
+171
+00:06:01,517 --> 00:06:05,709
+durchzuführen. Dies ist zweifellos
+
+172
+00:06:04,760 --> 00:06:07,751
+eine der beeindruckendsten Coding-Demos
+
+173
+00:06:06,751 --> 00:06:09,384
+, die ich je von einem KI-Modell
+
+174
+00:06:08,435 --> 00:06:11,899
+gesehen habe. Und siehst du das hier?
+
+175
+00:06:11,000 --> 00:06:14,571
+Dies ist eine vollständige Simulation
+
+176
+00:06:13,639 --> 00:06:17,279
+des Launch-Videos für Claude Opus 5.5.
+
+177
+00:06:16,760 --> 00:06:20,013
+Aber wir haben eine komplette Kopie
+
+178
+00:06:19,077 --> 00:06:22,395
+davon, die tatsächlich von Opus 5.5
+
+179
+00:06:21,460 --> 00:06:24,455
+programmiert wurde, was ich mir
+
+180
+00:06:23,520 --> 00:06:26,580
+wirklich nicht hätte vorstellen
+
+181
+00:06:25,644 --> 00:06:28,555
+können. Hier hat jemand den
+
+182
+00:06:27,606 --> 00:06:30,560
+ursprünglichen Tweet genommen und das
+
+183
+00:06:29,611 --> 00:06:32,410
+Modell angewiesen, ihn ohne externe
+
+184
+00:06:31,461 --> 00:06:34,055
+Musik, Sounds, Bilddateien oder
+
+185
+00:06:33,106 --> 00:06:36,587
+ähnliches nachzuprogrammieren. Das ist
+
+186
+00:06:35,651 --> 00:06:38,955
+alles vollständig von Grund auf neu
+
+187
+00:06:38,019 --> 00:06:41,908
+programmiert worden. Das ist einfach
+
+188
+00:06:40,959 --> 00:06:43,550
+wahnsinnig, denn man hat dieses
+
+189
+00:06:42,601 --> 00:06:45,294
+komplette Video, das von Opus 5.5
+
+190
+00:06:44,345 --> 00:06:47,346
+programmiert wurde und das Launch-Video
+
+191
+00:06:46,398 --> 00:06:50,235
+selbst nachahmt. Soweit ich das
+
+192
+00:06:49,279 --> 00:06:51,908
+beurteilen kann, ist dies ein Modell,
+
+193
+00:06:50,952 --> 00:06:53,273
+das sich hervorragend für die
+
+194
+00:06:52,317 --> 00:06:54,946
+Erstellung von Videos und Animationen
+
+195
+00:06:53,990 --> 00:06:57,363
+eignet. Die Entwicklung ist
+
+196
+00:06:56,415 --> 00:06:59,229
+offensichtlich etwas, das Anthropic
+
+197
+00:06:58,281 --> 00:07:01,198
+perfektioniert hat, aber dies ist der
+
+198
+00:07:00,250 --> 00:07:03,219
+nächste Bereich, in dem diese Modelle
+
+199
+00:07:02,271 --> 00:07:04,981
+meiner Meinung nach ihre Dominanz
+
+200
+00:07:04,033 --> 00:07:09,476
+ausbauen. Hier hat es dieses Mosaik mit
+
+201
+00:07:08,555 --> 00:07:12,459
+13.000 einzelnen Kacheln vollständig
+
+202
+00:07:11,538 --> 00:07:16,268
+programmiert. Dies wurde komplett von
+
+203
+00:07:15,322 --> 00:07:18,139
+Opus 5.5 durch Code gezeichnet und
+
+204
+00:07:17,193 --> 00:07:20,171
+animiert, ohne dass ein einziges Bild
+
+205
+00:07:19,224 --> 00:07:22,163
+verwendet wurde. Es ist ziemlich
+
+206
+00:07:21,201 --> 00:07:23,516
+verrückt, dass es in der Lage ist,
+
+207
+00:07:22,553 --> 00:07:24,681
+eine solche Aufgabe mit seinen
+
+208
+00:07:23,718 --> 00:07:26,071
+kreativen Programmierfähigkeiten zu
+
+209
+00:07:25,109 --> 00:07:29,565
+bewältigen. Und nur um dir einen
+
+210
+00:07:28,623 --> 00:07:31,802
+Anhaltspunkt dafür zu geben, wie viel
+
+211
+00:07:30,859 --> 00:07:33,981
+besser Opus 1.5 im Vergleich zu GPT-6
+
+212
+00:07:33,038 --> 00:07:36,045
+Astra ist: Hier erhielten beide den
+
+213
+00:07:35,103 --> 00:07:37,995
+gleichen Prompt, um ein autonomes
+
+214
+00:07:37,052 --> 00:07:41,446
+Waymo-Fahrzeug in 3GS zu erstellen. Und
+
+215
+00:07:40,501 --> 00:07:43,272
+ja, Opus 1.5 sieht hier wirklich
+
+216
+00:07:42,327 --> 00:07:45,430
+beeindruckend aus, denn der Detailgrad
+
+217
+00:07:44,485 --> 00:07:47,588
+und die allgemeine Ausführung zeigen,
+
+218
+00:07:46,643 --> 00:07:49,524
+dass diese Version im Vergleich zu
+
+219
+00:07:48,580 --> 00:07:52,123
+Astra die wahre Größe zeigt. Es hat
+
+220
+00:07:51,180 --> 00:07:54,420
+die Physik, die Gesamtabmessungen sowie
+
+221
+00:07:53,477 --> 00:07:56,257
+die Shader dieser Generation im
+
+222
+00:07:55,315 --> 00:07:58,267
+Vergleich zum Astra-Modell perfekt
+
+223
+00:07:57,324 --> 00:08:00,540
+getroffen. Und man kann sehen, dass es
+
+224
+00:07:59,587 --> 00:08:02,058
+bei den Lidar-Kameras sowie den
+
+225
+00:08:01,106 --> 00:08:03,861
+Sensoren großartige Arbeit geleistet
+
+226
+00:08:02,909 --> 00:08:06,467
+hat. Und es hat alle Komponenten, die
+
+227
+00:08:05,528 --> 00:08:08,742
+wir beim echten Auto sehen, präzise
+
+228
+00:08:07,804 --> 00:08:10,780
+generiert. Und es fügt diesen
+
+229
+00:08:09,828 --> 00:08:12,524
+Detailgrad hinzu, den man bei GPT-6
+
+230
+00:08:11,572 --> 00:08:15,417
+Astra nicht wirklich sehen würde. Dies
+
+231
+00:08:14,482 --> 00:08:17,544
+hier ist eine SUV-Generation der
+
+232
+00:08:16,608 --> 00:08:20,402
+Nintendo Switch. Und das ist kein Bild
+
+233
+00:08:19,471 --> 00:08:22,700
+oder Video, das tatsächlich von
+
+234
+00:08:21,769 --> 00:08:25,234
+Nintendo ausgegeben wurde. Dies ist
+
+235
+00:08:24,290 --> 00:08:27,390
+etwas, das von Opus 5.5 mit maximalem
+
+236
+00:08:26,447 --> 00:08:29,870
+Reasoning ausgegeben wurde. Aber das
+
+237
+00:08:28,948 --> 00:08:32,626
+Verrückte ist, Leute, dass es bei
+
+238
+00:08:31,705 --> 00:08:35,225
+dieser Generation 20%oder 27%des
+
+239
+00:08:34,303 --> 00:08:38,138
+Sitzungslimits eines 20-Dollar-Plans
+
+240
+00:08:37,217 --> 00:08:40,796
+verbraucht hat. Daher ist es manchmal
+
+241
+00:08:39,848 --> 00:08:42,593
+vielleicht nicht das Beste, dieses
+
+242
+00:08:41,644 --> 00:08:44,595
+Modell als tägliches Arbeitsgerät zu
+
+243
+00:08:43,646 --> 00:08:46,680
+verwenden. Vielleicht sollte man es bei
+
+244
+00:08:45,721 --> 00:08:48,088
+komplexen Projekten auf maximales
+
+245
+00:08:47,130 --> 00:08:49,668
+Reasoning einstellen. Aber für
+
+246
+00:08:48,716 --> 00:08:51,478
+einfachere Aufgaben kann man zu Haiku
+
+247
+00:08:50,526 --> 00:08:53,193
+oder–Entschuldigung, nicht Haiku,
+
+248
+00:08:52,241 --> 00:08:55,237
+sondern Sonnet–wechseln. Und wo wir
+
+249
+00:08:54,274 --> 00:08:56,408
+gerade von Haiku sprechen: Sie
+
+250
+00:08:55,446 --> 00:08:57,618
+versuchen tatsächlich, es bald
+
+251
+00:08:56,656 --> 00:08:59,352
+zurückzubringen. Wir werden also
+
+252
+00:08:58,411 --> 00:09:01,733
+vielleicht in den nächsten paar Wochen
+
+253
+00:09:00,792 --> 00:09:04,010
+ein Haiku 5.5-Modell bekommen. Als
+
+254
+00:09:03,074 --> 00:09:05,917
+Nächstes hat Opus 5.5 diesen
+
+255
+00:09:04,981 --> 00:09:08,460
+vollständigen Minecraft-Klon erstellt.
+
+256
+00:09:07,600 --> 00:09:10,573
+Und das ist das erste Mal, dass ich die
+
+257
+00:09:09,624 --> 00:09:12,547
+Möglichkeit habe, bestimmte Dinge wie
+
+258
+00:09:11,598 --> 00:09:15,656
+den Ton anzupassen. Ich werde den Ton
+
+259
+00:09:14,702 --> 00:09:17,255
+tatsächlich einschalten, weil ich
+
+260
+00:09:16,300 --> 00:09:19,036
+bereits weiß, dass es meine Ohrhörer
+
+261
+00:09:18,082 --> 00:09:20,772
+zerstören wird, wenn ich einen Block
+
+262
+00:09:19,817 --> 00:09:22,598
+zerbreche, aber es ist etwas, das einem
+
+263
+00:09:21,644 --> 00:09:24,243
+diese Flexibilität gibt, all diese
+
+264
+00:09:23,288 --> 00:09:26,070
+verschiedenen Einstellungen anzupassen,
+
+265
+00:09:25,115 --> 00:09:27,760
+wie die Wolken sowie ein paar andere
+
+266
+00:09:26,805 --> 00:09:29,450
+Dinge wie Helligkeit, Sichtfeld, und
+
+267
+00:09:28,495 --> 00:09:31,140
+ich kann tatsächlich eine neue Welt
+
+268
+00:09:30,185 --> 00:09:32,967
+erstellen, und wir können weitermachen
+
+269
+00:09:32,012 --> 00:09:36,064
+und uns das tatsächlich ansehen. Hört
+
+270
+00:09:35,113 --> 00:09:38,036
+mal rein, Leute. Es hat Soundeffekte
+
+271
+00:09:37,090 --> 00:09:40,247
+hinzugefügt. Bevor ich mich in diese
+
+272
+00:09:39,293 --> 00:09:41,639
+Demo stürze, möchte ich die
+
+273
+00:09:40,686 --> 00:09:43,264
+Soundeffekte einschalten, weil ich
+
+274
+00:09:42,310 --> 00:09:45,120
+weiß, dass es mein Ohr zerstört, wenn
+
+275
+00:09:44,166 --> 00:09:48,410
+ich diesen Block zerbreche. Okay, wir
+
+276
+00:09:47,467 --> 00:09:50,340
+sind zurück, und das ist einfach
+
+277
+00:09:49,397 --> 00:09:52,584
+wahnsinnig, Leute. Das ist definitiv
+
+278
+00:09:51,634 --> 00:09:54,424
+der beste Minecraft-Klon, den ich je
+
+279
+00:09:53,473 --> 00:09:56,263
+gesehen habe, was die Visualisierung
+
+280
+00:09:55,313 --> 00:09:57,755
+der vollständigen Textur des
+
+281
+00:09:56,805 --> 00:10:00,032
+Sandbox-Spiels angeht. Es hat auch
+
+282
+00:09:59,101 --> 00:10:02,613
+mehrere Mobs hinzugefügt. Man kann
+
+283
+00:10:01,668 --> 00:10:04,787
+sehen, dass es sogar Soundeffekte gibt,
+
+284
+00:10:03,842 --> 00:10:06,635
+wenn man diese verschiedenen Mobs
+
+285
+00:10:05,690 --> 00:10:08,755
+trifft, und es hat nicht nur einen Mob
+
+286
+00:10:07,809 --> 00:10:10,766
+hinzugefügt, sondern gleich mehrere
+
+287
+00:10:09,820 --> 00:10:12,777
+wie Schafe sowie Kühe, und dann hat
+
+288
+00:10:11,831 --> 00:10:14,516
+man sogar all die verschiedenen
+
+289
+00:10:13,571 --> 00:10:16,364
+Funktionen wie im ursprünglichen
+
+290
+00:10:15,419 --> 00:10:18,713
+Sandbox-Spiel. Das zeigt also nur, wie
+
+291
+00:10:17,765 --> 00:10:20,737
+intelligent und wie unglaublich dieses
+
+292
+00:10:19,789 --> 00:10:22,874
+Modell ist. Jetzt gibt es sogar ein
+
+293
+00:10:21,925 --> 00:10:25,471
+Inventarsystem. Wenn ich also einen
+
+294
+00:10:24,523 --> 00:10:27,038
+Block abbaue, kann ich daraus
+
+295
+00:10:26,090 --> 00:10:29,023
+verschiedene Gegenstände herstellen,
+
+296
+00:10:28,075 --> 00:10:31,796
+was unglaublich ist. Also, lass uns
+
+297
+00:10:30,846 --> 00:10:34,120
+tatsächlich etwas herstellen. Und um
+
+298
+00:10:33,164 --> 00:10:35,820
+ehrlich zu sein, wenn ich allein wäre
+
+299
+00:10:48,920 --> 00:11:01,580
+Was zum Oh, entschuldigt das, Leute.
+
+300
+00:11:01,260 --> 00:11:03,958
+Wie ich schon sagte, ich wollte nicht,
+
+301
+00:11:03,002 --> 00:11:05,745
+dass meine Ohren zerstört werden, aber
+
+302
+00:11:04,790 --> 00:11:08,234
+Claude Code hatte andere Pläne. Es hat
+
+303
+00:11:07,287 --> 00:11:10,180
+am Ende eine der verschiedenen Demos
+
+304
+00:11:09,233 --> 00:11:12,231
+gestartet, an denen ich eigentlich mit
+
+305
+00:11:11,284 --> 00:11:14,671
+Opus 5.5 gearbeitet habe. Es hat
+
+306
+00:11:13,730 --> 00:11:17,021
+willkürlich einen Server gestartet und
+
+307
+00:11:16,080 --> 00:11:19,195
+fing an, wahnsinnig laute Geräusche
+
+308
+00:11:18,254 --> 00:11:21,193
+abzuspielen, die meine Kopfhörer
+
+309
+00:11:20,252 --> 00:11:23,308
+völlig zerstört haben, aber jetzt
+
+310
+00:11:22,367 --> 00:11:25,482
+haben wir einen Zombie-Klon, den ich
+
+311
+00:11:24,541 --> 00:11:27,656
+gleich zeigen werde, aber zurück zu
+
+312
+00:11:26,715 --> 00:11:30,404
+unserer Demo. Hier in unserer Demo bin
+
+313
+00:11:29,449 --> 00:11:32,210
+ich gerade im Kreativmodus, aber schaut
+
+314
+00:11:31,256 --> 00:11:33,475
+euch nur an, wie gut es die
+
+315
+00:11:32,520 --> 00:11:35,192
+Texturierung all dieser verschiedenen
+
+316
+00:11:34,237 --> 00:11:36,999
+einzelnen Gegenstände hinbekommen hat.
+
+317
+00:11:36,719 --> 00:11:40,302
+Man hat sogar eine Spitzhacke. Wenn wir
+
+318
+00:11:39,370 --> 00:11:42,878
+nach unten gehen, zeige ich euch mal,
+
+319
+00:11:41,946 --> 00:11:45,587
+was es tatsächlich leisten konnte. Es
+
+320
+00:11:44,641 --> 00:11:47,687
+gibt verschiedene Erze. Es gibt sogar
+
+321
+00:11:46,727 --> 00:11:49,191
+verschiedene Höhlensysteme, die ich
+
+322
+00:11:48,231 --> 00:11:51,933
+gesehen habe. Das Einzige, was mir
+
+323
+00:11:50,990 --> 00:11:54,088
+bisher aufgefallen ist, ist, dass das
+
+324
+00:11:53,145 --> 00:11:56,243
+Beleuchtungssystem zwar funktioniert,
+
+325
+00:11:55,300 --> 00:11:58,455
+aber nicht so gut ist wie das, was ich
+
+326
+00:11:57,512 --> 00:12:00,610
+zuvor beim Fable-Modell gesehen habe,
+
+327
+00:11:59,667 --> 00:12:02,652
+aber egal, ich zeige euch jetzt die
+
+328
+00:12:01,709 --> 00:12:05,429
+Höhlensysteme. Leider glaube ich nicht
+
+329
+00:12:04,429 --> 00:12:07,086
+, dass es Höhlensysteme gibt, aber
+
+330
+00:12:06,133 --> 00:12:08,602
+insgesamt hat es einen wirklich
+
+331
+00:12:07,649 --> 00:12:10,022
+großartigen Sandbox-Klon des
+
+332
+00:12:09,070 --> 00:12:11,585
+ursprünglichen Minecraft-Spiels
+
+333
+00:12:10,632 --> 00:12:14,971
+erstellt. Leute, wie versprochen, hier
+
+334
+00:12:14,020 --> 00:12:16,806
+habe ich es gebeten, ein Call of Duty
+
+335
+00:12:15,854 --> 00:12:18,640
+Zombies-Spiel in 3D zu erstellen, und
+
+336
+00:12:17,688 --> 00:12:20,571
+schaut euch nur die Qualität an, Leute
+
+337
+00:12:19,571 --> 00:12:23,880
+. Das ist etwas, das ich noch bei
+
+338
+00:12:22,945 --> 00:12:26,568
+keinem KI-Modell gesehen habe. Die
+
+339
+00:12:25,617 --> 00:12:28,356
+Beleuchtung, die Textur, sogar alle
+
+340
+00:12:27,406 --> 00:12:30,194
+Attribute des ursprünglichen Spiels
+
+341
+00:12:29,243 --> 00:12:32,032
+wurden vollständig ausprogrammiert,
+
+342
+00:12:31,081 --> 00:12:35,152
+Leute. Das sieht man an einigen dieser
+
+343
+00:12:34,204 --> 00:12:36,889
+Animationen sowie daran, wie man
+
+344
+00:12:35,942 --> 00:12:39,662
+verschiedene Türen öffnen kann. Hier
+
+345
+00:12:38,711 --> 00:12:41,024
+kann man sogar verschiedene
+
+346
+00:12:40,072 --> 00:12:42,921
+Gegenstände kaufen, was man zwar auch
+
+347
+00:12:41,969 --> 00:12:44,866
+mit anderen Modellen hätte tun können
+
+348
+00:12:43,866 --> 00:12:46,763
+, aber nicht in dieser Qualität, Leute
+
+349
+00:12:45,763 --> 00:12:48,667
+. Das ist etwas, von dem ich nie
+
+350
+00:12:47,716 --> 00:12:50,575
+erwartet hätte, dass irgendein Modell
+
+351
+00:12:49,624 --> 00:12:52,808
+es tatsächlich generiert, Leute. Das
+
+352
+00:12:51,851 --> 00:12:53,840
+ist einfach wahnsinnig.
+
+353
+00:13:03,003 --> 00:13:04,796
+Sofortiger Kill.
+
+354
+00:13:14,649 --> 00:13:16,759
+Wir haben sogar diese
+
+355
+00:13:15,812 --> 00:13:18,729
+Barriere-Wiederaufbaufunktion, die
+
+356
+00:13:17,829 --> 00:13:21,859
+hinzugefügt wurde und die sogar eine
+
+357
+00:13:20,959 --> 00:13:24,045
+wirklich coole Animation hat.
+
+358
+00:14:06,561 --> 00:14:10,339
+Hilfe. Ich werde gerade eingekesselt.
+
+359
+00:14:11,159 --> 00:14:31,040
+Oh, Mist, Mann. Zimmermann. Mal sehen.
+
+360
+00:14:30,140 --> 00:14:32,714
+Jetzt kann ich einen weiteren Bereich
+
+361
+00:14:31,756 --> 00:14:34,516
+öffnen. Hier sehen Sie den Innenhof,
+
+362
+00:14:33,560 --> 00:14:36,194
+und er fügt viele coole verschiedene
+
+363
+00:14:35,238 --> 00:14:37,916
+Dinge hinzu, die ich von diesem Modell
+
+364
+00:14:36,960 --> 00:14:39,639
+wirklich nicht erwartet hätte, Leute.
+
+365
+00:14:38,994 --> 00:14:41,218
+Dies beinhaltet Beleuchtungen und
+
+366
+00:14:40,255 --> 00:14:42,479
+verschiedene Bereiche, in die man
+
+367
+00:14:41,516 --> 00:14:43,921
+hineinzoomen kann. Insgesamt bin ich
+
+368
+00:14:42,958 --> 00:14:45,383
+wirklich begeistert von der Qualität,
+
+369
+00:14:44,483 --> 00:14:47,878
+die dieses Modell erzeugt hat.
+
+370
+00:15:40,820 --> 00:15:43,921
+Wenn es um Front-End-Entwicklung geht,
+
+371
+00:15:42,976 --> 00:15:46,023
+glänzt das Modell besonders, und ich
+
+372
+00:15:45,078 --> 00:15:48,014
+glaube wirklich, dass es den ersten
+
+373
+00:15:47,069 --> 00:15:50,189
+Platz einnimmt. Es schlägt sich in
+
+374
+00:15:49,239 --> 00:15:52,189
+diesem speziellen Bereich bemerkenswert
+
+375
+00:15:51,239 --> 00:15:54,522
+gut. Es ist definitiv teuer, aber es
+
+376
+00:15:53,577 --> 00:15:56,694
+liefert die besten Ergebnisse basierend
+
+377
+00:15:55,748 --> 00:15:58,865
+auf der Beschreibung, die Sie ihm geben
+
+378
+00:15:57,865 --> 00:16:02,087
+. Hier ist ein weiterer Vergleich, der
+
+379
+00:16:01,153 --> 00:16:04,607
+den Sprung zeigt, denn Opus 5 kostete
+
+380
+00:16:03,673 --> 00:16:07,193
+bei dieser speziellen Erstellung einer
+
+381
+00:16:06,260 --> 00:16:09,780
+Vulkaninsel mit Dinosauriern etwa 1,60
+
+382
+00:16:08,846 --> 00:16:14,032
+$. Aber Opus 5.5 kostete etwa 3,40 $.
+
+383
+00:16:13,700 --> 00:16:16,868
+Das Ergebnis von Opus 5.5 war insgesamt
+
+384
+00:16:15,923 --> 00:16:18,869
+dramatisch reichhaltiger, mit einer
+
+385
+00:16:17,925 --> 00:16:20,926
+Unterwasser-Schnittszene, die ich so
+
+386
+00:16:19,982 --> 00:16:22,761
+bei keinem anderen Modell bisher
+
+387
+00:16:21,817 --> 00:16:24,945
+gesehen habe. Es gibt auch
+
+388
+00:16:23,992 --> 00:16:26,642
+Unterwasserwelt, wie man an dem Wal
+
+389
+00:16:25,690 --> 00:16:28,809
+sehen kann, der auf und ab springt. Man
+
+390
+00:16:27,873 --> 00:16:31,160
+hat Vegetation, Mammuts, Nordlichter
+
+391
+00:16:30,223 --> 00:16:33,574
+und viel mehr Details in der gesamten
+
+392
+00:16:32,637 --> 00:16:35,594
+Szene. Das habe ich bei allen
+
+393
+00:16:34,656 --> 00:16:37,782
+Generationen gesehen, und es zeigt
+
+394
+00:16:36,844 --> 00:16:40,220
+einfach, wie viel besser Opus 5.5 ist.
+
+395
+00:16:39,620 --> 00:16:41,966
+Und es sieht in vielen dieser
+
+396
+00:16:41,013 --> 00:16:43,638
+verschiedenen Fälle definitiv viel
+
+397
+00:16:42,684 --> 00:16:45,895
+besser aus als Astra. Wenn Ihnen dieses
+
+398
+00:16:44,943 --> 00:16:47,479
+Video gefällt und Sie den Kanal
+
+399
+00:16:46,527 --> 00:16:49,207
+unterstützen möchten, können Sie
+
+400
+00:16:48,255 --> 00:16:50,935
+über die „Super Thanks“-Option
+
+401
+00:16:49,983 --> 00:16:53,257
+unten eine Spende tätigen. Oder Sie
+
+402
+00:16:52,304 --> 00:16:54,815
+können unserem privaten Discord
+
+403
+00:16:53,862 --> 00:16:56,703
+beitreten, wo Sie monatlich kostenlosen
+
+404
+00:16:55,750 --> 00:16:58,449
+Zugriff auf mehrere Abonnements für
+
+405
+00:16:57,496 --> 00:17:01,052
+verschiedene KI-Tools erhalten. Dazu
+
+406
+00:17:00,101 --> 00:17:02,692
+gibt es tägliche KI-Nachrichten,
+
+407
+00:17:01,740 --> 00:17:04,380
+exklusive Inhalte und vieles mehr.
+
+408
+00:17:03,880 --> 00:17:06,885
+Insgesamt ist Opus 5.5 eine enorme
+
+409
+00:17:05,944 --> 00:17:09,008
+Verbesserung gegenüber den anderen
+
+410
+00:17:08,067 --> 00:17:11,308
+Opus 5-Modellen, und es sind nicht nur
+
+411
+00:17:10,367 --> 00:17:13,314
+die zusätzlichen Details, die es
+
+412
+00:17:12,373 --> 00:17:15,797
+besser machen. Es ist in der Lage,
+
+413
+00:17:14,861 --> 00:17:17,848
+insgesamt bessere Ergebnisse in
+
+414
+00:17:16,913 --> 00:17:20,471
+mehreren Bereichen zu erzielen. Ich
+
+415
+00:17:19,528 --> 00:17:22,704
+weiß, es verbraucht eine Menge Token,
+
+416
+00:17:21,761 --> 00:17:24,879
+aber es setzt neue Maßstäbe auf dem
+
+417
+00:17:23,937 --> 00:17:27,303
+aktuellen Stand der Technik. Dies ist
+
+418
+00:17:26,359 --> 00:17:28,971
+das beste Modell, das derzeit
+
+419
+00:17:28,026 --> 00:17:30,972
+verfügbar ist, und es bietet zudem
+
+420
+00:17:30,027 --> 00:17:33,140
+eine wirklich günstige Preisstruktur.
+
+421
+00:17:32,520 --> 00:17:35,069
+Sie haben also viele zusätzliche
+
+422
+00:17:34,116 --> 00:17:37,386
+Vorteile durch dieses Modell. Ich kann
+
+423
+00:17:36,422 --> 00:17:38,817
+nur empfehlen, es auszuprobieren, um zu
+
+424
+00:17:37,853 --> 00:17:41,148
+sehen, wie es funktioniert. Vielleicht
+
+425
+00:17:40,200 --> 00:17:43,101
+nicht für jede einzelne Aufgabe, da
+
+426
+00:17:42,154 --> 00:17:45,055
+man einfache Dinge natürlich an ein
+
+427
+00:17:44,108 --> 00:17:47,167
+billigeres Modell delegieren kann, aber
+
+428
+00:17:46,220 --> 00:17:48,962
+es wird Ihnen in vielen Bereichen
+
+429
+00:17:48,015 --> 00:17:50,969
+helfen, besonders wenn es darum geht,
+
+430
+00:17:50,022 --> 00:17:53,532
+komplexe Aufgaben zu erledigen. Ich
+
+431
+00:17:52,563 --> 00:17:54,719
+werde alle Links, die ich im heutigen
+
+432
+00:17:53,750 --> 00:17:55,624
+Video verwende, unten in die
+
+433
+00:17:54,655 --> 00:17:57,252
+Beschreibung setzen. Es würde mir
+
+434
+00:17:56,289 --> 00:17:58,708
+wirklich viel bedeuten, Leute, wenn ihr
+
+435
+00:17:57,744 --> 00:18:00,163
+euch die Welt der KI-Benchmarks und die
+
+436
+00:17:59,200 --> 00:18:01,619
+Vibe-Coding-Plattform ansehen könntet.
+
+437
+00:18:00,979 --> 00:18:03,421
+Schaut euch unbedingt auch unsere neue
+
+438
+00:18:02,459 --> 00:18:05,411
+School-Community an. Kommt zu unserem
+
+439
+00:18:04,470 --> 00:18:07,225
+zweiten Kanal. Abonniert den Newsletter
+
+440
+00:18:06,225 --> 00:18:08,895
+. Tretet dem Discord bei. Folgt mir auf
+
+441
+00:18:07,937 --> 00:18:10,378
+Twitter. Und zuletzt: Vergesst nicht,
+
+442
+00:18:09,414 --> 00:18:11,786
+den Kanal zu abonnieren, die Glocke zu
+
+443
+00:18:10,823 --> 00:18:13,231
+aktivieren, das Video zu liken und euch
+
+444
+00:18:12,267 --> 00:18:14,495
+unsere früheren Videos anzusehen,
+
+445
+00:18:13,531 --> 00:18:15,904
+damit ihr bei den neuesten KI-News auf
+
+446
+00:18:14,940 --> 00:18:17,277
+dem Laufenden bleibt. Aber mit diesem
+
+447
+00:18:16,308 --> 00:18:18,169
+Gedanken, Leute, habt einen
+
+448
+00:18:17,201 --> 00:18:19,248
+großartigen Tag. Verbreitet
+
+449
+00:18:18,286 --> 00:18:20,656
+Positivität und wir sehen uns schon
+
+450
+00:18:19,694 --> 00:18:22,199
+ganz bald wieder. Macht’s gut, Leute.

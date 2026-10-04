@@ -1,0 +1,2367 @@
+1
+00:00:00,120 --> 00:00:03,010
+Was für ein wahnsinniger Tag im
+
+2
+00:00:02,069 --> 00:00:05,335
+Bereich KI. Wir hatten in den letzten
+
+3
+00:00:04,391 --> 00:00:06,285
+Tagen viele neue
+
+4
+00:00:05,341 --> 00:00:08,184
+Modellveröffentlichungen, große
+
+5
+00:00:07,240 --> 00:00:10,419
+Updates und es gibt viel zu besprechen.
+
+6
+00:00:09,519 --> 00:00:13,168
+Also, legen wir einfach direkt los. Und
+
+7
+00:00:12,218 --> 00:00:14,911
+wie versprochen bin ich mit meinem
+
+8
+00:00:13,961 --> 00:00:16,754
+dritten Upload des Tages zurück, um
+
+9
+00:00:15,804 --> 00:00:18,696
+über OpenAIs brandneue GPT-6 Soul und
+
+10
+00:00:17,746 --> 00:00:21,853
+GPT-6 Luna Modelle zu berichten. Anfang
+
+11
+00:00:20,919 --> 00:00:24,220
+des Monats stellte OpenAI die GPT-6
+
+12
+00:00:23,285 --> 00:00:25,995
+Astra-Serie als ihr bisher
+
+13
+00:00:25,060 --> 00:00:28,837
+leistungsstärkstes Modell vor. Doch
+
+14
+00:00:27,887 --> 00:00:30,326
+jetzt bringen sie die gleiche
+
+15
+00:00:29,376 --> 00:00:32,312
+Generation an Intelligenz in schnellere
+
+16
+00:00:31,361 --> 00:00:34,576
+und deutlich günstigere Modelle. Soul
+
+17
+00:00:33,625 --> 00:00:36,475
+und Luna bringen große Verbesserungen
+
+18
+00:00:35,524 --> 00:00:38,423
+beim Programmieren, bei der Faktenreue,
+
+19
+00:00:37,472 --> 00:00:39,786
+der Computernutzung und der
+
+20
+00:00:38,835 --> 00:00:41,588
+professionellen Arbeit, während sie
+
+21
+00:00:40,637 --> 00:00:44,414
+wesentlich effizienter laufen. Noch
+
+22
+00:00:43,472 --> 00:00:46,697
+besser ist, dass OpenAI die API-Preise
+
+23
+00:00:45,756 --> 00:00:48,805
+für Soul und Luna im Vergleich zum
+
+24
+00:00:47,863 --> 00:00:51,088
+Einführungspreis von GPT-5.1.6 um 50%
+
+25
+00:00:50,088 --> 00:00:52,961
+gesenkt hat, was Intelligenz auf
+
+26
+00:00:52,020 --> 00:00:55,303
+Spitzenniveau viel praktischer für die
+
+27
+00:00:54,362 --> 00:00:58,606
+großflächige Nutzung macht. Weiter
+
+28
+00:00:57,658 --> 00:01:00,090
+geht's: Ich habe bereits ein
+
+29
+00:00:59,141 --> 00:01:02,135
+ausführliches Testvideo zu Claude Opus
+
+30
+00:01:01,187 --> 00:01:04,079
+5.5 gemacht und ich empfehle sehr, es
+
+31
+00:01:03,130 --> 00:01:05,511
+euch über die Links in der
+
+32
+00:01:04,562 --> 00:01:07,942
+Beschreibung anzusehen. Aber mein Gott,
+
+33
+00:01:06,990 --> 00:01:09,147
+Leute, Anthropic hat ein
+
+34
+00:01:08,195 --> 00:01:11,028
+beeindruckendes Modell veröffentlicht
+
+35
+00:01:10,076 --> 00:01:12,619
+und ich glaube wirklich, dass es
+
+36
+00:01:11,667 --> 00:01:14,500
+derzeit das beste Modell der Welt ist.
+
+37
+00:01:13,999 --> 00:01:16,264
+Es ist etwas, das auf einem
+
+38
+00:01:15,311 --> 00:01:18,500
+außergewöhnlichen Niveau arbeitet. Es
+
+39
+00:01:17,581 --> 00:01:21,475
+performt bei vielen Aufgaben auf dem
+
+40
+00:01:20,555 --> 00:01:24,610
+Niveau von Claude 5.1, während es 40%
+
+41
+00:01:23,610 --> 00:01:27,705
+weniger kostet als Opus 5. Und ich habe
+
+42
+00:01:26,749 --> 00:01:29,459
+heute noch mehr Demos zu präsentieren.
+
+43
+00:01:29,000 --> 00:01:31,653
+Und das ist noch nicht alles. Claude
+
+44
+00:01:30,716 --> 00:01:33,987
+Haiku ist da, was für uns alle eine
+
+45
+00:01:33,050 --> 00:01:36,258
+Art Überraschung ist, da Anthropic
+
+46
+00:01:35,321 --> 00:01:38,592
+dies heute in ihrem Blogpost zu Opus
+
+47
+00:01:37,655 --> 00:01:40,989
+5.5 bestätigt hat, und es sieht auch
+
+48
+00:01:40,052 --> 00:01:43,449
+so aus, als könnten Claude Sonnet 5.5
+
+49
+00:01:42,512 --> 00:01:45,846
+und Haiku 5.5 in den kommenden Wochen
+
+50
+00:01:44,909 --> 00:01:48,513
+erscheinen. Wir haben auch Trump, der
+
+51
+00:01:47,575 --> 00:01:50,859
+über KI spricht, und dieser Typ will
+
+52
+00:01:49,921 --> 00:01:53,329
+anscheinend die Bezeichnung KI komplett
+
+53
+00:01:52,390 --> 00:01:55,490
+ändern und das ganze Branding neu
+
+54
+00:01:54,551 --> 00:01:57,589
+gestalten, und da gibt es viel zu
+
+55
+00:01:56,650 --> 00:01:59,284
+besprechen. Also, tauchen wir einfach
+
+56
+00:01:58,318 --> 00:02:01,636
+direkt in all das ein. Entschuldigt die
+
+57
+00:02:00,672 --> 00:02:03,080
+Zensur, Leute, aber mir ist aufgefallen
+
+58
+00:02:02,080 --> 00:02:04,308
+, dass viele von euch tatsächlich
+
+59
+00:02:03,344 --> 00:02:06,052
+nicht abonniert haben. Es würde uns
+
+60
+00:02:05,101 --> 00:02:07,857
+wirklich viel bedeuten, wenn ihr die
+
+61
+00:02:06,905 --> 00:02:09,710
+Benachrichtigungsglocke aktiviert und
+
+62
+00:02:08,758 --> 00:02:11,611
+dieses Video liked, da es uns wirklich
+
+63
+00:02:10,660 --> 00:02:13,123
+hilft, täglich mehr Videos zu
+
+64
+00:02:12,172 --> 00:02:16,250
+erstellen. Beginnen wir mit GPT-6 Soul
+
+65
+00:02:15,306 --> 00:02:18,432
+und Luna, den zwei neuen Modellen, die
+
+66
+00:02:17,488 --> 00:02:20,055
+entwickelt wurden, um GPT-6-
+
+67
+00:02:19,055 --> 00:02:22,125
+Level-Intelligenz ohne riesige Kosten
+
+68
+00:02:21,181 --> 00:02:25,354
+in den Alltag zu bringen. Und das ist
+
+69
+00:02:24,436 --> 00:02:28,282
+aufgrund der Preisstruktur wirklich
+
+70
+00:02:27,364 --> 00:02:32,067
+unglaublich. Hier erhält das GPT-5.6
+
+71
+00:02:31,134 --> 00:02:34,614
+Soul das GPT-6 Soul Upgrade, aber das
+
+72
+00:02:33,681 --> 00:02:36,959
+Verrückte ist, dass es zum halben
+
+73
+00:02:36,026 --> 00:02:40,021
+Preis gelistet ist. Es gibt einen
+
+74
+00:02:39,084 --> 00:02:42,615
+Nachlass von 50%. Das bedeutet, dass
+
+75
+00:02:41,668 --> 00:02:44,261
+Sie mit diesem Upgrade bereits
+
+76
+00:02:43,315 --> 00:02:46,173
+verschiedene Verbesserungen bei der
+
+77
+00:02:45,226 --> 00:02:47,766
+Programmierung, Sachlichkeit,
+
+78
+00:02:46,819 --> 00:02:49,890
+professionellen Arbeit, Computernutzung
+
+79
+00:02:48,943 --> 00:02:52,014
+und Ausrichtung erhalten, in schnellere
+
+80
+00:02:51,067 --> 00:02:54,791
+und deutlich günstigere Modelle. Die
+
+81
+00:02:53,849 --> 00:02:57,026
+GPT-6 Soul wird mit 2 $ für 1 Million
+
+82
+00:02:56,084 --> 00:02:59,204
+Eingabe-Token und 10 $ für 1 Million
+
+83
+00:02:58,261 --> 00:03:01,866
+Ausgabe-Token gelistet. Und beim
+
+84
+00:03:00,927 --> 00:03:04,304
+Übergang von der GPT-5.6 Luna zum GPT-
+
+85
+00:03:03,304 --> 00:03:06,681
+6 Luna-Upgrade sehen Sie, dass sich der
+
+86
+00:03:05,742 --> 00:03:09,057
+Preis halbiert hat: Er liegt jetzt bei
+
+87
+00:03:08,118 --> 00:03:11,312
+10 Cent für 1 Million Eingabe-Token
+
+88
+00:03:10,373 --> 00:03:12,958
+und 50 Cent für 1 Million
+
+89
+00:03:12,019 --> 00:03:15,274
+Ausgabe-Token, was einfach wahnsinnig
+
+90
+00:03:14,335 --> 00:03:18,966
+ist. Wenn es um professionelle Arbeit
+
+91
+00:03:18,021 --> 00:03:20,954
+geht, wird die GPT-5.6 Soul richtig
+
+92
+00:03:20,009 --> 00:03:22,500
+beeindruckend, denn auf der
+
+93
+00:03:21,555 --> 00:03:24,598
+Automatisierungs-Benchmark, die reale
+
+94
+00:03:23,653 --> 00:03:26,697
+Geschäftsprozesse über verschiedene
+
+95
+00:03:25,752 --> 00:03:28,905
+Apps hinweg testet, übertrifft die GPT
+
+96
+00:03:27,905 --> 00:03:30,893
+-6 Soul bei XHI-Aufwand tatsächlich
+
+97
+00:03:29,949 --> 00:03:32,937
+Claude Opus 5 bei maximalem Aufwand,
+
+98
+00:03:31,992 --> 00:03:34,814
+während sie nur 9%der Kosten pro
+
+99
+00:03:33,869 --> 00:03:38,222
+Aufgabe verursacht. Und Luna erhält
+
+100
+00:03:37,284 --> 00:03:40,434
+hier ebenfalls ein großes Upgrade,
+
+101
+00:03:39,495 --> 00:03:42,830
+denn bei hohem Aufwand verbessert sich
+
+102
+00:03:41,891 --> 00:03:44,795
+die GPT-6 Luna gegenüber ihrem
+
+103
+00:03:43,857 --> 00:03:47,007
+Vorgänger um 5,4 Prozentpunkte und
+
+104
+00:03:46,068 --> 00:03:49,280
+kostet dabei 58%weniger pro Aufgabe.
+
+105
+00:03:48,580 --> 00:03:51,541
+OpenAI macht diese Modelle also nicht
+
+106
+00:03:50,594 --> 00:03:53,238
+nur billiger, sondern holt auch
+
+107
+00:03:52,291 --> 00:03:55,094
+wesentlich mehr Leistung aus jedem
+
+108
+00:03:54,147 --> 00:03:57,232
+ausgegebenen Dollar heraus. Wenn Sie
+
+109
+00:03:56,273 --> 00:03:58,689
+die besten KI-Tools, Workflows und
+
+110
+00:03:57,730 --> 00:04:00,104
+Neuheiten vor allen anderen haben
+
+111
+00:03:59,146 --> 00:04:01,353
+wollen, abonnieren Sie meinen
+
+112
+00:04:00,394 --> 00:04:02,935
+kostenlosen Newsletter über den Link
+
+113
+00:04:01,976 --> 00:04:04,600
+in der Beschreibung unten, der komplett
+
+114
+00:04:03,642 --> 00:04:06,198
+gratis ist. Auf der
+
+115
+00:04:05,255 --> 00:04:08,361
+KI-Benchmark-Plattform „world of AI
+
+116
+00:04:07,361 --> 00:04:10,467
+“ liegt die GPT-3.6 Soul nun leicht
+
+117
+00:04:09,524 --> 00:04:12,768
+hinter GPT-3.6 Ashra. Aber das
+
+118
+00:04:11,822 --> 00:04:14,859
+Wichtigste ist, dass sie insgesamt auf
+
+119
+00:04:13,912 --> 00:04:16,681
+Platz drei rangiert, was ziemlich
+
+120
+00:04:15,735 --> 00:04:19,692
+beeindruckend ist. Und das natürlich
+
+121
+00:04:18,751 --> 00:04:21,181
+bei diesen lächerlichen
+
+122
+00:04:20,240 --> 00:04:23,444
+Preisstrukturen, bei denen das Modell
+
+123
+00:04:22,504 --> 00:04:25,648
+in Bezug auf seine Leistung sehr gut
+
+124
+00:04:24,708 --> 00:04:27,376
+abschneidet und gleichzeitig
+
+125
+00:04:26,435 --> 00:04:29,580
+unglaublich günstige Preise bietet.
+
+126
+00:04:29,779 --> 00:04:32,437
+Sie erhalten also mit diesem Modell das
+
+127
+00:04:31,479 --> 00:04:34,843
+Beste aus beiden Welten. Und dieses
+
+128
+00:04:33,890 --> 00:04:36,466
+Video wird Ihnen definitiv helfen,
+
+129
+00:04:35,513 --> 00:04:38,228
+dieses Preis-Leistungs-Verhältnis zu
+
+130
+00:04:37,275 --> 00:04:42,055
+verstehen. Hier haben wir einen realen
+
+131
+00:04:41,133 --> 00:04:45,160
+Test der Opus 5.5 gegen die GPT-6 Soul.
+
+132
+00:04:45,679 --> 00:04:49,413
+Dabei werden beide Modelle von AIML API
+
+133
+00:04:48,483 --> 00:04:51,937
+anhand von vier One-Shot-3 D-Szenen
+
+134
+00:04:51,007 --> 00:04:54,883
+getestet. Dazu gehören ein animierter
+
+135
+00:04:53,939 --> 00:04:57,011
+Fischschwarm und einige andere Dinge,
+
+136
+00:04:56,067 --> 00:04:59,902
+wie ein Tsunami. Und natürlich werden
+
+137
+00:04:58,954 --> 00:05:01,912
+Sie visuell feststellen, dass Opus 5.5
+
+138
+00:05:00,964 --> 00:05:03,871
+in der Lage ist, bei all diesen Demos
+
+139
+00:05:02,923 --> 00:05:05,572
+ein detaillierteres Rendering zu
+
+140
+00:05:04,624 --> 00:05:07,979
+erstellen. Aber schauen Sie sich den
+
+141
+00:05:07,019 --> 00:05:10,280
+Kostenunterschied an. Für alle vier
+
+142
+00:05:09,370 --> 00:05:13,610
+Szenen kostete Opus 5.5 etwa 4,37 $,
+
+143
+00:05:12,700 --> 00:05:17,250
+was definitiv teuer ist. Im Vergleich
+
+144
+00:05:16,318 --> 00:05:19,884
+dazu kostet die Generierung aller vier
+
+145
+00:05:18,952 --> 00:05:22,519
+Szenen mit der GPT-6 Soul nur 34 Cent.
+
+146
+00:05:22,100 --> 00:05:24,449
+Offensichtlich ist die
+
+147
+00:05:23,511 --> 00:05:26,474
+Erzeugungsqualität bei Opus 5.5
+
+148
+00:05:25,535 --> 00:05:28,867
+unglaublich, aber GPT-6 Soul liegt gar
+
+149
+00:05:27,928 --> 00:05:32,009
+nicht so weit dahinter. Es ist immer
+
+150
+00:05:31,075 --> 00:05:34,116
+noch in der Lage, ziemlich gute
+
+151
+00:05:33,182 --> 00:05:36,157
+Ergebnisse zu liefern, und das
+
+152
+00:05:35,222 --> 00:05:38,658
+Hauptziel dieses Vergleichs ist, dass
+
+153
+00:05:37,724 --> 00:05:41,291
+Opus in diesem speziellen Test fast 13-
+
+154
+00:05:40,291 --> 00:05:44,921
+mal mehr gekostet hat. Opus 5.5 mag
+
+155
+00:05:43,985 --> 00:05:47,461
+zwar bei den visuellen Details die Nase
+
+156
+00:05:46,524 --> 00:05:48,794
+vorn haben, aber das
+
+157
+00:05:47,858 --> 00:05:51,207
+Preis-Leistungs-Verhältnis von GPT-6
+
+158
+00:05:50,270 --> 00:05:53,302
+Soul ist fast schon lächerlich,
+
+159
+00:05:52,366 --> 00:05:55,778
+besonders mit der neuen Preisstruktur,
+
+160
+00:05:54,842 --> 00:05:59,698
+die eingeführt wurde. Artificial
+
+161
+00:05:58,754 --> 00:06:01,825
+Analysis hat auch GPT-6 Soul und Luna
+
+162
+00:06:00,881 --> 00:06:03,728
+getestet, und die Ergebnisse sind
+
+163
+00:06:02,784 --> 00:06:05,854
+ziemlich interessant, da es nur einen
+
+164
+00:06:04,910 --> 00:06:08,037
+Punkt Unterschied zwischen dem GPT-5.6
+
+165
+00:06:07,093 --> 00:06:10,220
+Soul und diesem neuen GPT-6 Soul gibt.
+
+166
+00:06:10,399 --> 00:06:14,056
+Das ist recht interessant, da wir alle
+
+167
+00:06:13,126 --> 00:06:16,574
+erwartet hatten, dass dieses Modell
+
+168
+00:06:15,644 --> 00:06:19,232
+einen deutlichen Vorsprung gegenüber
+
+169
+00:06:18,302 --> 00:06:22,030
+dem GPT-5.6 Soul haben würde, was sich
+
+170
+00:06:21,100 --> 00:06:23,919
+aber so nicht gezeigt hat.
+
+171
+00:06:23,160 --> 00:06:25,700
+Offensichtlich ist die Preisstruktur
+
+172
+00:06:24,742 --> 00:06:27,325
+fast schon wahnsinnig, ebenso wie die
+
+173
+00:06:26,368 --> 00:06:29,037
+Kosteneffizienz und die Geschwindigkeit
+
+174
+00:06:28,037 --> 00:06:31,689
+. Ehrlich gesagt hatte ich bei der
+
+175
+00:06:30,748 --> 00:06:33,735
+Leistung etwas mehr erwartet, aber
+
+176
+00:06:32,794 --> 00:06:35,899
+vielleicht bin ich auch nur etwas zu
+
+177
+00:06:34,957 --> 00:06:38,120
+gierig, nachdem ich gesehen habe, was
+
+178
+00:06:37,179 --> 00:06:41,523
+mit Opus 5.5 möglich ist. Insgesamt
+
+179
+00:06:40,577 --> 00:06:43,568
+hat sich das Modell jedoch im Bereich
+
+180
+00:06:42,621 --> 00:06:45,559
+Programmierung definitiv verbessert.
+
+181
+00:06:45,859 --> 00:06:48,507
+Auch bei Luna gibt es in diesen
+
+182
+00:06:47,560 --> 00:06:50,155
+verschiedenen Kategorien einen
+
+183
+00:06:49,208 --> 00:06:52,704
+deutlichen Zuwachs. Und eine der
+
+184
+00:06:51,744 --> 00:06:54,076
+größten Verbesserungen, die ich
+
+185
+00:06:53,117 --> 00:06:55,247
+bisher bemerkt habe, ist die
+
+186
+00:06:54,287 --> 00:06:57,240
+Verringerung der Halluzinationen. Die
+
+187
+00:06:56,312 --> 00:06:59,848
+Halluzinationsrate von Soul ist von
+
+188
+00:06:58,920 --> 00:07:02,166
+verrückten 92%auf 60%gesunken,
+
+189
+00:07:01,239 --> 00:07:04,847
+während sie bei Luna von 93%auf 77%
+
+190
+00:07:03,847 --> 00:07:07,544
+zurückgegangen ist. Und das ist
+
+191
+00:07:06,610 --> 00:07:10,899
+einfach bemerkenswert. Ich habe GPT-6
+
+192
+00:07:09,948 --> 00:07:12,841
+Soul und Luna natürlich einem strengen
+
+193
+00:07:11,890 --> 00:07:14,492
+Test mit meiner Prompt-Bibliothek
+
+194
+00:07:13,540 --> 00:07:16,434
+unterzogen, auf die Sie über die Links
+
+195
+00:07:15,482 --> 00:07:18,182
+in der Beschreibung unten zugreifen
+
+196
+00:07:17,230 --> 00:07:21,828
+können. Man kann viele dieser
+
+197
+00:07:20,882 --> 00:07:24,017
+Funktionen sogar kostenlos nutzen, aber
+
+198
+00:07:23,072 --> 00:07:26,042
+was mir bei meinen Tests aufgefallen
+
+199
+00:07:25,096 --> 00:07:28,012
+ist, ist, dass man in vielen dieser
+
+200
+00:07:27,067 --> 00:07:29,654
+Fälle praktisch die gleichen
+
+201
+00:07:28,708 --> 00:07:31,679
+Ergebnisse wie mit Opus 5.5 erhält.
+
+202
+00:07:32,440 --> 00:07:35,842
+Warum also nicht einfach dieses neue
+
+203
+00:07:34,909 --> 00:07:38,512
+Luna-oder Soul-Modell verwenden, das im
+
+204
+00:07:37,578 --> 00:07:40,580
+Vergleich zu Opus 5.5 deutlich
+
+205
+00:07:39,647 --> 00:07:42,916
+günstiger ist, aber praktisch die
+
+206
+00:07:41,983 --> 00:07:46,827
+gleiche Art von Ausgabe liefert? Viele
+
+207
+00:07:45,889 --> 00:07:49,234
+dieser verschiedenen Generationen sind
+
+208
+00:07:48,295 --> 00:07:51,702
+einfach unglaublich, und man fragt sich
+
+209
+00:07:50,702 --> 00:07:53,738
+, ob man immer Opus 5.5 verwenden
+
+210
+00:07:52,800 --> 00:07:55,713
+sollte oder ob man aufgrund der
+
+211
+00:07:54,774 --> 00:07:57,934
+Kosteneffizienz und Geschwindigkeit
+
+212
+00:07:56,996 --> 00:08:00,217
+nicht lieber ein Modell wie Soul als
+
+213
+00:07:59,279 --> 00:08:02,500
+Hauptinstrument einsetzen sollte, um
+
+214
+00:08:01,562 --> 00:08:05,546
+Aufgaben zu erledigen? Denn viele der
+
+215
+00:08:04,602 --> 00:08:07,512
+Generationen, die ich gerade sehe,
+
+216
+00:08:06,568 --> 00:08:09,759
+zeigen einfach, wie unglaublich das GPT
+
+217
+00:08:08,759 --> 00:08:11,781
+-6 Soul-Modell sowie das Luna-Modell
+
+218
+00:08:10,837 --> 00:08:13,860
+sind, da insbesondere beim Front-End
+
+219
+00:08:12,916 --> 00:08:15,826
+der Designgeschmack dieses Modells
+
+220
+00:08:14,882 --> 00:08:18,010
+wirklich bemerkenswert ist. Und ich
+
+221
+00:08:17,048 --> 00:08:19,398
+werde ein paar weitere Generationen
+
+222
+00:08:18,437 --> 00:08:20,787
+präsentieren, die Sie dazu anregen
+
+223
+00:08:19,825 --> 00:08:22,291
+werden, darüber nachzudenken, was Sie
+
+224
+00:08:21,330 --> 00:08:23,487
+tatsächlich mit diesem Modell
+
+225
+00:08:22,525 --> 00:08:25,691
+anstellen können. Und mit dieser
+
+226
+00:08:24,743 --> 00:08:27,697
+Veröffentlichung hat Tibo auch einen
+
+227
+00:08:26,750 --> 00:08:29,809
+Reset angekündigt, der gespeichert ist
+
+228
+00:08:28,861 --> 00:08:31,340
+und den Sie jederzeit in den
+
+229
+00:08:30,392 --> 00:08:33,376
+Einstellungen einfordern können. Das
+
+230
+00:08:32,423 --> 00:08:35,210
+ist also ein zusätzlicher Vorteil bei
+
+231
+00:08:34,257 --> 00:08:37,622
+dieser Modellveröffentlichung. Aber
+
+232
+00:08:36,668 --> 00:08:39,446
+natürlich möchte ich ehrlich zu Ihnen
+
+233
+00:08:38,492 --> 00:08:42,267
+sein. Das GPT-6 Whole liegt definitiv
+
+234
+00:08:41,330 --> 00:08:44,445
+weit hinter diesem neuen Opus 5.5-
+
+235
+00:08:43,445 --> 00:08:48,046
+Modell zurück. Sogar beim GPT-6 Astra
+
+236
+00:08:47,120 --> 00:08:50,635
+gibt es jetzt definitiv eine klare
+
+237
+00:08:49,709 --> 00:08:53,445
+Lücke, und das nicht nur in ein paar
+
+238
+00:08:52,519 --> 00:08:56,519
+Bereichen. Es erstreckt sich über
+
+239
+00:08:55,569 --> 00:08:58,131
+mehrere Bereiche, was irgendwie
+
+240
+00:08:57,182 --> 00:08:59,794
+verrückt ist, da Opus 5.5 einen
+
+241
+00:08:58,845 --> 00:09:01,609
+ziemlich massiven Vorteil in vielen
+
+242
+00:09:00,659 --> 00:09:03,473
+verschiedenen Bereichen hat, von der
+
+243
+00:09:02,524 --> 00:09:05,439
+Programmierung bis zur Computernutzung
+
+244
+00:09:04,489 --> 00:09:08,732
+sowie dem Allgemeinwissen. Anhand
+
+245
+00:09:07,790 --> 00:09:10,903
+dieses Vergleichs als Beispiel: Hier
+
+246
+00:09:09,962 --> 00:09:13,133
+wurde angefordert, eine New York City
+
+247
+00:09:12,192 --> 00:09:15,422
+in 3.js zu erstellen, also die Skyline
+
+248
+00:09:14,481 --> 00:09:17,652
+und die Stadt insgesamt mit Gebäuden
+
+249
+00:09:16,711 --> 00:09:20,000
+und verschiedenen Arten von Komponenten
+
+250
+00:09:19,000 --> 00:09:23,042
+. Und hier wurde angefordert, die
+
+251
+00:09:22,106 --> 00:09:25,600
+Dächer, die Taxis, die Brooklyn Bridge
+
+252
+00:09:24,600 --> 00:09:27,647
+, den Central Park und all diese
+
+253
+00:09:26,711 --> 00:09:30,141
+interaktiven 3 D-Umgebungen mit diesem
+
+254
+00:09:29,205 --> 00:09:32,700
+Prompt vollständig auszuprogrammieren.
+
+255
+00:09:32,439 --> 00:09:36,291
+GPT-6 Soul hingegen hat natürlich eine
+
+256
+00:09:35,364 --> 00:09:39,070
+der besseren Generationen für diesen
+
+257
+00:09:38,144 --> 00:09:41,996
+Prompt produziert, aber man sieht, dass
+
+258
+00:09:41,069 --> 00:09:44,556
+das Modell nur ein statisches Bild
+
+259
+00:09:43,629 --> 00:09:47,282
+ausgeben konnte. Man konnte die Kamera
+
+260
+00:09:46,320 --> 00:09:49,086
+nicht wirklich bewegen. Sie haben den
+
+261
+00:09:48,134 --> 00:09:50,802
+Code nicht wirklich generiert. Es
+
+262
+00:09:49,844 --> 00:09:52,294
+enthielt nicht einmal eine richtige
+
+263
+00:09:51,336 --> 00:09:54,030
+Render-Schleife. Also hat es die Szene
+
+264
+00:09:53,068 --> 00:09:55,463
+einfach nur einmal gerendert und dann
+
+265
+00:09:54,500 --> 00:09:57,756
+gestoppt. Aber das Opus 5.5 ging weit
+
+266
+00:09:56,812 --> 00:10:00,532
+darüber hinaus. Es hat alles aufgebaut
+
+267
+00:09:59,532 --> 00:10:02,733
+. Alle Texturen, Shader und
+
+268
+00:10:01,799 --> 00:10:04,717
+Beleuchtungen wurden dieser 3
+
+269
+00:10:03,783 --> 00:10:07,244
+D-Umgebung zugewiesen. Es zeigt also
+
+270
+00:10:06,301 --> 00:10:09,365
+nur, dass das Opus 1.5 derzeit einen
+
+271
+00:10:08,422 --> 00:10:11,372
+klaren Vorsprung vor jedem anderen
+
+272
+00:10:10,429 --> 00:10:15,275
+Modell hat. Aber andererseits, Leute,
+
+273
+00:10:14,324 --> 00:10:17,076
+wenn es darum geht, Prompts wirklich
+
+274
+00:10:16,125 --> 00:10:18,974
+detailliert auszuarbeiten, oder besser
+
+275
+00:10:18,023 --> 00:10:20,921
+gesagt, wenn man sie richtig anspricht,
+
+276
+00:10:19,970 --> 00:10:22,771
+wie in diesem Fall, wo ich es gebeten
+
+277
+00:10:21,819 --> 00:10:24,231
+habe, einen Mac-Klon oder ein
+
+278
+00:10:23,280 --> 00:10:26,178
+browserbasiertes Mac-Betriebssystem mit
+
+279
+00:10:25,227 --> 00:10:28,076
+der Fähigkeit zur Interaktion mit dem
+
+280
+00:10:27,125 --> 00:10:30,023
+Telefon zu erstellen, hat es mit diesem
+
+281
+00:10:29,072 --> 00:10:31,970
+Ergebnis ziemlich gute Arbeit geleistet
+
+282
+00:10:30,970 --> 00:10:35,794
+. Es hat all diese Komponenten wie den
+
+283
+00:10:34,851 --> 00:10:37,696
+Kalender erstellt, das iOS wurde
+
+284
+00:10:36,754 --> 00:10:40,839
+vollständig etabliert. Sie haben sogar
+
+285
+00:10:39,891 --> 00:10:42,555
+den Sperrbildschirm, und das ist
+
+286
+00:10:41,607 --> 00:10:44,375
+einfach der Wahnsinn, weil man all
+
+287
+00:10:43,427 --> 00:10:46,403
+diese coolen Komponenten hat, die für
+
+288
+00:10:45,455 --> 00:10:48,483
+das MacBook programmiert wurden und nun
+
+289
+00:10:47,535 --> 00:10:50,622
+auf iOS übertragen wurden. Das ist
+
+290
+00:10:49,668 --> 00:10:52,462
+etwas, das ich bisher bei keinem Modell
+
+291
+00:10:51,508 --> 00:10:54,211
+gesehen habe, denn wann immer wir die
+
+292
+00:10:53,257 --> 00:10:55,775
+Erstellung eines browserbasierten
+
+293
+00:10:54,821 --> 00:10:57,616
+Prompts angefordert haben, wurden nicht
+
+294
+00:10:56,662 --> 00:10:59,134
+alle diese Elemente tatsächlich
+
+295
+00:10:58,180 --> 00:11:01,263
+programmiert. Dies ist eine
+
+296
+00:11:00,334 --> 00:11:03,540
+Bildschirm-Spiegelungs-App, die
+
+297
+00:11:02,611 --> 00:11:06,030
+ausgegeben wurde und alle Apps auf
+
+298
+00:11:05,101 --> 00:11:08,804
+Ihrem MacBook sowie Ihre iOS-Apple-App
+
+299
+00:11:07,875 --> 00:11:12,744
+oder Ihr Mobilgerät anzeigt. Und hier
+
+300
+00:11:11,802 --> 00:11:14,894
+wurden sogar all diese verschiedenen
+
+301
+00:11:13,952 --> 00:11:16,986
+einzelnen Anwendungssymbole als SVG
+
+302
+00:11:16,044 --> 00:11:20,093
+programmiert. Nun, eine Sache ist mir
+
+303
+00:11:19,148 --> 00:11:22,254
+aufgefallen: Ich kann die eigentlichen
+
+304
+00:11:21,309 --> 00:11:23,916
+Ordner oder Anwendungen nicht
+
+305
+00:11:22,971 --> 00:11:25,633
+verschieben, was definitiv ein
+
+306
+00:11:24,689 --> 00:11:28,231
+ziemlicher Nachteil ist. Ich müsste
+
+307
+00:11:27,290 --> 00:11:30,480
+darum bitten, das zu verbessern, aber
+
+308
+00:11:29,540 --> 00:11:32,671
+abgesehen davon gibt es viele dieser
+
+309
+00:11:31,730 --> 00:11:34,980
+coolen Dinge, die hinzugefügt wurden.
+
+310
+00:11:34,320 --> 00:11:37,034
+Offensichtlich sind die Hyperlinks und
+
+311
+00:11:36,079 --> 00:11:38,568
+die Anwendungen alle vollständig
+
+312
+00:11:37,613 --> 00:11:40,583
+programmiert. Es gibt sogar einen
+
+313
+00:11:39,631 --> 00:11:42,230
+Musikplayer, der zu funktionieren
+
+314
+00:11:41,278 --> 00:11:44,214
+scheint, was gut ist. Er spielt zwar
+
+315
+00:11:43,254 --> 00:11:45,640
+keine besonders gute Musik ab, aber
+
+316
+00:11:44,680 --> 00:11:47,225
+abgesehen davon scheint alles andere zu
+
+317
+00:11:46,265 --> 00:11:49,573
+funktionieren. Insgesamt liebe ich die
+
+318
+00:11:48,643 --> 00:11:52,240
+Generierungsqualität dieses Modells.
+
+319
+00:11:51,600 --> 00:11:54,522
+Es erfordert lediglich, dass man viel
+
+320
+00:11:53,574 --> 00:11:56,184
+mehr Details eingibt, um das zu
+
+321
+00:11:55,236 --> 00:11:59,243
+bekommen, wonach man sucht. Und apropos
+
+322
+00:11:58,289 --> 00:12:00,941
+Modellveröffentlichungen: Anthropic
+
+323
+00:11:59,987 --> 00:12:02,364
+hat heute auch Claude Opus 5.5
+
+324
+00:12:01,410 --> 00:12:04,415
+herausgebracht. Dies ist das erste
+
+325
+00:12:03,480 --> 00:12:06,793
+Modell der Claude 5.5-Familie und es
+
+326
+00:12:05,857 --> 00:12:09,300
+ist ein wirklich unglaubliches Modell.
+
+327
+00:12:08,700 --> 00:12:12,333
+Es ist derzeit das am besten bewertete
+
+328
+00:12:11,402 --> 00:12:14,620
+Modell und bietet bei fast jeder
+
+329
+00:12:13,689 --> 00:12:16,977
+Aufgabe ein ähnliches oder sogar
+
+330
+00:12:16,046 --> 00:12:19,749
+besseres Leistungsniveau als Fable 5.1,
+
+331
+00:12:18,818 --> 00:12:22,452
+während es 40%weniger kostet als Opus
+
+332
+00:12:21,521 --> 00:12:25,362
+5. Genau wie bei OpenAI liegt der Fokus
+
+333
+00:12:24,423 --> 00:12:27,749
+derzeit also nicht darauf, die Modelle
+
+334
+00:12:26,810 --> 00:12:30,086
+intelligenter zu machen. Es geht darum,
+
+335
+00:12:29,128 --> 00:12:31,722
+Leistung auf Spitzenniveau zu deutlich
+
+336
+00:12:30,764 --> 00:12:34,073
+geringeren Kosten zu liefern. Oh, und
+
+337
+00:12:33,120 --> 00:12:35,834
+falls Sie es noch nicht wussten: Sie
+
+338
+00:12:34,882 --> 00:12:37,738
+bieten auch einen kostenlosen Reset des
+
+339
+00:12:36,786 --> 00:12:40,150
+Rate Limits an. Sie können über die
+
+340
+00:12:39,212 --> 00:12:42,646
+Einstellungen darauf zugreifen, und ich
+
+341
+00:12:41,708 --> 00:12:44,955
+glaube, es läuft am 22. Oktober ab,
+
+342
+00:12:44,017 --> 00:12:47,388
+also lösen Sie es ein, wann immer Sie
+
+343
+00:12:46,451 --> 00:12:49,724
+es brauchen. Ich habe bereits mein
+
+344
+00:12:48,767 --> 00:12:51,145
+ausführliches Video zu Opus 5.5
+
+345
+00:12:50,188 --> 00:12:52,610
+gemacht, daher empfehle ich Ihnen
+
+346
+00:12:51,653 --> 00:12:55,542
+dringend, es sich anzusehen. Aber hier
+
+347
+00:12:54,603 --> 00:12:57,933
+werden wir uns ein paar neue Beispiele
+
+348
+00:12:56,994 --> 00:13:00,262
+dafür ansehen, was Opus 5.5 ausgeben
+
+349
+00:12:59,323 --> 00:13:02,713
+kann, und es ist einfach irre, weil man
+
+350
+00:13:01,775 --> 00:13:04,981
+den Detailgrad im Vergleich zu etwas
+
+351
+00:13:04,043 --> 00:13:07,311
+wie GPT Astra wirklich erkennen kann.
+
+352
+00:13:07,249 --> 00:13:10,622
+Hier wurde nämlich verlangt, eine
+
+353
+00:13:09,691 --> 00:13:13,414
+Simulation eines Nachtzugs zu erstellen
+
+354
+00:13:12,414 --> 00:13:15,926
+, der durch die Landschaft fährt–
+
+355
+00:13:14,926 --> 00:13:18,649
+oder nicht einmal durch die Landschaft.
+
+356
+00:13:17,749 --> 00:13:19,948
+Das ist nicht einmal die Landschaft.
+
+357
+00:13:19,048 --> 00:13:22,674
+Was rede ich da überhaupt? Das ist der
+
+358
+00:13:21,777 --> 00:13:25,600
+Norden. Sagen wir, Alaska, vielleicht.
+
+359
+00:13:25,106 --> 00:13:28,530
+Dies ist eine Simulation eines Zuges,
+
+360
+00:13:27,595 --> 00:13:30,560
+der durch die Gleise in dieser
+
+361
+00:13:29,626 --> 00:13:33,115
+bestimmten Region fährt, und man kann
+
+362
+00:13:32,181 --> 00:13:35,408
+den Detailgrad bei der Beleuchtung
+
+363
+00:13:34,474 --> 00:13:37,963
+sowie bei den Kamerawinkeln sehen, die
+
+364
+00:13:37,029 --> 00:13:40,256
+dem Zug folgen, sowie viele andere
+
+365
+00:13:39,322 --> 00:13:42,549
+Dinge wie die Umgebung selbst, die
+
+366
+00:13:41,615 --> 00:13:45,105
+vollständig in 3.js programmiert ist.
+
+367
+00:13:44,359 --> 00:13:47,472
+Das zeigt einfach, dass es jetzt
+
+368
+00:13:46,538 --> 00:13:49,916
+wirklich eine Lücke zu OpenAI gibt,
+
+369
+00:13:48,982 --> 00:13:52,029
+die zwar gute Arbeit bei dieser
+
+370
+00:13:51,095 --> 00:13:54,671
+Generierung leisten, aber nicht auf dem
+
+371
+00:13:53,737 --> 00:13:58,159
+Qualitätsniveau von Opus 1.5. Ich habe
+
+372
+00:13:57,225 --> 00:14:00,657
+meine Minecraft-Demo heute bereits im
+
+373
+00:13:59,723 --> 00:14:02,826
+Video gezeigt, aber das ist eine
+
+374
+00:14:01,892 --> 00:14:05,126
+bessere Generierung, die Shader in
+
+375
+00:14:04,192 --> 00:14:07,558
+diese Aufgabe integriert hat, um ein
+
+376
+00:14:06,624 --> 00:14:09,990
+Sandbox-Spiel wie das ursprüngliche
+
+377
+00:14:09,056 --> 00:14:12,705
+Minecraft zu erschaffen. Es ist einfach
+
+378
+00:14:11,771 --> 00:14:15,199
+völlig verrückt, dass ein KI-Modell
+
+379
+00:14:14,265 --> 00:14:17,628
+diesen kompletten Sandbox-Spiel-Klon
+
+380
+00:14:16,693 --> 00:14:20,253
+mit all seinen Kernkomponenten erstellt
+
+381
+00:14:19,319 --> 00:14:22,682
+hat, und nicht nur das, sondern auch
+
+382
+00:14:21,747 --> 00:14:24,847
+Shader hinzugefügt hat, was das
+
+383
+00:14:23,913 --> 00:14:27,341
+gesamte Gameplay viel besser aussehen
+
+384
+00:14:26,407 --> 00:14:30,188
+lässt. Denn das ist einfach irre, weil
+
+385
+00:14:29,248 --> 00:14:32,479
+Opus 1.5 für 1 Stunde und 37 Minuten
+
+386
+00:14:31,540 --> 00:14:34,891
+bei maximaler Anstrengung lief und dies
+
+387
+00:14:33,952 --> 00:14:36,821
+das Ergebnis mit offensichtlich
+
+388
+00:14:35,881 --> 00:14:39,112
+beeindruckender Beleuchtung, Shadern,
+
+389
+00:14:38,173 --> 00:14:41,748
+Texturen und Optik war. Und es sieht in
+
+390
+00:14:40,798 --> 00:14:43,594
+vielen Bereichen offensichtlich viel
+
+391
+00:14:42,644 --> 00:14:45,291
+besser aus als das ursprüngliche
+
+392
+00:14:44,341 --> 00:14:47,702
+Minecraft. Hier ist ein weiteres
+
+393
+00:14:46,761 --> 00:14:49,479
+Beispiel, bei dem es mit 3.js
+
+394
+00:14:48,538 --> 00:14:51,848
+überzeugt, um einen Spider-Man-Klon zu
+
+395
+00:14:50,907 --> 00:14:54,622
+erstellen. Das ist ein vollständiger
+
+396
+00:14:53,685 --> 00:14:57,150
+Klon wie das ursprüngliche Spider-Man:
+
+397
+00:14:56,213 --> 00:14:59,424
+Miles Morales-Spiel, und das hat es
+
+398
+00:14:58,487 --> 00:15:01,635
+tatsächlich mit mittlerem Aufwand
+
+399
+00:15:00,699 --> 00:15:04,100
+geschafft, nicht einmal mit maximalem.
+
+400
+00:15:03,400 --> 00:15:07,036
+Man erhält also diese Art von Ausgabe
+
+401
+00:15:06,106 --> 00:15:09,673
+mit diesem mittleren Reasoning-Level,
+
+402
+00:15:08,743 --> 00:15:11,825
+und es hat offensichtlich alle
+
+403
+00:15:10,894 --> 00:15:14,461
+Kernkomponenten hinzugefügt, die man
+
+404
+00:15:13,531 --> 00:15:16,890
+tatsächlich aus dem Originalspiel
+
+405
+00:15:15,960 --> 00:15:19,388
+kannte, von den Texturen bis zu den
+
+406
+00:15:18,458 --> 00:15:20,915
+Animationen sowie die
+
+407
+00:15:19,984 --> 00:15:22,858
+Schwung-Komponente oder die
+
+408
+00:15:21,927 --> 00:15:24,801
+Schwingbewegung, die man im
+
+409
+00:15:23,870 --> 00:15:27,715
+Originalspiel hat. Es ist also einfach
+
+410
+00:15:26,762 --> 00:15:29,367
+verrückt, dass wir an einem Punkt
+
+411
+00:15:28,414 --> 00:15:31,113
+angelangt sind, an dem ein KI-Modell
+
+412
+00:15:30,160 --> 00:15:32,434
+nicht nur das Frontend für
+
+413
+00:15:31,481 --> 00:15:34,321
+verschiedene Landingpages ausgeben kann
+
+414
+00:15:33,321 --> 00:15:36,114
+, sondern jetzt sogar komplette Spiele
+
+415
+00:15:35,162 --> 00:15:37,766
+für einen programmieren kann, was
+
+416
+00:15:36,813 --> 00:15:40,758
+einfach wahnsinnig ist. Für mich ist
+
+417
+00:15:39,803 --> 00:15:42,782
+das einfach schwer zu glauben. Erinnert
+
+418
+00:15:41,827 --> 00:15:44,593
+ihr euch an Elden Ring? Ich glaube, so
+
+419
+00:15:43,638 --> 00:15:46,491
+hieß das Spiel. Äh, Elden Ring, ich
+
+420
+00:15:45,543 --> 00:15:49,730
+habe es gespielt. Und es ist im Grunde
+
+421
+00:15:48,796 --> 00:15:52,390
+ein Teil der Dark-Souls-Reihe, und hier
+
+422
+00:15:51,457 --> 00:15:54,851
+hat jemand tatsächlich Opus 5.5 mit
+
+423
+00:15:53,917 --> 00:15:57,445
+maximaler Argumentationstiefe gebeten,
+
+424
+00:15:56,511 --> 00:15:59,839
+ein Spiel im Stil von Elden Ring zu
+
+425
+00:15:58,906 --> 00:16:01,835
+erstellen, und es ist einfach
+
+426
+00:16:00,901 --> 00:16:04,495
+unglaublich, denn das übertrifft meine
+
+427
+00:16:03,561 --> 00:16:06,889
+Erwartungen bei weitem, da es einen
+
+428
+00:16:05,956 --> 00:16:09,151
+kompletten Klon erstellt hat, der
+
+429
+00:16:08,217 --> 00:16:12,727
+tatsächlich fantastisch aussieht. Es
+
+430
+00:16:11,792 --> 00:16:14,401
+sieht dem ursprünglichen
+
+431
+00:16:13,466 --> 00:16:17,161
+Elden-Ring-Spiel ziemlich ähnlich. Es
+
+432
+00:16:16,232 --> 00:16:19,569
+fügt Texturen hinzu, sogar einen
+
+433
+00:16:18,640 --> 00:16:22,260
+Bosskampf, was einfach verrückt ist.
+
+434
+00:16:21,680 --> 00:16:24,589
+An diesem Punkt könnte man jedes
+
+435
+00:16:23,647 --> 00:16:26,729
+beliebige KI-Modell bitten, eine Art
+
+436
+00:16:25,787 --> 00:16:28,870
+Klon eines Spiels zu erstellen, aber
+
+437
+00:16:27,928 --> 00:16:30,953
+genau hier geht Opus 5.5 noch einen
+
+438
+00:16:30,011 --> 00:16:33,812
+Schritt weiter. Es ist in der Lage, die
+
+439
+00:16:32,868 --> 00:16:35,915
+visuelle Qualität des Originalspiels
+
+440
+00:16:34,971 --> 00:16:37,908
+präzise zu treffen, indem es diese
+
+441
+00:16:36,963 --> 00:16:39,955
+Aspekte sowie die Texturen klont und
+
+442
+00:16:39,011 --> 00:16:41,837
+dann eine ausgefeilte interaktive
+
+443
+00:16:40,892 --> 00:16:43,331
+Erfahrung aufbaut, die das
+
+444
+00:16:42,387 --> 00:16:45,916
+Originalspiel nachahmt. Sei es, dass
+
+445
+00:16:44,986 --> 00:16:48,565
+das Wissen über das Originalspiel in
+
+446
+00:16:47,635 --> 00:16:51,214
+den Klon implementiert wird oder dass
+
+447
+00:16:50,284 --> 00:16:53,723
+der Fokus darauf liegt, das Projekt
+
+448
+00:16:52,793 --> 00:16:56,233
+stärker auf den Kernprinzipien des
+
+449
+00:16:55,303 --> 00:16:58,952
+Originalspiels aufzubauen, was man bei
+
+450
+00:16:58,021 --> 00:17:01,531
+keinem anderen Modell bisher gesehen
+
+451
+00:17:00,601 --> 00:17:03,931
+hat. Jedes Modell, das man bittet,
+
+452
+00:17:02,986 --> 00:17:06,127
+einen solchen Klon zu erstellen, würde
+
+453
+00:17:05,182 --> 00:17:08,268
+zwar eine grundlegende Struktur dessen
+
+454
+00:17:07,323 --> 00:17:10,354
+generieren, wonach man sucht, aber es
+
+455
+00:17:09,409 --> 00:17:12,549
+bietet nicht die gleiche Tiefe oder die
+
+456
+00:17:11,604 --> 00:17:14,580
+Implementierung der Kernkonzepte des
+
+457
+00:17:13,635 --> 00:17:17,056
+Originalspiels. Während Opus 1.5 an
+
+458
+00:17:16,114 --> 00:17:19,195
+einen Punkt gelangt, an dem es genau
+
+459
+00:17:18,253 --> 00:17:21,450
+das aufgrund seines Intelligenzniveaus
+
+460
+00:17:20,508 --> 00:17:24,631
+leisten kann. Wenn euch dieses Video
+
+461
+00:17:23,684 --> 00:17:26,069
+gefällt und ihr den Kanal
+
+462
+00:17:25,122 --> 00:17:28,199
+unterstützen möchtet, könnt ihr eine
+
+463
+00:17:27,253 --> 00:17:30,170
+Spende über die „Super Thanks“-
+
+464
+00:17:29,170 --> 00:17:32,140
+Option unten in Erwägung ziehen oder
+
+465
+00:17:31,194 --> 00:17:34,217
+unserem privaten Discord beitreten, wo
+
+466
+00:17:33,271 --> 00:17:36,241
+ihr monatlich kostenlosen Zugriff auf
+
+467
+00:17:35,294 --> 00:17:38,372
+verschiedene Abonnements für KI-Tools,
+
+468
+00:17:37,425 --> 00:17:40,289
+tägliche KI-Nachrichten, exklusive
+
+469
+00:17:39,342 --> 00:17:43,873
+Inhalte und vieles mehr erhaltet. Wie
+
+470
+00:17:42,928 --> 00:17:45,575
+dem auch sei, Opus 5.5 ist ein
+
+471
+00:17:44,630 --> 00:17:47,771
+unglaubliches neues Modell als Teil der
+
+472
+00:17:46,826 --> 00:17:49,802
+neuen Claude-5.5-Familie, und wo wir
+
+473
+00:17:48,857 --> 00:17:51,559
+gerade von dieser neuen Familie
+
+474
+00:17:50,614 --> 00:17:53,645
+sprechen: Es sieht so aus, als würde
+
+475
+00:17:52,700 --> 00:17:55,347
+Anthropic endlich Claude Haiku
+
+476
+00:17:54,402 --> 00:17:57,543
+zurückbringen, und es ist definitiv am
+
+477
+00:17:56,598 --> 00:17:59,300
+Leben, denn Anthropic hat heute
+
+478
+00:17:58,355 --> 00:18:01,166
+offiziell bestätigt, dass Claude
+
+479
+00:18:00,221 --> 00:18:03,033
+Sonnet 5.5 sowie Haiku 5.5 in den
+
+480
+00:18:02,088 --> 00:18:05,229
+kommenden Wochen erscheinen werden, und
+
+481
+00:18:04,284 --> 00:18:07,260
+beide Modelle werden voraussichtlich
+
+482
+00:18:06,315 --> 00:18:09,291
+viele der Verbesserungen mitbringen,
+
+483
+00:18:08,346 --> 00:18:12,072
+die wir bei Opus 5.5 sehen, was sehr
+
+484
+00:18:11,127 --> 00:18:14,523
+interessant ist. Und wenn wir eine
+
+485
+00:18:13,581 --> 00:18:16,492
+ähnliche Leistung, Effizienz und
+
+486
+00:18:15,550 --> 00:18:18,635
+Sicherheit bei diesen neuen Modellen
+
+487
+00:18:17,693 --> 00:18:20,315
+erhalten, wird das definitiv
+
+488
+00:18:19,373 --> 00:18:22,632
+bemerkenswert sein und tatsächlich das
+
+489
+00:18:21,689 --> 00:18:24,890
+nachahmen, was wir bei den GPT-6-Soul-
+
+490
+00:18:23,890 --> 00:18:29,233
+sowie Luna-Modellen gesehen haben. Als
+
+491
+00:18:28,288 --> 00:18:31,448
+Nächstes von Alibaba: Es sieht so aus,
+
+492
+00:18:30,503 --> 00:18:33,497
+als würde die Qwen-Modellreihe bald
+
+493
+00:18:32,552 --> 00:18:36,635
+schnell voranschreiten. Wie wir bereits
+
+494
+00:18:35,701 --> 00:18:38,360
+in anderen Videos auf der
+
+495
+00:18:37,427 --> 00:18:40,550
+Apsara-Konferenz erwähnt haben,
+
+496
+00:18:39,617 --> 00:18:43,139
+bereiten sie die Veröffentlichung der
+
+497
+00:18:42,205 --> 00:18:45,793
+Qwen-4-Modellreihe vor, und jetzt liegt
+
+498
+00:18:44,860 --> 00:18:48,182
+uns eine Liste der Modelle vor, die
+
+499
+00:18:47,249 --> 00:18:50,719
+Alibaba herausbringen wird. Dazu
+
+500
+00:18:49,784 --> 00:18:52,992
+gehört das Qwen 4 Max, das an der
+
+501
+00:18:52,057 --> 00:18:55,891
+Spitze der Liste stehen wird. Wir haben
+
+502
+00:18:54,962 --> 00:18:58,700
+das Qwen 4 Plus sowie das Qwen 4 Flash.
+
+503
+00:18:58,199 --> 00:19:02,137
+Und jetzt bitte einen Trommelwirbel,
+
+504
+00:19:01,219 --> 00:19:05,239
+denn das Qwen 4 27B kommt auf uns zu.
+
+505
+00:19:05,079 --> 00:19:08,491
+Ich bin wirklich gespannt, was sie mit
+
+506
+00:19:07,554 --> 00:19:10,966
+diesem Modell veröffentlichen werden,
+
+507
+00:19:10,030 --> 00:19:13,188
+denn wir werden ein lokales Modell
+
+508
+00:19:12,252 --> 00:19:15,664
+erhalten, das praktisch auf Augenhöhe
+
+509
+00:19:14,727 --> 00:19:18,139
+mit den aktuellen Spitzenmodellen ist,
+
+510
+00:19:17,203 --> 00:19:21,301
+was unglaublich wäre. Noch verrückter
+
+511
+00:19:20,348 --> 00:19:23,109
+ist jedoch, dass Qwen anscheinend den
+
+512
+00:19:22,157 --> 00:19:25,286
+nächsten Schritt plant. Sie planen,
+
+513
+00:19:24,340 --> 00:19:27,313
+mit zukünftigen Qwen 4.5-und Qwen 5-
+
+514
+00:19:26,313 --> 00:19:29,340
+Modellen aggressiv weiter zu skalieren
+
+515
+00:19:28,393 --> 00:19:31,473
+und möglicherweise irgendwo zwischen 5
+
+516
+00:19:30,526 --> 00:19:33,606
+und 10 Billionen Parameter zu erreichen
+
+517
+00:19:32,606 --> 00:19:36,203
+. Und wenn das passiert, sprechen wir
+
+518
+00:19:35,248 --> 00:19:37,856
+von einem absolut massiven Sprung in
+
+519
+00:19:36,900 --> 00:19:39,374
+Bezug auf die Skalierung für die
+
+520
+00:19:38,419 --> 00:19:42,366
+Qwen-Familie. Als Nächstes: Die HY
+
+521
+00:19:41,427 --> 00:19:44,685
+Image 3.5 Preview ist offiziell live.
+
+522
+00:19:43,836 --> 00:19:47,198
+Sie stammt von Tencent und bringt ein
+
+523
+00:19:46,262 --> 00:19:49,688
+weiteres großes Upgrade für Tencents
+
+524
+00:19:48,752 --> 00:19:52,364
+Bilderstellungs-Reihe. Laut dem Team
+
+525
+00:19:51,433 --> 00:19:54,407
+liefert es eine um 30%höhere
+
+526
+00:19:53,475 --> 00:19:57,129
+Gewinnrate bei menschlichen Bewertungen
+
+527
+00:19:56,198 --> 00:19:59,444
+im Vergleich zu HY Image 3.0, mit
+
+528
+00:19:58,512 --> 00:20:02,031
+Verbesserungen bei der Konsistenz und
+
+529
+00:20:01,099 --> 00:20:04,685
+Unterstützung für Text-zu-Bild sowie
+
+530
+00:20:03,754 --> 00:20:06,871
+Bild-zu-Bild. Dies geschieht bei
+
+531
+00:20:05,918 --> 00:20:08,717
+Generierungen mit einer Auflösung von
+
+532
+00:20:07,765 --> 00:20:10,611
+bis zu 2K, was irgendwie wahnsinnig ist
+
+533
+00:20:09,611 --> 00:20:12,295
+. Doch die Preisgestaltung könnte der
+
+534
+00:20:11,331 --> 00:20:13,519
+interessanteste Teil dieser neuen
+
+535
+00:20:12,555 --> 00:20:15,279
+Modellveröffentlichung sein. Über
+
+536
+00:20:14,339 --> 00:20:17,619
+Tencent Cloud kostet es nur 2 Cent pro
+
+537
+00:20:16,679 --> 00:20:19,839
+generiertem Bild, und Referenzbilder
+
+538
+00:20:18,899 --> 00:20:22,059
+werden tatsächlich nicht berechnet.
+
+539
+00:20:22,019 --> 00:20:24,824
+Dies ist also ein weiteres Bildmodell,
+
+540
+00:20:23,871 --> 00:20:26,249
+das sowohl Qualität als auch
+
+541
+00:20:25,296 --> 00:20:28,007
+Kosteneffizienz vorantreibt, und ich
+
+542
+00:20:27,054 --> 00:20:29,859
+bin definitiv gespannt, wie es sich im
+
+543
+00:20:28,907 --> 00:20:31,664
+Vergleich zu anderen Top-Bildmodellen
+
+544
+00:20:30,712 --> 00:20:35,599
+schlägt. Zuletzt mein Junge Trump.
+
+545
+00:20:35,305 --> 00:20:37,735
+Eigentlich weiß ich gar nicht, ob er
+
+546
+00:20:36,773 --> 00:20:39,165
+mein Junge ist, weil dieser Typ mich
+
+547
+00:20:38,204 --> 00:20:40,595
+immer fertig macht, besonders an der
+
+548
+00:20:39,634 --> 00:20:43,220
+Börse. Aber dieser Trump wollte
+
+549
+00:20:42,280 --> 00:20:45,500
+anscheinend ändern, was wir in Bezug
+
+550
+00:20:44,560 --> 00:20:47,900
+auf die Namensgebung als KI bezeichnen.
+
+551
+00:20:47,200 --> 00:20:50,379
+Anfangs argumentierte er, der Begriff
+
+552
+00:20:49,438 --> 00:20:52,559
+Künstliche Intelligenz sei ungenau,
+
+553
+00:20:51,618 --> 00:20:54,738
+und bat die Leute, zwischen Superior
+
+554
+00:20:53,797 --> 00:20:57,036
+Intelligence, Extreme Intelligence und
+
+555
+00:20:56,095 --> 00:20:59,039
+Supreme Intelligence abzustimmen.
+
+556
+00:20:58,399 --> 00:21:02,393
+Supreme wurde schließlich gestrichen,
+
+557
+00:21:01,472 --> 00:21:05,466
+und in seiner letzten X-Umfrage gewann
+
+558
+00:21:04,545 --> 00:21:08,540
+Superior Intelligence knapp mit 52%von
+
+559
+00:21:07,619 --> 00:21:11,382
+184.000 Stimmen. Und Trump schlug eine
+
+560
+00:21:10,449 --> 00:21:13,854
+etwas andere Richtung ein, als er am
+
+561
+00:21:12,921 --> 00:21:16,125
+22. September vor der UN sprechen
+
+562
+00:21:15,192 --> 00:21:18,430
+sollte. Er sagte, er wolle, dass die
+
+563
+00:21:17,488 --> 00:21:20,565
+US-Regierung KI als Superintelligenz
+
+564
+00:21:19,622 --> 00:21:22,756
+oder SI bezeichnet, mit dem Argument,
+
+565
+00:21:21,814 --> 00:21:24,487
+das Wort künstlich lasse die
+
+566
+00:21:23,544 --> 00:21:26,696
+Technologie unecht klingen. Und er
+
+567
+00:21:25,754 --> 00:21:28,901
+sagte, US-Regierungsdokumente würden
+
+568
+00:21:27,959 --> 00:21:30,932
+diese neue Terminologie in Zukunft
+
+569
+00:21:29,990 --> 00:21:32,957
+verwenden. Also, anscheinend,
+
+570
+00:21:32,026 --> 00:21:35,556
+willkommen im Zeitalter der SI. Das
+
+571
+00:21:34,601 --> 00:21:37,247
+bedeutet, ich muss meinen Kanalnamen
+
+572
+00:21:36,293 --> 00:21:39,894
+ändern. World of SI jetzt. Aber das
+
+573
+00:21:38,928 --> 00:21:41,145
+war es auch schon, Leute. Ich bin
+
+574
+00:21:40,183 --> 00:21:42,589
+definitiv müde, also werde ich jetzt
+
+575
+00:21:41,627 --> 00:21:44,223
+schlafen gehen. Aber schaut euch auf
+
+576
+00:21:43,261 --> 00:21:45,256
+jeden Fall die World of AI
+
+577
+00:21:44,294 --> 00:21:47,053
+School-Community an. Werft einen Blick
+
+578
+00:21:46,094 --> 00:21:48,788
+auf den World of AI-Benchmark. Und
+
+579
+00:21:47,824 --> 00:21:50,089
+falls ihr es noch nicht getan habt,
+
+580
+00:21:49,125 --> 00:21:51,534
+schaut euch unbedingt den zweiten Kanal
+
+581
+00:21:50,570 --> 00:21:53,382
+an. Tretet unserem Newsletter und
+
+582
+00:21:52,427 --> 00:21:55,606
+Discord bei, folgt mir auf Twitter. Und
+
+583
+00:21:54,642 --> 00:21:56,937
+zu guter Letzt: Abonniert den Kanal,
+
+584
+00:21:55,973 --> 00:21:58,340
+aktiviert die Benachrichtigungsglocke,
+
+585
+00:21:57,376 --> 00:21:59,707
+gebt diesem Video ein Like und schaut
+
+586
+00:21:58,743 --> 00:22:01,109
+euch bitte unsere früheren Videos an,
+
+587
+00:22:00,145 --> 00:22:02,512
+damit ihr über alles, was in der Welt
+
+588
+00:22:01,548 --> 00:22:03,771
+der KI passiert, auf dem Laufenden
+
+589
+00:22:02,807 --> 00:22:05,530
+bleibt. Aber mit diesem Gedanken, Leute
+
+590
+00:22:04,530 --> 00:22:06,583
+, habt einen großartigen Tag,
+
+591
+00:22:05,618 --> 00:22:07,916
+verbreitet Positivität und wir sehen
+
+592
+00:22:06,951 --> 00:22:09,406
+uns bald wieder. Macht’s gut, Leute.

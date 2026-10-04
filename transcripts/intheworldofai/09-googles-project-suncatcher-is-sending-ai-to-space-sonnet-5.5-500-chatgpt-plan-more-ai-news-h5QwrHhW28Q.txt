@@ -1,0 +1,523 @@
+Wie immer wird es im KI-Bereich nie
+langweilig, denn es gibt ein paar neue
+große Geschichten, über die wir
+sprechen können. Beginnen wir mit
+Anthropic, dem neuen Claude Sonnet 5.5,
+das schon sehr bald erscheinen könnte.
+Das basiert auf den gestrigen Leaks, in
+denen wir darüber sprachen, dass
+Anthropic dieses Modell anscheinend
+noch testet. Aber heute haben wir
+tatsächlich die ersten Vorschauen
+darauf, was es kann. Und ehrlich gesagt
+sieht es so aus, als würde Anthropic
+die Sonnet-Reihe in großem Stil
+wiederbeleben. Wenn das Modell zu den
+vorgeschlagenen Preisen und mit der
+vorgeschlagenen Effizienz auf den Markt
+kommt, die ich später noch enthüllen
+werde, könnte Sonnet 5.5 ein
+ernstzunehmender Konkurrent für GPT-6
+Sole werden, vor allem wenn man sich
+diese frühen Vorschauen ansieht. Und
+meiner Meinung nach sieht es bisher
+viel besser aus als GPT-6 Sole. Das
+führt uns zu OpenAI, denn Berichten
+zufolge bereiten sie ein neues,
+höherwertiges ChatGPT-Abonnement
+namens ChatGPT Pro Max vor, das
+möglicherweise zu einem verrückten
+Preis von 500 US-Dollar pro Monat
+erhältlich sein könnte. Bislang
+gehören Hinweise auf die schnellste
+Arbeit mit Codex zu den größten
+festgestellten Unterschieden im
+Vergleich zum regulären Pro-Modell. Es
+gibt Spekulationen, dass die
+Infrastruktur von Cerebrus die Lösung
+antreiben könnte, zusammen mit
+potenziell höheren
+Nutzungsbeschränkungen. Und natürlich
+werden wir aufschlüsseln, was Sie mit
+diesem neuen Plan tatsächlich erhalten
+könnten. Apropos OpenAI: Erinnern Sie
+sich an Bell? Nun, es gibt eine weitere
+wichtige Entwicklung im Zusammenhang
+mit den internen KI-Fähigkeiten von
+OpenAI. Laut OpenAI hat das Training
+dieses neuen internen Modells am 28.
+August begonnen und es hat inzwischen
+mehr als 100 seit Langem offene
+mathematische Probleme gelöst,
+zusammen mit dem behaupteten Durchbruch
+bei Navier-Stokes. Seine Fortschritte
+haben die Mathematiker bei OpenAI
+offenbar so überrascht, dass das
+Unternehmen nun mit einer unabhängigen
+mathematischen Beratungsgruppe
+zusammenarbeitet, um diese
+KI-generierten Entdeckungen zu
+überprüfen und zu kommunizieren.
+Kommen wir nun zu Google: Die haben
+gerade etwas Verrücktes angekündigt.
+Das Projekt Sun Catcher ist ein
+Moonshot, bei dem es darum geht, die
+Integration von KI-Berechnungen in den
+Weltraum zu erforschen. Hier bereitet
+sich Google darauf vor, TPUs in eine
+niedrige Erdumlaufbahn zu schicken, um
+zu prüfen, ob der Weltraum
+tatsächlich eine riesige
+KI-Infrastruktur beherbergen könnte.
+Satelliten könnten die nahezu
+konstante Sonneneinstrahlung nutzen,
+während TPU-Cluster über
+Laserverbindungen mit hoher Bandbreite
+kommunizieren. Google hat seine Chips
+bereits unter extremen Vibrationen,
+Strahlung und Vakuumbedingungen
+getestet. Der erste TPU-Test im Orbit
+steht noch vor zwei größeren
+Satellitenexperimenten im Jahr 2027 an.
+Und schließlich gibt es eine neue
+Möglichkeit, Claude Opus 5.5 auch nach
+Erreichen der Ratenlimits weiter zu
+verwenden. Sie ist langsamer und
+funktioniert nur, wenn zusätzliche
+Kapazität verfügbar ist, könnte Opus
+5.5 aber deutlich benutzerfreundlicher
+machen. Ich zeige dir, wie du damit
+loslegst, und gebe dir ein paar Tipps
+und Tricks, die dir helfen werden, Opus
+5.5 besser zu nutzen. Natürlich gibt
+es noch viel mehr zu besprechen, also
+lass uns einfach alles kurz und knapp
+zusammenfassen. Dein KI-Agent kann eine
+ganze App schreiben, aber wenn du ihn
+bittest, Live-Daten abzurufen, musst du
+plötzlich mit API-Schlüsseln, Konten
+und Abonnements jonglieren. Hier kommt
+der heutige Sponsor Monad ins Spiel.
+Denk an Openrouter, aber für
+Agenten-Tools. Mit nur einem Schlüssel
+erhalten Sie Zugriff auf über 2.000
+Tools. Web Scraping, Anreicherung, SEO
+und Social-Media-Daten. Geben wir
+Claude eine echte Aufgabe. Er ruft mit
+Monad die aktuelle Preisseite von
+Perplexity ab und vergleicht die
+einzelnen Pläne. Claude wählt das
+Tool aus und tätigt den Aufruf über
+Monad. Das Tool gibt die Seitendaten
+direkt an die Konversation zurück. Der
+Bot wandelt diese echten Daten dann in
+einen übersichtlichen Vergleich um und
+enthält einen Link zurück zur
+Preisseite. Sie zahlen pro Tool-Aufruf
+über ein einziges Guthaben, ohne dass
+separate Anbieterkonten oder
+Abonnements erforderlich sind. Bei
+jeder Anmeldung erhalten Sie
+automatisch 1 $ Gratisguthaben, ohne
+dass eine Karte erforderlich ist.
+Schauen Sie sich Monad also über die
+Links in der Beschreibung unten oder
+den angehefteten Kommentar an und
+verbringen Sie weniger Zeit mit dem
+Einrichten von APIs. Vielen Dank an
+Monad für das Sponsoring des heutigen
+Videos. Beginnen wir mit dem, worüber
+wir gestern gesprochen haben, denn
+Anthropic führt derzeit einen
+Stealth-Test von Claude Sonnet 5.5
+durch, das unter dem Modell-Slug
+Claude-Sonnet-5-5 entdeckt wurde. Und
+bisher haben wir einiges über dieses
+Modell erfahren. Offenbar erhielten
+ausgewählte Partner nur 24 Stunden
+Zugriff und die Nutzung des ersten
+Tools wurde inzwischen eingestellt.
+Sonnet 5.5 soll außerdem mit einem
+riesigen Kontextfenster von 1 Million
+Token und bis zu 128.000 Output-Token
+ausgestattet sein. Das Denken ist
+standardmäßig adaptiv, während
+deaktiviertes Denken offenbar nur für
+niedrigen, mittleren und hohen Aufwand
+verfügbar ist, nicht für XI oder Max.
+Was mir aber wirklich auffiel, und das
+hatten wir gestern bereits besprochen,
+ist der gemunkelte Preis: 2 US-Dollar
+für 1 Million Input-Token, 10
+US-Dollar für 1 Million Output-Token
+und nur 20 Cent für 1 Million Token
+pro Cash-Rate. Wenn diese Zahlen
+tatsächlich stimmen, könnte Sonnet
+5.5 ein unglaubliches Wettbewerbsmodell
+sein, das mit GPT-6 Soul auf Augenhöhe
+sein wird und vielleicht sogar besser,
+wenn man sich einige dieser neuen Leaks
+ansieht. Wir wissen natürlich bereits,
+dass Sonnet 5.5 kommen wird. Wir haben
+es gestern in unserem Video erwähnt,
+aber heute haben wir endlich unsere
+ersten Vorschauen auf Sonic 5.5
+bekommen. Und diese Vorschauen sind
+bisher der Wahnsinn, was die
+Möglichkeiten angeht. Wie in
+verschiedenen Voxel-Art-Generationen
+kann man sehen, dass Sonic 5.5 dem
+gerade erst erschienenen GPT-6 Soul
+ernsthaft Konkurrenz macht. Und meiner
+Meinung nach sind der kreative Touch
+und die Elemente, die Sonic 5.5
+hinzufügen kann, einfach der Wahnsinn.
+Und bei diesem Preis glaube ich
+wirklich, dass es ein riesiges Upgrade
+gegenüber GPT-6 Soul sein wird. Das
+ist nur meine Meinung und meine
+Vorhersage. Ich sage nicht, dass das
+passieren wird, aber basierend auf dem,
+was ich bisher gesehen habe, tendiere
+ich dazu, Sonic 5.5 gegenüber GPT-6
+Soul zu verwenden. In 3JS wurde
+angefordert, ein Schloss zu erstellen,
+und dies ist eines der Ergebnisse, die
+es generiert hat. Nichts Verrücktes
+oder so, aber dennoch eine ziemlich
+gute Generierung, die ordentlich
+Texturen und Elemente hinzufügt. Diese
+beiden Controller wurden beide von der
+Cloud Sonic 5.5 generiert, und das
+Ganze wurde mit X-High Reasoning
+durchgeführt, und ihr könnt die
+Qualität hier sehen. Und das sind zwei
+Controller, die in SVG codiert wurden,
+und der Detailgrad ist ziemlich
+verrückt, denn ihr könnt sehen, dass
+die Texturen der Tasten vollständig in
+SVG-Code codiert wurden, mit der
+richtigen Beleuchtung und den Shadern,
+die dieser SVG-Generierung
+zugeschrieben werden, was für sich
+genommen schon ziemlich einzigartig ist
+. Ihr könnt sehen, dass der
+Xbox-Controller wirklich genau
+generiert werden konnte, aber was den
+PS5-Controller angeht, sage ich nicht,
+dass er nicht genau ist, aber er sieht
+nicht unbedingt genau wie ein PS5-
+Controller aus. Nichtsdestotrotz wurden
+alle Elemente eines PS5-Controllers
+hinzugefügt, und insgesamt hat er
+trotzdem einen ziemlich guten Job
+gemacht. Wenn ihr die besten KI-Tools,
+Workflows und Drops vor allen anderen
+haben wollt, dann abonniert meinen
+kostenlosen Newsletter mit dem Link in
+der Beschreibung unten, der völlig
+kostenlos ist. Hier ist nun der von
+Sonic 5.5 generierte Minecraft-Klon und
+ich muss sagen, die Texturen und alles,
+was generiert wurde, weisen ähnliche
+Eigenschaften wie das ursprüngliche
+Minecraft-Sandbox-Spiel auf, wie zum
+Beispiel die Blumen. Ihr habt sogar die
+Möglichkeit, die verschiedenen Mobs
+anzugreifen. Es hat sich wirklich Mühe
+gegeben, diese Mobs mit anständigen
+Texturen zu erstellen, und sie sehen
+insgesamt ziemlich gut aus. Wenn ihr
+die Schafe tötet, bekommt ihr auch
+Wolle, was ganz nett ist. Es hat zwar
+keine außergewöhnlichen Animationen
+hinzugefügt, wie zum Beispiel die
+Animationen, wenn ihr Blöcke zerbricht
+, aber egal, wenn ihr verschiedene
+Arten von Blättern zerbricht, seht ihr
+, dass ich einen Stock habe, was
+ziemlich einzigartig ist. Es gibt ein
+Crafting-System und ich glaube, es gibt
+Höhlensysteme, die ich finden müsste,
+und die habe ich gerade hier drüben
+gefunden. Es gibt Erze und wenn ihr
+fallt, erhaltet ihr auch die
+Schadensanimation. Aber lasst uns
+tatsächlich nach oben gehen, denn
+diese Höhlen sehen nicht so schön aus
+. Mach das mal. Mal sehen, wie tief wir
+gehen können. Insgesamt sieht es
+ziemlich gut aus. Ich denke, das ist
+Schotter. Ja, das ist es. Und die
+Generationen wurden ganz gut umgesetzt.
+Sogar die Physik, bei der man den
+Schotterblock platzieren kann und er
+sofort herunterfällt, wie im
+Originalspiel. Das ist wirklich
+ziemlich cool. Es gibt sogar eine
+Hungerleiste und dann gibt es noch das
+Crafting-System. In Zukunft scheint
+OpenAI tatsächlich einen brandneuen,
+höherwertigen ChatGPT-Tarif auf den
+Markt zu bringen, der sich ChatGPT Pro
+Max nennt. Und dieses Ding könnte
+lächerliche 500 US-Dollar pro Monat
+kosten. Wir haben tatsächlich schon
+einmal auf dem Kanal darüber
+gesprochen, dass OpenAI ein viel
+teureres Abonnement in Erwägung ziehen
+würde, das Berichten zufolge bis zu
+2.000 US-Dollar pro Monat kosten soll.
+Ich schätze, jemand hat ihnen endlich
+zur Vernunft verholfen und den Preis
+auf 500 US-Dollar gesenkt, was immer
+noch absolut verrückt ist. Aber der
+Plan wurde jetzt in der Entwicklung mit
+dem schnellsten Arbeits-und Codex-Tag
+entdeckt und befindet sich derzeit in
+einigen verschiedenen Katalogen einiger
+Benutzer. Der einzige Unterschied zum
+regulären Pro-Tarif besteht darin,
+dass dieser auf der
+Cerebrus-Infrastruktur basiert. Das ist
+zwar noch nicht zu 100%bestätigt, aber
+die Leute haben das bereits gesehen. Es
+bietet den Nutzern möglicherweise eine
+viel schnellere Leistung und höhere
+Nutzungslimits. OpenAI hat auch daran
+gearbeitet, ChatGPT die Verarbeitung
+von Aufgaben mit viel längerer
+Laufzeit zu ermöglichen. ProMax
+könnte also möglicherweise auch in
+diese Richtung gehen. Und da der OpenAI
+DevDay vor der Tür steht, müssen wir
+möglicherweise nicht mehr lange warten
+, um zu erfahren, was dieser Plan für
+Sie bereithält. Erinnern Sie sich noch
+daran, wie wir über OpenAIs
+mysteriöses internes Modell Bell
+gesprochen haben? Nun, wir haben einige
+ziemlich verrückte neue Informationen
+über OpenAIs interne KI-Fortschritte
+in der Mathematik. Laut OpenAI hat ein
+internes Modell am 28. August mit dem
+Testen und Trainieren begonnen. Dies
+ist wahrscheinlich eine der
+Belastungsproben des Bell-Checkpoints.
+Berichten zufolge löst es nun mehr als
+100 langjährige mathematische
+OpenAI-Probleme in verschiedenen
+Bereichen der Mathematik selbst,
+zusätzlich zu seiner behaupteten
+Lösung des
+Navier-Stokes-Millenniums-Preis-Problems
+. Und anscheinend hat die
+Geschwindigkeit des Fortschritts sogar
+Mathematiker innerhalb von OpenAI
+überrascht. Aus diesem Grund arbeitet
+OpenAI jetzt mit einer neuen
+unabhängigen Beratergruppe von
+Mathematikern zusammen, zu der einige
+äußerst angesehene Namen gehören,
+darunter Timothy Gowers, Martin Hairer
+sowie Ravi Vakil und Edward Witten.
+Ihre Aufgabe besteht im Wesentlichen
+darin, bei der Beurteilung zu helfen,
+wie bedeutsam diese KI-generierten
+mathematischen Ergebnisse tatsächlich
+sind und wie sie der Öffentlichkeit
+und der Forschungsgemeinschaft
+kommuniziert werden sollten, und wie
+akademische Standards aufrechterhalten
+werden sollten, wenn KI beginnt,
+direkter zur mathematischen Forschung
+beizutragen. Und nur um das
+klarzustellen: OpenAI hat nicht
+öffentlich gesagt, dass es sich bei
+diesem internen Modell um Bel handelt,
+aber wenn man bedenkt, was wir bisher
+über Bel gehört haben und wie genau
+das hier ablief, sieht es definitiv
+danach aus, als wäre es der
+Bel-Checkpoint. Wenn dir dieses Video
+gefällt und du den Kanal unterstützen
+möchtest, kannst du über die Option
+„Super Thanks“ unten für meinen
+Kanal spenden. Oder du schließt dich
+unserem privaten Discord an, wo du
+monatlich kostenlos auf mehrere
+Abonnements für verschiedene KI-Tools
+zugreifen kannst, sowie tägliche
+KI-News und exklusive Inhalte und
+vieles mehr. Kommen wir nun zur
+Hauptstory des heutigen Videos, denn
+Google schickt seine KI-Chips
+buchstäblich ins All. Ja, im Ernst,
+denn Google hat ein wichtiges Update
+für das Projekt Sun Catcher
+veröffentlicht, sein Moonshot, um zu
+erforschen, ob wir letztendlich eine
+riesige KI-Recheninfrastruktur im
+Weltraum aufbauen können, ähnlich wie
+Elon es sich vorgestellt hatte. Google
+bereitet sich jedoch darauf vor, einen
+Prototyp-Satelliten zu starten, der
+seine TPUs in eine niedrige
+Erdumlaufbahn bringt, um zu sehen, wie
+sie sich im Weltraum tatsächlich
+verhalten. Das ist ein wichtiger Grund,
+warum Google an diesem Wettlauf um
+Satelliten interessiert ist. Dabei geht
+es um etwas, das Satelliten in eine
+niedrige Erdumlaufbahn bringen und
+nahezu konstant Sonnenlicht erhalten
+kann. Dadurch könnte potenziell bis zu
+achtmal mehr Solarenergie erzeugt
+werden als vergleichbare Systeme auf
+der Erde. Die langfristige Vision
+dafür ist ziemlich verrückt, denn
+Google glaubt, dass es irgendwann eine
+ganze Konstellation von Satelliten mit
+TPUs haben könnte, die alle
+miteinander verbunden sind und riesige
+KI-Workloads im Orbit verarbeiten. Aber
+es ist natürlich wahnsinnig schwierig,
+ein KI-Rechenzentrum in den Weltraum zu
+bringen. Erstens muss die Hardware den
+Start selbst überstehen. Laut Google
+kann eine einzelne Komponente Kräften
+von etwa 50 bis 100 G ausgesetzt sein.
+Daher haben sie diese Satelliten
+buchstäblich geschüttelt, um einen
+Raketenstart zu simulieren. Dann ist da
+noch die Strahlung. Google hat seine
+Trillium-TPUs mit Protonenstrahlung
+bestrahlt, während sie aktiv
+KI-Workloads ausführten. Und die
+ersten Ergebnisse zeigten, dass diese
+mehr Strahlung aushalten können, als
+man während einer fünfjährigen
+Mission im Weltraum erwarten würde.
+Eines der größten Probleme ist jedoch
+tatsächlich die Kühlung. Im Vakuum
+des Weltraums gibt es keine
+Luftzirkulation. Daher kann man diese
+Chips nicht wie in einem normalen
+Rechenzentrum kühlen. Google
+experimentiert daher mit Heatpipes und
+Radiatoren, um die Wärme von den TPUs
+wegzuleiten und ein Überhitzen zu
+verhindern. Und dann kommt
+wahrscheinlich der verrückteste Teil,
+nämlich die Verbindung all dieser
+Satelliten miteinander. Zukünftige
+Satelliten des Project Sun Catcher
+könnten jeweils Dutzende von TPUs
+tragen und über Laserverbindungen mit
+extrem hoher Bandbreite mit
+benachbarten Satelliten kommunizieren.
+An dieser Stelle beschreibt Google die
+erforderliche Präzision als im Grunde
+genommen den Versuch, ein münzgroßes
+Ziel aus kilometerweiter Entfernung zu
+treffen, während sich beide Objekte
+bewegen. Und das ist kein Konzept für
+die ferne Zukunft. Google bereitet sich
+darauf vor, seine ersten TPUs in die
+Umlaufbahn zu bringen, und für 2027
+sind zwei Satelliten geplant, um diese
+Verbindungstechnologie mit hoher
+Bandbreite zu testen. Wir betreten also
+wirklich eine Welt, die an
+Science-Fiction erinnert, in der diese
+Satelliten KI-Workloads im Weltraum
+ausführen werden. Das wird uns auf der
+Erde unterstützen. Als Nächstes folgt
+eine ziemlich seltsame Ankündigung von
+Anthropic, die mir persönlich
+überhaupt nicht gefällt. Anthropic
+sagt nämlich, dass es Nutzern wieder
+Gebühren für bestimmte Anfragen
+berechnen wird, die seine
+Schutzmaßnahmen blockieren, bevor
+Claude überhaupt antwortet. Dies gilt
+nur für drei Kategorien: Biologie,
+Destillationsangriffe und die
+Entwicklung großer
+Grenzsprachenmodelle. Anthropic gibt an
+, dass dies teilweise auf koordinierte
+Angriffe auf seine Systeme in den
+letzten Wochen zurückzuführen ist.
+Fairerweise muss man sagen, dass
+Anthropic behauptet, dass 99,7%der
+Konten in seinen jüngsten Tests nie
+auf eine dieser neuen kostenpflichtigen
+Sperren gestoßen sind, und die
+Klassifikatoren sollen so eingestellt
+sein, dass sie weniger als 0,1%
+Falsch-Positiv-Raten aufweisen. Apropos
+Opus 5.5: Ich habe einen wirklich
+nützlichen Tipp gefunden, den ich euch
+mitteilen wollte und der euch definitiv
+eine Menge Token und Geld sparen wird.
+Einige Tests haben ergeben, dass Opus
+5.5 bei geringem Argumentationsaufwand
+im Grunde genommen genauso gut
+abschneidet wie Max bei der
+Aufgabenerledigung, dabei aber etwa 12-
+mal weniger kostet. Für die meisten
+alltäglichen Aufgaben musst du Opus
+5.5 wahrscheinlich nicht bis zum
+Maximum an Argumentationsniveau
+hochfahren. Du kannst standardmäßig
+mit einer niedrigen Argumentationsstufe
+beginnen und diese nur dann erhöhen,
+wenn du es mit wirklich schwierigen
+Problemen zu tun hast. Das ist
+natürlich selbsterklärend. Für
+einfache Aufgaben stellst du die Stufe
+„Niedrig“ und für komplexere
+Aufgaben die Stufe „Maximal“.
+Manchmal vergisst man das aber einfach.
+Eine Erinnerung ist daher eine gute
+Möglichkeit, einige dieser Tipps
+tatsächlich in die Tat umzusetzen.
+Eine weitere wirklich coole und
+hilfreiche Sache ist, dass du, wenn du
+dein normales Claude-Coderatenlimit
+erreicht hast, versuchen kannst, „low
+priority“ auszuführen. Dies ist ein
+Befehl, mit dem du Claude auch nach
+Erreichen deiner Limits weiter
+verwenden kannst. Deine Anfrage wird
+jedoch langsamer ausgeführt und das
+auch nur, wenn Anthropic über freie
+Kapazitäten verfügt. Wenn du also
+ständig an die Claude-Limits stößt,
+solltest du dies unbedingt im
+Hinterkopf behalten. Ich werde unten in
+der Beschreibung einen Link zu diesem
+Beitrag hinterlassen. Das war's aber
+auch schon mit dem heutigen Video. In
+der Welt der KI tut sich noch viel mehr
+. Ich empfehle euch daher dringend,
+einen Blick auf unsere Schul-Community
+zu werfen, um auf dem Laufenden zu
+bleiben. Schaut euch unbedingt die
+Fünf-Punkte-Plattform und den
+Benchmark zur Welt der KI an. Werft
+auch einen Blick auf das Universum der
+KI, unseren zweiten Kanal, abonniert
+den Newsletter, werdet Teil des
+Discord-Kanals und folgt mir auf
+Twitter. Abonniert unbedingt unseren
+Kanal, aktiviert die
+Benachrichtigungsglocke, gebt diesem
+Video ein „Gefällt mir“ und schaut
+euch bitte auch unsere vorherigen
+Videos an, um über die aktuellsten
+KI-News auf dem Laufenden zu bleiben.
+In diesem Sinne wünsche ich euch einen
+wunderschönen Tag, verbreitet
+Positivität und ich sehe euch ganz
+bald wieder. Tschüss Leute.

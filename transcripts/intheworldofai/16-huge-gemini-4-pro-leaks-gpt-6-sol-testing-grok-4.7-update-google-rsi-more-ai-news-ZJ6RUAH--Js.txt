@@ -1,0 +1,604 @@
+Wir haben heute einige riesige neue
+KI-Nachrichten. Wir fangen mit Google
+an, da Berichten zufolge ein neuer
+Gemini 4 Pro-Checkpoint in der Arena
+getestet wird. Und ich muss sagen, das
+sieht definitiv ziemlich beeindruckend
+aus. Bisher haben wir mehrere neue
+Ergebnisse des Checkpoints gesehen, und
+wenn diese Tests etwas bedeuten,
+könnte Gemini 4 Pro ein massives
+Upgrade sein und ein echtes Comeback
+von Google andeuten. Ein Beispiel, das
+wirklich meine Aufmerksamkeit erregte,
+war ein Prompt, bei dem das Modell ein
+animiertes SVG einer Nintendo Switch
+erstellen sollte, inklusive der
+Controller, die in die Konsole
+einrasten, und des Bildschirms, der mit
+dem Logo hochfährt. Und das Ergebnis
+war ehrlich gesagt wahnsinnig. Gemini 4
+Pro hat Opus 5 bei diesem Test komplett
+in den Schatten gestellt und ein viel
+ausgefeilteres und beeindruckenderes
+Ergebnis geliefert. Und das ist nur
+einer von mehreren neuen Gemini 4-Leaks
+, die wir uns später in diesem Video
+ansehen werden. Als Nächstes haben wir
+OpenAI, die sich anscheinend auf GPT-6
+Soul vorbereiten. Es gibt Spekulationen
+, dass wir es nächste Woche zum Dev
+Day sehen könnten, und wir haben jetzt
+mehr Informationen über den
+berichteten Wissensstichtag sowie
+mehrere neue Bewertungen des Modells.
+Und nach den frühen Tests, die wir
+bisher gesehen haben, sieht Soul extrem
+leistungsstark aus und übertrifft bei
+einigen Tests sogar das noch nicht
+veröffentlichte Claude Opus 5.2. Dann
+haben wir Grok 4.7. Elon hatte bereits
+erklärt, dass es ziemlich bald kommen
+wird, und heute haben wir tatsächlich
+Grok 4.7 in den Quotas und Systemlimits
+von Google Cloud gesehen, was darauf
+hindeuten könnte, dass eine
+Veröffentlichung kurz bevorsteht,
+möglicherweise innerhalb der nächsten
+Tage. Wir haben auch einige der ersten
+Ergebnisse des Modells selbst erhalten.
+Es ist ordentlich, wenn auch vielleicht
+nicht so verrückt, wie ich es von
+diesem Modell erwartet hatte. Und wir
+haben jetzt eine frühe Vorschau auf
+einige Benchmark-Ergebnisse, in die wir
+später eintauchen werden. Gestern
+sahen wir auch ein mysteriöses neues
+Stealth-Modell namens Union Alpha. Und
+dieses ist derzeit kostenlos über Open
+Code, Open Router und Client verfügbar
+. Seine gigantischen Fähigkeiten
+wirken ziemlich überraschend. Es kommt
+in vielen Bereichen der Leistung von
+State-of-the-Art-Modellen ziemlich nahe
+. Und es gibt auch Spekulationen
+darüber, wer dieses Modell
+tatsächlich entwickelt hat, wobei GLM
+und Xiaomi zu den Möglichkeiten
+gehören. Apropos Xiaomi: Ihr Team
+arbeitet Berichten zufolge an ihrem
+nächsten großen Modell, der
+Mimo-Version 2.6, die sich derzeit
+mitten im RL-Lauf befindet. Einige der
+ersten Informationen, die über dieses
+Modell herauskommen, sehen bereits
+ziemlich beeindruckend aus. Und das ist
+immer noch nicht alles. Wir haben ein
+Google RSI-Update, weitere Modell-Leaks
+, Benchmarks und jede Menge andere
+KI-News zu besprechen. Dies wird
+wahrscheinlich ein längeres Video, da
+ich endlich wieder an meinem heimischen
+Setup bin. Ich war tatsächlich einen
+Monat lang unterwegs, aber wir sind
+endlich zurück und ich werde mein
+Bestes geben, euch den größten
+Mehrwert zu bieten. Also, holt euch
+einen Snack. Ihr habt es euch verdient
+und lasst uns direkt in alles
+eintauchen. Und Leute, falls ihr noch
+nicht abonniert habt, würde es mir
+wirklich viel bedeuten, wenn ihr den
+Kanal mit einem Abo und einem Klick auf
+die Glocke unterstützt, da mir das
+enorm hilft und es mir ermöglicht,
+weiterhin jeden Tag diese Videos zu
+machen. Legen wir also direkt los. Wenn
+ihr so seid wie ich, habt ihr
+wahrscheinlich den ganzen Tag ChatGPT,
+Claude oder Gemini geöffnet. Aber mir
+ist etwas klargeworden. Die meisten von
+uns sind nicht mehr durch die KI
+eingeschränkt. Wir sind dadurch
+begrenzt, wie viel Kontext wir bereit
+sind zu tippen. Wenn ich Agenten baue
+oder Workflows teste, weiß ich genau,
+was ich sagen will. Ich will nur nicht
+2 Minuten damit verbringen, alles
+abzutippen. Deshalb benutze ich
+WhisperFlow. Anstatt zu tippen, spreche
+ich ganz natürlich, und es verwandelt
+alles in sauberen, korrekt formatierten
+Text in jeder App, in der ein Cursor
+vorhanden ist. Zum Beispiel würde ich
+statt zu tippen einfach sagen: „
+Überarbeite diesen Workflow so, dass
+der Webhook mit exponentiellem Backoff
+drei Versuche unternimmt. Leite alle
+Fehler an den Alarm-Kanal weiter und
+hinterlasse einen Notizzettel, der die
+Logik für denjenigen erklärt, der
+dies als Nächstes wartet.“ Das
+hätte mich vielleicht 15 Sekunden zum
+Aussprechen gekostet, aber
+wahrscheinlich ein paar Minuten zum
+Tippen. Das Coole daran ist, dass es
+Füllwörter entfernt, die Grammatik
+korrigiert und sogar damit umgeht, wenn
+ich meine Meinung mitten im Satz
+ändere. Ehrlich gesagt, wenn man sich
+erst einmal an das Prompten per Sprache
+gewöhnt hat, fällt es erstaunlich
+schwer, wieder alles zu tippen. Wenn
+ihr es also selbst ausprobieren wollt:
+WhisperFlow ist komplett kostenlos für
+den Einstieg und funktioniert auf Mac,
+Windows, iPhone und sogar Android.
+Schaut es euch also über die Links in
+der Beschreibung unten an. Beginnen wir
+mit Google, denn der neue Gemini 4
+Chat-Punkt wird tatsächlich in der
+Arena getestet, und wir haben
+vielleicht gerade unsere bisher
+stärkste Bestätigung erhalten, dass
+es tatsächlich Gemini 4 Pro ist. Wir
+haben bereits über viele Gemini 4
+Checkpoints wie Argon gesprochen, aber
+es sieht so aus, als würde das unter
+dem Namen Gemini 3.8 Flash im
+Verborgenen getestet. Ein Nutzer hat es
+einem unendlichen JSON-Stresstest
+unterzogen und es gebeten, tausend
+hochdetaillierte Planeten zu generieren
+. Im Gegensatz zum eigentlichen Gemini
+3.8 Flash, das zusammenfasste oder
+aufgab, generierte dieser Checkpoint
+detaillierte, nicht repetitive Daten,
+bis er buchstäblich das Zeichenlimit
+des Browsers erreichte und die Seite
+zum Absturz brachte. Dies ist besonders
+interessant, da die massive Ausgabe
+angeblich mit dem festgelegten 256
+k-Ausgabetoken-Limit übereinstimmt,
+das für Gemini 4 Pro vorgesehen ist,
+was uns einen weiteren Hinweis darauf
+gibt, dass dies höchstwahrscheinlich
+der Gemini 4 Pro Checkpoint ist. Wenn
+Sie den Gemini 4 Checkpoint selbst
+testen möchten, besuchen Sie einfach
+Arena–den Link dazu finden Sie unten
+in der Beschreibung. Sobald Sie sich
+mit einem Konto angemeldet haben, was
+völlig kostenlos ist, klicken Sie auf
+den Kampfmodus und dann auf „Code“.
+Sie können ihn dann auffordern, etwas
+zu generieren, und mit etwas Glück
+erhalten Sie den Gemini Checkpoint.
+Dies ist eine der ersten
+durchgesickerten Ausgaben des Gemini 4
+Checkpoints. Bedenken Sie dabei: Dies
+geschah innerhalb von Arena, was
+ziemlich verrückt ist, da diese
+Arena-Checkpoints normalerweise auf
+einem niedrigeren logischen Niveau
+eingestellt sind, das nicht die volle
+Kapazität dessen erreicht, was bei der
+tatsächlichen Veröffentlichung
+möglich ist. Hier war es in der Lage,
+dieses Spiel im Mario-Kart-Stil
+vollständig auszugeben, mit flüssigen
+Grafiken und einer beeindruckenden
+Weltgenerierung. Man sieht das bei
+vielen dieser verschiedenen Komponenten
+, und es ist einfach wahnsinnig, dass
+dieser Checkpoint innerhalb von Arena
+eine solche Qualität liefern konnte.
+Es ist zwar etwas ruckelig, aber hier
+konnte der Gemini 4 Pro Checkpoint
+diese 3 D-Simulation eines Autos
+ausgeben–eines Rennwagens, genauer
+gesagt eines Formel-1-Wagens. Man sieht
+, dass es großartige Arbeit bei der
+Erstellung dieser 3 D-Darstellung des
+Autos geleistet hat. Man erkennt, dass
+es in der Lage war, verschiedene
+Beleuchtungseffekte und Komponenten
+anzuwenden, wie das eigentliche Auto
+und verschiedene Kamerawinkel. Es ist
+beeindruckend zu sehen, wie intelligent
+es diese vollständige Ausgabe
+generiert hat, die zeigt, wie ein
+echter F1-Wagen aussieht. Sogar bei
+Voxel-Art ist es ziemlich beeindruckend
+, wie es mit ein paar dieser
+verschiedenen Generationen diesen
+wunderschönen Tempel und die Box-Art
+erschaffen konnte, was für die meisten
+Modelle ziemlich schwierig ist. Man
+sieht, dass es sogar ein paar kleine
+Details hinzugefügt hat, wie das
+Ambiente mit den herabfallenden
+Kirschblütenblättern und sogar Fische
+im Fluss–etwas, das die meisten
+Modelle normalerweise gar nicht erst
+umsetzen. Sogar ein Tag-Nacht-Zyklus
+wurde hinzugefügt, was sonst nur
+modernste Modelle wie Astra oder Fable
+beherrschen. Wenn du die besten
+KI-Tools, Workflows und Neuheiten vor
+allen anderen willst, abonniere meinen
+kostenlosen Newsletter über den Link
+in der Videobeschreibung, der komplett
+gratis ist. Wir alle wissen noch, wie
+gut Gemini bei SVG ist, und hier haben
+wir ein reines SVG einer PS5. Das ist
+es, was der Gemini 4 Pro Checkpoint
+erschaffen konnte, und es ist ehrlich
+gesagt eines der verrücktesten
+Ergebnisse, die ich je gesehen habe,
+denn der Detailgrad hier ist irgendwie
+wahnsinnig, besonders weil es in einer
+Arena erstellt wurde. Diese Generierung
+hat etwa 10 Minuten bis zur
+vollständigen Fertigstellung gebraucht
+, aber man kann sehen, dass viele
+verschiedene Tiefenaspekte erzeugt
+werden. Man hat offensichtlich all die
+verschiedenen Kamerawinkel, aber man
+kann diese verschiedenen Komponenten
+auch bewegen. Du hast sogar den Farbton
+der Stummschalttaste eines echten PS5-
+Controllers und sogar die
+Umgebungsbeleuchtung des Controllers.
+Und es zeigt sogar das Skelett, das
+rohe Skelett, das komplett in SVG mit
+Animationen programmiert ist. Hier ist
+nun ein direkter Vergleich mit
+demselben Prompt, um ein SVG eines
+Pelikans auf einem Fahrrad mit GPT-6
+Astra im Pro-Modus gegen Gemini 4 Pro
+zu erstellen. Und ich will nicht lügen
+, ich bevorzuge die GPT-6 Astra
+Generierung. Das liegt an der visuellen
+Tiefe, die das GPT-Modell bieten kann,
+aber das bedeutet nicht, dass die
+Gemini 4 Pro Checkpoint-Generierung
+nicht genauso gut ist. Denk daran, das
+wird mit der Basis-Reasoning-Ebene
+gemacht. Ich weiß, ich klinge wie eine
+kaputte Schallplatte, aber das ist bei
+diesen Generierungen tatsächlich der
+Fall. Du erhältst die grundlegende
+Generierung von diesem Checkpoint und
+er kann mit diesen hochmodernen
+Modellen mithalten, was ziemlich
+beeindruckend ist. Weiter geht es mit
+einigen neuen Updates zu GPT-6 Soul und
+Claude Opus 5.2. Beginnen wir mit GPT-6
+Soul; wir haben bereits erwähnt, dass
+es ziemlich bald kommt und es ein
+tatsächliches Modell ist, ähnlich wie
+GPT-6 mit einer anderen abgestuften
+Version oder einem Modell kommen wird,
+was wahrscheinlich GPT-6 Luna sein wird
+, vielleicht sogar Terra. Und das ist
+im Grunde nur eine niedrigere Version
+im Vergleich zu Astra, und dieses neue
+GPT-6 Soul Modell, das wir heute
+erwähnen werden, hat Berichten zufolge
+einen Wissensstichtag vom 30. April,
+was tatsächlich derselbe Stichtag wie
+bei GPT-6 Astra ist. Aber
+interessanterweise wurde Opus 5.2
+Berichten zufolge letzte Nacht bei
+mehreren Konten getestet, und ein
+Tester konnte es mit zwei verschiedenen
+Prompts ausprobieren. Ihren Angaben
+zufolge nutzte das Modell deutlich
+weniger Token, lieferte dabei aber sehr
+starke Ergebnisse und fühlte sich im
+Gespräch sehr natürlich an. Es sieht
+zudem so aus, als hätte GPT-6 Soul
+offiziell die Grautestphase in der
+ChatGPT-Web-App erreicht, was uns einen
+ersten Einblick in das Verhalten des
+Modells nach der Veröffentlichung gibt
+. Erste Tester bemerken jedoch eine
+deutlich reichhaltigere Formatierung
+der Antworten, während das Modell
+zudem eine spürbar bessere Nutzung von
+Speicher und Personalisierung im
+Vergleich zu aktuellen Modellen zeigt.
+Sie haben in einem SVG-Test auch diesen
+PS5-Controller erstellt, der Berichten
+zufolge mit hohem logischen Aufwand
+generiert wurde und etwa 3 Minuten in
+Anspruch nahm. Insgesamt sieht es so
+aus, als würde Soul sowohl die
+Fähigkeiten als auch das grundlegende
+Upgrade innerhalb von ChatGPT erheblich
+verbessern. Es wird also sehr angenehm
+sein, dieses neue Modell zu verwenden,
+da es offensichtlich kosteneffizienter
+sein wird. Dies wurde mit 3GS erstellt
+und das ist das Ergebnis, das GPT-6
+Soul liefern konnte. Und der
+Unterschied zum GPT-5.6 Soul ist
+ziemlich gewaltig. Aber hier ist die
+Ausgabe deutlich besser, da man sieht,
+dass es in der Lage war, diese visuelle
+Tiefe mit der 3 D-Umgebung eines Hauses
+hinzuzufügen, das es vollständig in
+3GS programmieren konnte. Sowohl die
+Geschwindigkeit als auch die
+Preisgestaltung werden besser sein als
+bei Astra, aber es ist Wahnsinn, dass
+wir eine solche Qualität erhalten, die
+die Fähigkeiten von Astra wirklich
+nachahmt. Es ist in fast jedem Bereich,
+den wir uns angesehen haben, mit seinen
+Ausgaben ziemlich stark. Als Nächstes
+haben wir ein Update für Grok 4.7, da
+das Modell nun Berichten zufolge in den
+Google Cloud-Kontingenten und
+Systemlimits aufgetaucht ist. Das ist
+ziemlich interessant, da es darauf
+hindeutet, dass Grok 4.7 für die
+Verfügbarkeit über Google Cloud
+vorbereitet wird. Und da Elon bereits
+sagte, dass das Modell sehr bald kommt,
+könnte dies ein weiteres Zeichen
+dafür sein, dass die Veröffentlichung
+kurz bevorsteht. Ich weiß, er sagte,
+es würde in 10 Tagen veröffentlicht
+werden. Ich glaube, dieser Zeitraum ist
+vorbei, aber es könnte sein, dass sie
+es morgen oder Anfang nächster Woche
+veröffentlichen. Wir haben
+tatsächlich einige erste
+Benchmark-Ergebnisse für Grok 4.7,
+speziell für Kernel Bench Mega sowie
+Kernel Bench CUDA. Bei Kernel Bench
+Mega erzielt Grok 4.7 einen Wert von
+6,4, was ein ziemlich großer Sprung
+gegenüber Gemini 3.8 Flash mit 2,7 und
+GPT 5.6 Tool mit 2,6 ist. Auch wenn es
+ein großartiges Modell ist, liegt es
+dennoch deutlich hinter Modellen wie
+GLM 5.3, DeepSeek Version 4.1 Flash,
+GPT 6 Astra Pro sowie Claude Fable 5
+zurück. Aber auf der CUDA-Seite der
+Dinge wurde es ein wenig
+wettbewerbsfähiger. Grok 4.7 erreichte
+eine 9,5 im GLM 5.2 Fused MoE-Test,
+etwas mehr als Grok 4.6, das bei 9,4
+lag. Während wir auch bei einigen
+anderen CUDA-Workloads Verbesserungen
+sehen. Aber insgesamt scheint Grok 4.7
+basierend auf diesen frühen Tests zwar
+eine deutliche Verbesserung gegenüber
+4.6 zu sein, aber in vielen anderen
+Bereichen scheint es nur geringfügig
+besser zu werden. Als Nächstes kommt
+etwas wirklich Interessantes, über das
+viele Leute sprechen, und zwar eine
+völlig andere Art von KI-Modell namens
+Jev von Diogo und seinem Team bei Type
+Safe AI. Anstatt einen weiteren
+massiven Chatbot zu bauen, wurde Jev
+speziell dafür entwickelt,
+Entscheidungen für Software zu treffen
+, und generiert keinen Text wie Token
+für Token, wie es ein traditionelles
+großes Sprachmodell tun würde. Sie
+geben ihm unstrukturierte Informationen
+und eine vordefinierte Menge möglicher
+Ausgaben, und es liefert strukturierte
+Entscheidungen mit Wahrscheinlichkeiten
+zurück. Und alles wird parallel
+berechnet. Sie haben auch einen neuen
+Trainingsansatz namens RLCD entwickelt,
+was für Reinforcement Learning for
+Calibrated Decisions steht. Type Safe
+behauptet, dass Jev bei den getesteten
+Entscheidungsworkflows etwa 20-bis 200-
+mal schneller und 40-bis 400-mal
+günstiger sein kann, mit Preisen, die
+derzeit bei nur 4 Cent pro Million
+Input-Token für Ausgaben liegen. Das
+sind die Benchmark-Behauptungen von
+Type Safe. Wir müssen es also
+natürlich unabhängig testen, um zu
+sehen, wie allgemein gültig sie sind.
+Und der einzige Kompromiss, an den ich
+tatsächlich denken kann, ist, dass Jev
+keinen normalen Text generieren kann.
+Das soll kein Ersatz für so etwas wie
+GPT-6 Astra oder ein Cloud-Modell sein.
+Die Idee ist, dass man potenziell
+erstklassige große Sprachmodelle für
+die komplexe Schlussfolgerungs-und
+Generierungsarbeit haben könnte.
+Während etwas wie Jev Tausende von
+günstigen, extrem schnellen
+Entscheidungen drumherum übernimmt.
+Dinge wie Routing, Klassifizierung,
+Bewertung von Ausgaben, Auswahl von
+Aktionen oder die Entscheidung, was ein
+Agent als Nächstes tun soll. Es ist
+wirklich ein anderer Ansatz, von dem
+ich nicht dachte, dass er möglich
+wäre. Als Nächstes haben wir dieses
+mysteriöse neue Stealth-Modell namens
+Union Alpha. Und das Verrückte daran
+ist, dass man es tatsächlich sofort
+komplett kostenlos über Dienste wie
+Open Code, Open Router und Client
+ausprobieren kann. Union Alpha wurde
+speziell für Jenson-Codierung mit
+einem 256 K-Token-Kontextfenster
+entwickelt, mit multimodalen
+Fähigkeiten und Unterstützung für
+lange, komplexe Programmieraufgaben.
+Die bisherige frühe Leistung kommt
+Berichten zufolge in einigen
+verschiedenen Fachbereichen recht nah
+an das Leistungsniveau von GPT-6 Astra
+und Claude Opus 5 heran, was irgendwie
+unerwartet ist. Die erwarteten Kosten
+für dieses Modell könnten zudem etwa
+18-mal niedriger sein, was großartig
+ist. Ich hatte gerade den Schnitt
+dieses Videos beendet und
+herausgefunden, wer das Union
+Alpha-Modell tatsächlich entwickelt
+hat. Das Unternehmen dahinter ist
+Unbiased, und sie enthüllten im Grunde
+, dass Union Alpha das Pareto 269 ist,
+wobei der wirklich interessante Teil
+ist, dass Pareto kein einzelnes Modell
+ist. Es ist ein System aus mehreren
+Modellen, ähnlich wie wir es
+ursprünglich bei der Funktionsweise
+der Sakuna-Modelle gesehen haben, nur
+dass diese Modelle hier gemeinsam an
+derselben Aufgabe arbeiten. Ihr System
+kann die Arbeit zwischen verschiedenen
+Open-Source-und Spitzenmodellen
+weiterleiten. Es handelt sich also
+eigentlich nicht um ein vollständig
+dediziertes Modell. Die Preisgestaltung
+liegt bei 2,50 $ pro eine Million
+Eingabe-Token, 0,25 $ pro Cache-Eingabe
+und 7,50 $ pro Million Ausgabe-Token,
+während behauptet wird, dass dies
+weniger als ein Viertel der gelisteten
+Preise von Astra sei. Und das ist auch
+der Grund, warum viele Leute behauptet
+haben, dass es ein Modell ist, das dem
+Stand der Technik sehr nahe kommt. Was
+aber letztendlich passierte, war, dass
+sie das Modell einfach an diese
+Spitzenmodelle weiterleiteten, weshalb
+es ihnen so sehr nahe kam. Wenn dir
+dieses Video gefällt und du den Kanal
+unterstützen möchtest, kannst du
+über die „Super Thanks“-Option
+unten eine Spende in Betracht ziehen.
+Oder du kannst unserem privaten Discord
+beitreten, wo du monatlich kostenlosen
+Zugriff auf mehrere Abonnements für
+verschiedene KI-Tools sowie tägliche
+KI-Nachrichten, exklusive Inhalte und
+vieles mehr erhältst. Als Nächstes
+haben wir ein Update zu Google RSI. Das
+ist ziemlich interessant, da es dieses
+neue Update vom Google-und
+DeepMind-Team zur rekursiven
+Selbstverbesserung gibt, bei dem
+Forscher gerade „Dream RSI“ von
+Google veröffentlicht haben, ein
+Framework, bei dem ein KI-Agent im
+Wesentlichen aus seinen früheren
+Entdeckungsversuchen lernen kann und in
+der Lage ist, die Suche nach besseren
+Lösungen im Laufe der Zeit zu
+verbessern. Dies ist eine Schleife und
+sie ist ziemlich faszinierend, daher
+empfehle ich sehr, sie sich über die
+Links in der Beschreibung unten
+anzusehen. Der wichtige Punkt ist
+jedoch, dass sich die zugrunde
+liegenden Modellgewichte hierbei nicht
+tatsächlich verbessern. Es ist der
+Agent, der die Richtlinie erforscht,
+die rekursiv immer besser wird, je
+länger die Schleife andauert. Aber das
+ist dennoch ziemlich bedeutend, da
+Google diese Schleife bei verschiedenen
+Arten von Algorithmen, ihrem eigenen
+GPU-Kernel-Engineering sowie ihrer
+eigenen Modellentwicklung demonstriert
+hat. Es sieht also so aus, als kämen
+sie der Entwicklung des Systems
+ziemlich nahe. Als Nächstes hat Claude
+Projekte innerhalb von Claude Code
+eingeführt, und das ist eine ziemliche
+große Sache. Damit können Sie
+offensichtlich mehrere Aufgaben aus
+einer einzigen Konversation heraus
+verwalten. Sie können Claude
+verschiedene Dinge auftragen, und es
+leitet diese automatisch in parallele
+Threads weiter, die selbst dann
+weiterlaufen, wenn Sie Ihren Laptop
+schließen, was besonders hilfreich ist
+, wenn Sie unterwegs arbeiten. Jedes
+Projekt verfügt außerdem über einen
+gemeinsamen Speicher und gemeinsame
+Dateien, was an sich schon interessant
+ist, und jeder Thread bleibt bei
+Änderungen sowie hinsichtlich des
+Kontexts auf dem neuesten Stand. Dies
+ist derzeit eine Funktion, die sich
+für ausgewählte Pro-und Max-Nutzer in
+der Beta-Phase befindet, wobei ein
+breiterer Rollout bald erfolgen soll.
+Vielleicht führen sie es mit Opus 5.2
+ein. Schließlich ist Xiaomi mit einem
+großen Mimo-Update zurück, ihrer
+Modellserie. Nach fast 6 Monaten
+Funkstille enthüllte das Team, dass
+sich Mimo Version 2.6 derzeit mitten in
+einem massiven RL-Trainingslauf
+befindet. Sie skalieren drei
+Hauptbereiche: RL-Rechenleistung,
+Multitask-Agentenumgebungen und höhere
+Rechenkapazität. Dabei werden pro
+Trainingsschritt rund 2 Milliarden
+Tokens über Tausende paralleler
+Abläufe generiert. Noch cooler ist,
+dass Xiaomi den RL-Lauf öffentlich
+streamt und plant, in den kommenden
+Wochen mehr Details darüber zu
+veröffentlichen, wie sie Mimo Version
+2.6 trainieren, aber es sieht so aus,
+als müssten wir wahrscheinlich 1 oder
+2 Monate auf dieses neue Modell warten.
+Bevor ich ging, habe ich oft diese
+coolen Robotervideos gezeigt, aber wir
+sind endlich zurück und jetzt kann ich
+sie wieder präsentieren. Hier treibt
+GPT-6 Astra diesen Roboter an und
+lässt ihn tatsächlich tanzen, was
+irgendwie interessant und auch ziemlich
+spaßig ist. Hier tanzt der Roboter zu
+den Schritten, die vom GPT-6
+Astro-Modell detailliert vorgegeben
+werden, was ziemlich cool ist. Aber das
+war es dann auch schon für das heutige
+Video, Leute. Falls ihr die World of AI
+Insiders School Community noch nicht
+gesehen habt, empfehle ich euch sehr,
+sie euch anzusehen, damit ihr früher
+Zugriff auf verschiedene KI-Modelle
+erhaltet, wie J-Line-Modelle,
+vielleicht sogar Mini Max-Modelle oder
+etwas, das ich nicht einmal aussprechen
+kann. Aber ich kann nur empfehlen,
+einen Blick darauf zu werfen. Schaut
+euch unbedingt auch die World of AI
+Benchmark-und die Viide Code-Plattform
+an. Werft einen Blick auf den zweiten
+Kanal. Schließt euch uns im Newsletter
+und auf Discord an, folgt mir auf
+Twitter und stellt zu guter Letzt
+sicher, dass ihr abonniert, die Glocke
+aktiviert, dieses Video liked und euch
+unsere früheren Videos anseht, damit
+ihr immer auf dem Laufenden bleibt, was
+in der Welt der KI passiert. Mit diesem
+Gedanken wünsche ich euch einen
+fantastischen Tag, Leute. Verbreitet
+Positivität, wir sehen uns in Kürze
+wieder. Macht’s gut, Leute.

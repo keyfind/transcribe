@@ -1,0 +1,2091 @@
+1
+00:00:00,100 --> 00:00:03,000
+Wie immer wird es im KI-Bereich nie
+
+2
+00:00:02,054 --> 00:00:05,117
+langweilig, denn es gibt ein paar neue
+
+3
+00:00:04,172 --> 00:00:06,963
+große Geschichten, über die wir
+
+4
+00:00:06,018 --> 00:00:09,099
+sprechen können. Beginnen wir mit
+
+5
+00:00:08,160 --> 00:00:11,549
+Anthropic, dem neuen Claude Sonnet 5.5,
+
+6
+00:00:10,610 --> 00:00:13,999
+das schon sehr bald erscheinen könnte.
+
+7
+00:00:14,319 --> 00:00:17,314
+Das basiert auf den gestrigen Leaks, in
+
+8
+00:00:16,365 --> 00:00:19,053
+denen wir darüber sprachen, dass
+
+9
+00:00:18,104 --> 00:00:20,894
+Anthropic dieses Modell anscheinend
+
+10
+00:00:19,946 --> 00:00:23,837
+noch testet. Aber heute haben wir
+
+11
+00:00:22,885 --> 00:00:25,513
+tatsächlich die ersten Vorschauen
+
+12
+00:00:24,561 --> 00:00:28,056
+darauf, was es kann. Und ehrlich gesagt
+
+13
+00:00:27,101 --> 00:00:29,781
+sieht es so aus, als würde Anthropic
+
+14
+00:00:28,826 --> 00:00:31,279
+die Sonnet-Reihe in großem Stil
+
+15
+00:00:30,324 --> 00:00:33,380
+wiederbeleben. Wenn das Modell zu den
+
+16
+00:00:32,425 --> 00:00:34,987
+vorgeschlagenen Preisen und mit der
+
+17
+00:00:34,031 --> 00:00:36,771
+vorgeschlagenen Effizienz auf den Markt
+
+18
+00:00:35,816 --> 00:00:38,512
+kommt, die ich später noch enthüllen
+
+19
+00:00:37,556 --> 00:00:39,850
+werde, könnte Sonnet 5.5 ein
+
+20
+00:00:38,895 --> 00:00:41,590
+ernstzunehmender Konkurrent für GPT-6
+
+21
+00:00:40,635 --> 00:00:43,241
+Sole werden, vor allem wenn man sich
+
+22
+00:00:42,286 --> 00:00:45,302
+diese frühen Vorschauen ansieht. Und
+
+23
+00:00:44,356 --> 00:00:47,249
+meiner Meinung nach sieht es bisher
+
+24
+00:00:46,303 --> 00:00:50,482
+viel besser aus als GPT-6 Sole. Das
+
+25
+00:00:49,530 --> 00:00:52,246
+führt uns zu OpenAI, denn Berichten
+
+26
+00:00:51,294 --> 00:00:53,771
+zufolge bereiten sie ein neues,
+
+27
+00:00:52,819 --> 00:00:55,391
+höherwertiges ChatGPT-Abonnement
+
+28
+00:00:54,439 --> 00:00:56,917
+namens ChatGPT Pro Max vor, das
+
+29
+00:00:55,964 --> 00:00:58,680
+möglicherweise zu einem verrückten
+
+30
+00:00:57,728 --> 00:01:00,300
+Preis von 500 US-Dollar pro Monat
+
+31
+00:00:59,348 --> 00:01:03,155
+erhältlich sein könnte. Bislang
+
+32
+00:01:02,201 --> 00:01:04,845
+gehören Hinweise auf die schnellste
+
+33
+00:01:03,891 --> 00:01:06,399
+Arbeit mit Codex zu den größten
+
+34
+00:01:05,444 --> 00:01:07,860
+festgestellten Unterschieden im
+
+35
+00:01:06,906 --> 00:01:09,831
+Vergleich zum regulären Pro-Modell. Es
+
+36
+00:01:08,873 --> 00:01:11,046
+gibt Spekulationen, dass die
+
+37
+00:01:10,088 --> 00:01:12,680
+Infrastruktur von Cerebrus die Lösung
+
+38
+00:01:11,722 --> 00:01:14,021
+antreiben könnte, zusammen mit
+
+39
+00:01:13,063 --> 00:01:14,859
+potenziell höheren
+
+40
+00:01:13,901 --> 00:01:17,001
+Nutzungsbeschränkungen. Und natürlich
+
+41
+00:01:16,043 --> 00:01:18,622
+werden wir aufschlüsseln, was Sie mit
+
+42
+00:01:17,663 --> 00:01:20,284
+diesem neuen Plan tatsächlich erhalten
+
+43
+00:01:19,326 --> 00:01:22,914
+könnten. Apropos OpenAI: Erinnern Sie
+
+44
+00:01:21,972 --> 00:01:25,262
+sich an Bell? Nun, es gibt eine weitere
+
+45
+00:01:24,308 --> 00:01:26,973
+wichtige Entwicklung im Zusammenhang
+
+46
+00:01:26,019 --> 00:01:28,684
+mit den internen KI-Fähigkeiten von
+
+47
+00:01:27,730 --> 00:01:31,318
+OpenAI. Laut OpenAI hat das Training
+
+48
+00:01:30,380 --> 00:01:33,591
+dieses neuen internen Modells am 28.
+
+49
+00:01:32,652 --> 00:01:35,924
+August begonnen und es hat inzwischen
+
+50
+00:01:34,986 --> 00:01:37,890
+mehr als 100 seit Langem offene
+
+51
+00:01:36,951 --> 00:01:39,855
+mathematische Probleme gelöst,
+
+52
+00:01:38,916 --> 00:01:42,312
+zusammen mit dem behaupteten Durchbruch
+
+53
+00:01:41,373 --> 00:01:45,715
+bei Navier-Stokes. Seine Fortschritte
+
+54
+00:01:44,761 --> 00:01:47,287
+haben die Mathematiker bei OpenAI
+
+55
+00:01:46,333 --> 00:01:48,859
+offenbar so überrascht, dass das
+
+56
+00:01:47,905 --> 00:01:50,709
+Unternehmen nun mit einer unabhängigen
+
+57
+00:01:49,755 --> 00:01:52,142
+mathematischen Beratungsgruppe
+
+58
+00:01:51,188 --> 00:01:53,391
+zusammenarbeitet, um diese
+
+59
+00:01:52,437 --> 00:01:54,824
+KI-generierten Entdeckungen zu
+
+60
+00:01:53,870 --> 00:01:56,443
+überprüfen und zu kommunizieren.
+
+61
+00:01:56,900 --> 00:01:59,697
+Kommen wir nun zu Google: Die haben
+
+62
+00:01:58,748 --> 00:02:01,700
+gerade etwas Verrücktes angekündigt.
+
+63
+00:02:01,379 --> 00:02:03,685
+Das Projekt Sun Catcher ist ein
+
+64
+00:02:02,727 --> 00:02:05,244
+Moonshot, bei dem es darum geht, die
+
+65
+00:02:04,287 --> 00:02:06,888
+Integration von KI-Berechnungen in den
+
+66
+00:02:05,930 --> 00:02:09,077
+Weltraum zu erforschen. Hier bereitet
+
+67
+00:02:08,129 --> 00:02:11,006
+sich Google darauf vor, TPUs in eine
+
+68
+00:02:10,058 --> 00:02:13,040
+niedrige Erdumlaufbahn zu schicken, um
+
+69
+00:02:12,092 --> 00:02:14,501
+zu prüfen, ob der Weltraum
+
+70
+00:02:13,553 --> 00:02:15,857
+tatsächlich eine riesige
+
+71
+00:02:14,909 --> 00:02:17,839
+KI-Infrastruktur beherbergen könnte.
+
+72
+00:02:17,440 --> 00:02:20,061
+Satelliten könnten die nahezu
+
+73
+00:02:19,115 --> 00:02:22,061
+konstante Sonneneinstrahlung nutzen,
+
+74
+00:02:21,115 --> 00:02:23,521
+während TPU-Cluster über
+
+75
+00:02:22,575 --> 00:02:25,629
+Laserverbindungen mit hoher Bandbreite
+
+76
+00:02:24,683 --> 00:02:28,615
+kommunizieren. Google hat seine Chips
+
+77
+00:02:27,683 --> 00:02:31,063
+bereits unter extremen Vibrationen,
+
+78
+00:02:30,131 --> 00:02:33,239
+Strahlung und Vakuumbedingungen
+
+79
+00:02:32,307 --> 00:02:36,531
+getestet. Der erste TPU-Test im Orbit
+
+80
+00:02:35,597 --> 00:02:38,593
+steht noch vor zwei größeren
+
+81
+00:02:37,660 --> 00:02:41,255
+Satellitenexperimenten im Jahr 2027 an.
+
+82
+00:02:40,908 --> 00:02:43,825
+Und schließlich gibt es eine neue
+
+83
+00:02:42,881 --> 00:02:46,080
+Möglichkeit, Claude Opus 5.5 auch nach
+
+84
+00:02:45,137 --> 00:02:48,110
+Erreichen der Ratenlimits weiter zu
+
+85
+00:02:47,167 --> 00:02:50,234
+verwenden. Sie ist langsamer und
+
+86
+00:02:49,285 --> 00:02:52,044
+funktioniert nur, wenn zusätzliche
+
+87
+00:02:51,095 --> 00:02:54,055
+Kapazität verfügbar ist, könnte Opus
+
+88
+00:02:53,106 --> 00:02:56,016
+5.5 aber deutlich benutzerfreundlicher
+
+89
+00:02:55,067 --> 00:02:58,803
+machen. Ich zeige dir, wie du damit
+
+90
+00:02:57,850 --> 00:03:00,610
+loslegst, und gebe dir ein paar Tipps
+
+91
+00:02:59,658 --> 00:03:02,513
+und Tricks, die dir helfen werden, Opus
+
+92
+00:03:01,561 --> 00:03:05,145
+5.5 besser zu nutzen. Natürlich gibt
+
+93
+00:03:04,171 --> 00:03:06,166
+es noch viel mehr zu besprechen, also
+
+94
+00:03:05,192 --> 00:03:07,187
+lass uns einfach alles kurz und knapp
+
+95
+00:03:06,213 --> 00:03:09,894
+zusammenfassen. Dein KI-Agent kann eine
+
+96
+00:03:08,948 --> 00:03:11,965
+ganze App schreiben, aber wenn du ihn
+
+97
+00:03:11,020 --> 00:03:14,146
+bittest, Live-Daten abzurufen, musst du
+
+98
+00:03:13,201 --> 00:03:16,273
+plötzlich mit API-Schlüsseln, Konten
+
+99
+00:03:15,327 --> 00:03:19,284
+und Abonnements jonglieren. Hier kommt
+
+100
+00:03:18,332 --> 00:03:21,079
+der heutige Sponsor Monad ins Spiel.
+
+101
+00:03:20,719 --> 00:03:23,222
+Denk an Openrouter, aber für
+
+102
+00:03:22,274 --> 00:03:25,541
+Agenten-Tools. Mit nur einem Schlüssel
+
+103
+00:03:24,581 --> 00:03:27,014
+erhalten Sie Zugriff auf über 2.000
+
+104
+00:03:26,054 --> 00:03:30,101
+Tools. Web Scraping, Anreicherung, SEO
+
+105
+00:03:29,170 --> 00:03:32,972
+und Social-Media-Daten. Geben wir
+
+106
+00:03:32,023 --> 00:03:35,347
+Claude eine echte Aufgabe. Er ruft mit
+
+107
+00:03:34,405 --> 00:03:37,316
+Monad die aktuelle Preisseite von
+
+108
+00:03:36,374 --> 00:03:39,228
+Perplexity ab und vergleicht die
+
+109
+00:03:38,286 --> 00:03:41,731
+einzelnen Pläne. Claude wählt das
+
+110
+00:03:40,779 --> 00:03:43,545
+Tool aus und tätigt den Aufruf über
+
+111
+00:03:42,593 --> 00:03:46,021
+Monad. Das Tool gibt die Seitendaten
+
+112
+00:03:45,078 --> 00:03:48,863
+direkt an die Konversation zurück. Der
+
+113
+00:03:47,911 --> 00:03:50,733
+Bot wandelt diese echten Daten dann in
+
+114
+00:03:49,781 --> 00:03:52,650
+einen übersichtlichen Vergleich um und
+
+115
+00:03:51,698 --> 00:03:54,184
+enthält einen Link zurück zur
+
+116
+00:03:53,232 --> 00:03:56,424
+Preisseite. Sie zahlen pro Tool-Aufruf
+
+117
+00:03:55,465 --> 00:03:58,021
+über ein einziges Guthaben, ohne dass
+
+118
+00:03:57,062 --> 00:03:59,209
+separate Anbieterkonten oder
+
+119
+00:03:58,250 --> 00:04:00,966
+Abonnements erforderlich sind. Bei
+
+120
+00:04:00,016 --> 00:04:02,397
+jeder Anmeldung erhalten Sie
+
+121
+00:04:01,446 --> 00:04:04,222
+automatisch 1 $ Gratisguthaben, ohne
+
+122
+00:04:03,271 --> 00:04:05,899
+dass eine Karte erforderlich ist.
+
+123
+00:04:05,620 --> 00:04:08,162
+Schauen Sie sich Monad also über die
+
+124
+00:04:07,204 --> 00:04:09,705
+Links in der Beschreibung unten oder
+
+125
+00:04:08,747 --> 00:04:11,123
+den angehefteten Kommentar an und
+
+126
+00:04:10,164 --> 00:04:12,624
+verbringen Sie weniger Zeit mit dem
+
+127
+00:04:11,666 --> 00:04:14,403
+Einrichten von APIs. Vielen Dank an
+
+128
+00:04:13,440 --> 00:04:15,860
+Monad für das Sponsoring des heutigen
+
+129
+00:04:14,898 --> 00:04:19,126
+Videos. Beginnen wir mit dem, worüber
+
+130
+00:04:18,177 --> 00:04:20,922
+wir gestern gesprochen haben, denn
+
+131
+00:04:19,974 --> 00:04:22,513
+Anthropic führt derzeit einen
+
+132
+00:04:21,564 --> 00:04:24,309
+Stealth-Test von Claude Sonnet 5.5
+
+133
+00:04:23,361 --> 00:04:26,003
+durch, das unter dem Modell-Slug
+
+134
+00:04:25,054 --> 00:04:29,070
+Claude-Sonnet-5-5 entdeckt wurde. Und
+
+135
+00:04:28,128 --> 00:04:31,246
+bisher haben wir einiges über dieses
+
+136
+00:04:30,303 --> 00:04:33,669
+Modell erfahren. Offenbar erhielten
+
+137
+00:04:32,724 --> 00:04:35,651
+ausgewählte Partner nur 24 Stunden
+
+138
+00:04:34,706 --> 00:04:37,577
+Zugriff und die Nutzung des ersten
+
+139
+00:04:36,632 --> 00:04:39,559
+Tools wurde inzwischen eingestellt.
+
+140
+00:04:39,199 --> 00:04:42,449
+Sonnet 5.5 soll außerdem mit einem
+
+141
+00:04:41,514 --> 00:04:44,893
+riesigen Kontextfenster von 1 Million
+
+142
+00:04:43,957 --> 00:04:47,337
+Token und bis zu 128.000 Output-Token
+
+143
+00:04:46,401 --> 00:04:50,460
+ausgestattet sein. Das Denken ist
+
+144
+00:04:49,512 --> 00:04:52,214
+standardmäßig adaptiv, während
+
+145
+00:04:51,265 --> 00:04:54,225
+deaktiviertes Denken offenbar nur für
+
+146
+00:04:53,276 --> 00:04:56,236
+niedrigen, mittleren und hohen Aufwand
+
+147
+00:04:55,287 --> 00:04:58,299
+verfügbar ist, nicht für XI oder Max.
+
+148
+00:04:59,420 --> 00:05:02,442
+Was mir aber wirklich auffiel, und das
+
+149
+00:05:01,495 --> 00:05:04,517
+hatten wir gestern bereits besprochen,
+
+150
+00:05:03,571 --> 00:05:06,540
+ist der gemunkelte Preis: 2 US-Dollar
+
+151
+00:05:05,593 --> 00:05:08,190
+für 1 Million Input-Token, 10
+
+152
+00:05:07,243 --> 00:05:10,212
+US-Dollar für 1 Million Output-Token
+
+153
+00:05:09,265 --> 00:05:12,181
+und nur 20 Cent für 1 Million Token
+
+154
+00:05:11,234 --> 00:05:15,000
+pro Cash-Rate. Wenn diese Zahlen
+
+155
+00:05:14,055 --> 00:05:17,046
+tatsächlich stimmen, könnte Sonnet
+
+156
+00:05:16,102 --> 00:05:19,259
+5.5 ein unglaubliches Wettbewerbsmodell
+
+157
+00:05:18,314 --> 00:05:21,471
+sein, das mit GPT-6 Soul auf Augenhöhe
+
+158
+00:05:20,526 --> 00:05:23,628
+sein wird und vielleicht sogar besser,
+
+159
+00:05:22,684 --> 00:05:25,841
+wenn man sich einige dieser neuen Leaks
+
+160
+00:05:24,896 --> 00:05:28,950
+ansieht. Wir wissen natürlich bereits,
+
+161
+00:05:28,011 --> 00:05:31,394
+dass Sonnet 5.5 kommen wird. Wir haben
+
+162
+00:05:30,451 --> 00:05:33,571
+es gestern in unserem Video erwähnt,
+
+163
+00:05:32,628 --> 00:05:35,633
+aber heute haben wir endlich unsere
+
+164
+00:05:34,690 --> 00:05:37,466
+ersten Vorschauen auf Sonic 5.5
+
+165
+00:05:36,523 --> 00:05:39,815
+bekommen. Und diese Vorschauen sind
+
+166
+00:05:38,871 --> 00:05:41,456
+bisher der Wahnsinn, was die
+
+167
+00:05:40,513 --> 00:05:44,177
+Möglichkeiten angeht. Wie in
+
+168
+00:05:43,237 --> 00:05:46,387
+verschiedenen Voxel-Art-Generationen
+
+169
+00:05:45,446 --> 00:05:48,477
+kann man sehen, dass Sonic 5.5 dem
+
+170
+00:05:47,537 --> 00:05:50,627
+gerade erst erschienenen GPT-6 Soul
+
+171
+00:05:49,687 --> 00:05:53,857
+ernsthaft Konkurrenz macht. Und meiner
+
+172
+00:05:52,918 --> 00:05:56,108
+Meinung nach sind der kreative Touch
+
+173
+00:05:55,169 --> 00:05:58,055
+und die Elemente, die Sonic 5.5
+
+174
+00:05:57,116 --> 00:06:00,489
+hinzufügen kann, einfach der Wahnsinn.
+
+175
+00:05:59,589 --> 00:06:02,431
+Und bei diesem Preis glaube ich
+
+176
+00:06:01,490 --> 00:06:04,748
+wirklich, dass es ein riesiges Upgrade
+
+177
+00:06:03,808 --> 00:06:07,066
+gegenüber GPT-6 Soul sein wird. Das
+
+178
+00:06:06,109 --> 00:06:08,428
+ist nur meine Meinung und meine
+
+179
+00:06:07,470 --> 00:06:10,522
+Vorhersage. Ich sage nicht, dass das
+
+180
+00:06:09,575 --> 00:06:12,629
+passieren wird, aber basierend auf dem,
+
+181
+00:06:11,682 --> 00:06:14,630
+was ich bisher gesehen habe, tendiere
+
+182
+00:06:13,683 --> 00:06:16,579
+ich dazu, Sonic 5.5 gegenüber GPT-6
+
+183
+00:06:15,632 --> 00:06:18,671
+Soul zu verwenden. In 3JS wurde
+
+184
+00:06:17,723 --> 00:06:20,722
+angefordert, ein Schloss zu erstellen,
+
+185
+00:06:19,774 --> 00:06:22,773
+und dies ist eines der Ergebnisse, die
+
+186
+00:06:21,825 --> 00:06:25,428
+es generiert hat. Nichts Verrücktes
+
+187
+00:06:24,498 --> 00:06:27,927
+oder so, aber dennoch eine ziemlich
+
+188
+00:06:26,997 --> 00:06:30,218
+gute Generierung, die ordentlich
+
+189
+00:06:29,288 --> 00:06:33,938
+Texturen und Elemente hinzufügt. Diese
+
+190
+00:06:32,998 --> 00:06:36,269
+beiden Controller wurden beide von der
+
+191
+00:06:35,329 --> 00:06:38,360
+Cloud Sonic 5.5 generiert, und das
+
+192
+00:06:37,420 --> 00:06:40,332
+Ganze wurde mit X-High Reasoning
+
+193
+00:06:39,392 --> 00:06:42,364
+durchgeführt, und ihr könnt die
+
+194
+00:06:41,424 --> 00:06:45,720
+Qualität hier sehen. Und das sind zwei
+
+195
+00:06:44,773 --> 00:06:47,784
+Controller, die in SVG codiert wurden,
+
+196
+00:06:46,837 --> 00:06:49,479
+und der Detailgrad ist ziemlich
+
+197
+00:06:48,532 --> 00:06:51,543
+verrückt, denn ihr könnt sehen, dass
+
+198
+00:06:50,596 --> 00:06:53,661
+die Texturen der Tasten vollständig in
+
+199
+00:06:52,714 --> 00:06:55,408
+SVG-Code codiert wurden, mit der
+
+200
+00:06:54,461 --> 00:06:57,473
+richtigen Beleuchtung und den Shadern,
+
+201
+00:06:56,526 --> 00:06:58,903
+die dieser SVG-Generierung
+
+202
+00:06:57,956 --> 00:07:00,809
+zugeschrieben werden, was für sich
+
+203
+00:06:59,862 --> 00:07:02,927
+genommen schon ziemlich einzigartig ist
+
+204
+00:07:01,927 --> 00:07:06,225
+. Ihr könnt sehen, dass der
+
+205
+00:07:05,286 --> 00:07:08,115
+Xbox-Controller wirklich genau
+
+206
+00:07:07,176 --> 00:07:10,433
+generiert werden konnte, aber was den
+
+207
+00:07:09,494 --> 00:07:12,811
+PS5-Controller angeht, sage ich nicht,
+
+208
+00:07:11,872 --> 00:07:15,189
+dass er nicht genau ist, aber er sieht
+
+209
+00:07:14,250 --> 00:07:17,324
+nicht unbedingt genau wie ein PS5-
+
+210
+00:07:16,324 --> 00:07:20,442
+Controller aus. Nichtsdestotrotz wurden
+
+211
+00:07:19,495 --> 00:07:22,355
+alle Elemente eines PS5-Controllers
+
+212
+00:07:21,408 --> 00:07:24,215
+hinzugefügt, und insgesamt hat er
+
+213
+00:07:23,268 --> 00:07:26,021
+trotzdem einen ziemlich guten Job
+
+214
+00:07:25,074 --> 00:07:28,598
+gemacht. Wenn ihr die besten KI-Tools,
+
+215
+00:07:27,641 --> 00:07:30,221
+Workflows und Drops vor allen anderen
+
+216
+00:07:29,264 --> 00:07:31,716
+haben wollt, dann abonniert meinen
+
+217
+00:07:30,758 --> 00:07:33,381
+kostenlosen Newsletter mit dem Link in
+
+218
+00:07:32,424 --> 00:07:34,919
+der Beschreibung unten, der völlig
+
+219
+00:07:33,962 --> 00:07:37,529
+kostenlos ist. Hier ist nun der von
+
+220
+00:07:36,586 --> 00:07:39,788
+Sonic 5.5 generierte Minecraft-Klon und
+
+221
+00:07:38,845 --> 00:07:42,048
+ich muss sagen, die Texturen und alles,
+
+222
+00:07:41,104 --> 00:07:44,194
+was generiert wurde, weisen ähnliche
+
+223
+00:07:43,250 --> 00:07:46,284
+Eigenschaften wie das ursprüngliche
+
+224
+00:07:45,340 --> 00:07:48,373
+Minecraft-Sandbox-Spiel auf, wie zum
+
+225
+00:07:47,430 --> 00:07:50,997
+Beispiel die Blumen. Ihr habt sogar die
+
+226
+00:07:50,045 --> 00:07:52,760
+Möglichkeit, die verschiedenen Mobs
+
+227
+00:07:51,808 --> 00:07:54,963
+anzugreifen. Es hat sich wirklich Mühe
+
+228
+00:07:54,014 --> 00:07:56,848
+gegeben, diese Mobs mit anständigen
+
+229
+00:07:55,899 --> 00:07:58,732
+Texturen zu erstellen, und sie sehen
+
+230
+00:07:57,783 --> 00:08:01,192
+insgesamt ziemlich gut aus. Wenn ihr
+
+231
+00:08:00,249 --> 00:08:03,228
+die Schafe tötet, bekommt ihr auch
+
+232
+00:08:02,285 --> 00:08:06,609
+Wolle, was ganz nett ist. Es hat zwar
+
+233
+00:08:05,650 --> 00:08:08,164
+keine außergewöhnlichen Animationen
+
+234
+00:08:07,205 --> 00:08:09,597
+hinzugefügt, wie zum Beispiel die
+
+235
+00:08:08,638 --> 00:08:11,235
+Animationen, wenn ihr Blöcke zerbricht
+
+236
+00:08:10,235 --> 00:08:12,627
+, aber egal, wenn ihr verschiedene
+
+237
+00:08:11,668 --> 00:08:14,264
+Arten von Blättern zerbricht, seht ihr
+
+238
+00:08:13,264 --> 00:08:15,574
+, dass ich einen Stock habe, was
+
+239
+00:08:14,615 --> 00:08:18,843
+ziemlich einzigartig ist. Es gibt ein
+
+240
+00:08:17,896 --> 00:08:20,964
+Crafting-System und ich glaube, es gibt
+
+241
+00:08:20,017 --> 00:08:23,086
+Höhlensysteme, die ich finden müsste,
+
+242
+00:08:22,139 --> 00:08:25,048
+und die habe ich gerade hier drüben
+
+243
+00:08:24,101 --> 00:08:28,320
+gefunden. Es gibt Erze und wenn ihr
+
+244
+00:08:27,372 --> 00:08:29,830
+fallt, erhaltet ihr auch die
+
+245
+00:08:28,882 --> 00:08:31,981
+Schadensanimation. Aber lasst uns
+
+246
+00:08:31,013 --> 00:08:33,086
+tatsächlich nach oben gehen, denn
+
+247
+00:08:32,117 --> 00:08:34,348
+diese Höhlen sehen nicht so schön aus
+
+248
+00:08:33,348 --> 00:08:38,942
+. Mach das mal. Mal sehen, wie tief wir
+
+249
+00:08:37,974 --> 00:08:41,047
+gehen können. Insgesamt sieht es
+
+250
+00:08:40,092 --> 00:08:42,814
+ziemlich gut aus. Ich denke, das ist
+
+251
+00:08:41,862 --> 00:08:45,188
+Schotter. Ja, das ist es. Und die
+
+252
+00:08:44,241 --> 00:08:47,300
+Generationen wurden ganz gut umgesetzt.
+
+253
+00:08:46,520 --> 00:08:49,241
+Sogar die Physik, bei der man den
+
+254
+00:08:48,293 --> 00:08:51,171
+Schotterblock platzieren kann und er
+
+255
+00:08:50,223 --> 00:08:52,736
+sofort herunterfällt, wie im
+
+256
+00:08:51,788 --> 00:08:54,278
+Originalspiel. Das ist wirklich
+
+257
+00:08:53,317 --> 00:08:55,960
+ziemlich cool. Es gibt sogar eine
+
+258
+00:08:54,997 --> 00:08:57,373
+Hungerleiste und dann gibt es noch das
+
+259
+00:08:56,409 --> 00:08:59,806
+Crafting-System. In Zukunft scheint
+
+260
+00:08:58,867 --> 00:09:02,102
+OpenAI tatsächlich einen brandneuen,
+
+261
+00:09:01,163 --> 00:09:04,338
+höherwertigen ChatGPT-Tarif auf den
+
+262
+00:09:03,399 --> 00:09:06,695
+Markt zu bringen, der sich ChatGPT Pro
+
+263
+00:09:05,755 --> 00:09:09,347
+Max nennt. Und dieses Ding könnte
+
+264
+00:09:08,410 --> 00:09:11,675
+lächerliche 500 US-Dollar pro Monat
+
+265
+00:09:10,738 --> 00:09:14,713
+kosten. Wir haben tatsächlich schon
+
+266
+00:09:13,759 --> 00:09:16,098
+einmal auf dem Kanal darüber
+
+267
+00:09:15,144 --> 00:09:17,622
+gesprochen, dass OpenAI ein viel
+
+268
+00:09:16,668 --> 00:09:19,470
+teureres Abonnement in Erwägung ziehen
+
+269
+00:09:18,516 --> 00:09:21,178
+würde, das Berichten zufolge bis zu
+
+270
+00:09:20,225 --> 00:09:22,980
+2.000 US-Dollar pro Monat kosten soll.
+
+271
+00:09:22,980 --> 00:09:25,890
+Ich schätze, jemand hat ihnen endlich
+
+272
+00:09:24,940 --> 00:09:27,750
+zur Vernunft verholfen und den Preis
+
+273
+00:09:26,801 --> 00:09:29,611
+auf 500 US-Dollar gesenkt, was immer
+
+274
+00:09:28,661 --> 00:09:33,055
+noch absolut verrückt ist. Aber der
+
+275
+00:09:32,112 --> 00:09:35,335
+Plan wurde jetzt in der Entwicklung mit
+
+276
+00:09:34,392 --> 00:09:37,501
+dem schnellsten Arbeits-und Codex-Tag
+
+277
+00:09:36,559 --> 00:09:39,668
+entdeckt und befindet sich derzeit in
+
+278
+00:09:38,725 --> 00:09:41,948
+einigen verschiedenen Katalogen einiger
+
+279
+00:09:41,005 --> 00:09:46,647
+Benutzer. Der einzige Unterschied zum
+
+280
+00:09:45,711 --> 00:09:48,938
+regulären Pro-Tarif besteht darin,
+
+281
+00:09:48,002 --> 00:09:50,211
+dass dieser auf der
+
+282
+00:09:49,275 --> 00:09:53,200
+Cerebrus-Infrastruktur basiert. Das ist
+
+283
+00:09:52,261 --> 00:09:55,638
+zwar noch nicht zu 100%bestätigt, aber
+
+284
+00:09:54,699 --> 00:09:58,203
+die Leute haben das bereits gesehen. Es
+
+285
+00:09:57,260 --> 00:10:00,494
+bietet den Nutzern möglicherweise eine
+
+286
+00:09:59,551 --> 00:10:02,612
+viel schnellere Leistung und höhere
+
+287
+00:10:01,670 --> 00:10:04,792
+Nutzungslimits. OpenAI hat auch daran
+
+288
+00:10:03,835 --> 00:10:06,400
+gearbeitet, ChatGPT die Verarbeitung
+
+289
+00:10:05,443 --> 00:10:07,790
+von Aufgaben mit viel längerer
+
+290
+00:10:06,833 --> 00:10:09,898
+Laufzeit zu ermöglichen. ProMax
+
+291
+00:10:08,948 --> 00:10:11,743
+könnte also möglicherweise auch in
+
+292
+00:10:10,792 --> 00:10:14,414
+diese Richtung gehen. Und da der OpenAI
+
+293
+00:10:13,462 --> 00:10:16,284
+DevDay vor der Tür steht, müssen wir
+
+294
+00:10:15,332 --> 00:10:18,202
+möglicherweise nicht mehr lange warten
+
+295
+00:10:17,202 --> 00:10:20,024
+, um zu erfahren, was dieser Plan für
+
+296
+00:10:19,071 --> 00:10:22,742
+Sie bereithält. Erinnern Sie sich noch
+
+297
+00:10:21,787 --> 00:10:24,038
+daran, wie wir über OpenAIs
+
+298
+00:10:23,082 --> 00:10:25,556
+mysteriöses internes Modell Bell
+
+299
+00:10:24,601 --> 00:10:27,846
+gesprochen haben? Nun, wir haben einige
+
+300
+00:10:26,896 --> 00:10:29,814
+ziemlich verrückte neue Informationen
+
+301
+00:10:28,865 --> 00:10:31,732
+über OpenAIs interne KI-Fortschritte
+
+302
+00:10:30,783 --> 00:10:34,219
+in der Mathematik. Laut OpenAI hat ein
+
+303
+00:10:33,286 --> 00:10:36,746
+internes Modell am 28. August mit dem
+
+304
+00:10:35,813 --> 00:10:39,950
+Testen und Trainieren begonnen. Dies
+
+305
+00:10:38,995 --> 00:10:41,212
+ist wahrscheinlich eine der
+
+306
+00:10:40,257 --> 00:10:42,970
+Belastungsproben des Bell-Checkpoints.
+
+307
+00:10:43,740 --> 00:10:46,856
+Berichten zufolge löst es nun mehr als
+
+308
+00:10:45,911 --> 00:10:48,539
+100 langjährige mathematische
+
+309
+00:10:47,593 --> 00:10:50,330
+OpenAI-Probleme in verschiedenen
+
+310
+00:10:49,385 --> 00:10:52,122
+Bereichen der Mathematik selbst,
+
+311
+00:10:51,176 --> 00:10:53,967
+zusätzlich zu seiner behaupteten
+
+312
+00:10:53,022 --> 00:10:54,619
+Lösung des
+
+313
+00:10:53,673 --> 00:10:56,844
+Navier-Stokes-Millenniums-Preis-Problems
+
+314
+00:10:55,844 --> 00:10:58,997
+. Und anscheinend hat die
+
+315
+00:10:58,035 --> 00:11:00,485
+Geschwindigkeit des Fortschritts sogar
+
+316
+00:10:59,523 --> 00:11:01,782
+Mathematiker innerhalb von OpenAI
+
+317
+00:11:00,821 --> 00:11:05,370
+überrascht. Aus diesem Grund arbeitet
+
+318
+00:11:04,435 --> 00:11:07,262
+OpenAI jetzt mit einer neuen
+
+319
+00:11:06,328 --> 00:11:09,351
+unabhängigen Beratergruppe von
+
+320
+00:11:08,416 --> 00:11:11,831
+Mathematikern zusammen, zu der einige
+
+321
+00:11:10,896 --> 00:11:14,245
+äußerst angesehene Namen gehören,
+
+322
+00:11:13,310 --> 00:11:16,790
+darunter Timothy Gowers, Martin Hairer
+
+323
+00:11:15,855 --> 00:11:19,140
+sowie Ravi Vakil und Edward Witten.
+
+324
+00:11:20,119 --> 00:11:22,727
+Ihre Aufgabe besteht im Wesentlichen
+
+325
+00:11:21,772 --> 00:11:24,425
+darin, bei der Beurteilung zu helfen,
+
+326
+00:11:23,470 --> 00:11:25,989
+wie bedeutsam diese KI-generierten
+
+327
+00:11:25,034 --> 00:11:27,732
+mathematischen Ergebnisse tatsächlich
+
+328
+00:11:26,776 --> 00:11:29,385
+sind und wie sie der Öffentlichkeit
+
+329
+00:11:28,430 --> 00:11:30,770
+und der Forschungsgemeinschaft
+
+330
+00:11:29,815 --> 00:11:32,423
+kommuniziert werden sollten, und wie
+
+331
+00:11:31,468 --> 00:11:34,166
+akademische Standards aufrechterhalten
+
+332
+00:11:33,211 --> 00:11:35,641
+werden sollten, wenn KI beginnt,
+
+333
+00:11:34,685 --> 00:11:37,339
+direkter zur mathematischen Forschung
+
+334
+00:11:36,383 --> 00:11:39,987
+beizutragen. Und nur um das
+
+335
+00:11:39,029 --> 00:11:41,331
+klarzustellen: OpenAI hat nicht
+
+336
+00:11:40,373 --> 00:11:42,885
+öffentlich gesagt, dass es sich bei
+
+337
+00:11:41,927 --> 00:11:44,523
+diesem internen Modell um Bel handelt,
+
+338
+00:11:43,565 --> 00:11:46,120
+aber wenn man bedenkt, was wir bisher
+
+339
+00:11:45,162 --> 00:11:47,716
+über Bel gehört haben und wie genau
+
+340
+00:11:46,758 --> 00:11:49,228
+das hier ablief, sieht es definitiv
+
+341
+00:11:48,270 --> 00:11:50,446
+danach aus, als wäre es der
+
+342
+00:11:49,488 --> 00:11:52,761
+Bel-Checkpoint. Wenn dir dieses Video
+
+343
+00:11:51,809 --> 00:11:54,668
+gefällt und du den Kanal unterstützen
+
+344
+00:11:53,716 --> 00:11:56,480
+möchtest, kannst du über die Option
+
+345
+00:11:55,528 --> 00:11:58,244
+„Super Thanks“ unten für meinen
+
+346
+00:11:57,292 --> 00:12:00,723
+Kanal spenden. Oder du schließt dich
+
+347
+00:11:59,776 --> 00:12:02,605
+unserem privaten Discord an, wo du
+
+348
+00:12:01,658 --> 00:12:04,325
+monatlich kostenlos auf mehrere
+
+349
+00:12:03,379 --> 00:12:06,423
+Abonnements für verschiedene KI-Tools
+
+350
+00:12:05,476 --> 00:12:08,251
+zugreifen kannst, sowie tägliche
+
+351
+00:12:07,305 --> 00:12:10,079
+KI-News und exklusive Inhalte und
+
+352
+00:12:09,133 --> 00:12:12,706
+vieles mehr. Kommen wir nun zur
+
+353
+00:12:11,771 --> 00:12:15,104
+Hauptstory des heutigen Videos, denn
+
+354
+00:12:14,169 --> 00:12:17,048
+Google schickt seine KI-Chips
+
+355
+00:12:16,113 --> 00:12:19,557
+buchstäblich ins All. Ja, im Ernst,
+
+356
+00:12:18,610 --> 00:12:21,543
+denn Google hat ein wichtiges Update
+
+357
+00:12:20,597 --> 00:12:23,100
+für das Projekt Sun Catcher
+
+358
+00:12:22,154 --> 00:12:25,141
+veröffentlicht, sein Moonshot, um zu
+
+359
+00:12:24,195 --> 00:12:27,128
+erforschen, ob wir letztendlich eine
+
+360
+00:12:26,181 --> 00:12:28,953
+riesige KI-Recheninfrastruktur im
+
+361
+00:12:28,007 --> 00:12:31,101
+Weltraum aufbauen können, ähnlich wie
+
+362
+00:12:30,155 --> 00:12:33,823
+Elon es sich vorgestellt hatte. Google
+
+363
+00:12:32,871 --> 00:12:35,674
+bereitet sich jedoch darauf vor, einen
+
+364
+00:12:34,722 --> 00:12:37,383
+Prototyp-Satelliten zu starten, der
+
+365
+00:12:36,430 --> 00:12:38,712
+seine TPUs in eine niedrige
+
+366
+00:12:37,759 --> 00:12:40,563
+Erdumlaufbahn bringt, um zu sehen, wie
+
+367
+00:12:39,610 --> 00:12:42,176
+sie sich im Weltraum tatsächlich
+
+368
+00:12:41,224 --> 00:12:45,189
+verhalten. Das ist ein wichtiger Grund,
+
+369
+00:12:44,240 --> 00:12:46,985
+warum Google an diesem Wettlauf um
+
+370
+00:12:46,036 --> 00:12:49,292
+Satelliten interessiert ist. Dabei geht
+
+371
+00:12:48,349 --> 00:12:51,358
+es um etwas, das Satelliten in eine
+
+372
+00:12:50,416 --> 00:12:53,368
+niedrige Erdumlaufbahn bringen und
+
+373
+00:12:52,425 --> 00:12:55,492
+nahezu konstant Sonnenlicht erhalten
+
+374
+00:12:54,549 --> 00:12:57,626
+kann. Dadurch könnte potenziell bis zu
+
+375
+00:12:56,676 --> 00:12:59,309
+achtmal mehr Solarenergie erzeugt
+
+376
+00:12:58,358 --> 00:13:01,140
+werden als vergleichbare Systeme auf
+
+377
+00:13:00,189 --> 00:13:03,777
+der Erde. Die langfristige Vision
+
+378
+00:13:02,832 --> 00:13:05,745
+dafür ist ziemlich verrückt, denn
+
+379
+00:13:04,800 --> 00:13:07,877
+Google glaubt, dass es irgendwann eine
+
+380
+00:13:06,932 --> 00:13:10,009
+ganze Konstellation von Satelliten mit
+
+381
+00:13:09,064 --> 00:13:11,594
+TPUs haben könnte, die alle
+
+382
+00:13:10,649 --> 00:13:13,726
+miteinander verbunden sind und riesige
+
+383
+00:13:12,781 --> 00:13:17,090
+KI-Workloads im Orbit verarbeiten. Aber
+
+384
+00:13:16,132 --> 00:13:18,793
+es ist natürlich wahnsinnig schwierig,
+
+385
+00:13:17,835 --> 00:13:20,495
+ein KI-Rechenzentrum in den Weltraum zu
+
+386
+00:13:19,538 --> 00:13:23,313
+bringen. Erstens muss die Hardware den
+
+387
+00:13:22,362 --> 00:13:25,782
+Start selbst überstehen. Laut Google
+
+388
+00:13:24,845 --> 00:13:28,271
+kann eine einzelne Komponente Kräften
+
+389
+00:13:27,334 --> 00:13:30,760
+von etwa 50 bis 100 G ausgesetzt sein.
+
+390
+00:13:30,160 --> 00:13:32,598
+Daher haben sie diese Satelliten
+
+391
+00:13:31,642 --> 00:13:34,260
+buchstäblich geschüttelt, um einen
+
+392
+00:13:33,305 --> 00:13:36,470
+Raketenstart zu simulieren. Dann ist da
+
+393
+00:13:35,517 --> 00:13:38,817
+noch die Strahlung. Google hat seine
+
+394
+00:13:37,884 --> 00:13:41,244
+Trillium-TPUs mit Protonenstrahlung
+
+395
+00:13:40,311 --> 00:13:43,266
+bestrahlt, während sie aktiv
+
+396
+00:13:42,333 --> 00:13:46,097
+KI-Workloads ausführten. Und die
+
+397
+00:13:45,154 --> 00:13:48,258
+ersten Ergebnisse zeigten, dass diese
+
+398
+00:13:47,315 --> 00:13:50,420
+mehr Strahlung aushalten können, als
+
+399
+00:13:49,477 --> 00:13:52,354
+man während einer fünfjährigen
+
+400
+00:13:51,411 --> 00:13:54,459
+Mission im Weltraum erwarten würde.
+
+401
+00:13:54,520 --> 00:13:57,056
+Eines der größten Probleme ist jedoch
+
+402
+00:13:56,095 --> 00:13:59,400
+tatsächlich die Kühlung. Im Vakuum
+
+403
+00:13:58,451 --> 00:14:00,831
+des Weltraums gibt es keine
+
+404
+00:13:59,882 --> 00:14:03,040
+Luftzirkulation. Daher kann man diese
+
+405
+00:14:02,082 --> 00:14:04,471
+Chips nicht wie in einem normalen
+
+406
+00:14:03,514 --> 00:14:06,324
+Rechenzentrum kühlen. Google
+
+407
+00:14:05,395 --> 00:14:09,087
+experimentiert daher mit Heatpipes und
+
+408
+00:14:08,158 --> 00:14:11,849
+Radiatoren, um die Wärme von den TPUs
+
+409
+00:14:10,920 --> 00:14:14,329
+wegzuleiten und ein Überhitzen zu
+
+410
+00:14:13,399 --> 00:14:16,354
+verhindern. Und dann kommt
+
+411
+00:14:15,392 --> 00:14:17,844
+wahrscheinlich der verrückteste Teil,
+
+412
+00:14:16,883 --> 00:14:19,182
+nämlich die Verbindung all dieser
+
+413
+00:14:18,220 --> 00:14:21,868
+Satelliten miteinander. Zukünftige
+
+414
+00:14:20,918 --> 00:14:23,612
+Satelliten des Project Sun Catcher
+
+415
+00:14:22,662 --> 00:14:25,357
+könnten jeweils Dutzende von TPUs
+
+416
+00:14:24,406 --> 00:14:27,300
+tragen und über Laserverbindungen mit
+
+417
+00:14:26,350 --> 00:14:28,696
+extrem hoher Bandbreite mit
+
+418
+00:14:27,746 --> 00:14:30,640
+benachbarten Satelliten kommunizieren.
+
+419
+00:14:31,200 --> 00:14:33,886
+An dieser Stelle beschreibt Google die
+
+420
+00:14:32,930 --> 00:14:35,616
+erforderliche Präzision als im Grunde
+
+421
+00:14:34,661 --> 00:14:37,347
+genommen den Versuch, ein münzgroßes
+
+422
+00:14:36,391 --> 00:14:39,077
+Ziel aus kilometerweiter Entfernung zu
+
+423
+00:14:38,122 --> 00:14:40,719
+treffen, während sich beide Objekte
+
+424
+00:14:39,764 --> 00:14:44,013
+bewegen. Und das ist kein Konzept für
+
+425
+00:14:43,080 --> 00:14:47,175
+die ferne Zukunft. Google bereitet sich
+
+426
+00:14:46,235 --> 00:14:49,387
+darauf vor, seine ersten TPUs in die
+
+427
+00:14:48,447 --> 00:14:51,599
+Umlaufbahn zu bringen, und für 2027
+
+428
+00:14:50,659 --> 00:14:53,930
+sind zwei Satelliten geplant, um diese
+
+429
+00:14:52,990 --> 00:14:55,903
+Verbindungstechnologie mit hoher
+
+430
+00:14:54,963 --> 00:15:00,275
+Bandbreite zu testen. Wir betreten also
+
+431
+00:14:59,348 --> 00:15:02,240
+wirklich eine Welt, die an
+
+432
+00:15:01,313 --> 00:15:05,078
+Science-Fiction erinnert, in der diese
+
+433
+00:15:04,150 --> 00:15:07,697
+Satelliten KI-Workloads im Weltraum
+
+434
+00:15:06,770 --> 00:15:11,419
+ausführen werden. Das wird uns auf der
+
+435
+00:15:10,468 --> 00:15:14,764
+Erde unterstützen. Als Nächstes folgt
+
+436
+00:15:13,806 --> 00:15:16,419
+eine ziemlich seltsame Ankündigung von
+
+437
+00:15:15,461 --> 00:15:17,702
+Anthropic, die mir persönlich
+
+438
+00:15:16,743 --> 00:15:19,771
+überhaupt nicht gefällt. Anthropic
+
+439
+00:15:18,817 --> 00:15:21,514
+sagt nämlich, dass es Nutzern wieder
+
+440
+00:15:20,559 --> 00:15:23,073
+Gebühren für bestimmte Anfragen
+
+441
+00:15:22,119 --> 00:15:24,265
+berechnen wird, die seine
+
+442
+00:15:23,311 --> 00:15:25,870
+Schutzmaßnahmen blockieren, bevor
+
+443
+00:15:24,916 --> 00:15:28,469
+Claude überhaupt antwortet. Dies gilt
+
+444
+00:15:27,522 --> 00:15:30,352
+nur für drei Kategorien: Biologie,
+
+445
+00:15:29,405 --> 00:15:31,922
+Destillationsangriffe und die
+
+446
+00:15:30,974 --> 00:15:32,968
+Entwicklung großer
+
+447
+00:15:32,020 --> 00:15:35,887
+Grenzsprachenmodelle. Anthropic gibt an
+
+448
+00:15:34,887 --> 00:15:37,780
+, dass dies teilweise auf koordinierte
+
+449
+00:15:36,830 --> 00:15:39,475
+Angriffe auf seine Systeme in den
+
+450
+00:15:38,525 --> 00:15:41,319
+letzten Wochen zurückzuführen ist.
+
+451
+00:15:42,080 --> 00:15:44,757
+Fairerweise muss man sagen, dass
+
+452
+00:15:43,809 --> 00:15:46,592
+Anthropic behauptet, dass 99,7%der
+
+453
+00:15:45,644 --> 00:15:48,531
+Konten in seinen jüngsten Tests nie
+
+454
+00:15:47,583 --> 00:15:50,628
+auf eine dieser neuen kostenpflichtigen
+
+455
+00:15:49,680 --> 00:15:52,305
+Sperren gestoßen sind, und die
+
+456
+00:15:51,358 --> 00:15:54,297
+Klassifikatoren sollen so eingestellt
+
+457
+00:15:53,350 --> 00:15:55,975
+sein, dass sie weniger als 0,1%
+
+458
+00:15:54,975 --> 00:15:59,624
+Falsch-Positiv-Raten aufweisen. Apropos
+
+459
+00:15:58,671 --> 00:16:01,205
+Opus 5.5: Ich habe einen wirklich
+
+460
+00:16:00,252 --> 00:16:03,065
+nützlichen Tipp gefunden, den ich euch
+
+461
+00:16:02,112 --> 00:16:04,925
+mitteilen wollte und der euch definitiv
+
+462
+00:16:03,972 --> 00:16:06,739
+eine Menge Token und Geld sparen wird.
+
+463
+00:16:06,779 --> 00:16:09,617
+Einige Tests haben ergeben, dass Opus
+
+464
+00:16:08,667 --> 00:16:11,555
+5.5 bei geringem Argumentationsaufwand
+
+465
+00:16:10,605 --> 00:16:13,095
+im Grunde genommen genauso gut
+
+466
+00:16:12,145 --> 00:16:14,487
+abschneidet wie Max bei der
+
+467
+00:16:13,536 --> 00:16:16,474
+Aufgabenerledigung, dabei aber etwa 12-
+
+468
+00:16:15,474 --> 00:16:19,122
+mal weniger kostet. Für die meisten
+
+469
+00:16:18,168 --> 00:16:20,796
+alltäglichen Aufgaben musst du Opus
+
+470
+00:16:19,841 --> 00:16:22,289
+5.5 wahrscheinlich nicht bis zum
+
+471
+00:16:21,334 --> 00:16:23,737
+Maximum an Argumentationsniveau
+
+472
+00:16:22,782 --> 00:16:25,897
+hochfahren. Du kannst standardmäßig
+
+473
+00:16:24,936 --> 00:16:27,467
+mit einer niedrigen Argumentationsstufe
+
+474
+00:16:26,506 --> 00:16:28,959
+beginnen und diese nur dann erhöhen,
+
+475
+00:16:27,998 --> 00:16:30,372
+wenn du es mit wirklich schwierigen
+
+476
+00:16:29,411 --> 00:16:31,938
+Problemen zu tun hast. Das ist
+
+477
+00:16:31,003 --> 00:16:34,364
+natürlich selbsterklärend. Für
+
+478
+00:16:33,401 --> 00:16:35,812
+einfache Aufgaben stellst du die Stufe
+
+479
+00:16:34,849 --> 00:16:37,074
+„Niedrig“ und für komplexere
+
+480
+00:16:36,111 --> 00:16:38,336
+Aufgaben die Stufe „Maximal“.
+
+481
+00:16:37,600 --> 00:16:40,440
+Manchmal vergisst man das aber einfach.
+
+482
+00:16:39,702 --> 00:16:42,369
+Eine Erinnerung ist daher eine gute
+
+483
+00:16:41,416 --> 00:16:43,988
+Möglichkeit, einige dieser Tipps
+
+484
+00:16:43,036 --> 00:16:45,703
+tatsächlich in die Tat umzusetzen.
+
+485
+00:16:45,907 --> 00:16:48,377
+Eine weitere wirklich coole und
+
+486
+00:16:47,425 --> 00:16:50,227
+hilfreiche Sache ist, dass du, wenn du
+
+487
+00:16:49,275 --> 00:16:51,935
+dein normales Claude-Coderatenlimit
+
+488
+00:16:50,983 --> 00:16:53,833
+erreicht hast, versuchen kannst, „low
+
+489
+00:16:52,880 --> 00:16:56,171
+priority“ auszuführen. Dies ist ein
+
+490
+00:16:55,231 --> 00:16:58,309
+Befehl, mit dem du Claude auch nach
+
+491
+00:16:57,369 --> 00:17:00,150
+Erreichen deiner Limits weiter
+
+492
+00:16:59,210 --> 00:17:02,548
+verwenden kannst. Deine Anfrage wird
+
+493
+00:17:01,592 --> 00:17:04,170
+jedoch langsamer ausgeführt und das
+
+494
+00:17:03,214 --> 00:17:05,792
+auch nur, wenn Anthropic über freie
+
+495
+00:17:04,835 --> 00:17:08,236
+Kapazitäten verfügt. Wenn du also
+
+496
+00:17:07,280 --> 00:17:09,949
+ständig an die Claude-Limits stößt,
+
+497
+00:17:08,993 --> 00:17:11,266
+solltest du dies unbedingt im
+
+498
+00:17:10,310 --> 00:17:13,340
+Hinterkopf behalten. Ich werde unten in
+
+499
+00:17:12,369 --> 00:17:14,430
+der Beschreibung einen Link zu diesem
+
+500
+00:17:13,459 --> 00:17:16,115
+Beitrag hinterlassen. Das war's aber
+
+501
+00:17:15,153 --> 00:17:18,798
+auch schon mit dem heutigen Video. In
+
+502
+00:17:17,830 --> 00:17:20,052
+der Welt der KI tut sich noch viel mehr
+
+503
+00:17:19,052 --> 00:17:21,138
+. Ich empfehle euch daher dringend,
+
+504
+00:17:20,167 --> 00:17:22,267
+einen Blick auf unsere Schul-Community
+
+505
+00:17:21,295 --> 00:17:23,279
+zu werfen, um auf dem Laufenden zu
+
+506
+00:17:22,308 --> 00:17:24,961
+bleiben. Schaut euch unbedingt die
+
+507
+00:17:24,011 --> 00:17:26,504
+Fünf-Punkte-Plattform und den
+
+508
+00:17:25,554 --> 00:17:28,434
+Benchmark zur Welt der KI an. Werft
+
+509
+00:17:27,476 --> 00:17:30,104
+auch einen Blick auf das Universum der
+
+510
+00:17:29,147 --> 00:17:31,689
+KI, unseren zweiten Kanal, abonniert
+
+511
+00:17:30,732 --> 00:17:33,060
+den Newsletter, werdet Teil des
+
+512
+00:17:32,102 --> 00:17:34,473
+Discord-Kanals und folgt mir auf
+
+513
+00:17:33,516 --> 00:17:36,048
+Twitter. Abonniert unbedingt unseren
+
+514
+00:17:35,081 --> 00:17:36,726
+Kanal, aktiviert die
+
+515
+00:17:35,759 --> 00:17:37,921
+Benachrichtigungsglocke, gebt diesem
+
+516
+00:17:36,953 --> 00:17:39,212
+Video ein „Gefällt mir“ und schaut
+
+517
+00:17:38,245 --> 00:17:40,310
+euch bitte auch unsere vorherigen
+
+518
+00:17:39,343 --> 00:17:41,473
+Videos an, um über die aktuellsten
+
+519
+00:17:40,505 --> 00:17:42,700
+KI-News auf dem Laufenden zu bleiben.
+
+520
+00:17:41,810 --> 00:17:44,238
+In diesem Sinne wünsche ich euch einen
+
+521
+00:17:43,275 --> 00:17:45,374
+wunderschönen Tag, verbreitet
+
+522
+00:17:44,410 --> 00:17:46,692
+Positivität und ich sehe euch ganz
+
+523
+00:17:45,729 --> 00:17:48,120
+bald wieder. Tschüss Leute.

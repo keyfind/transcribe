@@ -1,0 +1,1977 @@
+{
+  "video": {
+    "video_id": "TyhlQ0ufH3Y",
+    "title": "MYSTERIOUS Stealth AI Model BEATS GPT-6 Astra & It’s COMPLETELY FREE!",
+    "url": "https://www.youtube.com/watch?v=TyhlQ0ufH3Y",
+    "published_at": null,
+    "duration": 803
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.4,
+      "duration": 2.838,
+      "text": "Vor ein paar Tagen tauchte völlig"
+    },
+    {
+      "start": 2.292,
+      "duration": 2.351,
+      "text": "unerwartet ein brandneues"
+    },
+    {
+      "start": 3.697,
+      "duration": 2.785,
+      "text": "Stealth-Modell auf OpenRouter und"
+    },
+    {
+      "start": 5.536,
+      "duration": 2.825,
+      "text": "OpenCode auf. Und im Moment ist die"
+    },
+    {
+      "start": 7.408,
+      "duration": 2.777,
+      "text": "Nutzung für diese Woche noch komplett"
+    },
+    {
+      "start": 9.232,
+      "duration": 3.346,
+      "text": "kostenlos. Dieses mysteriöse Modell"
+    },
+    {
+      "start": 11.622,
+      "duration": 2.539,
+      "text": "heißt SpaceMoney Alpha und niemand"
+    },
+    {
+      "start": 13.205,
+      "duration": 2.45,
+      "text": "weiß so genau, wer es eigentlich"
+    },
+    {
+      "start": 14.699,
+      "duration": 3.808,
+      "text": "entwickelt hat. SpaceMoney Alpha ist"
+    },
+    {
+      "start": 17.559,
+      "duration": 2.99,
+      "text": "ein anonymes Large-Language-Modell mit"
+    },
+    {
+      "start": 19.601,
+      "duration": 2.675,
+      "text": "blitzschneller Inferenz, starken"
+    },
+    {
+      "start": 21.329,
+      "duration": 2.675,
+      "text": "Programmierfähigkeiten, nativer"
+    },
+    {
+      "start": 23.057,
+      "duration": 2.623,
+      "text": "Unterstützung für multimodale"
+    },
+    {
+      "start": 24.732,
+      "duration": 2.937,
+      "text": "Eingaben, anpassbarem Denkaufwand und"
+    },
+    {
+      "start": 26.722,
+      "duration": 2.832,
+      "text": "einem riesigen Kontextfenster von 1"
+    },
+    {
+      "start": 28.606,
+      "duration": 3.567,
+      "text": "Million Token. Das Wichtigste, was man"
+    },
+    {
+      "start": 31.207,
+      "duration": 2.21,
+      "text": "verstehen muss, ist, dass es sich um"
+    },
+    {
+      "start": 32.451,
+      "duration": 2.882,
+      "text": "ein Stealth-Modell handelt. Es wird von"
+    },
+    {
+      "start": 34.391,
+      "duration": 2.969,
+      "text": "einem Drittanbieter entwickelt und"
+    },
+    {
+      "start": 36.418,
+      "duration": 2.564,
+      "text": "betrieben, der während der"
+    },
+    {
+      "start": 38.039,
+      "duration": 3.144,
+      "text": "Vorschauphase anonym bleiben möchte."
+    },
+    {
+      "start": 40.62,
+      "duration": 3.06,
+      "text": "OpenRouter leitet Anfragen lediglich an"
+    },
+    {
+      "start": 42.733,
+      "duration": 2.638,
+      "text": "dieses Modell weiter, genau wie"
+    },
+    {
+      "start": 44.424,
+      "duration": 2.842,
+      "text": "OpenCode. Es ist weder der Entwickler,"
+    },
+    {
+      "start": 46.305,
+      "duration": 2.514,
+      "text": "noch der Eigentümer oder der Anbieter."
+    },
+    {
+      "start": 48.52,
+      "duration": 2.797,
+      "text": "Anfangs dachten wir tatsächlich, dass"
+    },
+    {
+      "start": 50.364,
+      "duration": 2.845,
+      "text": "SpaceMoney Alpha vielleicht das MiniMax"
+    },
+    {
+      "start": 52.256,
+      "duration": 3.229,
+      "text": "M 3.1 Flash sein könnte. Einer der"
+    },
+    {
+      "start": 54.531,
+      "duration": 2.669,
+      "text": "größten Hinweise war der Tokenizer."
+    },
+    {
+      "start": 56.76,
+      "duration": 2.499,
+      "text": "SpaceMoney schien denselben"
+    },
+    {
+      "start": 58.315,
+      "duration": 2.888,
+      "text": "Text-Tokenizer wie die Minimax M3-"
+    },
+    {
+      "start": 60.203,
+      "duration": 2.943,
+      "text": "Familie zu verwenden, was zu vielen"
+    },
+    {
+      "start": 62.202,
+      "duration": 2.999,
+      "text": "Spekulationen darüber führte, dass"
+    },
+    {
+      "start": 64.257,
+      "duration": 3.11,
+      "text": "dies insgeheim ein Minimax-Modell sein"
+    },
+    {
+      "start": 66.423,
+      "duration": 2.999,
+      "text": "könnte, nämlich das kommende M 3.1"
+    },
+    {
+      "start": 68.478,
+      "duration": 3.329,
+      "text": "Flash-Modell. Doch diese Theorie lässt"
+    },
+    {
+      "start": 70.853,
+      "duration": 2.745,
+      "text": "sich offensichtlich nicht mehr halten,"
+    },
+    {
+      "start": 72.644,
+      "duration": 2.791,
+      "text": "da Minimax das M 3.1 Flash mittlerweile"
+    },
+    {
+      "start": 74.481,
+      "duration": 3.343,
+      "text": "offiziell veröffentlicht hat. Wir sind"
+    },
+    {
+      "start": 76.875,
+      "duration": 3.838,
+      "text": "also im Grunde wieder am Anfang. Wir"
+    },
+    {
+      "start": 79.758,
+      "duration": 2.738,
+      "text": "wissen immer noch nicht, wer SpaceMoney"
+    },
+    {
+      "start": 81.541,
+      "duration": 2.515,
+      "text": "Alpha erschaffen hat, aber was wir"
+    },
+    {
+      "start": 83.101,
+      "duration": 2.649,
+      "text": "bisher wissen ist, dass dieses Modell"
+    },
+    {
+      "start": 84.794,
+      "duration": 3.541,
+      "text": "wahnsinnig schnell ist. Tatsächlich"
+    },
+    {
+      "start": 87.38,
+      "duration": 1.671,
+      "text": "fühlt sich die"
+    },
+    {
+      "start": 88.096,
+      "duration": 2.699,
+      "text": "Generierungsgeschwindigkeit sogar noch"
+    },
+    {
+      "start": 89.84,
+      "duration": 2.566,
+      "text": "schneller an als beim Minimax M 3.1"
+    },
+    {
+      "start": 91.451,
+      "duration": 2.655,
+      "text": "Flash, einem Modell, das speziell auf"
+    },
+    {
+      "start": 93.15,
+      "duration": 2.745,
+      "text": "Geschwindigkeit und Effizienz ausgelegt"
+    },
+    {
+      "start": 94.94,
+      "duration": 4.047,
+      "text": "ist. Und ehrlich gesagt sind die"
+    },
+    {
+      "start": 98.041,
+      "duration": 2.85,
+      "text": "Fähigkeiten in der Webentwicklung"
+    },
+    {
+      "start": 99.945,
+      "duration": 2.849,
+      "text": "absolut verrückt, denn SpaceMoney"
+    },
+    {
+      "start": 101.849,
+      "duration": 2.903,
+      "text": "wurde gegen GPT-6 Astra mit \"X-High"
+    },
+    {
+      "start": 103.807,
+      "duration": 2.958,
+      "text": "Thinking\" und exakt demselben Prompt"
+    },
+    {
+      "start": 105.819,
+      "duration": 2.904,
+      "text": "getestet; die Aufgabe war es, einen"
+    },
+    {
+      "start": 107.777,
+      "duration": 2.904,
+      "text": "detailreichen japanischen Garten im"
+    },
+    {
+      "start": 109.735,
+      "duration": 2.904,
+      "text": "Voxel-Stil in 3JS zu erstellen, mit"
+    },
+    {
+      "start": 111.693,
+      "duration": 3.013,
+      "text": "einer Pagode, winzigen Dorfbewohnern,"
+    },
+    {
+      "start": 113.76,
+      "duration": 2.523,
+      "text": "einem fliegenden Drachen und"
+    },
+    {
+      "start": 115.337,
+      "duration": 3.755,
+      "text": "interaktiven Details. Hierbei"
+    },
+    {
+      "start": 118.14,
+      "duration": 2.81,
+      "text": "benötigte das Space-Bunny-Modell etwa"
+    },
+    {
+      "start": 119.998,
+      "duration": 2.239,
+      "text": "45 Minuten, um die Aufgabe"
+    },
+    {
+      "start": 121.285,
+      "duration": 2.885,
+      "text": "abzuschließen. Und man darf nicht"
+    },
+    {
+      "start": 123.21,
+      "duration": 2.225,
+      "text": "vergessen, dass dies bei dieser"
+    },
+    {
+      "start": 124.475,
+      "duration": 3.074,
+      "text": "Generation komplett kostenlos ist. Dann"
+    },
+    {
+      "start": 126.627,
+      "duration": 3.95,
+      "text": "haben wir GPT-6 Astra, das mit etwa 15"
+    },
+    {
+      "start": 129.655,
+      "duration": 3.951,
+      "text": "Minuten deutlich schneller fertig war,"
+    },
+    {
+      "start": 132.683,
+      "duration": 3.796,
+      "text": "aber die Generierung kostete 4,24 $."
+    },
+    {
+      "start": 135.719,
+      "duration": 2.703,
+      "text": "Als ich in diesen Test ging, erwartete"
+    },
+    {
+      "start": 137.467,
+      "duration": 2.704,
+      "text": "ich eigentlich, dass Astra den Vorteil"
+    },
+    {
+      "start": 139.216,
+      "duration": 3.849,
+      "text": "haben würde. Doch überraschenderweise"
+    },
+    {
+      "start": 142.12,
+      "duration": 2.83,
+      "text": "lieferte Space Bunny ein besseres"
+    },
+    {
+      "start": 144.006,
+      "duration": 3.107,
+      "text": "Ergebnis, das wesentlich detailreicher"
+    },
+    {
+      "start": 146.169,
+      "duration": 3.906,
+      "text": "aussieht als das von GPT-6 Astra. Es"
+    },
+    {
+      "start": 149.133,
+      "duration": 3.25,
+      "text": "achtete deutlich mehr auf die kleineren"
+    },
+    {
+      "start": 151.441,
+      "duration": 2.731,
+      "text": "Details und hat alles, was ich"
+    },
+    {
+      "start": 153.23,
+      "duration": 2.789,
+      "text": "angefordert hatte, vollständig"
+    },
+    {
+      "start": 155.076,
+      "duration": 3.269,
+      "text": "ausprogrammiert. Und irgendwie ist es"
+    },
+    {
+      "start": 157.396,
+      "duration": 2.81,
+      "text": "aktuell immer noch völlig kostenlos"
+    },
+    {
+      "start": 159.256,
+      "duration": 3.868,
+      "text": "nutzbar. Wenn du also mit diesem Modell"
+    },
+    {
+      "start": 162.168,
+      "duration": 2.653,
+      "text": "loslegen möchtest, kannst du das ganz"
+    },
+    {
+      "start": 163.865,
+      "duration": 2.697,
+      "text": "einfach über OpenRouter sowie OpenCode"
+    },
+    {
+      "start": 165.605,
+      "duration": 3.348,
+      "text": "tun. Und noch einmal, dies ist etwas,"
+    },
+    {
+      "start": 168.0,
+      "duration": 2.733,
+      "text": "das derzeit frei zugänglich ist, und"
+    },
+    {
+      "start": 169.78,
+      "duration": 2.639,
+      "text": "Sie können es mit jedem beliebigen"
+    },
+    {
+      "start": 171.466,
+      "duration": 4.322,
+      "text": "Coding-Agent verwenden. Eine Sache, die"
+    },
+    {
+      "start": 174.863,
+      "duration": 3.936,
+      "text": "mir aufgefallen ist, ist die Latenz von"
+    },
+    {
+      "start": 177.874,
+      "duration": 3.409,
+      "text": "74 Tokens pro Sekunde, bei einer"
+    },
+    {
+      "start": 180.358,
+      "duration": 3.861,
+      "text": "anfänglichen Latenz von 1,5 Sekunden."
+    },
+    {
+      "start": 185.06,
+      "duration": 2.801,
+      "text": "Abgesehen davon ist dies ein ziemlich"
+    },
+    {
+      "start": 186.91,
+      "duration": 2.752,
+      "text": "ordentliches Modell, das schnell ist"
+    },
+    {
+      "start": 188.711,
+      "duration": 2.899,
+      "text": "und großartige Ergebnisse liefern kann"
+    },
+    {
+      "start": 190.61,
+      "duration": 3.905,
+      "text": ". Wir werden dieses Modell nun testen,"
+    },
+    {
+      "start": 193.562,
+      "duration": 2.838,
+      "text": "um zu sehen, was man damit tatsächlich"
+    },
+    {
+      "start": 195.447,
+      "duration": 2.696,
+      "text": "machen kann, und es dann mit anderen"
+    },
+    {
+      "start": 197.19,
+      "duration": 3.29,
+      "text": "Modellen vergleichen. Falls ihr es noch"
+    },
+    {
+      "start": 199.529,
+      "duration": 2.533,
+      "text": "nicht getan habt, würde es mir"
+    },
+    {
+      "start": 201.111,
+      "duration": 2.928,
+      "text": "unglaublich viel bedeuten, wenn ihr den"
+    },
+    {
+      "start": 203.088,
+      "duration": 2.632,
+      "text": "YouTube-Kanal abonnieren würdet."
+    },
+    {
+      "start": 204.98,
+      "duration": 2.48,
+      "text": "Stellt auch sicher, dass ihr dieses"
+    },
+    {
+      "start": 206.502,
+      "duration": 2.608,
+      "text": "Video liked, da es mir wirklich hilft,"
+    },
+    {
+      "start": 208.152,
+      "duration": 2.838,
+      "text": "täglich Videos zu erstellen. Lassen"
+    },
+    {
+      "start": 210.025,
+      "duration": 2.305,
+      "text": "Sie uns mit diesem Gedanken direkt in"
+    },
+    {
+      "start": 211.365,
+      "duration": 3.016,
+      "text": "den heutigen Upload eintauchen. Der"
+    },
+    {
+      "start": 213.436,
+      "duration": 3.063,
+      "text": "Coding-Agent, den ich verwenden werde,"
+    },
+    {
+      "start": 215.554,
+      "duration": 2.9,
+      "text": "ist Codium Code in VS Code, und ich"
+    },
+    {
+      "start": 217.508,
+      "duration": 3.01,
+      "text": "stelle Space Money Alpha auf maximale"
+    },
+    {
+      "start": 219.572,
+      "duration": 3.009,
+      "text": "Überlegung, um all diese Aufgaben zu"
+    },
+    {
+      "start": 221.635,
+      "duration": 3.308,
+      "text": "erledigen. Wie ihr sehen könnt,"
+    },
+    {
+      "start": 223.987,
+      "duration": 2.54,
+      "text": "besteht unsere erste Aufgabe darin,"
+    },
+    {
+      "start": 225.571,
+      "duration": 2.364,
+      "text": "einen 360-Grad-Produktviewer zu"
+    },
+    {
+      "start": 226.979,
+      "duration": 3.635,
+      "text": "erstellen. Beginnen wir zunächst mit"
+    },
+    {
+      "start": 229.667,
+      "duration": 3.719,
+      "text": "dem Frontend-Design. Hier habe ich das"
+    },
+    {
+      "start": 232.44,
+      "duration": 3.08,
+      "text": "Erstellen eines 360-Grad-Produktviewers"
+    },
+    {
+      "start": 234.573,
+      "duration": 3.027,
+      "text": "angefordert, und das ist das Ergebnis,"
+    },
+    {
+      "start": 236.653,
+      "duration": 4.76,
+      "text": "das generiert wurde. Dies ist eine"
+    },
+    {
+      "start": 240.48,
+      "duration": 3.487,
+      "text": "Produktansicht eines Kopfhörers, bei"
+    },
+    {
+      "start": 243.035,
+      "duration": 3.555,
+      "text": "der man auf die verschiedenen Merkmale"
+    },
+    {
+      "start": 245.657,
+      "duration": 3.555,
+      "text": "klicken kann, um eine genauere Ansicht"
+    },
+    {
+      "start": 248.279,
+      "duration": 3.421,
+      "text": "der jeweiligen Funktion zu erhalten."
+    },
+    {
+      "start": 251.839,
+      "duration": 2.48,
+      "text": "Man kann die Farbe ändern, und alles"
+    },
+    {
+      "start": 253.359,
+      "duration": 2.48,
+      "text": "scheint einwandfrei zu funktionieren."
+    },
+    {
+      "start": 255.499,
+      "duration": 2.711,
+      "text": "Was mir besonders gefällt, ist, dass"
+    },
+    {
+      "start": 257.256,
+      "duration": 2.434,
+      "text": "es tatsächlich das 3 D-Produkt"
+    },
+    {
+      "start": 258.736,
+      "duration": 2.804,
+      "text": "erstellt hat, woran die meisten anderen"
+    },
+    {
+      "start": 260.586,
+      "duration": 4.035,
+      "text": "Modelle scheitern. Als Nächstes habe"
+    },
+    {
+      "start": 263.708,
+      "duration": 3.082,
+      "text": "ich die Erstellung eines"
+    },
+    {
+      "start": 265.876,
+      "duration": 4.21,
+      "text": "macOS-basierten Browsers angefordert,"
+    },
+    {
+      "start": 269.173,
+      "duration": 4.209,
+      "text": "was wirklich beeindruckend ist, da es"
+    },
+    {
+      "start": 272.469,
+      "duration": 3.776,
+      "text": "den Glassmorphism-UI-Stil direkt"
+    },
+    {
+      "start": 275.331,
+      "duration": 3.684,
+      "text": "integrieren konnte. Es gibt ein"
+    },
+    {
+      "start": 278.074,
+      "duration": 2.809,
+      "text": "Benachrichtigungscenter und die"
+    },
+    {
+      "start": 279.941,
+      "duration": 3.276,
+      "text": "Möglichkeit, Einstellungen wie Anzeige"
+    },
+    {
+      "start": 282.275,
+      "duration": 2.979,
+      "text": "und Ton anzupassen. Es gibt sogar einen"
+    },
+    {
+      "start": 284.289,
+      "duration": 2.208,
+      "text": "Dark Mode, den man aktivieren kann,"
+    },
+    {
+      "start": 285.531,
+      "duration": 2.278,
+      "text": "also scheinen viele dieser Funktionen"
+    },
+    {
+      "start": 286.843,
+      "duration": 3.022,
+      "text": "tatsächlich zu funktionieren. Man kann"
+    },
+    {
+      "start": 288.941,
+      "duration": 3.729,
+      "text": "sogar das Menü in der oberen Leiste"
+    },
+    {
+      "start": 291.745,
+      "duration": 3.653,
+      "text": "verwenden, was viele der Funktionen"
+    },
+    {
+      "start": 294.474,
+      "duration": 3.705,
+      "text": "öffnen kann. Das ist also bereits ein"
+    },
+    {
+      "start": 297.233,
+      "duration": 3.59,
+      "text": "wirklich gutes Zeichen. Es gibt hier"
+    },
+    {
+      "start": 299.877,
+      "duration": 2.72,
+      "text": "viele verschiedene Apps, die mit"
+    },
+    {
+      "start": 301.651,
+      "duration": 3.042,
+      "text": "SVG-Icons programmiert wurden, und das"
+    },
+    {
+      "start": 303.747,
+      "duration": 3.096,
+      "text": "ist etwas, das bei den meisten Modellen"
+    },
+    {
+      "start": 305.896,
+      "duration": 3.043,
+      "text": "normalerweise nicht programmiert wird."
+    },
+    {
+      "start": 309.32,
+      "duration": 3.097,
+      "text": "Nun gibt es ein paar Fehler, wie etwa"
+    },
+    {
+      "start": 311.474,
+      "duration": 2.758,
+      "text": "wenn ich auf Dinge klicke, dann"
+    },
+    {
+      "start": 313.288,
+      "duration": 2.985,
+      "text": "flackern alle verschiedenen Browser"
+    },
+    {
+      "start": 315.329,
+      "duration": 3.211,
+      "text": "oder Anwendungen, aber ansonsten hat es"
+    },
+    {
+      "start": 317.597,
+      "duration": 3.041,
+      "text": "gute Arbeit geleistet, was für sich"
+    },
+    {
+      "start": 319.695,
+      "duration": 2.701,
+      "text": "genommen eine wirklich schöne"
+    },
+    {
+      "start": 321.452,
+      "duration": 4.3,
+      "text": "Darstellung ist. Dies ist etwas, für"
+    },
+    {
+      "start": 324.808,
+      "duration": 3.173,
+      "text": "das ich etwa 45 Minuten gebraucht habe,"
+    },
+    {
+      "start": 327.037,
+      "duration": 3.482,
+      "text": "um ein Ergebnis zu erhalten. Es hat"
+    },
+    {
+      "start": 329.577,
+      "duration": 2.927,
+      "text": "also wirklich lange gedauert, bis"
+    },
+    {
+      "start": 331.563,
+      "duration": 2.81,
+      "text": "dieses Ergebnis vorlag, und ich"
+    },
+    {
+      "start": 333.431,
+      "duration": 2.986,
+      "text": "benötigte etwa vier Anläufe für"
+    },
+    {
+      "start": 335.475,
+      "duration": 3.161,
+      "text": "diese Generierung, aber hier habe ich"
+    },
+    {
+      "start": 337.694,
+      "duration": 2.869,
+      "text": "die Nvidia-Landingpage für eine"
+    },
+    {
+      "start": 339.621,
+      "duration": 3.77,
+      "text": "Grafikkarte erstellt. Und ich liebe das"
+    },
+    {
+      "start": 342.447,
+      "duration": 3.505,
+      "text": "Ergebnis hier einfach. Es hat dieses 3"
+    },
+    {
+      "start": 345.013,
+      "duration": 2.887,
+      "text": "D-Design einer GPU vollständig"
+    },
+    {
+      "start": 346.961,
+      "duration": 3.313,
+      "text": "programmiert, was den meisten Modellen"
+    },
+    {
+      "start": 349.334,
+      "duration": 4.328,
+      "text": "normalerweise nicht gelingt. Man hat"
+    },
+    {
+      "start": 352.717,
+      "duration": 3.079,
+      "text": "die sich drehenden Lüfter, und es war"
+    },
+    {
+      "start": 354.85,
+      "duration": 3.134,
+      "text": "in der Lage, alles vom SVG-Logo bis hin"
+    },
+    {
+      "start": 357.038,
+      "duration": 3.024,
+      "text": "zu all diesen verschiedenen Elementen"
+    },
+    {
+      "start": 359.117,
+      "duration": 3.079,
+      "text": "von der Typografie bis zur dynamischen"
+    },
+    {
+      "start": 361.25,
+      "duration": 2.751,
+      "text": "Bewegung, die dieser Landingpage"
+    },
+    {
+      "start": 363.056,
+      "duration": 3.024,
+      "text": "zugeschrieben wird, zu programmieren."
+    },
+    {
+      "start": 366.28,
+      "duration": 2.777,
+      "text": "Insgesamt hat es also wirklich gute"
+    },
+    {
+      "start": 368.108,
+      "duration": 2.981,
+      "text": "Arbeit bei dieser Generierung geleistet"
+    },
+    {
+      "start": 370.089,
+      "duration": 2.88,
+      "text": ", und das hatte ich von diesem Modell"
+    },
+    {
+      "start": 372.019,
+      "duration": 4.8,
+      "text": "wirklich nicht erwartet. Als Nächstes"
+    },
+    {
+      "start": 375.866,
+      "duration": 2.239,
+      "text": "habe ich es gebeten, einen"
+    },
+    {
+      "start": 377.152,
+      "duration": 2.858,
+      "text": "Call-of-Duty-Klon zu erstellen, und das"
+    },
+    {
+      "start": 379.057,
+      "duration": 2.858,
+      "text": "sieht ehrlich gesagt etwas seltsam aus,"
+    },
+    {
+      "start": 380.962,
+      "duration": 2.572,
+      "text": "da es versucht hat, 3.js für die"
+    },
+    {
+      "start": 382.582,
+      "duration": 2.524,
+      "text": "Ausgabe zu verwenden, aber daran"
+    },
+    {
+      "start": 384.153,
+      "duration": 2.762,
+      "text": "gescheitert ist, da es den Code nicht"
+    },
+    {
+      "start": 385.963,
+      "duration": 3.678,
+      "text": "gründlich genug umgesetzt hat. Es hat"
+    },
+    {
+      "start": 388.692,
+      "duration": 2.573,
+      "text": "lediglich 2 D-Assets in einer 3"
+    },
+    {
+      "start": 390.316,
+      "duration": 2.929,
+      "text": "D-Umgebung verwendet, um diese Ausgabe"
+    },
+    {
+      "start": 392.295,
+      "duration": 2.523,
+      "text": "zu erhalten, weshalb man diese"
+    },
+    {
+      "start": 393.869,
+      "duration": 2.827,
+      "text": "dynamische Ansicht bekommt, wenn man"
+    },
+    {
+      "start": 395.747,
+      "duration": 2.979,
+      "text": "über verschiedene Bereiche fährt, und"
+    },
+    {
+      "start": 397.777,
+      "duration": 2.98,
+      "text": "deshalb sehen die Gegner auch ein wenig"
+    },
+    {
+      "start": 399.807,
+      "duration": 3.277,
+      "text": "seltsam aus. Ich sage also nicht, dass"
+    },
+    {
+      "start": 402.147,
+      "duration": 3.319,
+      "text": "es schrecklich ist, aber um diese Art"
+    },
+    {
+      "start": 404.529,
+      "duration": 3.445,
+      "text": "von Ausgabe zu erhalten, dachte ich, es"
+    },
+    {
+      "start": 407.037,
+      "duration": 3.445,
+      "text": "wäre viel besser darin, einen 3 D-Klon"
+    },
+    {
+      "start": 409.545,
+      "duration": 2.943,
+      "text": "von Call of Duty zu generieren,"
+    },
+    {
+      "start": 411.551,
+      "duration": 3.132,
+      "text": "während es hier eine 3 D-Umgebung"
+    },
+    {
+      "start": 413.745,
+      "duration": 3.383,
+      "text": "erstellt hat, aber eben mit 2 D-Assets"
+    },
+    {
+      "start": 416.19,
+      "duration": 3.553,
+      "text": "darin. Wenn du die besten KI-Tools,"
+    },
+    {
+      "start": 418.785,
+      "duration": 2.413,
+      "text": "Workflows und Neuerscheinungen vor"
+    },
+    {
+      "start": 420.24,
+      "duration": 2.246,
+      "text": "allen anderen haben möchtest,"
+    },
+    {
+      "start": 421.528,
+      "duration": 2.621,
+      "text": "abonniere meinen kostenlosen Newsletter"
+    },
+    {
+      "start": 423.191,
+      "duration": 2.413,
+      "text": "über den Link in der Beschreibung"
+    },
+    {
+      "start": 424.645,
+      "duration": 3.159,
+      "text": "unten, der komplett kostenlos ist. Eine"
+    },
+    {
+      "start": 426.851,
+      "duration": 2.664,
+      "text": "weitere 3 D-Generierung, bei der die"
+    },
+    {
+      "start": 428.561,
+      "duration": 2.803,
+      "text": "Erstellung eines Globus angefragt wurde"
+    },
+    {
+      "start": 430.364,
+      "duration": 2.387,
+      "text": ", und das Detail hier ist beim"
+    },
+    {
+      "start": 431.798,
+      "duration": 2.248,
+      "text": "Space-Bunny-Modell wirklich"
+    },
+    {
+      "start": 433.092,
+      "duration": 4.009,
+      "text": "bemerkenswert. Wenn man es mit der GPT-"
+    },
+    {
+      "start": 436.101,
+      "duration": 2.882,
+      "text": "6 Soul vergleicht, hat die GPT-6 Soul"
+    },
+    {
+      "start": 438.034,
+      "duration": 2.68,
+      "text": "etwa 5 Minuten gebraucht und rund"
+    },
+    {
+      "start": 439.764,
+      "duration": 2.934,
+      "text": "520.000 Token verbraucht, um diese Art"
+    },
+    {
+      "start": 441.749,
+      "duration": 2.934,
+      "text": "von Ausgabe zu erzielen, was insgesamt"
+    },
+    {
+      "start": 443.733,
+      "duration": 4.362,
+      "text": "ziemlich gut ist. Als das Space"
+    },
+    {
+      "start": 447.153,
+      "duration": 3.15,
+      "text": "Money-Modell diesen Globus erstellte,"
+    },
+    {
+      "start": 449.361,
+      "duration": 2.86,
+      "text": "brauchte es etwa 43 Minuten, was"
+    },
+    {
+      "start": 451.279,
+      "duration": 4.022,
+      "text": "irgendwie absurd ist. Es dauert zwar"
+    },
+    {
+      "start": 454.359,
+      "duration": 3.114,
+      "text": "lange, bis dieses Ergebnis vorliegt,"
+    },
+    {
+      "start": 456.532,
+      "duration": 2.938,
+      "text": "aber wenn man es auf die höchste"
+    },
+    {
+      "start": 458.528,
+      "duration": 3.056,
+      "text": "Reasoning-Stufe stellt, erhält man"
+    },
+    {
+      "start": 460.642,
+      "duration": 2.938,
+      "text": "eine bessere Qualität, muss aber"
+    },
+    {
+      "start": 462.639,
+      "duration": 3.29,
+      "text": "natürlich auch länger auf die Antwort"
+    },
+    {
+      "start": 464.987,
+      "duration": 3.204,
+      "text": "warten. Es hat tatsächlich etwa"
+    },
+    {
+      "start": 467.255,
+      "duration": 3.234,
+      "text": "219.000 Token verbraucht, um dieses"
+    },
+    {
+      "start": 469.553,
+      "duration": 3.17,
+      "text": "Ergebnis zu erzielen, was deutlich"
+    },
+    {
+      "start": 471.786,
+      "duration": 2.915,
+      "text": "weniger ist als das, was GPT-6"
+    },
+    {
+      "start": 473.765,
+      "duration": 4.515,
+      "text": "benötigt hat. Natürlich war GPT-6"
+    },
+    {
+      "start": 477.34,
+      "duration": 3.34,
+      "text": "Soul bei der Erstellung des Ergebnisses"
+    },
+    {
+      "start": 479.74,
+      "duration": 3.16,
+      "text": "schneller, während Space Money fast"
+    },
+    {
+      "start": 481.96,
+      "duration": 3.28,
+      "text": "eine Stunde brauchte, um diese Art von"
+    },
+    {
+      "start": 484.3,
+      "duration": 4.504,
+      "text": "Ergebnis zu generieren. Ich sage nicht,"
+    },
+    {
+      "start": 487.852,
+      "duration": 2.643,
+      "text": "dass es schlecht ist, aber bei der"
+    },
+    {
+      "start": 489.543,
+      "duration": 2.642,
+      "text": "Geschwindigkeit braucht das Modell"
+    },
+    {
+      "start": 491.233,
+      "duration": 2.788,
+      "text": "manchmal länger, wenn man es auf die"
+    },
+    {
+      "start": 493.069,
+      "duration": 2.691,
+      "text": "höchste Reasoning-Stufe einstellt."
+    },
+    {
+      "start": 496.16,
+      "duration": 2.615,
+      "text": "Während Space Money bei normaler"
+    },
+    {
+      "start": 497.824,
+      "duration": 2.812,
+      "text": "Nutzung schnell ist, ändert sich das"
+    },
+    {
+      "start": 499.685,
+      "duration": 2.469,
+      "text": "offensichtlich, sobald man den"
+    },
+    {
+      "start": 501.203,
+      "duration": 2.664,
+      "text": "Reasoning-Aufwand erhöht, was wir"
+    },
+    {
+      "start": 502.916,
+      "duration": 2.861,
+      "text": "bisher bei vielen dieser Demos gesehen"
+    },
+    {
+      "start": 504.826,
+      "duration": 4.448,
+      "text": "haben. Aber dieser nächste Test zeigt"
+    },
+    {
+      "start": 508.328,
+      "duration": 2.936,
+      "text": "uns wirklich, wozu das Modell fähig"
+    },
+    {
+      "start": 510.317,
+      "duration": 2.99,
+      "text": "ist, wenn man ihm einen detaillierten"
+    },
+    {
+      "start": 512.361,
+      "duration": 3.71,
+      "text": "Prompt gibt. Hier erhielt Space Bunny"
+    },
+    {
+      "start": 515.133,
+      "duration": 3.332,
+      "text": "Alpha einen Videoclip eines Spiels und"
+    },
+    {
+      "start": 517.526,
+      "duration": 3.394,
+      "text": "wurde aufgefordert, es nachzubauen, und"
+    },
+    {
+      "start": 519.981,
+      "duration": 4.005,
+      "text": "konnte es in HTML ausgeben. Es hat sich"
+    },
+    {
+      "start": 523.041,
+      "duration": 2.928,
+      "text": "den Clip angesehen, verstanden, was"
+    },
+    {
+      "start": 525.024,
+      "duration": 2.928,
+      "text": "passiert, und das gesamte Spiel von"
+    },
+    {
+      "start": 527.007,
+      "duration": 2.874,
+      "text": "Grund auf neu aufgebaut, was einer"
+    },
+    {
+      "start": 528.936,
+      "duration": 3.038,
+      "text": "seiner Vorteile ist, da dies eine der"
+    },
+    {
+      "start": 531.029,
+      "duration": 2.543,
+      "text": "Fähigkeiten des Modells bei"
+    },
+    {
+      "start": 532.627,
+      "duration": 4.525,
+      "text": "multimodalen Eingaben ist. Hierbei hat"
+    },
+    {
+      "start": 536.208,
+      "duration": 2.893,
+      "text": "es den Sturmeffekt, die Schiffe im"
+    },
+    {
+      "start": 538.156,
+      "duration": 3.116,
+      "text": "Kugelschreiber-Skizzenstil sowie einen"
+    },
+    {
+      "start": 540.328,
+      "duration": 3.172,
+      "text": "Boss namens Black Pharaoh nachgebildet."
+    },
+    {
+      "start": 544.06,
+      "duration": 3.265,
+      "text": "Das hat es tatsächlich direkt aus dem"
+    },
+    {
+      "start": 546.385,
+      "duration": 2.61,
+      "text": "HUD des Spiels gelesen, das"
+    },
+    {
+      "start": 548.054,
+      "duration": 2.908,
+      "text": "Combo-System, Bomben sowie einen"
+    },
+    {
+      "start": 550.022,
+      "duration": 3.265,
+      "text": "Gewinnbildschirm, und sogar Sounds mit"
+    },
+    {
+      "start": 552.347,
+      "duration": 3.981,
+      "text": "Web-Audio generiert. Bei maximaler"
+    },
+    {
+      "start": 555.4,
+      "duration": 3.5,
+      "text": "Reasoning-Einstellung kam das erste"
+    },
+    {
+      "start": 557.971,
+      "duration": 3.643,
+      "text": "Token nach etwa 7,8 Sekunden, und das"
+    },
+    {
+      "start": 560.685,
+      "duration": 3.5,
+      "text": "Modell generierte letztlich massive"
+    },
+    {
+      "start": 563.257,
+      "duration": 3.5,
+      "text": "50.000 Token mit etwa 120 Token pro"
+    },
+    {
+      "start": 565.828,
+      "duration": 3.075,
+      "text": "Sekunde. Auch wenn das maximale"
+    },
+    {
+      "start": 567.949,
+      "duration": 2.095,
+      "text": "Reasoning bei größeren"
+    },
+    {
+      "start": 569.089,
+      "duration": 2.734,
+      "text": "Coding-Aufgaben insgesamt mehr Zeit in"
+    },
+    {
+      "start": 570.868,
+      "duration": 2.688,
+      "text": "Anspruch nimmt, ist der tatsächliche"
+    },
+    {
+      "start": 572.602,
+      "duration": 2.46,
+      "text": "Generierungsdurchsatz immer noch"
+    },
+    {
+      "start": 574.107,
+      "duration": 2.669,
+      "text": "unglaublich schnell. Und denken Sie"
+    },
+    {
+      "start": 575.812,
+      "duration": 2.312,
+      "text": "daran, es ging nicht darum, irgendein"
+    },
+    {
+      "start": 577.16,
+      "duration": 2.347,
+      "text": "beliebiges Spiel aus einem Text-Prompt"
+    },
+    {
+      "start": 578.543,
+      "duration": 2.903,
+      "text": "zu generieren. SpaceHoney hat sich"
+    },
+    {
+      "start": 580.486,
+      "duration": 2.251,
+      "text": "buchstäblich das Originalspiel"
+    },
+    {
+      "start": 581.777,
+      "duration": 2.412,
+      "text": "angesehen und versucht, das gesamte"
+    },
+    {
+      "start": 583.229,
+      "duration": 3.257,
+      "text": "Ding aus dem Video nachzubilden. Oben"
+    },
+    {
+      "start": 585.528,
+      "duration": 2.625,
+      "text": "sieht man den ursprünglichen Clip, der"
+    },
+    {
+      "start": 587.195,
+      "duration": 2.292,
+      "text": "vorgegeben wurde, und unten die"
+    },
+    {
+      "start": 588.529,
+      "duration": 2.292,
+      "text": "Nachbildung von SpaceHoney, die"
+    },
+    {
+      "start": 589.862,
+      "duration": 3.491,
+      "text": "tatsächlich gerade gespielt wird. Und"
+    },
+    {
+      "start": 592.39,
+      "duration": 2.32,
+      "text": "wie ich schon sagte, scheint dieser"
+    },
+    {
+      "start": 593.748,
+      "duration": 2.47,
+      "text": "Checkpoint mit der Zeit immer besser zu"
+    },
+    {
+      "start": 595.256,
+      "duration": 2.976,
+      "text": "werden. SpaceHoney hat gerade ein"
+    },
+    {
+      "start": 597.278,
+      "duration": 2.45,
+      "text": "weiteres Update erhalten und ist"
+    },
+    {
+      "start": 598.773,
+      "duration": 2.405,
+      "text": "irgendwie bereits schneller und"
+    },
+    {
+      "start": 600.223,
+      "duration": 2.677,
+      "text": "deutlich besser als bei seinem ersten"
+    },
+    {
+      "start": 601.945,
+      "duration": 3.256,
+      "text": "Erscheinen vor wenigen Tagen. Es sieht"
+    },
+    {
+      "start": 604.242,
+      "duration": 2.452,
+      "text": "so aus, als ob das Team das Feedback"
+    },
+    {
+      "start": 605.734,
+      "duration": 2.533,
+      "text": "aus diesen Stealth-Tests nutzt und den"
+    },
+    {
+      "start": 607.307,
+      "duration": 2.493,
+      "text": "Checkpoint kontinuierlich verbessert."
+    },
+    {
+      "start": 609.819,
+      "duration": 2.895,
+      "text": "In diesem Test erhielt Space Money das"
+    },
+    {
+      "start": 611.763,
+      "duration": 2.596,
+      "text": "Bild eines kompletten Hausplans,"
+    },
+    {
+      "start": 613.409,
+      "duration": 2.596,
+      "text": "verband es mit Blender und wurde"
+    },
+    {
+      "start": 615.055,
+      "duration": 2.795,
+      "text": "gebeten, das gesamte Apartment in 3D"
+    },
+    {
+      "start": 616.9,
+      "duration": 3.611,
+      "text": "nachzubauen. Und etwa eine Stunde"
+    },
+    {
+      "start": 619.557,
+      "duration": 2.552,
+      "text": "später kam es mit diesem Ergebnis"
+    },
+    {
+      "start": 621.154,
+      "duration": 3.072,
+      "text": "zurück. Schauen Sie sich nur den"
+    },
+    {
+      "start": 623.269,
+      "duration": 2.626,
+      "text": "Detailgrad hier an. Es hat den"
+    },
+    {
+      "start": 624.942,
+      "duration": 2.758,
+      "text": "Grundriss tatsächlich verstanden und"
+    },
+    {
+      "start": 626.747,
+      "duration": 2.663,
+      "text": "in ein vollständiges 3 D-Apartment"
+    },
+    {
+      "start": 628.457,
+      "duration": 2.714,
+      "text": "verwandelt. Wenn Ihnen dieses Video"
+    },
+    {
+      "start": 630.215,
+      "duration": 2.144,
+      "text": "gefällt und Sie den Kanal"
+    },
+    {
+      "start": 631.403,
+      "duration": 2.54,
+      "text": "unterstützen möchten, können Sie"
+    },
+    {
+      "start": 632.987,
+      "duration": 2.54,
+      "text": "über die „Super Thanks“-Option"
+    },
+    {
+      "start": 634.571,
+      "duration": 2.628,
+      "text": "unter dem Video eine Spende tätigen."
+    },
+    {
+      "start": 636.58,
+      "duration": 2.878,
+      "text": "Oder Sie treten unserem privaten"
+    },
+    {
+      "start": 638.517,
+      "duration": 2.702,
+      "text": "Discord bei, wo Sie monatlich"
+    },
+    {
+      "start": 640.278,
+      "duration": 2.996,
+      "text": "kostenlosen Zugriff auf zahlreiche"
+    },
+    {
+      "start": 642.333,
+      "duration": 2.996,
+      "text": "Abonnements verschiedener KI-Tools"
+    },
+    {
+      "start": 644.387,
+      "duration": 2.996,
+      "text": "sowie tägliche KI-News, exklusive"
+    },
+    {
+      "start": 646.442,
+      "duration": 3.817,
+      "text": "Inhalte und vieles mehr erhalten. Hier"
+    },
+    {
+      "start": 649.309,
+      "duration": 2.965,
+      "text": "ist ein weiteres Beispiel für das, was"
+    },
+    {
+      "start": 651.324,
+      "duration": 2.864,
+      "text": "Space Money leisten kann, und da dies"
+    },
+    {
+      "start": 653.238,
+      "duration": 2.814,
+      "text": "komplett kostenlos geschieht, ist es"
+    },
+    {
+      "start": 655.102,
+      "duration": 3.246,
+      "text": "wirklich bemerkenswert. Denn jemand gab"
+    },
+    {
+      "start": 657.39,
+      "duration": 2.426,
+      "text": "ihm einen einzigen Prompt, um eine"
+    },
+    {
+      "start": 658.858,
+      "duration": 2.551,
+      "text": "vollständige Aktienanalyse-App unter"
+    },
+    {
+      "start": 660.451,
+      "duration": 2.342,
+      "text": "Verwendung von Open Code und Max"
+    },
+    {
+      "start": 661.835,
+      "duration": 3.335,
+      "text": "Reasoning zu erstellen. Mit nur einer"
+    },
+    {
+      "start": 664.226,
+      "duration": 3.149,
+      "text": "Eingabe rief SpaceMoney Marktdaten ab,"
+    },
+    {
+      "start": 666.431,
+      "duration": 2.979,
+      "text": "erstellte Diagramme, identifizierte"
+    },
+    {
+      "start": 668.467,
+      "duration": 3.035,
+      "text": "Wettbewerber, zog SEC-Berichte sowie"
+    },
+    {
+      "start": 670.559,
+      "duration": 3.205,
+      "text": "aktuelle Ereignisse heran und verpackte"
+    },
+    {
+      "start": 672.82,
+      "duration": 2.866,
+      "text": "alles in eine saubere, responsive"
+    },
+    {
+      "start": 674.743,
+      "duration": 3.205,
+      "text": "Benutzeroberfläche, die Sie hier sehen"
+    },
+    {
+      "start": 676.948,
+      "duration": 3.333,
+      "text": ". Sie können im Grunde nach jedem"
+    },
+    {
+      "start": 679.335,
+      "duration": 2.851,
+      "text": "Unternehmen oder Ticker suchen und"
+    },
+    {
+      "start": 681.24,
+      "duration": 2.851,
+      "text": "erhalten dessen Aktienperformance,"
+    },
+    {
+      "start": 683.146,
+      "duration": 2.959,
+      "text": "Finanzdaten, Wettbewerber, Berichte,"
+    },
+    {
+      "start": 685.16,
+      "duration": 3.068,
+      "text": "Hauptrisiken und sogar Bull-, Base-und"
+    },
+    {
+      "start": 687.283,
+      "duration": 3.752,
+      "text": "Bear-Szenarien. Das Beeindruckende ist,"
+    },
+    {
+      "start": 690.078,
+      "duration": 2.471,
+      "text": "dass es vieles davon eigenständig"
+    },
+    {
+      "start": 691.592,
+      "duration": 2.687,
+      "text": "herausgefunden hat, von der Datenquelle"
+    },
+    {
+      "start": 693.323,
+      "duration": 2.427,
+      "text": "bis hin dazu, welche Wettbewerber"
+    },
+    {
+      "start": 694.794,
+      "duration": 3.25,
+      "text": "einbezogen werden sollten. Und noch"
+    },
+    {
+      "start": 697.085,
+      "duration": 2.339,
+      "text": "einmal: Dieses Modell hat all das"
+    },
+    {
+      "start": 698.464,
+      "duration": 3.255,
+      "text": "völlig kostenlos erledigt. Auch wenn"
+    },
+    {
+      "start": 700.766,
+      "duration": 2.635,
+      "text": "es vielleicht länger gedauert hat,"
+    },
+    {
+      "start": 702.447,
+      "duration": 2.775,
+      "text": "dieses Ergebnis zu erzielen, konnte es"
+    },
+    {
+      "start": 704.269,
+      "duration": 2.822,
+      "text": "all dies kostenlos leisten, was einfach"
+    },
+    {
+      "start": 706.138,
+      "duration": 3.948,
+      "text": "bemerkenswert ist. Hier wurde es"
+    },
+    {
+      "start": 709.132,
+      "duration": 2.725,
+      "text": "gebeten, ein Frontend mit 3 D-Paketen"
+    },
+    {
+      "start": 710.904,
+      "duration": 2.725,
+      "text": "zu erstellen, und ich muss sagen, das"
+    },
+    {
+      "start": 712.676,
+      "duration": 2.818,
+      "text": "ist ein ziemlich schönes Frontend, das"
+    },
+    {
+      "start": 714.54,
+      "duration": 4.255,
+      "text": "es da ausgegeben hat. Man sieht das an"
+    },
+    {
+      "start": 717.85,
+      "duration": 2.205,
+      "text": "der Typografie und dem"
+    },
+    {
+      "start": 719.11,
+      "duration": 3.081,
+      "text": "unterschiedlichen Designgeschmack, den"
+    },
+    {
+      "start": 721.246,
+      "duration": 2.643,
+      "text": "es dieser gesamten Landingpage"
+    },
+    {
+      "start": 722.944,
+      "duration": 2.753,
+      "text": "verliehen hat, und ich liebe die"
+    },
+    {
+      "start": 724.752,
+      "duration": 3.136,
+      "text": "Qualität, die es bei diesem speziellen"
+    },
+    {
+      "start": 726.943,
+      "duration": 4.339,
+      "text": "Output erreicht hat. Nach allem, was"
+    },
+    {
+      "start": 730.331,
+      "duration": 2.688,
+      "text": "ich bisher getestet habe, ist Space"
+    },
+    {
+      "start": 732.068,
+      "duration": 2.495,
+      "text": "Funny Alpha insgesamt eines der"
+    },
+    {
+      "start": 733.612,
+      "duration": 2.785,
+      "text": "interessantesten Stealth-Modelle, die"
+    },
+    {
+      "start": 735.445,
+      "duration": 2.834,
+      "text": "wir je auf diesem Kanal gesehen haben."
+    },
+    {
+      "start": 738.039,
+      "duration": 2.254,
+      "text": "Es ist auf jeden Fall ziemlich"
+    },
+    {
+      "start": 739.335,
+      "duration": 2.337,
+      "text": "interessant zu sehen, was daraus"
+    },
+    {
+      "start": 740.714,
+      "duration": 2.984,
+      "text": "letztendlich werden wird. Wir haben"
+    },
+    {
+      "start": 742.749,
+      "duration": 2.275,
+      "text": "absolut keine Ahnung, wer"
+    },
+    {
+      "start": 744.075,
+      "duration": 3.147,
+      "text": "dahintersteckt. Aber du kannst jetzt"
+    },
+    {
+      "start": 746.26,
+      "duration": 2.374,
+      "text": "sofort kostenlos über Open Code und"
+    },
+    {
+      "start": 747.673,
+      "duration": 2.89,
+      "text": "Open Router darauf zugreifen. Ich werde"
+    },
+    {
+      "start": 749.601,
+      "duration": 2.415,
+      "text": "die entsprechenden Links unten in die"
+    },
+    {
+      "start": 751.054,
+      "duration": 3.509,
+      "text": "Beschreibung setzen. Im normalen Modus"
+    },
+    {
+      "start": 753.632,
+      "duration": 3.506,
+      "text": "ist es schnell, aber wenn man es auf"
+    },
+    {
+      "start": 756.208,
+      "duration": 3.366,
+      "text": "Maximum stellt, dauert die Ausgabe"
+    },
+    {
+      "start": 758.644,
+      "duration": 2.999,
+      "text": "etwas länger. Es verfügt über ein"
+    },
+    {
+      "start": 760.681,
+      "duration": 2.767,
+      "text": "riesiges Kontextfenster. Es bietet alle"
+    },
+    {
+      "start": 762.49,
+      "duration": 2.559,
+      "text": "Modalitäten, was wirklich großartig"
+    },
+    {
+      "start": 764.091,
+      "duration": 3.156,
+      "text": "ist. Insgesamt ist es ein wirklich"
+    },
+    {
+      "start": 766.304,
+      "duration": 3.103,
+      "text": "tolles Modell, das dir beeindruckende"
+    },
+    {
+      "start": 768.464,
+      "duration": 3.159,
+      "text": "Ergebnisse liefern wird, besonders bei"
+    },
+    {
+      "start": 770.68,
+      "duration": 3.247,
+      "text": "der Webentwicklung. Und da es kostenlos"
+    },
+    {
+      "start": 772.971,
+      "duration": 2.472,
+      "text": "ist, solltest du das Beste daraus"
+    },
+    {
+      "start": 774.487,
+      "duration": 2.618,
+      "text": "machen. Damit hoffe ich, Leute, dass"
+    },
+    {
+      "start": 776.136,
+      "duration": 2.207,
+      "text": "euch das heutige Video gefallen hat und"
+    },
+    {
+      "start": 777.374,
+      "duration": 2.587,
+      "text": "ihr etwas mitnehmen konntet. Lasst mich"
+    },
+    {
+      "start": 778.997,
+      "duration": 2.191,
+      "text": "wissen, was ihr glaubt, was Space"
+    },
+    {
+      "start": 780.225,
+      "duration": 2.795,
+      "text": "Monkey Alpha ist. Schaut euch unbedingt"
+    },
+    {
+      "start": 782.058,
+      "duration": 2.371,
+      "text": "die School-Community an, werft einen"
+    },
+    {
+      "start": 783.468,
+      "duration": 2.256,
+      "text": "Blick auf die World of AI by Coin"
+    },
+    {
+      "start": 784.763,
+      "duration": 2.218,
+      "text": "Alpha-Plattform, besucht unseren"
+    },
+    {
+      "start": 786.019,
+      "duration": 2.486,
+      "text": "zweiten Kanal, abonniert den Newsletter"
+    },
+    {
+      "start": 787.505,
+      "duration": 2.485,
+      "text": ", tretet dem Discord bei, folgt mir auf"
+    },
+    {
+      "start": 789.028,
+      "duration": 2.257,
+      "text": "Twitter und stellt zu guter Letzt"
+    },
+    {
+      "start": 790.323,
+      "duration": 2.409,
+      "text": "sicher, dass ihr den Kanal abonniert,"
+    },
+    {
+      "start": 791.77,
+      "duration": 2.295,
+      "text": "die Glocke aktiviert, dieses Video"
+    },
+    {
+      "start": 793.103,
+      "duration": 2.257,
+      "text": "liked und unsere früheren Videos"
+    },
+    {
+      "start": 794.398,
+      "duration": 2.029,
+      "text": "anseht, um bei den neuesten"
+    },
+    {
+      "start": 795.465,
+      "duration": 2.333,
+      "text": "KI-Nachrichten auf dem Laufenden zu"
+    },
+    {
+      "start": 796.836,
+      "duration": 2.232,
+      "text": "bleiben. Mit diesen Gedanken wünsche"
+    },
+    {
+      "start": 798.098,
+      "duration": 1.976,
+      "text": "ich euch einen fantastischen Tag."
+    },
+    {
+      "start": 799.262,
+      "duration": 2.433,
+      "text": "Verbreitet Positivität, und wir sehen"
+    },
+    {
+      "start": 800.733,
+      "duration": 2.443,
+      "text": "uns in Kürze wieder. Macht's gut,"
+    },
+    {
+      "start": 802.221,
+      "duration": 1.276,
+      "text": "Leute."
+    }
+  ]
+}

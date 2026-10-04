@@ -1,0 +1,592 @@
+Was für ein wahnsinniger Tag im
+Bereich KI. Wir hatten in den letzten
+Tagen viele neue
+Modellveröffentlichungen, große
+Updates und es gibt viel zu besprechen.
+Also, legen wir einfach direkt los. Und
+wie versprochen bin ich mit meinem
+dritten Upload des Tages zurück, um
+über OpenAIs brandneue GPT-6 Soul und
+GPT-6 Luna Modelle zu berichten. Anfang
+des Monats stellte OpenAI die GPT-6
+Astra-Serie als ihr bisher
+leistungsstärkstes Modell vor. Doch
+jetzt bringen sie die gleiche
+Generation an Intelligenz in schnellere
+und deutlich günstigere Modelle. Soul
+und Luna bringen große Verbesserungen
+beim Programmieren, bei der Faktenreue,
+der Computernutzung und der
+professionellen Arbeit, während sie
+wesentlich effizienter laufen. Noch
+besser ist, dass OpenAI die API-Preise
+für Soul und Luna im Vergleich zum
+Einführungspreis von GPT-5.1.6 um 50%
+gesenkt hat, was Intelligenz auf
+Spitzenniveau viel praktischer für die
+großflächige Nutzung macht. Weiter
+geht's: Ich habe bereits ein
+ausführliches Testvideo zu Claude Opus
+5.5 gemacht und ich empfehle sehr, es
+euch über die Links in der
+Beschreibung anzusehen. Aber mein Gott,
+Leute, Anthropic hat ein
+beeindruckendes Modell veröffentlicht
+und ich glaube wirklich, dass es
+derzeit das beste Modell der Welt ist.
+Es ist etwas, das auf einem
+außergewöhnlichen Niveau arbeitet. Es
+performt bei vielen Aufgaben auf dem
+Niveau von Claude 5.1, während es 40%
+weniger kostet als Opus 5. Und ich habe
+heute noch mehr Demos zu präsentieren.
+Und das ist noch nicht alles. Claude
+Haiku ist da, was für uns alle eine
+Art Überraschung ist, da Anthropic
+dies heute in ihrem Blogpost zu Opus
+5.5 bestätigt hat, und es sieht auch
+so aus, als könnten Claude Sonnet 5.5
+und Haiku 5.5 in den kommenden Wochen
+erscheinen. Wir haben auch Trump, der
+über KI spricht, und dieser Typ will
+anscheinend die Bezeichnung KI komplett
+ändern und das ganze Branding neu
+gestalten, und da gibt es viel zu
+besprechen. Also, tauchen wir einfach
+direkt in all das ein. Entschuldigt die
+Zensur, Leute, aber mir ist aufgefallen
+, dass viele von euch tatsächlich
+nicht abonniert haben. Es würde uns
+wirklich viel bedeuten, wenn ihr die
+Benachrichtigungsglocke aktiviert und
+dieses Video liked, da es uns wirklich
+hilft, täglich mehr Videos zu
+erstellen. Beginnen wir mit GPT-6 Soul
+und Luna, den zwei neuen Modellen, die
+entwickelt wurden, um GPT-6-
+Level-Intelligenz ohne riesige Kosten
+in den Alltag zu bringen. Und das ist
+aufgrund der Preisstruktur wirklich
+unglaublich. Hier erhält das GPT-5.6
+Soul das GPT-6 Soul Upgrade, aber das
+Verrückte ist, dass es zum halben
+Preis gelistet ist. Es gibt einen
+Nachlass von 50%. Das bedeutet, dass
+Sie mit diesem Upgrade bereits
+verschiedene Verbesserungen bei der
+Programmierung, Sachlichkeit,
+professionellen Arbeit, Computernutzung
+und Ausrichtung erhalten, in schnellere
+und deutlich günstigere Modelle. Die
+GPT-6 Soul wird mit 2 $ für 1 Million
+Eingabe-Token und 10 $ für 1 Million
+Ausgabe-Token gelistet. Und beim
+Übergang von der GPT-5.6 Luna zum GPT-
+6 Luna-Upgrade sehen Sie, dass sich der
+Preis halbiert hat: Er liegt jetzt bei
+10 Cent für 1 Million Eingabe-Token
+und 50 Cent für 1 Million
+Ausgabe-Token, was einfach wahnsinnig
+ist. Wenn es um professionelle Arbeit
+geht, wird die GPT-5.6 Soul richtig
+beeindruckend, denn auf der
+Automatisierungs-Benchmark, die reale
+Geschäftsprozesse über verschiedene
+Apps hinweg testet, übertrifft die GPT
+-6 Soul bei XHI-Aufwand tatsächlich
+Claude Opus 5 bei maximalem Aufwand,
+während sie nur 9%der Kosten pro
+Aufgabe verursacht. Und Luna erhält
+hier ebenfalls ein großes Upgrade,
+denn bei hohem Aufwand verbessert sich
+die GPT-6 Luna gegenüber ihrem
+Vorgänger um 5,4 Prozentpunkte und
+kostet dabei 58%weniger pro Aufgabe.
+OpenAI macht diese Modelle also nicht
+nur billiger, sondern holt auch
+wesentlich mehr Leistung aus jedem
+ausgegebenen Dollar heraus. Wenn Sie
+die besten KI-Tools, Workflows und
+Neuheiten vor allen anderen haben
+wollen, abonnieren Sie meinen
+kostenlosen Newsletter über den Link
+in der Beschreibung unten, der komplett
+gratis ist. Auf der
+KI-Benchmark-Plattform „world of AI
+“ liegt die GPT-3.6 Soul nun leicht
+hinter GPT-3.6 Ashra. Aber das
+Wichtigste ist, dass sie insgesamt auf
+Platz drei rangiert, was ziemlich
+beeindruckend ist. Und das natürlich
+bei diesen lächerlichen
+Preisstrukturen, bei denen das Modell
+in Bezug auf seine Leistung sehr gut
+abschneidet und gleichzeitig
+unglaublich günstige Preise bietet.
+Sie erhalten also mit diesem Modell das
+Beste aus beiden Welten. Und dieses
+Video wird Ihnen definitiv helfen,
+dieses Preis-Leistungs-Verhältnis zu
+verstehen. Hier haben wir einen realen
+Test der Opus 5.5 gegen die GPT-6 Soul.
+Dabei werden beide Modelle von AIML API
+anhand von vier One-Shot-3 D-Szenen
+getestet. Dazu gehören ein animierter
+Fischschwarm und einige andere Dinge,
+wie ein Tsunami. Und natürlich werden
+Sie visuell feststellen, dass Opus 5.5
+in der Lage ist, bei all diesen Demos
+ein detaillierteres Rendering zu
+erstellen. Aber schauen Sie sich den
+Kostenunterschied an. Für alle vier
+Szenen kostete Opus 5.5 etwa 4,37 $,
+was definitiv teuer ist. Im Vergleich
+dazu kostet die Generierung aller vier
+Szenen mit der GPT-6 Soul nur 34 Cent.
+Offensichtlich ist die
+Erzeugungsqualität bei Opus 5.5
+unglaublich, aber GPT-6 Soul liegt gar
+nicht so weit dahinter. Es ist immer
+noch in der Lage, ziemlich gute
+Ergebnisse zu liefern, und das
+Hauptziel dieses Vergleichs ist, dass
+Opus in diesem speziellen Test fast 13-
+mal mehr gekostet hat. Opus 5.5 mag
+zwar bei den visuellen Details die Nase
+vorn haben, aber das
+Preis-Leistungs-Verhältnis von GPT-6
+Soul ist fast schon lächerlich,
+besonders mit der neuen Preisstruktur,
+die eingeführt wurde. Artificial
+Analysis hat auch GPT-6 Soul und Luna
+getestet, und die Ergebnisse sind
+ziemlich interessant, da es nur einen
+Punkt Unterschied zwischen dem GPT-5.6
+Soul und diesem neuen GPT-6 Soul gibt.
+Das ist recht interessant, da wir alle
+erwartet hatten, dass dieses Modell
+einen deutlichen Vorsprung gegenüber
+dem GPT-5.6 Soul haben würde, was sich
+aber so nicht gezeigt hat.
+Offensichtlich ist die Preisstruktur
+fast schon wahnsinnig, ebenso wie die
+Kosteneffizienz und die Geschwindigkeit
+. Ehrlich gesagt hatte ich bei der
+Leistung etwas mehr erwartet, aber
+vielleicht bin ich auch nur etwas zu
+gierig, nachdem ich gesehen habe, was
+mit Opus 5.5 möglich ist. Insgesamt
+hat sich das Modell jedoch im Bereich
+Programmierung definitiv verbessert.
+Auch bei Luna gibt es in diesen
+verschiedenen Kategorien einen
+deutlichen Zuwachs. Und eine der
+größten Verbesserungen, die ich
+bisher bemerkt habe, ist die
+Verringerung der Halluzinationen. Die
+Halluzinationsrate von Soul ist von
+verrückten 92%auf 60%gesunken,
+während sie bei Luna von 93%auf 77%
+zurückgegangen ist. Und das ist
+einfach bemerkenswert. Ich habe GPT-6
+Soul und Luna natürlich einem strengen
+Test mit meiner Prompt-Bibliothek
+unterzogen, auf die Sie über die Links
+in der Beschreibung unten zugreifen
+können. Man kann viele dieser
+Funktionen sogar kostenlos nutzen, aber
+was mir bei meinen Tests aufgefallen
+ist, ist, dass man in vielen dieser
+Fälle praktisch die gleichen
+Ergebnisse wie mit Opus 5.5 erhält.
+Warum also nicht einfach dieses neue
+Luna-oder Soul-Modell verwenden, das im
+Vergleich zu Opus 5.5 deutlich
+günstiger ist, aber praktisch die
+gleiche Art von Ausgabe liefert? Viele
+dieser verschiedenen Generationen sind
+einfach unglaublich, und man fragt sich
+, ob man immer Opus 5.5 verwenden
+sollte oder ob man aufgrund der
+Kosteneffizienz und Geschwindigkeit
+nicht lieber ein Modell wie Soul als
+Hauptinstrument einsetzen sollte, um
+Aufgaben zu erledigen? Denn viele der
+Generationen, die ich gerade sehe,
+zeigen einfach, wie unglaublich das GPT
+-6 Soul-Modell sowie das Luna-Modell
+sind, da insbesondere beim Front-End
+der Designgeschmack dieses Modells
+wirklich bemerkenswert ist. Und ich
+werde ein paar weitere Generationen
+präsentieren, die Sie dazu anregen
+werden, darüber nachzudenken, was Sie
+tatsächlich mit diesem Modell
+anstellen können. Und mit dieser
+Veröffentlichung hat Tibo auch einen
+Reset angekündigt, der gespeichert ist
+und den Sie jederzeit in den
+Einstellungen einfordern können. Das
+ist also ein zusätzlicher Vorteil bei
+dieser Modellveröffentlichung. Aber
+natürlich möchte ich ehrlich zu Ihnen
+sein. Das GPT-6 Whole liegt definitiv
+weit hinter diesem neuen Opus 5.5-
+Modell zurück. Sogar beim GPT-6 Astra
+gibt es jetzt definitiv eine klare
+Lücke, und das nicht nur in ein paar
+Bereichen. Es erstreckt sich über
+mehrere Bereiche, was irgendwie
+verrückt ist, da Opus 5.5 einen
+ziemlich massiven Vorteil in vielen
+verschiedenen Bereichen hat, von der
+Programmierung bis zur Computernutzung
+sowie dem Allgemeinwissen. Anhand
+dieses Vergleichs als Beispiel: Hier
+wurde angefordert, eine New York City
+in 3.js zu erstellen, also die Skyline
+und die Stadt insgesamt mit Gebäuden
+und verschiedenen Arten von Komponenten
+. Und hier wurde angefordert, die
+Dächer, die Taxis, die Brooklyn Bridge
+, den Central Park und all diese
+interaktiven 3 D-Umgebungen mit diesem
+Prompt vollständig auszuprogrammieren.
+GPT-6 Soul hingegen hat natürlich eine
+der besseren Generationen für diesen
+Prompt produziert, aber man sieht, dass
+das Modell nur ein statisches Bild
+ausgeben konnte. Man konnte die Kamera
+nicht wirklich bewegen. Sie haben den
+Code nicht wirklich generiert. Es
+enthielt nicht einmal eine richtige
+Render-Schleife. Also hat es die Szene
+einfach nur einmal gerendert und dann
+gestoppt. Aber das Opus 5.5 ging weit
+darüber hinaus. Es hat alles aufgebaut
+. Alle Texturen, Shader und
+Beleuchtungen wurden dieser 3
+D-Umgebung zugewiesen. Es zeigt also
+nur, dass das Opus 1.5 derzeit einen
+klaren Vorsprung vor jedem anderen
+Modell hat. Aber andererseits, Leute,
+wenn es darum geht, Prompts wirklich
+detailliert auszuarbeiten, oder besser
+gesagt, wenn man sie richtig anspricht,
+wie in diesem Fall, wo ich es gebeten
+habe, einen Mac-Klon oder ein
+browserbasiertes Mac-Betriebssystem mit
+der Fähigkeit zur Interaktion mit dem
+Telefon zu erstellen, hat es mit diesem
+Ergebnis ziemlich gute Arbeit geleistet
+. Es hat all diese Komponenten wie den
+Kalender erstellt, das iOS wurde
+vollständig etabliert. Sie haben sogar
+den Sperrbildschirm, und das ist
+einfach der Wahnsinn, weil man all
+diese coolen Komponenten hat, die für
+das MacBook programmiert wurden und nun
+auf iOS übertragen wurden. Das ist
+etwas, das ich bisher bei keinem Modell
+gesehen habe, denn wann immer wir die
+Erstellung eines browserbasierten
+Prompts angefordert haben, wurden nicht
+alle diese Elemente tatsächlich
+programmiert. Dies ist eine
+Bildschirm-Spiegelungs-App, die
+ausgegeben wurde und alle Apps auf
+Ihrem MacBook sowie Ihre iOS-Apple-App
+oder Ihr Mobilgerät anzeigt. Und hier
+wurden sogar all diese verschiedenen
+einzelnen Anwendungssymbole als SVG
+programmiert. Nun, eine Sache ist mir
+aufgefallen: Ich kann die eigentlichen
+Ordner oder Anwendungen nicht
+verschieben, was definitiv ein
+ziemlicher Nachteil ist. Ich müsste
+darum bitten, das zu verbessern, aber
+abgesehen davon gibt es viele dieser
+coolen Dinge, die hinzugefügt wurden.
+Offensichtlich sind die Hyperlinks und
+die Anwendungen alle vollständig
+programmiert. Es gibt sogar einen
+Musikplayer, der zu funktionieren
+scheint, was gut ist. Er spielt zwar
+keine besonders gute Musik ab, aber
+abgesehen davon scheint alles andere zu
+funktionieren. Insgesamt liebe ich die
+Generierungsqualität dieses Modells.
+Es erfordert lediglich, dass man viel
+mehr Details eingibt, um das zu
+bekommen, wonach man sucht. Und apropos
+Modellveröffentlichungen: Anthropic
+hat heute auch Claude Opus 5.5
+herausgebracht. Dies ist das erste
+Modell der Claude 5.5-Familie und es
+ist ein wirklich unglaubliches Modell.
+Es ist derzeit das am besten bewertete
+Modell und bietet bei fast jeder
+Aufgabe ein ähnliches oder sogar
+besseres Leistungsniveau als Fable 5.1,
+während es 40%weniger kostet als Opus
+5. Genau wie bei OpenAI liegt der Fokus
+derzeit also nicht darauf, die Modelle
+intelligenter zu machen. Es geht darum,
+Leistung auf Spitzenniveau zu deutlich
+geringeren Kosten zu liefern. Oh, und
+falls Sie es noch nicht wussten: Sie
+bieten auch einen kostenlosen Reset des
+Rate Limits an. Sie können über die
+Einstellungen darauf zugreifen, und ich
+glaube, es läuft am 22. Oktober ab,
+also lösen Sie es ein, wann immer Sie
+es brauchen. Ich habe bereits mein
+ausführliches Video zu Opus 5.5
+gemacht, daher empfehle ich Ihnen
+dringend, es sich anzusehen. Aber hier
+werden wir uns ein paar neue Beispiele
+dafür ansehen, was Opus 5.5 ausgeben
+kann, und es ist einfach irre, weil man
+den Detailgrad im Vergleich zu etwas
+wie GPT Astra wirklich erkennen kann.
+Hier wurde nämlich verlangt, eine
+Simulation eines Nachtzugs zu erstellen
+, der durch die Landschaft fährt–
+oder nicht einmal durch die Landschaft.
+Das ist nicht einmal die Landschaft.
+Was rede ich da überhaupt? Das ist der
+Norden. Sagen wir, Alaska, vielleicht.
+Dies ist eine Simulation eines Zuges,
+der durch die Gleise in dieser
+bestimmten Region fährt, und man kann
+den Detailgrad bei der Beleuchtung
+sowie bei den Kamerawinkeln sehen, die
+dem Zug folgen, sowie viele andere
+Dinge wie die Umgebung selbst, die
+vollständig in 3.js programmiert ist.
+Das zeigt einfach, dass es jetzt
+wirklich eine Lücke zu OpenAI gibt,
+die zwar gute Arbeit bei dieser
+Generierung leisten, aber nicht auf dem
+Qualitätsniveau von Opus 1.5. Ich habe
+meine Minecraft-Demo heute bereits im
+Video gezeigt, aber das ist eine
+bessere Generierung, die Shader in
+diese Aufgabe integriert hat, um ein
+Sandbox-Spiel wie das ursprüngliche
+Minecraft zu erschaffen. Es ist einfach
+völlig verrückt, dass ein KI-Modell
+diesen kompletten Sandbox-Spiel-Klon
+mit all seinen Kernkomponenten erstellt
+hat, und nicht nur das, sondern auch
+Shader hinzugefügt hat, was das
+gesamte Gameplay viel besser aussehen
+lässt. Denn das ist einfach irre, weil
+Opus 1.5 für 1 Stunde und 37 Minuten
+bei maximaler Anstrengung lief und dies
+das Ergebnis mit offensichtlich
+beeindruckender Beleuchtung, Shadern,
+Texturen und Optik war. Und es sieht in
+vielen Bereichen offensichtlich viel
+besser aus als das ursprüngliche
+Minecraft. Hier ist ein weiteres
+Beispiel, bei dem es mit 3.js
+überzeugt, um einen Spider-Man-Klon zu
+erstellen. Das ist ein vollständiger
+Klon wie das ursprüngliche Spider-Man:
+Miles Morales-Spiel, und das hat es
+tatsächlich mit mittlerem Aufwand
+geschafft, nicht einmal mit maximalem.
+Man erhält also diese Art von Ausgabe
+mit diesem mittleren Reasoning-Level,
+und es hat offensichtlich alle
+Kernkomponenten hinzugefügt, die man
+tatsächlich aus dem Originalspiel
+kannte, von den Texturen bis zu den
+Animationen sowie die
+Schwung-Komponente oder die
+Schwingbewegung, die man im
+Originalspiel hat. Es ist also einfach
+verrückt, dass wir an einem Punkt
+angelangt sind, an dem ein KI-Modell
+nicht nur das Frontend für
+verschiedene Landingpages ausgeben kann
+, sondern jetzt sogar komplette Spiele
+für einen programmieren kann, was
+einfach wahnsinnig ist. Für mich ist
+das einfach schwer zu glauben. Erinnert
+ihr euch an Elden Ring? Ich glaube, so
+hieß das Spiel. Äh, Elden Ring, ich
+habe es gespielt. Und es ist im Grunde
+ein Teil der Dark-Souls-Reihe, und hier
+hat jemand tatsächlich Opus 5.5 mit
+maximaler Argumentationstiefe gebeten,
+ein Spiel im Stil von Elden Ring zu
+erstellen, und es ist einfach
+unglaublich, denn das übertrifft meine
+Erwartungen bei weitem, da es einen
+kompletten Klon erstellt hat, der
+tatsächlich fantastisch aussieht. Es
+sieht dem ursprünglichen
+Elden-Ring-Spiel ziemlich ähnlich. Es
+fügt Texturen hinzu, sogar einen
+Bosskampf, was einfach verrückt ist.
+An diesem Punkt könnte man jedes
+beliebige KI-Modell bitten, eine Art
+Klon eines Spiels zu erstellen, aber
+genau hier geht Opus 5.5 noch einen
+Schritt weiter. Es ist in der Lage, die
+visuelle Qualität des Originalspiels
+präzise zu treffen, indem es diese
+Aspekte sowie die Texturen klont und
+dann eine ausgefeilte interaktive
+Erfahrung aufbaut, die das
+Originalspiel nachahmt. Sei es, dass
+das Wissen über das Originalspiel in
+den Klon implementiert wird oder dass
+der Fokus darauf liegt, das Projekt
+stärker auf den Kernprinzipien des
+Originalspiels aufzubauen, was man bei
+keinem anderen Modell bisher gesehen
+hat. Jedes Modell, das man bittet,
+einen solchen Klon zu erstellen, würde
+zwar eine grundlegende Struktur dessen
+generieren, wonach man sucht, aber es
+bietet nicht die gleiche Tiefe oder die
+Implementierung der Kernkonzepte des
+Originalspiels. Während Opus 1.5 an
+einen Punkt gelangt, an dem es genau
+das aufgrund seines Intelligenzniveaus
+leisten kann. Wenn euch dieses Video
+gefällt und ihr den Kanal
+unterstützen möchtet, könnt ihr eine
+Spende über die „Super Thanks“-
+Option unten in Erwägung ziehen oder
+unserem privaten Discord beitreten, wo
+ihr monatlich kostenlosen Zugriff auf
+verschiedene Abonnements für KI-Tools,
+tägliche KI-Nachrichten, exklusive
+Inhalte und vieles mehr erhaltet. Wie
+dem auch sei, Opus 5.5 ist ein
+unglaubliches neues Modell als Teil der
+neuen Claude-5.5-Familie, und wo wir
+gerade von dieser neuen Familie
+sprechen: Es sieht so aus, als würde
+Anthropic endlich Claude Haiku
+zurückbringen, und es ist definitiv am
+Leben, denn Anthropic hat heute
+offiziell bestätigt, dass Claude
+Sonnet 5.5 sowie Haiku 5.5 in den
+kommenden Wochen erscheinen werden, und
+beide Modelle werden voraussichtlich
+viele der Verbesserungen mitbringen,
+die wir bei Opus 5.5 sehen, was sehr
+interessant ist. Und wenn wir eine
+ähnliche Leistung, Effizienz und
+Sicherheit bei diesen neuen Modellen
+erhalten, wird das definitiv
+bemerkenswert sein und tatsächlich das
+nachahmen, was wir bei den GPT-6-Soul-
+sowie Luna-Modellen gesehen haben. Als
+Nächstes von Alibaba: Es sieht so aus,
+als würde die Qwen-Modellreihe bald
+schnell voranschreiten. Wie wir bereits
+in anderen Videos auf der
+Apsara-Konferenz erwähnt haben,
+bereiten sie die Veröffentlichung der
+Qwen-4-Modellreihe vor, und jetzt liegt
+uns eine Liste der Modelle vor, die
+Alibaba herausbringen wird. Dazu
+gehört das Qwen 4 Max, das an der
+Spitze der Liste stehen wird. Wir haben
+das Qwen 4 Plus sowie das Qwen 4 Flash.
+Und jetzt bitte einen Trommelwirbel,
+denn das Qwen 4 27B kommt auf uns zu.
+Ich bin wirklich gespannt, was sie mit
+diesem Modell veröffentlichen werden,
+denn wir werden ein lokales Modell
+erhalten, das praktisch auf Augenhöhe
+mit den aktuellen Spitzenmodellen ist,
+was unglaublich wäre. Noch verrückter
+ist jedoch, dass Qwen anscheinend den
+nächsten Schritt plant. Sie planen,
+mit zukünftigen Qwen 4.5-und Qwen 5-
+Modellen aggressiv weiter zu skalieren
+und möglicherweise irgendwo zwischen 5
+und 10 Billionen Parameter zu erreichen
+. Und wenn das passiert, sprechen wir
+von einem absolut massiven Sprung in
+Bezug auf die Skalierung für die
+Qwen-Familie. Als Nächstes: Die HY
+Image 3.5 Preview ist offiziell live.
+Sie stammt von Tencent und bringt ein
+weiteres großes Upgrade für Tencents
+Bilderstellungs-Reihe. Laut dem Team
+liefert es eine um 30%höhere
+Gewinnrate bei menschlichen Bewertungen
+im Vergleich zu HY Image 3.0, mit
+Verbesserungen bei der Konsistenz und
+Unterstützung für Text-zu-Bild sowie
+Bild-zu-Bild. Dies geschieht bei
+Generierungen mit einer Auflösung von
+bis zu 2K, was irgendwie wahnsinnig ist
+. Doch die Preisgestaltung könnte der
+interessanteste Teil dieser neuen
+Modellveröffentlichung sein. Über
+Tencent Cloud kostet es nur 2 Cent pro
+generiertem Bild, und Referenzbilder
+werden tatsächlich nicht berechnet.
+Dies ist also ein weiteres Bildmodell,
+das sowohl Qualität als auch
+Kosteneffizienz vorantreibt, und ich
+bin definitiv gespannt, wie es sich im
+Vergleich zu anderen Top-Bildmodellen
+schlägt. Zuletzt mein Junge Trump.
+Eigentlich weiß ich gar nicht, ob er
+mein Junge ist, weil dieser Typ mich
+immer fertig macht, besonders an der
+Börse. Aber dieser Trump wollte
+anscheinend ändern, was wir in Bezug
+auf die Namensgebung als KI bezeichnen.
+Anfangs argumentierte er, der Begriff
+Künstliche Intelligenz sei ungenau,
+und bat die Leute, zwischen Superior
+Intelligence, Extreme Intelligence und
+Supreme Intelligence abzustimmen.
+Supreme wurde schließlich gestrichen,
+und in seiner letzten X-Umfrage gewann
+Superior Intelligence knapp mit 52%von
+184.000 Stimmen. Und Trump schlug eine
+etwas andere Richtung ein, als er am
+22. September vor der UN sprechen
+sollte. Er sagte, er wolle, dass die
+US-Regierung KI als Superintelligenz
+oder SI bezeichnet, mit dem Argument,
+das Wort künstlich lasse die
+Technologie unecht klingen. Und er
+sagte, US-Regierungsdokumente würden
+diese neue Terminologie in Zukunft
+verwenden. Also, anscheinend,
+willkommen im Zeitalter der SI. Das
+bedeutet, ich muss meinen Kanalnamen
+ändern. World of SI jetzt. Aber das
+war es auch schon, Leute. Ich bin
+definitiv müde, also werde ich jetzt
+schlafen gehen. Aber schaut euch auf
+jeden Fall die World of AI
+School-Community an. Werft einen Blick
+auf den World of AI-Benchmark. Und
+falls ihr es noch nicht getan habt,
+schaut euch unbedingt den zweiten Kanal
+an. Tretet unserem Newsletter und
+Discord bei, folgt mir auf Twitter. Und
+zu guter Letzt: Abonniert den Kanal,
+aktiviert die Benachrichtigungsglocke,
+gebt diesem Video ein Like und schaut
+euch bitte unsere früheren Videos an,
+damit ihr über alles, was in der Welt
+der KI passiert, auf dem Laufenden
+bleibt. Aber mit diesem Gedanken, Leute
+, habt einen großartigen Tag,
+verbreitet Positivität und wir sehen
+uns bald wieder. Macht’s gut, Leute.

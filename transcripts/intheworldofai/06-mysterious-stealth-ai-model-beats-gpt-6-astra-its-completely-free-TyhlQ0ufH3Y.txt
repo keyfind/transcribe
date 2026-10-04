@@ -1,0 +1,392 @@
+Vor ein paar Tagen tauchte völlig
+unerwartet ein brandneues
+Stealth-Modell auf OpenRouter und
+OpenCode auf. Und im Moment ist die
+Nutzung für diese Woche noch komplett
+kostenlos. Dieses mysteriöse Modell
+heißt SpaceMoney Alpha und niemand
+weiß so genau, wer es eigentlich
+entwickelt hat. SpaceMoney Alpha ist
+ein anonymes Large-Language-Modell mit
+blitzschneller Inferenz, starken
+Programmierfähigkeiten, nativer
+Unterstützung für multimodale
+Eingaben, anpassbarem Denkaufwand und
+einem riesigen Kontextfenster von 1
+Million Token. Das Wichtigste, was man
+verstehen muss, ist, dass es sich um
+ein Stealth-Modell handelt. Es wird von
+einem Drittanbieter entwickelt und
+betrieben, der während der
+Vorschauphase anonym bleiben möchte.
+OpenRouter leitet Anfragen lediglich an
+dieses Modell weiter, genau wie
+OpenCode. Es ist weder der Entwickler,
+noch der Eigentümer oder der Anbieter.
+Anfangs dachten wir tatsächlich, dass
+SpaceMoney Alpha vielleicht das MiniMax
+M 3.1 Flash sein könnte. Einer der
+größten Hinweise war der Tokenizer.
+SpaceMoney schien denselben
+Text-Tokenizer wie die Minimax M3-
+Familie zu verwenden, was zu vielen
+Spekulationen darüber führte, dass
+dies insgeheim ein Minimax-Modell sein
+könnte, nämlich das kommende M 3.1
+Flash-Modell. Doch diese Theorie lässt
+sich offensichtlich nicht mehr halten,
+da Minimax das M 3.1 Flash mittlerweile
+offiziell veröffentlicht hat. Wir sind
+also im Grunde wieder am Anfang. Wir
+wissen immer noch nicht, wer SpaceMoney
+Alpha erschaffen hat, aber was wir
+bisher wissen ist, dass dieses Modell
+wahnsinnig schnell ist. Tatsächlich
+fühlt sich die
+Generierungsgeschwindigkeit sogar noch
+schneller an als beim Minimax M 3.1
+Flash, einem Modell, das speziell auf
+Geschwindigkeit und Effizienz ausgelegt
+ist. Und ehrlich gesagt sind die
+Fähigkeiten in der Webentwicklung
+absolut verrückt, denn SpaceMoney
+wurde gegen GPT-6 Astra mit "X-High
+Thinking" und exakt demselben Prompt
+getestet; die Aufgabe war es, einen
+detailreichen japanischen Garten im
+Voxel-Stil in 3JS zu erstellen, mit
+einer Pagode, winzigen Dorfbewohnern,
+einem fliegenden Drachen und
+interaktiven Details. Hierbei
+benötigte das Space-Bunny-Modell etwa
+45 Minuten, um die Aufgabe
+abzuschließen. Und man darf nicht
+vergessen, dass dies bei dieser
+Generation komplett kostenlos ist. Dann
+haben wir GPT-6 Astra, das mit etwa 15
+Minuten deutlich schneller fertig war,
+aber die Generierung kostete 4,24 $.
+Als ich in diesen Test ging, erwartete
+ich eigentlich, dass Astra den Vorteil
+haben würde. Doch überraschenderweise
+lieferte Space Bunny ein besseres
+Ergebnis, das wesentlich detailreicher
+aussieht als das von GPT-6 Astra. Es
+achtete deutlich mehr auf die kleineren
+Details und hat alles, was ich
+angefordert hatte, vollständig
+ausprogrammiert. Und irgendwie ist es
+aktuell immer noch völlig kostenlos
+nutzbar. Wenn du also mit diesem Modell
+loslegen möchtest, kannst du das ganz
+einfach über OpenRouter sowie OpenCode
+tun. Und noch einmal, dies ist etwas,
+das derzeit frei zugänglich ist, und
+Sie können es mit jedem beliebigen
+Coding-Agent verwenden. Eine Sache, die
+mir aufgefallen ist, ist die Latenz von
+74 Tokens pro Sekunde, bei einer
+anfänglichen Latenz von 1,5 Sekunden.
+Abgesehen davon ist dies ein ziemlich
+ordentliches Modell, das schnell ist
+und großartige Ergebnisse liefern kann
+. Wir werden dieses Modell nun testen,
+um zu sehen, was man damit tatsächlich
+machen kann, und es dann mit anderen
+Modellen vergleichen. Falls ihr es noch
+nicht getan habt, würde es mir
+unglaublich viel bedeuten, wenn ihr den
+YouTube-Kanal abonnieren würdet.
+Stellt auch sicher, dass ihr dieses
+Video liked, da es mir wirklich hilft,
+täglich Videos zu erstellen. Lassen
+Sie uns mit diesem Gedanken direkt in
+den heutigen Upload eintauchen. Der
+Coding-Agent, den ich verwenden werde,
+ist Codium Code in VS Code, und ich
+stelle Space Money Alpha auf maximale
+Überlegung, um all diese Aufgaben zu
+erledigen. Wie ihr sehen könnt,
+besteht unsere erste Aufgabe darin,
+einen 360-Grad-Produktviewer zu
+erstellen. Beginnen wir zunächst mit
+dem Frontend-Design. Hier habe ich das
+Erstellen eines 360-Grad-Produktviewers
+angefordert, und das ist das Ergebnis,
+das generiert wurde. Dies ist eine
+Produktansicht eines Kopfhörers, bei
+der man auf die verschiedenen Merkmale
+klicken kann, um eine genauere Ansicht
+der jeweiligen Funktion zu erhalten.
+Man kann die Farbe ändern, und alles
+scheint einwandfrei zu funktionieren.
+Was mir besonders gefällt, ist, dass
+es tatsächlich das 3 D-Produkt
+erstellt hat, woran die meisten anderen
+Modelle scheitern. Als Nächstes habe
+ich die Erstellung eines
+macOS-basierten Browsers angefordert,
+was wirklich beeindruckend ist, da es
+den Glassmorphism-UI-Stil direkt
+integrieren konnte. Es gibt ein
+Benachrichtigungscenter und die
+Möglichkeit, Einstellungen wie Anzeige
+und Ton anzupassen. Es gibt sogar einen
+Dark Mode, den man aktivieren kann,
+also scheinen viele dieser Funktionen
+tatsächlich zu funktionieren. Man kann
+sogar das Menü in der oberen Leiste
+verwenden, was viele der Funktionen
+öffnen kann. Das ist also bereits ein
+wirklich gutes Zeichen. Es gibt hier
+viele verschiedene Apps, die mit
+SVG-Icons programmiert wurden, und das
+ist etwas, das bei den meisten Modellen
+normalerweise nicht programmiert wird.
+Nun gibt es ein paar Fehler, wie etwa
+wenn ich auf Dinge klicke, dann
+flackern alle verschiedenen Browser
+oder Anwendungen, aber ansonsten hat es
+gute Arbeit geleistet, was für sich
+genommen eine wirklich schöne
+Darstellung ist. Dies ist etwas, für
+das ich etwa 45 Minuten gebraucht habe,
+um ein Ergebnis zu erhalten. Es hat
+also wirklich lange gedauert, bis
+dieses Ergebnis vorlag, und ich
+benötigte etwa vier Anläufe für
+diese Generierung, aber hier habe ich
+die Nvidia-Landingpage für eine
+Grafikkarte erstellt. Und ich liebe das
+Ergebnis hier einfach. Es hat dieses 3
+D-Design einer GPU vollständig
+programmiert, was den meisten Modellen
+normalerweise nicht gelingt. Man hat
+die sich drehenden Lüfter, und es war
+in der Lage, alles vom SVG-Logo bis hin
+zu all diesen verschiedenen Elementen
+von der Typografie bis zur dynamischen
+Bewegung, die dieser Landingpage
+zugeschrieben wird, zu programmieren.
+Insgesamt hat es also wirklich gute
+Arbeit bei dieser Generierung geleistet
+, und das hatte ich von diesem Modell
+wirklich nicht erwartet. Als Nächstes
+habe ich es gebeten, einen
+Call-of-Duty-Klon zu erstellen, und das
+sieht ehrlich gesagt etwas seltsam aus,
+da es versucht hat, 3.js für die
+Ausgabe zu verwenden, aber daran
+gescheitert ist, da es den Code nicht
+gründlich genug umgesetzt hat. Es hat
+lediglich 2 D-Assets in einer 3
+D-Umgebung verwendet, um diese Ausgabe
+zu erhalten, weshalb man diese
+dynamische Ansicht bekommt, wenn man
+über verschiedene Bereiche fährt, und
+deshalb sehen die Gegner auch ein wenig
+seltsam aus. Ich sage also nicht, dass
+es schrecklich ist, aber um diese Art
+von Ausgabe zu erhalten, dachte ich, es
+wäre viel besser darin, einen 3 D-Klon
+von Call of Duty zu generieren,
+während es hier eine 3 D-Umgebung
+erstellt hat, aber eben mit 2 D-Assets
+darin. Wenn du die besten KI-Tools,
+Workflows und Neuerscheinungen vor
+allen anderen haben möchtest,
+abonniere meinen kostenlosen Newsletter
+über den Link in der Beschreibung
+unten, der komplett kostenlos ist. Eine
+weitere 3 D-Generierung, bei der die
+Erstellung eines Globus angefragt wurde
+, und das Detail hier ist beim
+Space-Bunny-Modell wirklich
+bemerkenswert. Wenn man es mit der GPT-
+6 Soul vergleicht, hat die GPT-6 Soul
+etwa 5 Minuten gebraucht und rund
+520.000 Token verbraucht, um diese Art
+von Ausgabe zu erzielen, was insgesamt
+ziemlich gut ist. Als das Space
+Money-Modell diesen Globus erstellte,
+brauchte es etwa 43 Minuten, was
+irgendwie absurd ist. Es dauert zwar
+lange, bis dieses Ergebnis vorliegt,
+aber wenn man es auf die höchste
+Reasoning-Stufe stellt, erhält man
+eine bessere Qualität, muss aber
+natürlich auch länger auf die Antwort
+warten. Es hat tatsächlich etwa
+219.000 Token verbraucht, um dieses
+Ergebnis zu erzielen, was deutlich
+weniger ist als das, was GPT-6
+benötigt hat. Natürlich war GPT-6
+Soul bei der Erstellung des Ergebnisses
+schneller, während Space Money fast
+eine Stunde brauchte, um diese Art von
+Ergebnis zu generieren. Ich sage nicht,
+dass es schlecht ist, aber bei der
+Geschwindigkeit braucht das Modell
+manchmal länger, wenn man es auf die
+höchste Reasoning-Stufe einstellt.
+Während Space Money bei normaler
+Nutzung schnell ist, ändert sich das
+offensichtlich, sobald man den
+Reasoning-Aufwand erhöht, was wir
+bisher bei vielen dieser Demos gesehen
+haben. Aber dieser nächste Test zeigt
+uns wirklich, wozu das Modell fähig
+ist, wenn man ihm einen detaillierten
+Prompt gibt. Hier erhielt Space Bunny
+Alpha einen Videoclip eines Spiels und
+wurde aufgefordert, es nachzubauen, und
+konnte es in HTML ausgeben. Es hat sich
+den Clip angesehen, verstanden, was
+passiert, und das gesamte Spiel von
+Grund auf neu aufgebaut, was einer
+seiner Vorteile ist, da dies eine der
+Fähigkeiten des Modells bei
+multimodalen Eingaben ist. Hierbei hat
+es den Sturmeffekt, die Schiffe im
+Kugelschreiber-Skizzenstil sowie einen
+Boss namens Black Pharaoh nachgebildet.
+Das hat es tatsächlich direkt aus dem
+HUD des Spiels gelesen, das
+Combo-System, Bomben sowie einen
+Gewinnbildschirm, und sogar Sounds mit
+Web-Audio generiert. Bei maximaler
+Reasoning-Einstellung kam das erste
+Token nach etwa 7,8 Sekunden, und das
+Modell generierte letztlich massive
+50.000 Token mit etwa 120 Token pro
+Sekunde. Auch wenn das maximale
+Reasoning bei größeren
+Coding-Aufgaben insgesamt mehr Zeit in
+Anspruch nimmt, ist der tatsächliche
+Generierungsdurchsatz immer noch
+unglaublich schnell. Und denken Sie
+daran, es ging nicht darum, irgendein
+beliebiges Spiel aus einem Text-Prompt
+zu generieren. SpaceHoney hat sich
+buchstäblich das Originalspiel
+angesehen und versucht, das gesamte
+Ding aus dem Video nachzubilden. Oben
+sieht man den ursprünglichen Clip, der
+vorgegeben wurde, und unten die
+Nachbildung von SpaceHoney, die
+tatsächlich gerade gespielt wird. Und
+wie ich schon sagte, scheint dieser
+Checkpoint mit der Zeit immer besser zu
+werden. SpaceHoney hat gerade ein
+weiteres Update erhalten und ist
+irgendwie bereits schneller und
+deutlich besser als bei seinem ersten
+Erscheinen vor wenigen Tagen. Es sieht
+so aus, als ob das Team das Feedback
+aus diesen Stealth-Tests nutzt und den
+Checkpoint kontinuierlich verbessert.
+In diesem Test erhielt Space Money das
+Bild eines kompletten Hausplans,
+verband es mit Blender und wurde
+gebeten, das gesamte Apartment in 3D
+nachzubauen. Und etwa eine Stunde
+später kam es mit diesem Ergebnis
+zurück. Schauen Sie sich nur den
+Detailgrad hier an. Es hat den
+Grundriss tatsächlich verstanden und
+in ein vollständiges 3 D-Apartment
+verwandelt. Wenn Ihnen dieses Video
+gefällt und Sie den Kanal
+unterstützen möchten, können Sie
+über die „Super Thanks“-Option
+unter dem Video eine Spende tätigen.
+Oder Sie treten unserem privaten
+Discord bei, wo Sie monatlich
+kostenlosen Zugriff auf zahlreiche
+Abonnements verschiedener KI-Tools
+sowie tägliche KI-News, exklusive
+Inhalte und vieles mehr erhalten. Hier
+ist ein weiteres Beispiel für das, was
+Space Money leisten kann, und da dies
+komplett kostenlos geschieht, ist es
+wirklich bemerkenswert. Denn jemand gab
+ihm einen einzigen Prompt, um eine
+vollständige Aktienanalyse-App unter
+Verwendung von Open Code und Max
+Reasoning zu erstellen. Mit nur einer
+Eingabe rief SpaceMoney Marktdaten ab,
+erstellte Diagramme, identifizierte
+Wettbewerber, zog SEC-Berichte sowie
+aktuelle Ereignisse heran und verpackte
+alles in eine saubere, responsive
+Benutzeroberfläche, die Sie hier sehen
+. Sie können im Grunde nach jedem
+Unternehmen oder Ticker suchen und
+erhalten dessen Aktienperformance,
+Finanzdaten, Wettbewerber, Berichte,
+Hauptrisiken und sogar Bull-, Base-und
+Bear-Szenarien. Das Beeindruckende ist,
+dass es vieles davon eigenständig
+herausgefunden hat, von der Datenquelle
+bis hin dazu, welche Wettbewerber
+einbezogen werden sollten. Und noch
+einmal: Dieses Modell hat all das
+völlig kostenlos erledigt. Auch wenn
+es vielleicht länger gedauert hat,
+dieses Ergebnis zu erzielen, konnte es
+all dies kostenlos leisten, was einfach
+bemerkenswert ist. Hier wurde es
+gebeten, ein Frontend mit 3 D-Paketen
+zu erstellen, und ich muss sagen, das
+ist ein ziemlich schönes Frontend, das
+es da ausgegeben hat. Man sieht das an
+der Typografie und dem
+unterschiedlichen Designgeschmack, den
+es dieser gesamten Landingpage
+verliehen hat, und ich liebe die
+Qualität, die es bei diesem speziellen
+Output erreicht hat. Nach allem, was
+ich bisher getestet habe, ist Space
+Funny Alpha insgesamt eines der
+interessantesten Stealth-Modelle, die
+wir je auf diesem Kanal gesehen haben.
+Es ist auf jeden Fall ziemlich
+interessant zu sehen, was daraus
+letztendlich werden wird. Wir haben
+absolut keine Ahnung, wer
+dahintersteckt. Aber du kannst jetzt
+sofort kostenlos über Open Code und
+Open Router darauf zugreifen. Ich werde
+die entsprechenden Links unten in die
+Beschreibung setzen. Im normalen Modus
+ist es schnell, aber wenn man es auf
+Maximum stellt, dauert die Ausgabe
+etwas länger. Es verfügt über ein
+riesiges Kontextfenster. Es bietet alle
+Modalitäten, was wirklich großartig
+ist. Insgesamt ist es ein wirklich
+tolles Modell, das dir beeindruckende
+Ergebnisse liefern wird, besonders bei
+der Webentwicklung. Und da es kostenlos
+ist, solltest du das Beste daraus
+machen. Damit hoffe ich, Leute, dass
+euch das heutige Video gefallen hat und
+ihr etwas mitnehmen konntet. Lasst mich
+wissen, was ihr glaubt, was Space
+Monkey Alpha ist. Schaut euch unbedingt
+die School-Community an, werft einen
+Blick auf die World of AI by Coin
+Alpha-Plattform, besucht unseren
+zweiten Kanal, abonniert den Newsletter
+, tretet dem Discord bei, folgt mir auf
+Twitter und stellt zu guter Letzt
+sicher, dass ihr den Kanal abonniert,
+die Glocke aktiviert, dieses Video
+liked und unsere früheren Videos
+anseht, um bei den neuesten
+KI-Nachrichten auf dem Laufenden zu
+bleiben. Mit diesen Gedanken wünsche
+ich euch einen fantastischen Tag.
+Verbreitet Positivität, und wir sehen
+uns in Kürze wieder. Macht's gut,
+Leute.

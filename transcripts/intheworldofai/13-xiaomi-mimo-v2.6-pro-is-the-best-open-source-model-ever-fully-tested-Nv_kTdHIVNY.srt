@@ -1,0 +1,1903 @@
+1
+00:00:00,680 --> 00:00:03,791
+Xiaomi ist überraschend mit einem
+
+2
+00:00:02,853 --> 00:00:05,157
+beeindruckenden neuen
+
+3
+00:00:04,219 --> 00:00:07,392
+Open-Source-KI-Modell zurück: Mimo
+
+4
+00:00:06,454 --> 00:00:10,213
+Version 2.6. Dies ist ihr nächster
+
+5
+00:00:09,261 --> 00:00:11,988
+großer Schritt in Richtung RSI, ein
+
+6
+00:00:11,036 --> 00:00:13,810
+Konzept, das sie in ihrem Blogbeitrag
+
+7
+00:00:12,858 --> 00:00:15,345
+hervorgehoben haben und das ich
+
+8
+00:00:14,393 --> 00:00:18,390
+ziemlich interessant fand. Es ist zudem
+
+9
+00:00:17,438 --> 00:00:20,246
+ein Modell, das auf die Skalierung von
+
+10
+00:00:19,294 --> 00:00:21,816
+RL setzt, also auf Reinforcement
+
+11
+00:00:20,864 --> 00:00:23,720
+Learning bei komplexen, überprüfbaren
+
+12
+00:00:22,767 --> 00:00:25,528
+Aufgaben, damit sich das Modell durch
+
+13
+00:00:24,576 --> 00:00:27,051
+Exploration und Feedback stetig
+
+14
+00:00:26,098 --> 00:00:31,016
+verbessern kann. Die Mimo-Version 2.6-
+
+15
+00:00:30,016 --> 00:00:33,125
+Reihe umfasst nun das Pro-Modell, ihr
+
+16
+00:00:32,182 --> 00:00:35,121
+bisher leistungsfähigstes Modell,
+
+17
+00:00:34,178 --> 00:00:37,287
+sowie Flash, das auf Geschwindigkeit,
+
+18
+00:00:36,344 --> 00:00:40,820
+Effizienz und Kosten optimiert ist. Es
+
+19
+00:00:39,871 --> 00:00:42,788
+gibt auch einen Pro Ultra-Speed-Modus,
+
+20
+00:00:41,838 --> 00:00:44,705
+der bis zu 20-mal schnellere Ausgaben
+
+21
+00:00:43,756 --> 00:00:47,483
+bei gleicher Qualität liefert. Das
+
+22
+00:00:46,550 --> 00:00:49,974
+hier ist das Flash-Modell und es ist
+
+23
+00:00:49,041 --> 00:00:52,501
+wahnsinnig schnell. Und noch etwas: Man
+
+24
+00:00:51,558 --> 00:00:54,436
+kann tatsächlich kostenlos über
+
+25
+00:00:53,493 --> 00:00:56,467
+OpenRouter darauf zugreifen. Ich werde
+
+26
+00:00:55,498 --> 00:00:58,011
+von ihnen nicht gesponsert. Ich wollte
+
+27
+00:00:57,059 --> 00:00:59,805
+es euch nur wissen lassen, da ihr das
+
+28
+00:00:58,852 --> 00:01:01,693
+Beste daraus machen könnt, weil dieses
+
+29
+00:01:00,740 --> 00:01:03,391
+Modell ziemlich leistungsfähig und
+
+30
+00:01:02,439 --> 00:01:05,822
+natürlich kostenlos ist. Leute,
+
+31
+00:01:04,862 --> 00:01:07,395
+Entschuldigung für die Unterbrechung,
+
+32
+00:01:06,436 --> 00:01:09,009
+aber falls ihr es noch nicht getan habt
+
+33
+00:01:08,009 --> 00:01:10,341
+, abonniert bitte den World of AI
+
+34
+00:01:09,381 --> 00:01:11,753
+YouTube-Kanal, da mir das wirklich
+
+35
+00:01:10,793 --> 00:01:13,205
+helfen würde und es mir natürlich
+
+36
+00:01:12,246 --> 00:01:14,819
+ermöglicht, jeden Tag Videos zu machen
+
+37
+00:01:13,819 --> 00:01:16,144
+. Gebt diesem Video auch ein „
+
+38
+00:01:15,144 --> 00:01:17,545
+Gefällt mir“, falls möglich. Das
+
+39
+00:01:16,574 --> 00:01:20,150
+bedeutet mir wirklich sehr viel. Auf
+
+40
+00:01:19,208 --> 00:01:22,098
+dem World of AI-Benchmark und der
+
+41
+00:01:21,156 --> 00:01:24,333
+Vibe-Coding-Plattform haben wir dieses
+
+42
+00:01:23,390 --> 00:01:25,937
+Modell rigoros getestet und
+
+43
+00:01:24,994 --> 00:01:27,999
+festgestellt, dass es ziemlich weit
+
+44
+00:01:27,056 --> 00:01:31,333
+oben rangiert. Wir fanden, dass es das
+
+45
+00:01:30,389 --> 00:01:33,188
+derzeit beste Modell mit offenen
+
+46
+00:01:32,244 --> 00:01:34,931
+Gewichten ist, das in mehreren
+
+47
+00:01:33,987 --> 00:01:36,894
+Bereichen glänzt. Ihr könnt dies
+
+48
+00:01:35,940 --> 00:01:38,734
+selbst testen, um zu sehen, wie ihr all
+
+49
+00:01:37,780 --> 00:01:40,160
+diese Modelle in euren eigenen
+
+50
+00:01:39,206 --> 00:01:42,049
+Arbeitsablauf integrieren könnt. Ich
+
+51
+00:01:41,097 --> 00:01:43,967
+empfehle euch sehr, einen Blick auf die
+
+52
+00:01:43,015 --> 00:01:45,597
+Links in der Videobeschreibung zu
+
+53
+00:01:44,645 --> 00:01:47,274
+werfen, da dies komplett kostenlos
+
+54
+00:01:46,322 --> 00:01:49,052
+möglich ist. So bekommt ihr ein
+
+55
+00:01:48,098 --> 00:01:50,723
+besseres Gefühl dafür, was ihr mit
+
+56
+00:01:49,768 --> 00:01:52,439
+diesem Modell tun könnt und versteht
+
+57
+00:01:51,484 --> 00:01:54,065
+auch die anderen Tools, die euch im
+
+58
+00:01:53,110 --> 00:01:56,619
+KI-Bereich unterstützen können. Was
+
+59
+00:01:55,672 --> 00:01:58,641
+bei diesem Modell aber verrückt ist:
+
+60
+00:01:57,694 --> 00:02:00,715
+Die Preise sind gegenüber Version 2.5
+
+61
+00:01:59,768 --> 00:02:03,483
+nicht gestiegen. Xiaomi behauptet, dass
+
+62
+00:02:02,532 --> 00:02:05,275
+das Mimo Version 2.6 Pro einen neuen
+
+63
+00:02:04,323 --> 00:02:06,872
+Preis-Leistungs-Rekord unter den
+
+64
+00:02:05,920 --> 00:02:08,808
+chinesischen Modellen aufstellt und nur
+
+65
+00:02:07,857 --> 00:02:10,745
+ein Zwanzigstel bis ein Sechzigstel der
+
+66
+00:02:09,793 --> 00:02:12,391
+Kosten führender internationaler
+
+67
+00:02:11,439 --> 00:02:14,279
+Modelle bei vergleichbarer Intelligenz
+
+68
+00:02:13,327 --> 00:02:17,943
+verursacht. Und was die Benchmarks
+
+69
+00:02:17,003 --> 00:02:20,018
+betrifft, so sieht man, dass es in
+
+70
+00:02:19,077 --> 00:02:22,092
+vielen verschiedenen Bereichen wie
+
+71
+00:02:21,151 --> 00:02:23,692
+Programmierung, allgemeine
+
+72
+00:02:22,751 --> 00:02:26,063
+Anwendungsfälle sowie in verschiedenen
+
+73
+00:02:25,122 --> 00:02:28,196
+visuellen und Cyber-Kategorien sehr
+
+74
+00:02:27,256 --> 00:02:31,631
+wettbewerbsfähig ist. Wie bei Deep
+
+75
+00:02:30,694 --> 00:02:34,016
+Seek Version 1.1 liegt es hier leicht
+
+76
+00:02:33,079 --> 00:02:36,526
+hinter den modernsten Modellen wie GPT-
+
+77
+00:02:35,526 --> 00:02:37,843
+6 Astra sowie anderen
+
+78
+00:02:36,906 --> 00:02:40,737
+State-of-the-Art-Modellen zurück. Auch
+
+79
+00:02:39,806 --> 00:02:43,444
+beim Program Bench erzielt es ziemlich
+
+80
+00:02:42,513 --> 00:02:46,123
+unglaubliche Ergebnisse. Insgesamt
+
+81
+00:02:45,179 --> 00:02:47,971
+sieht man einfach, dass dies ein
+
+82
+00:02:47,027 --> 00:02:50,211
+wirklich wettbewerbsfähiges Modell ist
+
+83
+00:02:49,211 --> 00:02:52,171
+, das wahnsinnig schnell und extrem
+
+84
+00:02:51,227 --> 00:02:53,683
+günstig ist und in vielen
+
+85
+00:02:52,739 --> 00:02:55,699
+verschiedenen Bereichen diese irren
+
+86
+00:02:54,755 --> 00:02:58,065
+Ergebnisse liefert. Sogar im
+
+87
+00:02:57,131 --> 00:03:00,234
+Intelligenz-Index von Artificial
+
+88
+00:02:59,300 --> 00:03:02,600
+Analysis übertrifft es Kimi K3 und
+
+89
+00:03:01,665 --> 00:03:05,097
+Quant 3.8 Max und wird zum stärksten
+
+90
+00:03:04,162 --> 00:03:07,594
+Open-Source-Modell, und das ist nicht
+
+91
+00:03:06,660 --> 00:03:09,631
+der einzige Benchmark, der das
+
+92
+00:03:08,697 --> 00:03:12,367
+bestätigt. Auch unser World of AI
+
+93
+00:03:11,441 --> 00:03:15,180
+Benchmark validiert diese Behauptung,
+
+94
+00:03:14,254 --> 00:03:17,993
+und es ist einfach verrückt, weil es
+
+95
+00:03:17,067 --> 00:03:20,732
+nah an GPT 5.6 herankommt, obwohl es
+
+96
+00:03:19,806 --> 00:03:23,620
+Open-Source ist, was einfach irre ist.
+
+97
+00:03:22,800 --> 00:03:25,748
+Sehen Sie das? Dies wurde tatsächlich
+
+98
+00:03:24,797 --> 00:03:28,500
+von der Version 2.6 Pro erstellt. Es
+
+99
+00:03:27,541 --> 00:03:30,078
+ist einfach verrückt, Leute, dass ein
+
+100
+00:03:29,118 --> 00:03:31,696
+Modell diese Art von Qualität ausgeben
+
+101
+00:03:30,736 --> 00:03:34,439
+konnte. Das ist etwas, wofür ein
+
+102
+00:03:33,486 --> 00:03:36,296
+Spieleentwickler wahrscheinlich mehrere
+
+103
+00:03:35,343 --> 00:03:37,875
+Monate zum Programmieren brauchen
+
+104
+00:03:36,921 --> 00:03:39,546
+würde, und in diesem Fall wurde es
+
+105
+00:03:38,593 --> 00:03:42,434
+innerhalb weniger Tage erledigt. Hier
+
+106
+00:03:41,493 --> 00:03:44,436
+zeigt sich, dass Mimo Version 2.6
+
+107
+00:03:43,495 --> 00:03:46,085
+außergewöhnlich gut bei 3
+
+108
+00:03:45,144 --> 00:03:48,146
+D-räumlichem Denken, multimodaler
+
+109
+00:03:47,205 --> 00:03:50,384
+Wahrnehmung und sogar Computernutzung
+
+110
+00:03:49,443 --> 00:03:52,674
+ist. Es ist etwas, das es Ihnen
+
+111
+00:03:51,719 --> 00:03:54,391
+ermöglicht, Text, Bilder oder Videos
+
+112
+00:03:53,436 --> 00:03:56,154
+in spielbare 3 D-Welten zu verwandeln,
+
+113
+00:03:55,199 --> 00:03:58,091
+wie Sie hier sehen können. Es kann
+
+114
+00:03:57,147 --> 00:04:00,331
+sogar Blender-Szenen erstellen, Roboter
+
+115
+00:03:59,387 --> 00:04:01,899
+in Simulationen steuern und
+
+116
+00:04:00,955 --> 00:04:03,355
+Desktop-Tools autonom zur
+
+117
+00:04:02,411 --> 00:04:06,283
+Aufgabenbewältigung nutzen. Im Grunde
+
+118
+00:04:05,339 --> 00:04:07,235
+genommen ist das
+
+119
+00:04:06,291 --> 00:04:09,475
+Preis-Leistungs-Verhältnis das, was es
+
+120
+00:04:08,531 --> 00:04:11,547
+vor jedes andere interessante Modell
+
+121
+00:04:10,603 --> 00:04:15,383
+setzt. Es bietet offensichtlich eine
+
+122
+00:04:14,449 --> 00:04:17,616
+unglaubliche Leistung in mehreren
+
+123
+00:04:16,681 --> 00:04:20,045
+Bereichen und liefert diese Leistung
+
+124
+00:04:19,110 --> 00:04:22,605
+gleichzeitig zu unglaublich günstigen
+
+125
+00:04:21,671 --> 00:04:25,231
+Preisen, weshalb Sie sich das unbedingt
+
+126
+00:04:24,297 --> 00:04:27,464
+ansehen sollten, besonders da die
+
+127
+00:04:26,529 --> 00:04:29,959
+Flash-Variante derzeit kostenlos ist.
+
+128
+00:04:31,119 --> 00:04:34,086
+Einige weitere Details zu diesem Modell
+
+129
+00:04:33,086 --> 00:04:36,004
+: Es enthält ein Kontextfenster von 1
+
+130
+00:04:35,054 --> 00:04:37,972
+Million Token und hat dieselben Preise
+
+131
+00:04:37,022 --> 00:04:39,839
+wie Version 2.5, was großartig ist.
+
+132
+00:04:40,019 --> 00:04:43,284
+Die Pro-Version kostet 43 Cent pro 1
+
+133
+00:04:42,346 --> 00:04:45,674
+Million Input-Token und 87 Cent pro 1
+
+134
+00:04:44,737 --> 00:04:48,996
+Million Output-Token. Und die Version
+
+135
+00:04:48,077 --> 00:04:52,160
+2.5 Flash kostet 14 Cent pro 1 Million
+
+136
+00:04:51,241 --> 00:04:55,404
+Input-Token sowie 28 Cent pro 1 Million
+
+137
+00:04:54,485 --> 00:04:58,582
+Output-Token. Was wir jetzt tun werden,
+
+138
+00:04:57,621 --> 00:05:00,351
+ist, dieses Modell zu testen. Wenn Sie
+
+139
+00:04:59,393 --> 00:05:01,885
+mit diesem Modell loslegen möchten,
+
+140
+00:05:00,926 --> 00:05:03,542
+können Sie dies ganz einfach über den
+
+141
+00:05:02,584 --> 00:05:05,076
+Mimo-Chatbot tun, für den ich einen
+
+142
+00:05:04,117 --> 00:05:06,361
+Link in der Beschreibung unten
+
+143
+00:05:05,402 --> 00:05:07,955
+hinterlasse. Sie können auch über
+
+144
+00:05:06,996 --> 00:05:09,748
+deren API darauf zugreifen. Wie ich
+
+145
+00:05:08,789 --> 00:05:11,196
+bereits erwähnt habe, können Sie
+
+146
+00:05:10,237 --> 00:05:12,478
+jetzt komplett kostenlos über
+
+147
+00:05:11,519 --> 00:05:14,009
+Open-Code darauf zugreifen, wo Ihnen
+
+148
+00:05:13,050 --> 00:05:15,539
+die Flash-Variante ebenfalls völlig
+
+149
+00:05:14,580 --> 00:05:17,647
+gratis zur Verfügung steht. Und falls
+
+150
+00:05:16,692 --> 00:05:19,418
+Sie es noch nicht getan haben, können
+
+151
+00:05:18,463 --> 00:05:20,870
+Sie einen Blick in die Welt der
+
+152
+00:05:19,916 --> 00:05:22,686
+KI-Benchmark-Suite werfen, wo Sie sogar
+
+153
+00:05:21,732 --> 00:05:24,366
+testen können, ob es etwas ist, das
+
+154
+00:05:23,412 --> 00:05:26,324
+Sie nutzen möchten. Darüber hinaus
+
+155
+00:05:25,363 --> 00:05:27,494
+erhalten Sie Zugang zu meiner
+
+156
+00:05:26,533 --> 00:05:28,976
+Prompt-Bibliothek, daher kann ich nur
+
+157
+00:05:28,015 --> 00:05:30,459
+empfehlen, dort einmal reinzuschauen.
+
+158
+00:05:29,659 --> 00:05:32,556
+Aber jetzt werden wir dieses Modell in
+
+159
+00:05:31,606 --> 00:05:34,554
+mehreren Bereichen testen, um zu sehen,
+
+160
+00:05:33,604 --> 00:05:36,501
+wie leistungsfähig es ist und was man
+
+161
+00:05:35,551 --> 00:05:38,100
+tatsächlich damit machen kann.
+
+162
+00:05:37,659 --> 00:05:40,035
+Beginnen wir mit meiner
+
+163
+00:05:39,095 --> 00:05:42,430
+Lieblingsgenerierung: Hier konnte Meemo
+
+164
+00:05:41,490 --> 00:05:44,645
+Version 2.6 Pro ein vollständiges 3
+
+165
+00:05:43,705 --> 00:05:47,040
+D-Spiel im Sonic-Stil von Grund auf neu
+
+166
+00:05:46,100 --> 00:05:49,390
+erstellen. Es hat die Programmierung
+
+167
+00:05:48,437 --> 00:05:50,749
+hinter der 3 D-Umgebung, die
+
+168
+00:05:49,796 --> 00:05:52,295
+Charakterbewegung und die Physik
+
+169
+00:05:51,342 --> 00:05:54,076
+übernommen–schaut euch einfach die
+
+170
+00:05:53,122 --> 00:05:56,163
+Qualität an, Leute. Das ist wirklich
+
+171
+00:05:55,212 --> 00:05:57,978
+absolut verrückt, und es gibt sogar
+
+172
+00:05:57,027 --> 00:05:59,499
+verschiedene Arten von Levels.
+
+173
+00:05:58,819 --> 00:06:02,191
+Natürlich gibt es ein paar Dinge, die
+
+174
+00:06:01,253 --> 00:06:04,313
+im Moment noch nicht ganz perfekt
+
+175
+00:06:03,376 --> 00:06:06,686
+aussehen, aber abgesehen davon wurden
+
+176
+00:06:05,748 --> 00:06:09,120
+das Kamerasystem, das Leveldesign, die
+
+177
+00:06:08,183 --> 00:06:11,243
+Hindernisse und die Spielmechanik
+
+178
+00:06:10,305 --> 00:06:13,740
+gründlich generiert, und es konnte all
+
+179
+00:06:12,802 --> 00:06:16,237
+diese Funktionen stimmig zusammenfügen
+
+180
+00:06:15,237 --> 00:06:18,502
+. Es ist also einfach wahnsinnig, dass
+
+181
+00:06:17,552 --> 00:06:20,404
+es in der Lage war, eine vollständig
+
+182
+00:06:19,454 --> 00:06:22,407
+spielbare Erfahrung auszugeben, die das
+
+183
+00:06:21,457 --> 00:06:24,260
+ursprüngliche Sonic-Spiel nachahmt.
+
+184
+00:06:24,920 --> 00:06:28,198
+Nun haben wir endlich ein chinesisches
+
+185
+00:06:27,258 --> 00:06:30,056
+KI-Modell, das nicht denselben
+
+186
+00:06:29,116 --> 00:06:32,334
+Designstil kopiert wie die führenden
+
+187
+00:06:31,394 --> 00:06:34,732
+Modelle von Anthropic oder OpenAI, denn
+
+188
+00:06:33,792 --> 00:06:37,070
+das Xiaomi Mi Moji Version 2.6 Pro und
+
+189
+00:06:36,130 --> 00:06:38,988
+auch die Flash-Variante können
+
+190
+00:06:38,048 --> 00:06:41,326
+ziemlich großartige Designs ausgeben,
+
+191
+00:06:40,386 --> 00:06:43,005
+die eindeutig ihren eigenen
+
+192
+00:06:42,065 --> 00:06:45,343
+Designgeschmack widerspiegeln, was man
+
+193
+00:06:44,403 --> 00:06:47,561
+an den verschiedenen Frontends sehen
+
+194
+00:06:46,621 --> 00:06:49,659
+kann, die sie in ihrem Blogbeitrag
+
+195
+00:06:48,719 --> 00:06:53,033
+vorgestellt haben. Ich werde auch meine
+
+196
+00:06:52,074 --> 00:06:54,622
+eigenen Generierungen zeigen, aber das
+
+197
+00:06:53,663 --> 00:06:55,722
+ist etwas, das ich einfach
+
+198
+00:06:54,762 --> 00:06:58,178
+unterstreichen wollte. Es verdeutlicht
+
+199
+00:06:57,238 --> 00:07:00,335
+den eigenen Designgeschmack mit ein
+
+200
+00:06:59,395 --> 00:07:02,552
+paar der verschiedenen Landingpages,
+
+201
+00:07:01,612 --> 00:07:04,769
+die von Version 2.5 oder 6 generiert
+
+202
+00:07:03,829 --> 00:07:07,165
+wurden, und insgesamt zeigt es einfach,
+
+203
+00:07:06,225 --> 00:07:09,322
+wie gut das Modell darin ist, diese
+
+204
+00:07:08,382 --> 00:07:11,239
+unterschiedlichen Ergebnisse zu
+
+205
+00:07:10,299 --> 00:07:15,217
+erzeugen. Hier hatte ich es gebeten,
+
+206
+00:07:14,266 --> 00:07:16,790
+eine Landingpage für Nvidia zu
+
+207
+00:07:15,840 --> 00:07:18,561
+erstellen, und natürlich konnte es
+
+208
+00:07:17,610 --> 00:07:20,331
+nicht jeden Aspekt wie das Logo und
+
+209
+00:07:19,380 --> 00:07:22,101
+alles andere exakt klonen, aber die
+
+210
+00:07:21,150 --> 00:07:23,330
+Tatsache, dass es diesen
+
+211
+00:07:22,380 --> 00:07:25,150
+Grafikprozessor mit einem 3 D-Modell
+
+212
+00:07:24,199 --> 00:07:27,067
+vollständig ausprogrammiert und viele
+
+213
+00:07:26,117 --> 00:07:28,985
+dieser interaktiven Elemente zur Seite
+
+214
+00:07:28,034 --> 00:07:30,460
+hinzugefügt hat, ist einfach
+
+215
+00:07:29,509 --> 00:07:33,452
+unglaublich. Hier sieht man sehr gut,
+
+216
+00:07:32,496 --> 00:07:34,989
+dass das Modell bei der Erstellung
+
+217
+00:07:34,033 --> 00:07:36,526
+dieses 3 D-Modells der Grafikkarte
+
+218
+00:07:35,570 --> 00:07:38,195
+großartige Arbeit geleistet hat, was
+
+219
+00:07:37,239 --> 00:07:39,820
+bei den meisten anderen Modellen oft
+
+220
+00:07:38,864 --> 00:07:42,193
+nicht gelingt. Deshalb gilt es derzeit
+
+221
+00:07:41,241 --> 00:07:44,048
+auch als das beste Open-Source-Modell,
+
+222
+00:07:43,096 --> 00:07:46,514
+das aktuell verfügbar ist. Man erkennt
+
+223
+00:07:45,569 --> 00:07:48,573
+all die anderen Elemente, die mit der
+
+224
+00:07:47,627 --> 00:07:50,470
+Anmeldeseite generiert wurden, die
+
+225
+00:07:49,524 --> 00:07:52,474
+Scroll-Trigger und die verschiedenen
+
+226
+00:07:51,528 --> 00:07:54,425
+Design-Nuancen–insgesamt muss ich
+
+227
+00:07:53,479 --> 00:07:56,592
+sagen, dass ich begeistert bin, was das
+
+228
+00:07:55,646 --> 00:07:58,326
+Modell mit diesen verschiedenen
+
+229
+00:07:57,380 --> 00:08:00,439
+Front-End-Generierungen geschafft hat.
+
+230
+00:07:59,541 --> 00:08:01,778
+Schauen Sie sich das einfach mal an.
+
+231
+00:08:00,972 --> 00:08:03,968
+Dies ist eine Live-Darstellung der
+
+232
+00:08:03,027 --> 00:08:06,083
+Funktionsweise des Kühlsystems bei
+
+233
+00:08:05,141 --> 00:08:08,516
+dieser GPU. Natürlich wirken die 3
+
+234
+00:08:07,584 --> 00:08:10,962
+D-Dimensionen in dieser Darstellung
+
+235
+00:08:10,030 --> 00:08:13,544
+nicht ganz perfekt, aber es ist cool,
+
+236
+00:08:12,612 --> 00:08:16,058
+diese Draufsicht auf den Lufteinlass
+
+237
+00:08:15,126 --> 00:08:18,165
+und den Luftausstoß zu sehen.
+
+238
+00:08:17,559 --> 00:08:20,365
+Insgesamt liebe ich diese Generierung
+
+239
+00:08:19,414 --> 00:08:22,269
+wirklich, und es ist toll, dass dieses
+
+240
+00:08:21,317 --> 00:08:24,395
+Modell so etwas ausgeben konnte. Wenn
+
+241
+00:08:23,434 --> 00:08:25,910
+Sie die besten KI-Tools, Workflows und
+
+242
+00:08:24,949 --> 00:08:27,348
+Neuheiten vor allen anderen erfahren
+
+243
+00:08:26,387 --> 00:08:28,592
+möchten, abonnieren Sie meinen
+
+244
+00:08:27,630 --> 00:08:30,068
+kostenlosen Newsletter über den Link
+
+245
+00:08:29,107 --> 00:08:31,506
+in der Videobeschreibung–das Ganze
+
+246
+00:08:30,545 --> 00:08:33,635
+ist komplett kostenlos. Als Nächstes
+
+247
+00:08:32,688 --> 00:08:35,563
+habe ich das Modell angewiesen, ein
+
+248
+00:08:34,617 --> 00:08:37,706
+Formel-Drift-Szenario zu generieren; es
+
+249
+00:08:36,759 --> 00:08:39,741
+handelt sich um eine 3 GS-Simulation,
+
+250
+00:08:38,795 --> 00:08:41,670
+in der ein F1-Wagen unendlich lange
+
+251
+00:08:40,723 --> 00:08:43,571
+Donuts dreht. Und das ist
+
+252
+00:08:42,608 --> 00:08:44,992
+wahrscheinlich die beste Generierung,
+
+253
+00:08:44,029 --> 00:08:46,376
+die ich jemals mit diesem speziellen
+
+254
+00:08:45,413 --> 00:08:49,001
+Prompt erhalten habe. Es wurden sogar,
+
+255
+00:08:48,045 --> 00:08:50,274
+wie man hört, die passenden
+
+256
+00:08:49,318 --> 00:08:51,919
+Soundeffekte hinzugefügt. Es gibt
+
+257
+00:08:50,967 --> 00:08:53,861
+verschiedene Kamerawinkel, aber schauen
+
+258
+00:08:52,910 --> 00:08:55,756
+Sie sich einfach die gesamte Szene an,
+
+259
+00:08:54,804 --> 00:08:57,949
+die hier generiert wurde. Lassen Sie
+
+260
+00:08:56,994 --> 00:08:59,746
+mich kurz den Ton ausschalten, weil das
+
+261
+00:08:58,791 --> 00:09:01,318
+wirklich nervig ist, aber alles an
+
+262
+00:09:00,363 --> 00:09:03,025
+dieser Szene ist einfach unglaublich,
+
+263
+00:09:02,070 --> 00:09:05,528
+Leute. Hier konnte es das 3 D-Modell
+
+264
+00:09:04,591 --> 00:09:07,651
+des F1-Wagens wirklich gründlich
+
+265
+00:09:06,713 --> 00:09:10,104
+generieren. Natürlich sieht es nicht
+
+266
+00:09:09,157 --> 00:09:12,223
+exakt wie ein echter F1-Wagen aus, aber
+
+267
+00:09:11,276 --> 00:09:14,077
+betrachten Sie einmal alle Details
+
+268
+00:09:13,130 --> 00:09:16,142
+dieser Szene. Man hat verschiedene
+
+269
+00:09:15,200 --> 00:09:18,293
+Kamerawinkel und den Rauch, der beim
+
+270
+00:09:17,351 --> 00:09:20,091
+Driften entsteht. Man sieht
+
+271
+00:09:19,150 --> 00:09:22,363
+Reifenspuren sowie den Wechsel in den
+
+272
+00:09:21,422 --> 00:09:24,635
+Rückwärtsgang und Zeitlupeneffekte.
+
+273
+00:09:23,735 --> 00:09:26,543
+Es ist einfach unglaublich, dass wir
+
+274
+00:09:25,593 --> 00:09:28,301
+diese Art von Generierung erreicht
+
+275
+00:09:27,352 --> 00:09:30,160
+haben, Leute, denn so etwas habe ich
+
+276
+00:09:29,210 --> 00:09:31,818
+bisher bei keinem anderen Modell
+
+277
+00:09:30,868 --> 00:09:33,827
+gesehen, selbst beim Astra-Modell nicht
+
+278
+00:09:32,827 --> 00:09:35,931
+. Ich bin zu dem Schluss gekommen, dass
+
+279
+00:09:34,971 --> 00:09:37,226
+dieses Modell bei 3 D-Umgebungen
+
+280
+00:09:36,265 --> 00:09:39,263
+außergewöhnlich gut abschneidet. Es
+
+281
+00:09:38,325 --> 00:09:41,252
+ist in der Lage, verschiedene 3
+
+282
+00:09:40,314 --> 00:09:43,614
+D-Pakete basierend auf dem jeweiligen
+
+283
+00:09:42,676 --> 00:09:46,100
+Prompt wirklich gut zu imitieren und zu
+
+284
+00:09:45,162 --> 00:09:48,913
+morphen. Wie in diesem Fall, wo es
+
+285
+00:09:47,982 --> 00:09:51,687
+diesen isometrischen Raum basierend auf
+
+286
+00:09:50,756 --> 00:09:54,292
+meiner Anfrage erstellt hat. Sie haben
+
+287
+00:09:53,334 --> 00:09:55,877
+natürlich verschiedene Kamerawinkel.
+
+288
+00:09:54,977 --> 00:09:58,075
+Sie haben sogar die Möglichkeit,
+
+289
+00:09:57,139 --> 00:10:00,301
+verschiedene Arten von Objekten in
+
+290
+00:09:59,364 --> 00:10:02,886
+diesem Raum hervorzuheben. Es erzeugt
+
+291
+00:10:01,950 --> 00:10:05,249
+diesen Effekt: Wenn Sie mit der Maus
+
+292
+00:10:04,313 --> 00:10:07,421
+darüberfahren, erhalten Sie eine
+
+293
+00:10:06,485 --> 00:10:09,912
+Bewegung und Animation, die Ihnen eine
+
+294
+00:10:08,976 --> 00:10:12,211
+bessere Visualisierung des Produkts
+
+295
+00:10:11,275 --> 00:10:14,638
+selbst bietet und sogar etwas Kontext
+
+296
+00:10:13,702 --> 00:10:17,129
+zur Umgebung hinzufügt, was ebenfalls
+
+297
+00:10:16,193 --> 00:10:20,588
+sehr cool ist. Als Nächstes haben wir
+
+298
+00:10:19,638 --> 00:10:22,416
+dieses SVG-Gemälde, und sowohl die
+
+299
+00:10:21,466 --> 00:10:24,345
+Funktionalität als auch die visuelle
+
+300
+00:10:23,396 --> 00:10:26,072
+Qualität dieses Ergebnisses sind
+
+301
+00:10:25,123 --> 00:10:28,045
+einfach unglaublich. Sie haben
+
+302
+00:10:27,104 --> 00:10:30,353
+natürlich die Möglichkeit, bestimmte
+
+303
+00:10:29,412 --> 00:10:32,542
+Dinge an diesem Gemälde anzupassen,
+
+304
+00:10:31,601 --> 00:10:34,672
+wie zum Beispiel die Animationen zu
+
+305
+00:10:33,731 --> 00:10:36,507
+ändern, etwa den sich langsam
+
+306
+00:10:35,566 --> 00:10:38,855
+bewegenden Baum. Es gibt sogar Wind,
+
+307
+00:10:37,913 --> 00:10:40,852
+Vögel und viele Elemente, die zu
+
+308
+00:10:39,911 --> 00:10:42,849
+funktionieren und sich zu bewegen
+
+309
+00:10:41,908 --> 00:10:44,787
+scheinen, was dieser Generierung
+
+310
+00:10:43,846 --> 00:10:47,634
+Lebendigkeit verleiht. Insgesamt liebe
+
+311
+00:10:46,688 --> 00:10:49,738
+ich einfach die Qualität, die mit dem
+
+312
+00:10:48,792 --> 00:10:51,788
+spezifischen SVG-Prompt sowie einigen
+
+313
+00:10:50,842 --> 00:10:53,892
+anderen Prompts, wie der Kunstleinwand
+
+314
+00:10:52,946 --> 00:10:55,888
+und der New Yorker Skyline, erreicht
+
+315
+00:10:54,942 --> 00:10:57,852
+wurde. Es hat einen ziemlich
+
+316
+00:10:56,887 --> 00:11:00,099
+ordentlichen Job gemacht. Insgesamt hat
+
+317
+00:10:59,147 --> 00:11:02,010
+es alles generiert, was wir angefordert
+
+318
+00:11:01,057 --> 00:11:03,920
+hatten, aber der einzige kleine Fehler,
+
+319
+00:11:02,968 --> 00:11:05,639
+den wir in dieser Darstellung sehen
+
+320
+00:11:04,687 --> 00:11:08,873
+können, sind die fliegenden Autos. An
+
+321
+00:11:07,930 --> 00:11:10,992
+dieser Stelle sollte eigentlich eine
+
+322
+00:11:10,049 --> 00:11:13,111
+Brücke die Stadt verbinden, aber in
+
+323
+00:11:12,168 --> 00:11:15,115
+diesem Fall nehme ich an, dass sie
+
+324
+00:11:14,172 --> 00:11:18,021
+über diese Gebäude gelegt wurde. Aber
+
+325
+00:11:17,061 --> 00:11:19,519
+abgesehen davon scheint alles andere
+
+326
+00:11:18,560 --> 00:11:21,099
+ziemlich gut generiert worden zu sein.
+
+327
+00:11:21,159 --> 00:11:24,477
+Man kann sehen, dass die Autos sogar
+
+328
+00:11:23,542 --> 00:11:27,054
+Scheinwerfer haben, und natürlich gibt
+
+329
+00:11:26,118 --> 00:11:29,308
+es kleine Animationen sowie einige
+
+330
+00:11:28,372 --> 00:11:31,884
+Details, wie zum Beispiel einen kleinen
+
+331
+00:11:30,949 --> 00:11:35,035
+Gehweg. Sie haben einen Hubschrauber.
+
+332
+00:11:34,135 --> 00:11:37,357
+Sie haben sogar den Mond, der dieses
+
+333
+00:11:36,419 --> 00:11:39,209
+kleine Licht, diesen Farbton,
+
+334
+00:11:38,270 --> 00:11:41,548
+ausstrahlt. Insgesamt liebe ich also
+
+335
+00:11:40,604 --> 00:11:43,626
+die Generierungsqualität mit diesem
+
+336
+00:11:42,682 --> 00:11:46,582
+speziellen Prompt wirklich. Nun,
+
+337
+00:11:45,623 --> 00:11:48,089
+normalerweise, oder besser gesagt in
+
+338
+00:11:47,130 --> 00:11:49,514
+letzter Zeit, habe ich aufgehört,
+
+339
+00:11:48,555 --> 00:11:50,614
+Klone zu machen, wie diese
+
+340
+00:11:49,654 --> 00:11:52,243
+OS-Klon-Demos, da wir alle wissen, dass
+
+341
+00:11:51,283 --> 00:11:53,790
+viele dieser Prompts mittlerweile von
+
+342
+00:11:52,831 --> 00:11:55,419
+vielen dieser Modelle kontaminiert sind
+
+343
+00:11:54,419 --> 00:11:59,353
+. Aber ich wollte diesen Windows 95-
+
+344
+00:11:58,353 --> 00:12:01,134
+Klon präsentieren, weil er ein
+
+345
+00:12:00,191 --> 00:12:02,857
+Detaillevel aufweist, das ich
+
+346
+00:12:01,915 --> 00:12:05,040
+eigentlich von Astra oder sogar Fable
+
+347
+00:12:04,098 --> 00:12:07,223
+erwarten würde, da er offensichtlich
+
+348
+00:12:06,281 --> 00:12:08,947
+viele der Kernkomponenten des
+
+349
+00:12:08,004 --> 00:12:10,785
+ursprünglichen Betriebssystems
+
+350
+00:12:09,842 --> 00:12:13,749
+enthält. Aber zu sehen, wie ein
+
+351
+00:12:12,806 --> 00:12:15,964
+Open-Weight-Modell so etwas generiert,
+
+352
+00:12:15,021 --> 00:12:18,008
+ist fantastisch, denn Sie haben die
+
+353
+00:12:17,065 --> 00:12:20,280
+Diskette, natürlich Ihren Hauptrechner
+
+354
+00:12:19,337 --> 00:12:22,438
+und viele dieser anderen Komponenten,
+
+355
+00:12:21,495 --> 00:12:24,596
+die die meisten Modelle normalerweise
+
+356
+00:12:23,653 --> 00:12:26,785
+nicht generieren. Sie haben die Tipps.
+
+357
+00:12:25,885 --> 00:12:28,528
+Sie können dies natürlich schließen,
+
+358
+00:12:27,570 --> 00:12:29,876
+aber Sie haben zum Beispiel das
+
+359
+00:12:28,918 --> 00:12:31,013
+Internet, das ziemlich gut
+
+360
+00:12:30,056 --> 00:12:32,678
+ausprogrammiert wurde. Sie haben eine
+
+361
+00:12:31,713 --> 00:12:34,484
+Menge dieser anderen Elemente. Es ist
+
+362
+00:12:33,531 --> 00:12:36,236
+einfach wirklich cool zu sehen, dass
+
+363
+00:12:35,283 --> 00:12:37,988
+dies etwas ist, das vollständig von
+
+364
+00:12:37,035 --> 00:12:39,882
+diesem Modell selbst dargestellt wurde,
+
+365
+00:12:38,929 --> 00:12:40,923
+und man hat sogar die
+
+366
+00:12:39,971 --> 00:12:43,261
+DOS-Eingabeaufforderung selbst. Das ist
+
+367
+00:12:42,296 --> 00:12:44,608
+also etwas, von dem ich wirklich nicht
+
+368
+00:12:43,642 --> 00:12:45,955
+erwartet hätte, dass dieses Modell es
+
+369
+00:12:44,989 --> 00:12:47,556
+tatsächlich generieren würde. Wenn
+
+370
+00:12:46,608 --> 00:12:49,476
+dir dieses Video gefällt und du den
+
+371
+00:12:48,528 --> 00:12:51,448
+Kanal unterstützen möchtest, kannst
+
+372
+00:12:50,500 --> 00:12:53,472
+du über die „Super Thanks“-Option
+
+373
+00:12:52,524 --> 00:12:55,669
+unter dem Video spenden. Oder du kannst
+
+374
+00:12:54,723 --> 00:12:57,811
+unserem privaten Discord beitreten, wo
+
+375
+00:12:56,866 --> 00:12:59,843
+du monatlich kostenlosen Zugriff auf
+
+376
+00:12:58,898 --> 00:13:01,491
+verschiedene Abonnements für
+
+377
+00:13:00,546 --> 00:13:03,524
+unterschiedliche KI-Tools erhältst,
+
+378
+00:13:02,579 --> 00:13:05,446
+sowie tägliche KI-News, exklusive
+
+379
+00:13:04,501 --> 00:13:08,588
+Inhalte und vieles mehr. Und Leute,
+
+380
+00:13:07,635 --> 00:13:10,360
+wenn ihr möchtet, dass dieses Modell
+
+381
+00:13:09,407 --> 00:13:12,039
+Visualisierungen erstellt, die euch
+
+382
+00:13:11,086 --> 00:13:13,485
+helfen, verschiedene Arten von
+
+383
+00:13:12,532 --> 00:13:15,304
+Generierungen oder Konzepten besser zu
+
+384
+00:13:14,351 --> 00:13:17,170
+artikulieren, dann ist dies das Modell,
+
+385
+00:13:16,217 --> 00:13:18,616
+das ihr verwenden wollt, da es
+
+386
+00:13:17,663 --> 00:13:20,062
+offensichtlich wirklich gut im
+
+387
+00:13:19,108 --> 00:13:21,414
+Front-End mit seinem eigenen
+
+388
+00:13:20,461 --> 00:13:23,439
+Design-Geschmack ist. Die
+
+389
+00:13:22,489 --> 00:13:24,758
+Preisgestaltung ist zudem
+
+390
+00:13:23,809 --> 00:13:26,686
+außergewöhnlich, was man an einigen
+
+391
+00:13:25,737 --> 00:13:28,462
+dieser verschiedenen Generierungen
+
+392
+00:13:27,513 --> 00:13:30,035
+sehen kann, wie etwa bei einem
+
+393
+00:13:29,086 --> 00:13:31,608
+simulierten Grafikrechner, der
+
+394
+00:13:30,659 --> 00:13:33,029
+Benutzeroberfläche und den
+
+395
+00:13:32,080 --> 00:13:34,805
+verschiedenen Detailebenen, die es
+
+396
+00:13:33,856 --> 00:13:37,699
+zuweisen kann. Seht ihr das hier? Dies
+
+397
+00:13:36,749 --> 00:13:39,399
+ist ein Simulationsspiel, das das
+
+398
+00:13:38,449 --> 00:13:41,950
+Modell tatsächlich erstellt hat. Man
+
+399
+00:13:41,008 --> 00:13:44,069
+hat die Möglichkeit, die Simulation
+
+400
+00:13:43,126 --> 00:13:46,131
+offensichtlich weiter zu skalieren,
+
+401
+00:13:45,188 --> 00:13:48,421
+indem man diese verschiedenen Arten von
+
+402
+00:13:47,479 --> 00:13:50,712
+Mechaniken sowie Funktionen in die Welt
+
+403
+00:13:49,769 --> 00:13:52,888
+einbaut, wie etwa das Hinzufügen von
+
+404
+00:13:51,945 --> 00:13:55,179
+Parks, Landwirtschaft und Wohngebieten.
+
+405
+00:13:55,139 --> 00:13:57,913
+Dies sind alles verschiedene Arten von
+
+406
+00:13:56,960 --> 00:13:59,688
+Funktionen, die vollständig in diese
+
+407
+00:13:58,735 --> 00:14:01,462
+Generierung hineincodiert wurden, und
+
+408
+00:14:00,509 --> 00:14:03,284
+ich liebe es wirklich, dass das Modell
+
+409
+00:14:02,331 --> 00:14:05,059
+diese Art von Qualität liefern kann.
+
+410
+00:14:04,816 --> 00:14:08,181
+Man merkt, dass es wirklich gut mit 3
+
+411
+00:14:07,245 --> 00:14:10,739
+D-Umgebungen umgehen kann, da hier alle
+
+412
+00:14:09,803 --> 00:14:13,232
+diese Elemente vollständig vom Modell
+
+413
+00:14:12,296 --> 00:14:16,311
+codiert wurden. Wie ich bereits
+
+414
+00:14:15,375 --> 00:14:17,785
+erwähnt habe, ist das
+
+415
+00:14:16,849 --> 00:14:20,156
+Preis-Leistungs-Verhältnis das, was
+
+416
+00:14:19,220 --> 00:14:22,462
+einen dazu bewegt, dieses Modell zu
+
+417
+00:14:21,526 --> 00:14:24,833
+nutzen, da es offensichtlich schnell
+
+418
+00:14:23,897 --> 00:14:27,397
+ist und die Arbeit zu einem unglaublich
+
+419
+00:14:26,461 --> 00:14:29,703
+günstigeren Preis erledigt als die
+
+420
+00:14:28,768 --> 00:14:32,139
+anderen hochmodernen Modelle, weshalb
+
+421
+00:14:31,203 --> 00:14:34,510
+man dieses Modell verwenden möchte.
+
+422
+00:14:35,719 --> 00:14:38,241
+Insgesamt bin ich wirklich begeistert
+
+423
+00:14:37,282 --> 00:14:39,887
+von diesem Modell und es ist verrückt,
+
+424
+00:14:38,928 --> 00:14:41,451
+dass dies nur ein kleines Upgrade von
+
+425
+00:14:40,492 --> 00:14:44,021
+der 2.5 er-Version ist. Wir könnten
+
+426
+00:14:43,086 --> 00:14:46,434
+größere Upgrades von Xiaomi sehen,
+
+427
+00:14:45,499 --> 00:14:48,912
+vielleicht sogar die 3.0-Version, die
+
+428
+00:14:47,977 --> 00:14:51,325
+es auf das gleiche Niveau wie UCPC 6
+
+429
+00:14:50,390 --> 00:14:54,166
+Astra bringen würde. Ich weiß es
+
+430
+00:14:53,220 --> 00:14:56,159
+nicht, ich vermute es nur, aber wenn
+
+431
+00:14:55,213 --> 00:14:58,099
+sie ein RSI-System entwickeln, eine
+
+432
+00:14:57,153 --> 00:14:59,877
+skalierende RL-Struktur oder ein
+
+433
+00:14:58,931 --> 00:15:01,870
+Framework, das ihnen beim Trainieren
+
+434
+00:15:00,924 --> 00:15:03,972
+von Modellen hilft, wäre das ziemlich
+
+435
+00:15:03,026 --> 00:15:05,965
+revolutionär, und wir würden recht
+
+436
+00:15:05,019 --> 00:15:08,012
+bald großartigere Modelle von Xiaomi
+
+437
+00:15:07,066 --> 00:15:09,683
+sehen, falls sie dieses System
+
+438
+00:15:08,736 --> 00:15:12,677
+etabliert haben. Aber insgesamt ist
+
+439
+00:15:11,725 --> 00:15:14,586
+dies ein Modell, das verschiedene Arten
+
+440
+00:15:13,634 --> 00:15:16,400
+von Aufgaben wie Frontend, komplexe 3
+
+441
+00:15:15,447 --> 00:15:18,070
+D-Umgebungen und sogar multimodale
+
+442
+00:15:17,117 --> 00:15:19,979
+Aufgaben ziemlich gut bewältigen kann.
+
+443
+00:15:19,900 --> 00:15:22,561
+Es ist außerdem etwas, das sich bei
+
+444
+00:15:21,607 --> 00:15:24,130
+visuellen Aufgaben im Bereich der
+
+445
+00:15:23,176 --> 00:15:25,653
+Computernutzung und sogar in der
+
+446
+00:15:24,699 --> 00:15:28,439
+Robotik sehr gut schlägt. Es ist also
+
+447
+00:15:27,519 --> 00:15:31,319
+ein Modell, das in vielen Bereichen
+
+448
+00:15:30,399 --> 00:15:34,279
+überzeugt und dabei kosteneffizient
+
+449
+00:15:33,359 --> 00:15:37,551
+sowie insgesamt sehr schnell ist. Das
+
+450
+00:15:36,588 --> 00:15:38,772
+ist etwas, das ich unbedingt zum
+
+451
+00:15:37,809 --> 00:15:40,131
+Ausprobieren empfehlen würde. Ich
+
+452
+00:15:39,161 --> 00:15:41,274
+werde alle Links, die ich im heutigen
+
+453
+00:15:40,304 --> 00:15:42,146
+Video verwende, unten in die
+
+454
+00:15:41,176 --> 00:15:43,338
+Beschreibung einfügen. Aber damit,
+
+455
+00:15:42,372 --> 00:15:44,550
+Leute, vielen herzlichen Dank fürs
+
+456
+00:15:43,584 --> 00:15:45,744
+Zuschauen. Ich hoffe, euch hat das
+
+457
+00:15:44,775 --> 00:15:47,420
+heutige Video gefallen. Schaut euch
+
+458
+00:15:46,473 --> 00:15:49,482
+unbedingt auch unsere School-Community
+
+459
+00:15:48,535 --> 00:15:51,544
+an, dort erhaltet ihr Zugang zu vielen
+
+460
+00:15:50,596 --> 00:15:53,129
+verschiedenen Vorteilen sowie
+
+461
+00:15:52,182 --> 00:15:55,191
+vorzeitigen Zugriff auf das Testen von
+
+462
+00:15:54,244 --> 00:15:57,339
+KI-Modellen. Werft unbedingt einen
+
+463
+00:15:56,379 --> 00:15:58,893
+Blick auf die Welt der AI Vibe Coding
+
+464
+00:15:57,934 --> 00:16:00,735
+Platform und den Benchmark. Schaut euch
+
+465
+00:15:59,769 --> 00:16:02,000
+auch gerne unseren zweiten Kanal an.
+
+466
+00:16:01,360 --> 00:16:03,983
+Schließt euch unserem Newsletter und
+
+467
+00:16:03,027 --> 00:16:05,651
+Discord an, folgt mir auf Twitter und
+
+468
+00:16:04,695 --> 00:16:07,319
+abonniert schließlich unseren Kanal.
+
+469
+00:16:06,580 --> 00:16:08,899
+Aktiviert die Glocke, gebt dem Video
+
+470
+00:16:07,935 --> 00:16:10,365
+ein Like und seht euch unsere früheren
+
+471
+00:16:09,401 --> 00:16:11,757
+Videos an, damit ihr bei den neuesten
+
+472
+00:16:10,794 --> 00:16:13,223
+KI-Nachrichten auf dem Laufenden bleibt
+
+473
+00:16:12,223 --> 00:16:14,496
+. Aber damit, Leute, habt einen
+
+474
+00:16:13,535 --> 00:16:15,652
+fantastischen Tag, verbreitet
+
+475
+00:16:14,690 --> 00:16:17,038
+Positivität und wir sehen uns ganz
+
+476
+00:16:16,076 --> 00:16:18,520
+bald wieder. Macht’s gut, Leute.

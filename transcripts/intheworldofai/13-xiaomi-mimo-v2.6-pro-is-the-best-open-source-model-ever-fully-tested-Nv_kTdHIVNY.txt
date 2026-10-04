@@ -1,0 +1,476 @@
+Xiaomi ist überraschend mit einem
+beeindruckenden neuen
+Open-Source-KI-Modell zurück: Mimo
+Version 2.6. Dies ist ihr nächster
+großer Schritt in Richtung RSI, ein
+Konzept, das sie in ihrem Blogbeitrag
+hervorgehoben haben und das ich
+ziemlich interessant fand. Es ist zudem
+ein Modell, das auf die Skalierung von
+RL setzt, also auf Reinforcement
+Learning bei komplexen, überprüfbaren
+Aufgaben, damit sich das Modell durch
+Exploration und Feedback stetig
+verbessern kann. Die Mimo-Version 2.6-
+Reihe umfasst nun das Pro-Modell, ihr
+bisher leistungsfähigstes Modell,
+sowie Flash, das auf Geschwindigkeit,
+Effizienz und Kosten optimiert ist. Es
+gibt auch einen Pro Ultra-Speed-Modus,
+der bis zu 20-mal schnellere Ausgaben
+bei gleicher Qualität liefert. Das
+hier ist das Flash-Modell und es ist
+wahnsinnig schnell. Und noch etwas: Man
+kann tatsächlich kostenlos über
+OpenRouter darauf zugreifen. Ich werde
+von ihnen nicht gesponsert. Ich wollte
+es euch nur wissen lassen, da ihr das
+Beste daraus machen könnt, weil dieses
+Modell ziemlich leistungsfähig und
+natürlich kostenlos ist. Leute,
+Entschuldigung für die Unterbrechung,
+aber falls ihr es noch nicht getan habt
+, abonniert bitte den World of AI
+YouTube-Kanal, da mir das wirklich
+helfen würde und es mir natürlich
+ermöglicht, jeden Tag Videos zu machen
+. Gebt diesem Video auch ein „
+Gefällt mir“, falls möglich. Das
+bedeutet mir wirklich sehr viel. Auf
+dem World of AI-Benchmark und der
+Vibe-Coding-Plattform haben wir dieses
+Modell rigoros getestet und
+festgestellt, dass es ziemlich weit
+oben rangiert. Wir fanden, dass es das
+derzeit beste Modell mit offenen
+Gewichten ist, das in mehreren
+Bereichen glänzt. Ihr könnt dies
+selbst testen, um zu sehen, wie ihr all
+diese Modelle in euren eigenen
+Arbeitsablauf integrieren könnt. Ich
+empfehle euch sehr, einen Blick auf die
+Links in der Videobeschreibung zu
+werfen, da dies komplett kostenlos
+möglich ist. So bekommt ihr ein
+besseres Gefühl dafür, was ihr mit
+diesem Modell tun könnt und versteht
+auch die anderen Tools, die euch im
+KI-Bereich unterstützen können. Was
+bei diesem Modell aber verrückt ist:
+Die Preise sind gegenüber Version 2.5
+nicht gestiegen. Xiaomi behauptet, dass
+das Mimo Version 2.6 Pro einen neuen
+Preis-Leistungs-Rekord unter den
+chinesischen Modellen aufstellt und nur
+ein Zwanzigstel bis ein Sechzigstel der
+Kosten führender internationaler
+Modelle bei vergleichbarer Intelligenz
+verursacht. Und was die Benchmarks
+betrifft, so sieht man, dass es in
+vielen verschiedenen Bereichen wie
+Programmierung, allgemeine
+Anwendungsfälle sowie in verschiedenen
+visuellen und Cyber-Kategorien sehr
+wettbewerbsfähig ist. Wie bei Deep
+Seek Version 1.1 liegt es hier leicht
+hinter den modernsten Modellen wie GPT-
+6 Astra sowie anderen
+State-of-the-Art-Modellen zurück. Auch
+beim Program Bench erzielt es ziemlich
+unglaubliche Ergebnisse. Insgesamt
+sieht man einfach, dass dies ein
+wirklich wettbewerbsfähiges Modell ist
+, das wahnsinnig schnell und extrem
+günstig ist und in vielen
+verschiedenen Bereichen diese irren
+Ergebnisse liefert. Sogar im
+Intelligenz-Index von Artificial
+Analysis übertrifft es Kimi K3 und
+Quant 3.8 Max und wird zum stärksten
+Open-Source-Modell, und das ist nicht
+der einzige Benchmark, der das
+bestätigt. Auch unser World of AI
+Benchmark validiert diese Behauptung,
+und es ist einfach verrückt, weil es
+nah an GPT 5.6 herankommt, obwohl es
+Open-Source ist, was einfach irre ist.
+Sehen Sie das? Dies wurde tatsächlich
+von der Version 2.6 Pro erstellt. Es
+ist einfach verrückt, Leute, dass ein
+Modell diese Art von Qualität ausgeben
+konnte. Das ist etwas, wofür ein
+Spieleentwickler wahrscheinlich mehrere
+Monate zum Programmieren brauchen
+würde, und in diesem Fall wurde es
+innerhalb weniger Tage erledigt. Hier
+zeigt sich, dass Mimo Version 2.6
+außergewöhnlich gut bei 3
+D-räumlichem Denken, multimodaler
+Wahrnehmung und sogar Computernutzung
+ist. Es ist etwas, das es Ihnen
+ermöglicht, Text, Bilder oder Videos
+in spielbare 3 D-Welten zu verwandeln,
+wie Sie hier sehen können. Es kann
+sogar Blender-Szenen erstellen, Roboter
+in Simulationen steuern und
+Desktop-Tools autonom zur
+Aufgabenbewältigung nutzen. Im Grunde
+genommen ist das
+Preis-Leistungs-Verhältnis das, was es
+vor jedes andere interessante Modell
+setzt. Es bietet offensichtlich eine
+unglaubliche Leistung in mehreren
+Bereichen und liefert diese Leistung
+gleichzeitig zu unglaublich günstigen
+Preisen, weshalb Sie sich das unbedingt
+ansehen sollten, besonders da die
+Flash-Variante derzeit kostenlos ist.
+Einige weitere Details zu diesem Modell
+: Es enthält ein Kontextfenster von 1
+Million Token und hat dieselben Preise
+wie Version 2.5, was großartig ist.
+Die Pro-Version kostet 43 Cent pro 1
+Million Input-Token und 87 Cent pro 1
+Million Output-Token. Und die Version
+2.5 Flash kostet 14 Cent pro 1 Million
+Input-Token sowie 28 Cent pro 1 Million
+Output-Token. Was wir jetzt tun werden,
+ist, dieses Modell zu testen. Wenn Sie
+mit diesem Modell loslegen möchten,
+können Sie dies ganz einfach über den
+Mimo-Chatbot tun, für den ich einen
+Link in der Beschreibung unten
+hinterlasse. Sie können auch über
+deren API darauf zugreifen. Wie ich
+bereits erwähnt habe, können Sie
+jetzt komplett kostenlos über
+Open-Code darauf zugreifen, wo Ihnen
+die Flash-Variante ebenfalls völlig
+gratis zur Verfügung steht. Und falls
+Sie es noch nicht getan haben, können
+Sie einen Blick in die Welt der
+KI-Benchmark-Suite werfen, wo Sie sogar
+testen können, ob es etwas ist, das
+Sie nutzen möchten. Darüber hinaus
+erhalten Sie Zugang zu meiner
+Prompt-Bibliothek, daher kann ich nur
+empfehlen, dort einmal reinzuschauen.
+Aber jetzt werden wir dieses Modell in
+mehreren Bereichen testen, um zu sehen,
+wie leistungsfähig es ist und was man
+tatsächlich damit machen kann.
+Beginnen wir mit meiner
+Lieblingsgenerierung: Hier konnte Meemo
+Version 2.6 Pro ein vollständiges 3
+D-Spiel im Sonic-Stil von Grund auf neu
+erstellen. Es hat die Programmierung
+hinter der 3 D-Umgebung, die
+Charakterbewegung und die Physik
+übernommen–schaut euch einfach die
+Qualität an, Leute. Das ist wirklich
+absolut verrückt, und es gibt sogar
+verschiedene Arten von Levels.
+Natürlich gibt es ein paar Dinge, die
+im Moment noch nicht ganz perfekt
+aussehen, aber abgesehen davon wurden
+das Kamerasystem, das Leveldesign, die
+Hindernisse und die Spielmechanik
+gründlich generiert, und es konnte all
+diese Funktionen stimmig zusammenfügen
+. Es ist also einfach wahnsinnig, dass
+es in der Lage war, eine vollständig
+spielbare Erfahrung auszugeben, die das
+ursprüngliche Sonic-Spiel nachahmt.
+Nun haben wir endlich ein chinesisches
+KI-Modell, das nicht denselben
+Designstil kopiert wie die führenden
+Modelle von Anthropic oder OpenAI, denn
+das Xiaomi Mi Moji Version 2.6 Pro und
+auch die Flash-Variante können
+ziemlich großartige Designs ausgeben,
+die eindeutig ihren eigenen
+Designgeschmack widerspiegeln, was man
+an den verschiedenen Frontends sehen
+kann, die sie in ihrem Blogbeitrag
+vorgestellt haben. Ich werde auch meine
+eigenen Generierungen zeigen, aber das
+ist etwas, das ich einfach
+unterstreichen wollte. Es verdeutlicht
+den eigenen Designgeschmack mit ein
+paar der verschiedenen Landingpages,
+die von Version 2.5 oder 6 generiert
+wurden, und insgesamt zeigt es einfach,
+wie gut das Modell darin ist, diese
+unterschiedlichen Ergebnisse zu
+erzeugen. Hier hatte ich es gebeten,
+eine Landingpage für Nvidia zu
+erstellen, und natürlich konnte es
+nicht jeden Aspekt wie das Logo und
+alles andere exakt klonen, aber die
+Tatsache, dass es diesen
+Grafikprozessor mit einem 3 D-Modell
+vollständig ausprogrammiert und viele
+dieser interaktiven Elemente zur Seite
+hinzugefügt hat, ist einfach
+unglaublich. Hier sieht man sehr gut,
+dass das Modell bei der Erstellung
+dieses 3 D-Modells der Grafikkarte
+großartige Arbeit geleistet hat, was
+bei den meisten anderen Modellen oft
+nicht gelingt. Deshalb gilt es derzeit
+auch als das beste Open-Source-Modell,
+das aktuell verfügbar ist. Man erkennt
+all die anderen Elemente, die mit der
+Anmeldeseite generiert wurden, die
+Scroll-Trigger und die verschiedenen
+Design-Nuancen–insgesamt muss ich
+sagen, dass ich begeistert bin, was das
+Modell mit diesen verschiedenen
+Front-End-Generierungen geschafft hat.
+Schauen Sie sich das einfach mal an.
+Dies ist eine Live-Darstellung der
+Funktionsweise des Kühlsystems bei
+dieser GPU. Natürlich wirken die 3
+D-Dimensionen in dieser Darstellung
+nicht ganz perfekt, aber es ist cool,
+diese Draufsicht auf den Lufteinlass
+und den Luftausstoß zu sehen.
+Insgesamt liebe ich diese Generierung
+wirklich, und es ist toll, dass dieses
+Modell so etwas ausgeben konnte. Wenn
+Sie die besten KI-Tools, Workflows und
+Neuheiten vor allen anderen erfahren
+möchten, abonnieren Sie meinen
+kostenlosen Newsletter über den Link
+in der Videobeschreibung–das Ganze
+ist komplett kostenlos. Als Nächstes
+habe ich das Modell angewiesen, ein
+Formel-Drift-Szenario zu generieren; es
+handelt sich um eine 3 GS-Simulation,
+in der ein F1-Wagen unendlich lange
+Donuts dreht. Und das ist
+wahrscheinlich die beste Generierung,
+die ich jemals mit diesem speziellen
+Prompt erhalten habe. Es wurden sogar,
+wie man hört, die passenden
+Soundeffekte hinzugefügt. Es gibt
+verschiedene Kamerawinkel, aber schauen
+Sie sich einfach die gesamte Szene an,
+die hier generiert wurde. Lassen Sie
+mich kurz den Ton ausschalten, weil das
+wirklich nervig ist, aber alles an
+dieser Szene ist einfach unglaublich,
+Leute. Hier konnte es das 3 D-Modell
+des F1-Wagens wirklich gründlich
+generieren. Natürlich sieht es nicht
+exakt wie ein echter F1-Wagen aus, aber
+betrachten Sie einmal alle Details
+dieser Szene. Man hat verschiedene
+Kamerawinkel und den Rauch, der beim
+Driften entsteht. Man sieht
+Reifenspuren sowie den Wechsel in den
+Rückwärtsgang und Zeitlupeneffekte.
+Es ist einfach unglaublich, dass wir
+diese Art von Generierung erreicht
+haben, Leute, denn so etwas habe ich
+bisher bei keinem anderen Modell
+gesehen, selbst beim Astra-Modell nicht
+. Ich bin zu dem Schluss gekommen, dass
+dieses Modell bei 3 D-Umgebungen
+außergewöhnlich gut abschneidet. Es
+ist in der Lage, verschiedene 3
+D-Pakete basierend auf dem jeweiligen
+Prompt wirklich gut zu imitieren und zu
+morphen. Wie in diesem Fall, wo es
+diesen isometrischen Raum basierend auf
+meiner Anfrage erstellt hat. Sie haben
+natürlich verschiedene Kamerawinkel.
+Sie haben sogar die Möglichkeit,
+verschiedene Arten von Objekten in
+diesem Raum hervorzuheben. Es erzeugt
+diesen Effekt: Wenn Sie mit der Maus
+darüberfahren, erhalten Sie eine
+Bewegung und Animation, die Ihnen eine
+bessere Visualisierung des Produkts
+selbst bietet und sogar etwas Kontext
+zur Umgebung hinzufügt, was ebenfalls
+sehr cool ist. Als Nächstes haben wir
+dieses SVG-Gemälde, und sowohl die
+Funktionalität als auch die visuelle
+Qualität dieses Ergebnisses sind
+einfach unglaublich. Sie haben
+natürlich die Möglichkeit, bestimmte
+Dinge an diesem Gemälde anzupassen,
+wie zum Beispiel die Animationen zu
+ändern, etwa den sich langsam
+bewegenden Baum. Es gibt sogar Wind,
+Vögel und viele Elemente, die zu
+funktionieren und sich zu bewegen
+scheinen, was dieser Generierung
+Lebendigkeit verleiht. Insgesamt liebe
+ich einfach die Qualität, die mit dem
+spezifischen SVG-Prompt sowie einigen
+anderen Prompts, wie der Kunstleinwand
+und der New Yorker Skyline, erreicht
+wurde. Es hat einen ziemlich
+ordentlichen Job gemacht. Insgesamt hat
+es alles generiert, was wir angefordert
+hatten, aber der einzige kleine Fehler,
+den wir in dieser Darstellung sehen
+können, sind die fliegenden Autos. An
+dieser Stelle sollte eigentlich eine
+Brücke die Stadt verbinden, aber in
+diesem Fall nehme ich an, dass sie
+über diese Gebäude gelegt wurde. Aber
+abgesehen davon scheint alles andere
+ziemlich gut generiert worden zu sein.
+Man kann sehen, dass die Autos sogar
+Scheinwerfer haben, und natürlich gibt
+es kleine Animationen sowie einige
+Details, wie zum Beispiel einen kleinen
+Gehweg. Sie haben einen Hubschrauber.
+Sie haben sogar den Mond, der dieses
+kleine Licht, diesen Farbton,
+ausstrahlt. Insgesamt liebe ich also
+die Generierungsqualität mit diesem
+speziellen Prompt wirklich. Nun,
+normalerweise, oder besser gesagt in
+letzter Zeit, habe ich aufgehört,
+Klone zu machen, wie diese
+OS-Klon-Demos, da wir alle wissen, dass
+viele dieser Prompts mittlerweile von
+vielen dieser Modelle kontaminiert sind
+. Aber ich wollte diesen Windows 95-
+Klon präsentieren, weil er ein
+Detaillevel aufweist, das ich
+eigentlich von Astra oder sogar Fable
+erwarten würde, da er offensichtlich
+viele der Kernkomponenten des
+ursprünglichen Betriebssystems
+enthält. Aber zu sehen, wie ein
+Open-Weight-Modell so etwas generiert,
+ist fantastisch, denn Sie haben die
+Diskette, natürlich Ihren Hauptrechner
+und viele dieser anderen Komponenten,
+die die meisten Modelle normalerweise
+nicht generieren. Sie haben die Tipps.
+Sie können dies natürlich schließen,
+aber Sie haben zum Beispiel das
+Internet, das ziemlich gut
+ausprogrammiert wurde. Sie haben eine
+Menge dieser anderen Elemente. Es ist
+einfach wirklich cool zu sehen, dass
+dies etwas ist, das vollständig von
+diesem Modell selbst dargestellt wurde,
+und man hat sogar die
+DOS-Eingabeaufforderung selbst. Das ist
+also etwas, von dem ich wirklich nicht
+erwartet hätte, dass dieses Modell es
+tatsächlich generieren würde. Wenn
+dir dieses Video gefällt und du den
+Kanal unterstützen möchtest, kannst
+du über die „Super Thanks“-Option
+unter dem Video spenden. Oder du kannst
+unserem privaten Discord beitreten, wo
+du monatlich kostenlosen Zugriff auf
+verschiedene Abonnements für
+unterschiedliche KI-Tools erhältst,
+sowie tägliche KI-News, exklusive
+Inhalte und vieles mehr. Und Leute,
+wenn ihr möchtet, dass dieses Modell
+Visualisierungen erstellt, die euch
+helfen, verschiedene Arten von
+Generierungen oder Konzepten besser zu
+artikulieren, dann ist dies das Modell,
+das ihr verwenden wollt, da es
+offensichtlich wirklich gut im
+Front-End mit seinem eigenen
+Design-Geschmack ist. Die
+Preisgestaltung ist zudem
+außergewöhnlich, was man an einigen
+dieser verschiedenen Generierungen
+sehen kann, wie etwa bei einem
+simulierten Grafikrechner, der
+Benutzeroberfläche und den
+verschiedenen Detailebenen, die es
+zuweisen kann. Seht ihr das hier? Dies
+ist ein Simulationsspiel, das das
+Modell tatsächlich erstellt hat. Man
+hat die Möglichkeit, die Simulation
+offensichtlich weiter zu skalieren,
+indem man diese verschiedenen Arten von
+Mechaniken sowie Funktionen in die Welt
+einbaut, wie etwa das Hinzufügen von
+Parks, Landwirtschaft und Wohngebieten.
+Dies sind alles verschiedene Arten von
+Funktionen, die vollständig in diese
+Generierung hineincodiert wurden, und
+ich liebe es wirklich, dass das Modell
+diese Art von Qualität liefern kann.
+Man merkt, dass es wirklich gut mit 3
+D-Umgebungen umgehen kann, da hier alle
+diese Elemente vollständig vom Modell
+codiert wurden. Wie ich bereits
+erwähnt habe, ist das
+Preis-Leistungs-Verhältnis das, was
+einen dazu bewegt, dieses Modell zu
+nutzen, da es offensichtlich schnell
+ist und die Arbeit zu einem unglaublich
+günstigeren Preis erledigt als die
+anderen hochmodernen Modelle, weshalb
+man dieses Modell verwenden möchte.
+Insgesamt bin ich wirklich begeistert
+von diesem Modell und es ist verrückt,
+dass dies nur ein kleines Upgrade von
+der 2.5 er-Version ist. Wir könnten
+größere Upgrades von Xiaomi sehen,
+vielleicht sogar die 3.0-Version, die
+es auf das gleiche Niveau wie UCPC 6
+Astra bringen würde. Ich weiß es
+nicht, ich vermute es nur, aber wenn
+sie ein RSI-System entwickeln, eine
+skalierende RL-Struktur oder ein
+Framework, das ihnen beim Trainieren
+von Modellen hilft, wäre das ziemlich
+revolutionär, und wir würden recht
+bald großartigere Modelle von Xiaomi
+sehen, falls sie dieses System
+etabliert haben. Aber insgesamt ist
+dies ein Modell, das verschiedene Arten
+von Aufgaben wie Frontend, komplexe 3
+D-Umgebungen und sogar multimodale
+Aufgaben ziemlich gut bewältigen kann.
+Es ist außerdem etwas, das sich bei
+visuellen Aufgaben im Bereich der
+Computernutzung und sogar in der
+Robotik sehr gut schlägt. Es ist also
+ein Modell, das in vielen Bereichen
+überzeugt und dabei kosteneffizient
+sowie insgesamt sehr schnell ist. Das
+ist etwas, das ich unbedingt zum
+Ausprobieren empfehlen würde. Ich
+werde alle Links, die ich im heutigen
+Video verwende, unten in die
+Beschreibung einfügen. Aber damit,
+Leute, vielen herzlichen Dank fürs
+Zuschauen. Ich hoffe, euch hat das
+heutige Video gefallen. Schaut euch
+unbedingt auch unsere School-Community
+an, dort erhaltet ihr Zugang zu vielen
+verschiedenen Vorteilen sowie
+vorzeitigen Zugriff auf das Testen von
+KI-Modellen. Werft unbedingt einen
+Blick auf die Welt der AI Vibe Coding
+Platform und den Benchmark. Schaut euch
+auch gerne unseren zweiten Kanal an.
+Schließt euch unserem Newsletter und
+Discord an, folgt mir auf Twitter und
+abonniert schließlich unseren Kanal.
+Aktiviert die Glocke, gebt dem Video
+ein Like und seht euch unsere früheren
+Videos an, damit ihr bei den neuesten
+KI-Nachrichten auf dem Laufenden bleibt
+. Aber damit, Leute, habt einen
+fantastischen Tag, verbreitet
+Positivität und wir sehen uns ganz
+bald wieder. Macht’s gut, Leute.

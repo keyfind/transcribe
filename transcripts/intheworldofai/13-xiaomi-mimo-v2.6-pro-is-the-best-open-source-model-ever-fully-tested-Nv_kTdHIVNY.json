@@ -1,0 +1,2397 @@
+{
+  "video": {
+    "video_id": "Nv_kTdHIVNY",
+    "title": "Xiaomi MiMo-V2.6 Pro IS THE BEST Open Source Model EVER! (Fully Tested)",
+    "url": "https://www.youtube.com/watch?v=Nv_kTdHIVNY",
+    "published_at": null,
+    "duration": 978
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.68,
+      "duration": 3.111,
+      "text": "Xiaomi ist überraschend mit einem"
+    },
+    {
+      "start": 2.853,
+      "duration": 2.304,
+      "text": "beeindruckenden neuen"
+    },
+    {
+      "start": 4.219,
+      "duration": 3.173,
+      "text": "Open-Source-KI-Modell zurück: Mimo"
+    },
+    {
+      "start": 6.454,
+      "duration": 3.759,
+      "text": "Version 2.6. Dies ist ihr nächster"
+    },
+    {
+      "start": 9.261,
+      "duration": 2.727,
+      "text": "großer Schritt in Richtung RSI, ein"
+    },
+    {
+      "start": 11.036,
+      "duration": 2.774,
+      "text": "Konzept, das sie in ihrem Blogbeitrag"
+    },
+    {
+      "start": 12.858,
+      "duration": 2.487,
+      "text": "hervorgehoben haben und das ich"
+    },
+    {
+      "start": 14.393,
+      "duration": 3.997,
+      "text": "ziemlich interessant fand. Es ist zudem"
+    },
+    {
+      "start": 17.438,
+      "duration": 2.808,
+      "text": "ein Modell, das auf die Skalierung von"
+    },
+    {
+      "start": 19.294,
+      "duration": 2.522,
+      "text": "RL setzt, also auf Reinforcement"
+    },
+    {
+      "start": 20.864,
+      "duration": 2.856,
+      "text": "Learning bei komplexen, überprüfbaren"
+    },
+    {
+      "start": 22.767,
+      "duration": 2.761,
+      "text": "Aufgaben, damit sich das Modell durch"
+    },
+    {
+      "start": 24.576,
+      "duration": 2.475,
+      "text": "Exploration und Feedback stetig"
+    },
+    {
+      "start": 26.098,
+      "duration": 4.918,
+      "text": "verbessern kann. Die Mimo-Version 2.6-"
+    },
+    {
+      "start": 30.016,
+      "duration": 3.109,
+      "text": "Reihe umfasst nun das Pro-Modell, ihr"
+    },
+    {
+      "start": 32.182,
+      "duration": 2.939,
+      "text": "bisher leistungsfähigstes Modell,"
+    },
+    {
+      "start": 34.178,
+      "duration": 3.109,
+      "text": "sowie Flash, das auf Geschwindigkeit,"
+    },
+    {
+      "start": 36.344,
+      "duration": 4.476,
+      "text": "Effizienz und Kosten optimiert ist. Es"
+    },
+    {
+      "start": 39.871,
+      "duration": 2.917,
+      "text": "gibt auch einen Pro Ultra-Speed-Modus,"
+    },
+    {
+      "start": 41.838,
+      "duration": 2.867,
+      "text": "der bis zu 20-mal schnellere Ausgaben"
+    },
+    {
+      "start": 43.756,
+      "duration": 3.727,
+      "text": "bei gleicher Qualität liefert. Das"
+    },
+    {
+      "start": 46.55,
+      "duration": 3.424,
+      "text": "hier ist das Flash-Modell und es ist"
+    },
+    {
+      "start": 49.041,
+      "duration": 3.46,
+      "text": "wahnsinnig schnell. Und noch etwas: Man"
+    },
+    {
+      "start": 51.558,
+      "duration": 2.878,
+      "text": "kann tatsächlich kostenlos über"
+    },
+    {
+      "start": 53.493,
+      "duration": 2.974,
+      "text": "OpenRouter darauf zugreifen. Ich werde"
+    },
+    {
+      "start": 55.498,
+      "duration": 2.513,
+      "text": "von ihnen nicht gesponsert. Ich wollte"
+    },
+    {
+      "start": 57.059,
+      "duration": 2.746,
+      "text": "es euch nur wissen lassen, da ihr das"
+    },
+    {
+      "start": 58.852,
+      "duration": 2.841,
+      "text": "Beste daraus machen könnt, weil dieses"
+    },
+    {
+      "start": 60.74,
+      "duration": 2.651,
+      "text": "Modell ziemlich leistungsfähig und"
+    },
+    {
+      "start": 62.439,
+      "duration": 3.383,
+      "text": "natürlich kostenlos ist. Leute,"
+    },
+    {
+      "start": 64.862,
+      "duration": 2.533,
+      "text": "Entschuldigung für die Unterbrechung,"
+    },
+    {
+      "start": 66.436,
+      "duration": 2.573,
+      "text": "aber falls ihr es noch nicht getan habt"
+    },
+    {
+      "start": 68.009,
+      "duration": 2.332,
+      "text": ", abonniert bitte den World of AI"
+    },
+    {
+      "start": 69.381,
+      "duration": 2.372,
+      "text": "YouTube-Kanal, da mir das wirklich"
+    },
+    {
+      "start": 70.793,
+      "duration": 2.412,
+      "text": "helfen würde und es mir natürlich"
+    },
+    {
+      "start": 72.246,
+      "duration": 2.573,
+      "text": "ermöglicht, jeden Tag Videos zu machen"
+    },
+    {
+      "start": 73.819,
+      "duration": 2.325,
+      "text": ". Gebt diesem Video auch ein „"
+    },
+    {
+      "start": 75.144,
+      "duration": 2.401,
+      "text": "Gefällt mir“, falls möglich. Das"
+    },
+    {
+      "start": 76.574,
+      "duration": 3.576,
+      "text": "bedeutet mir wirklich sehr viel. Auf"
+    },
+    {
+      "start": 79.208,
+      "duration": 2.89,
+      "text": "dem World of AI-Benchmark und der"
+    },
+    {
+      "start": 81.156,
+      "duration": 3.177,
+      "text": "Vibe-Coding-Plattform haben wir dieses"
+    },
+    {
+      "start": 83.39,
+      "duration": 2.547,
+      "text": "Modell rigoros getestet und"
+    },
+    {
+      "start": 84.994,
+      "duration": 3.005,
+      "text": "festgestellt, dass es ziemlich weit"
+    },
+    {
+      "start": 87.056,
+      "duration": 4.277,
+      "text": "oben rangiert. Wir fanden, dass es das"
+    },
+    {
+      "start": 90.389,
+      "duration": 2.799,
+      "text": "derzeit beste Modell mit offenen"
+    },
+    {
+      "start": 92.244,
+      "duration": 2.687,
+      "text": "Gewichten ist, das in mehreren"
+    },
+    {
+      "start": 93.987,
+      "duration": 2.907,
+      "text": "Bereichen glänzt. Ihr könnt dies"
+    },
+    {
+      "start": 95.94,
+      "duration": 2.794,
+      "text": "selbst testen, um zu sehen, wie ihr all"
+    },
+    {
+      "start": 97.78,
+      "duration": 2.38,
+      "text": "diese Modelle in euren eigenen"
+    },
+    {
+      "start": 99.206,
+      "duration": 2.843,
+      "text": "Arbeitsablauf integrieren könnt. Ich"
+    },
+    {
+      "start": 101.097,
+      "duration": 2.87,
+      "text": "empfehle euch sehr, einen Blick auf die"
+    },
+    {
+      "start": 103.015,
+      "duration": 2.582,
+      "text": "Links in der Videobeschreibung zu"
+    },
+    {
+      "start": 104.645,
+      "duration": 2.629,
+      "text": "werfen, da dies komplett kostenlos"
+    },
+    {
+      "start": 106.322,
+      "duration": 2.73,
+      "text": "möglich ist. So bekommt ihr ein"
+    },
+    {
+      "start": 108.098,
+      "duration": 2.625,
+      "text": "besseres Gefühl dafür, was ihr mit"
+    },
+    {
+      "start": 109.768,
+      "duration": 2.671,
+      "text": "diesem Modell tun könnt und versteht"
+    },
+    {
+      "start": 111.484,
+      "duration": 2.581,
+      "text": "auch die anderen Tools, die euch im"
+    },
+    {
+      "start": 113.11,
+      "duration": 3.509,
+      "text": "KI-Bereich unterstützen können. Was"
+    },
+    {
+      "start": 115.672,
+      "duration": 2.969,
+      "text": "bei diesem Modell aber verrückt ist:"
+    },
+    {
+      "start": 117.694,
+      "duration": 3.021,
+      "text": "Die Preise sind gegenüber Version 2.5"
+    },
+    {
+      "start": 119.768,
+      "duration": 3.715,
+      "text": "nicht gestiegen. Xiaomi behauptet, dass"
+    },
+    {
+      "start": 122.532,
+      "duration": 2.743,
+      "text": "das Mimo Version 2.6 Pro einen neuen"
+    },
+    {
+      "start": 124.323,
+      "duration": 2.549,
+      "text": "Preis-Leistungs-Rekord unter den"
+    },
+    {
+      "start": 125.92,
+      "duration": 2.888,
+      "text": "chinesischen Modellen aufstellt und nur"
+    },
+    {
+      "start": 127.857,
+      "duration": 2.888,
+      "text": "ein Zwanzigstel bis ein Sechzigstel der"
+    },
+    {
+      "start": 129.793,
+      "duration": 2.598,
+      "text": "Kosten führender internationaler"
+    },
+    {
+      "start": 131.439,
+      "duration": 2.84,
+      "text": "Modelle bei vergleichbarer Intelligenz"
+    },
+    {
+      "start": 133.327,
+      "duration": 4.616,
+      "text": "verursacht. Und was die Benchmarks"
+    },
+    {
+      "start": 137.003,
+      "duration": 3.015,
+      "text": "betrifft, so sieht man, dass es in"
+    },
+    {
+      "start": 139.077,
+      "duration": 3.015,
+      "text": "vielen verschiedenen Bereichen wie"
+    },
+    {
+      "start": 141.151,
+      "duration": 2.541,
+      "text": "Programmierung, allgemeine"
+    },
+    {
+      "start": 142.751,
+      "duration": 3.312,
+      "text": "Anwendungsfälle sowie in verschiedenen"
+    },
+    {
+      "start": 145.122,
+      "duration": 3.074,
+      "text": "visuellen und Cyber-Kategorien sehr"
+    },
+    {
+      "start": 147.256,
+      "duration": 4.375,
+      "text": "wettbewerbsfähig ist. Wie bei Deep"
+    },
+    {
+      "start": 150.694,
+      "duration": 3.322,
+      "text": "Seek Version 1.1 liegt es hier leicht"
+    },
+    {
+      "start": 153.079,
+      "duration": 3.447,
+      "text": "hinter den modernsten Modellen wie GPT-"
+    },
+    {
+      "start": 155.526,
+      "duration": 2.317,
+      "text": "6 Astra sowie anderen"
+    },
+    {
+      "start": 156.906,
+      "duration": 3.831,
+      "text": "State-of-the-Art-Modellen zurück. Auch"
+    },
+    {
+      "start": 159.806,
+      "duration": 3.638,
+      "text": "beim Program Bench erzielt es ziemlich"
+    },
+    {
+      "start": 162.513,
+      "duration": 3.61,
+      "text": "unglaubliche Ergebnisse. Insgesamt"
+    },
+    {
+      "start": 165.179,
+      "duration": 2.792,
+      "text": "sieht man einfach, dass dies ein"
+    },
+    {
+      "start": 167.027,
+      "duration": 3.184,
+      "text": "wirklich wettbewerbsfähiges Modell ist"
+    },
+    {
+      "start": 169.211,
+      "duration": 2.96,
+      "text": ", das wahnsinnig schnell und extrem"
+    },
+    {
+      "start": 171.227,
+      "duration": 2.456,
+      "text": "günstig ist und in vielen"
+    },
+    {
+      "start": 172.739,
+      "duration": 2.96,
+      "text": "verschiedenen Bereichen diese irren"
+    },
+    {
+      "start": 174.755,
+      "duration": 3.31,
+      "text": "Ergebnisse liefert. Sogar im"
+    },
+    {
+      "start": 177.131,
+      "duration": 3.103,
+      "text": "Intelligenz-Index von Artificial"
+    },
+    {
+      "start": 179.3,
+      "duration": 3.3,
+      "text": "Analysis übertrifft es Kimi K3 und"
+    },
+    {
+      "start": 181.665,
+      "duration": 3.432,
+      "text": "Quant 3.8 Max und wird zum stärksten"
+    },
+    {
+      "start": 184.162,
+      "duration": 3.432,
+      "text": "Open-Source-Modell, und das ist nicht"
+    },
+    {
+      "start": 186.66,
+      "duration": 2.971,
+      "text": "der einzige Benchmark, der das"
+    },
+    {
+      "start": 188.697,
+      "duration": 3.67,
+      "text": "bestätigt. Auch unser World of AI"
+    },
+    {
+      "start": 191.441,
+      "duration": 3.739,
+      "text": "Benchmark validiert diese Behauptung,"
+    },
+    {
+      "start": 194.254,
+      "duration": 3.739,
+      "text": "und es ist einfach verrückt, weil es"
+    },
+    {
+      "start": 197.067,
+      "duration": 3.665,
+      "text": "nah an GPT 5.6 herankommt, obwohl es"
+    },
+    {
+      "start": 199.806,
+      "duration": 3.814,
+      "text": "Open-Source ist, was einfach irre ist."
+    },
+    {
+      "start": 202.8,
+      "duration": 2.948,
+      "text": "Sehen Sie das? Dies wurde tatsächlich"
+    },
+    {
+      "start": 204.797,
+      "duration": 3.703,
+      "text": "von der Version 2.6 Pro erstellt. Es"
+    },
+    {
+      "start": 207.541,
+      "duration": 2.537,
+      "text": "ist einfach verrückt, Leute, dass ein"
+    },
+    {
+      "start": 209.118,
+      "duration": 2.578,
+      "text": "Modell diese Art von Qualität ausgeben"
+    },
+    {
+      "start": 210.736,
+      "duration": 3.703,
+      "text": "konnte. Das ist etwas, wofür ein"
+    },
+    {
+      "start": 213.486,
+      "duration": 2.81,
+      "text": "Spieleentwickler wahrscheinlich mehrere"
+    },
+    {
+      "start": 215.343,
+      "duration": 2.532,
+      "text": "Monate zum Programmieren brauchen"
+    },
+    {
+      "start": 216.921,
+      "duration": 2.625,
+      "text": "würde, und in diesem Fall wurde es"
+    },
+    {
+      "start": 218.593,
+      "duration": 3.841,
+      "text": "innerhalb weniger Tage erledigt. Hier"
+    },
+    {
+      "start": 221.493,
+      "duration": 2.943,
+      "text": "zeigt sich, dass Mimo Version 2.6"
+    },
+    {
+      "start": 223.495,
+      "duration": 2.59,
+      "text": "außergewöhnlich gut bei 3"
+    },
+    {
+      "start": 225.144,
+      "duration": 3.002,
+      "text": "D-räumlichem Denken, multimodaler"
+    },
+    {
+      "start": 227.205,
+      "duration": 3.179,
+      "text": "Wahrnehmung und sogar Computernutzung"
+    },
+    {
+      "start": 229.443,
+      "duration": 3.231,
+      "text": "ist. Es ist etwas, das es Ihnen"
+    },
+    {
+      "start": 231.719,
+      "duration": 2.672,
+      "text": "ermöglicht, Text, Bilder oder Videos"
+    },
+    {
+      "start": 233.436,
+      "duration": 2.718,
+      "text": "in spielbare 3 D-Welten zu verwandeln,"
+    },
+    {
+      "start": 235.199,
+      "duration": 2.892,
+      "text": "wie Sie hier sehen können. Es kann"
+    },
+    {
+      "start": 237.147,
+      "duration": 3.184,
+      "text": "sogar Blender-Szenen erstellen, Roboter"
+    },
+    {
+      "start": 239.387,
+      "duration": 2.512,
+      "text": "in Simulationen steuern und"
+    },
+    {
+      "start": 240.955,
+      "duration": 2.4,
+      "text": "Desktop-Tools autonom zur"
+    },
+    {
+      "start": 242.411,
+      "duration": 3.872,
+      "text": "Aufgabenbewältigung nutzen. Im Grunde"
+    },
+    {
+      "start": 245.339,
+      "duration": 1.896,
+      "text": "genommen ist das"
+    },
+    {
+      "start": 246.291,
+      "duration": 3.184,
+      "text": "Preis-Leistungs-Verhältnis das, was es"
+    },
+    {
+      "start": 248.531,
+      "duration": 3.016,
+      "text": "vor jedes andere interessante Modell"
+    },
+    {
+      "start": 250.603,
+      "duration": 4.78,
+      "text": "setzt. Es bietet offensichtlich eine"
+    },
+    {
+      "start": 254.449,
+      "duration": 3.167,
+      "text": "unglaubliche Leistung in mehreren"
+    },
+    {
+      "start": 256.681,
+      "duration": 3.364,
+      "text": "Bereichen und liefert diese Leistung"
+    },
+    {
+      "start": 259.11,
+      "duration": 3.495,
+      "text": "gleichzeitig zu unglaublich günstigen"
+    },
+    {
+      "start": 261.671,
+      "duration": 3.56,
+      "text": "Preisen, weshalb Sie sich das unbedingt"
+    },
+    {
+      "start": 264.297,
+      "duration": 3.167,
+      "text": "ansehen sollten, besonders da die"
+    },
+    {
+      "start": 266.529,
+      "duration": 3.43,
+      "text": "Flash-Variante derzeit kostenlos ist."
+    },
+    {
+      "start": 271.119,
+      "duration": 2.967,
+      "text": "Einige weitere Details zu diesem Modell"
+    },
+    {
+      "start": 273.086,
+      "duration": 2.918,
+      "text": ": Es enthält ein Kontextfenster von 1"
+    },
+    {
+      "start": 275.054,
+      "duration": 2.918,
+      "text": "Million Token und hat dieselben Preise"
+    },
+    {
+      "start": 277.022,
+      "duration": 2.817,
+      "text": "wie Version 2.5, was großartig ist."
+    },
+    {
+      "start": 280.019,
+      "duration": 3.265,
+      "text": "Die Pro-Version kostet 43 Cent pro 1"
+    },
+    {
+      "start": 282.346,
+      "duration": 3.328,
+      "text": "Million Input-Token und 87 Cent pro 1"
+    },
+    {
+      "start": 284.737,
+      "duration": 4.259,
+      "text": "Million Output-Token. Und die Version"
+    },
+    {
+      "start": 288.077,
+      "duration": 4.083,
+      "text": "2.5 Flash kostet 14 Cent pro 1 Million"
+    },
+    {
+      "start": 291.241,
+      "duration": 4.163,
+      "text": "Input-Token sowie 28 Cent pro 1 Million"
+    },
+    {
+      "start": 294.485,
+      "duration": 4.097,
+      "text": "Output-Token. Was wir jetzt tun werden,"
+    },
+    {
+      "start": 297.621,
+      "duration": 2.73,
+      "text": "ist, dieses Modell zu testen. Wenn Sie"
+    },
+    {
+      "start": 299.393,
+      "duration": 2.492,
+      "text": "mit diesem Modell loslegen möchten,"
+    },
+    {
+      "start": 300.926,
+      "duration": 2.616,
+      "text": "können Sie dies ganz einfach über den"
+    },
+    {
+      "start": 302.584,
+      "duration": 2.492,
+      "text": "Mimo-Chatbot tun, für den ich einen"
+    },
+    {
+      "start": 304.117,
+      "duration": 2.244,
+      "text": "Link in der Beschreibung unten"
+    },
+    {
+      "start": 305.402,
+      "duration": 2.553,
+      "text": "hinterlasse. Sie können auch über"
+    },
+    {
+      "start": 306.996,
+      "duration": 2.752,
+      "text": "deren API darauf zugreifen. Wie ich"
+    },
+    {
+      "start": 308.789,
+      "duration": 2.407,
+      "text": "bereits erwähnt habe, können Sie"
+    },
+    {
+      "start": 310.237,
+      "duration": 2.241,
+      "text": "jetzt komplett kostenlos über"
+    },
+    {
+      "start": 311.519,
+      "duration": 2.49,
+      "text": "Open-Code darauf zugreifen, wo Ihnen"
+    },
+    {
+      "start": 313.05,
+      "duration": 2.489,
+      "text": "die Flash-Variante ebenfalls völlig"
+    },
+    {
+      "start": 314.58,
+      "duration": 3.067,
+      "text": "gratis zur Verfügung steht. Und falls"
+    },
+    {
+      "start": 316.692,
+      "duration": 2.726,
+      "text": "Sie es noch nicht getan haben, können"
+    },
+    {
+      "start": 318.463,
+      "duration": 2.407,
+      "text": "Sie einen Blick in die Welt der"
+    },
+    {
+      "start": 319.916,
+      "duration": 2.77,
+      "text": "KI-Benchmark-Suite werfen, wo Sie sogar"
+    },
+    {
+      "start": 321.732,
+      "duration": 2.634,
+      "text": "testen können, ob es etwas ist, das"
+    },
+    {
+      "start": 323.412,
+      "duration": 2.912,
+      "text": "Sie nutzen möchten. Darüber hinaus"
+    },
+    {
+      "start": 325.363,
+      "duration": 2.131,
+      "text": "erhalten Sie Zugang zu meiner"
+    },
+    {
+      "start": 326.533,
+      "duration": 2.443,
+      "text": "Prompt-Bibliothek, daher kann ich nur"
+    },
+    {
+      "start": 328.015,
+      "duration": 2.444,
+      "text": "empfehlen, dort einmal reinzuschauen."
+    },
+    {
+      "start": 329.659,
+      "duration": 2.897,
+      "text": "Aber jetzt werden wir dieses Modell in"
+    },
+    {
+      "start": 331.606,
+      "duration": 2.948,
+      "text": "mehreren Bereichen testen, um zu sehen,"
+    },
+    {
+      "start": 333.604,
+      "duration": 2.897,
+      "text": "wie leistungsfähig es ist und was man"
+    },
+    {
+      "start": 335.551,
+      "duration": 2.549,
+      "text": "tatsächlich damit machen kann."
+    },
+    {
+      "start": 337.659,
+      "duration": 2.376,
+      "text": "Beginnen wir mit meiner"
+    },
+    {
+      "start": 339.095,
+      "duration": 3.335,
+      "text": "Lieblingsgenerierung: Hier konnte Meemo"
+    },
+    {
+      "start": 341.49,
+      "duration": 3.155,
+      "text": "Version 2.6 Pro ein vollständiges 3"
+    },
+    {
+      "start": 343.705,
+      "duration": 3.335,
+      "text": "D-Spiel im Sonic-Stil von Grund auf neu"
+    },
+    {
+      "start": 346.1,
+      "duration": 3.29,
+      "text": "erstellen. Es hat die Programmierung"
+    },
+    {
+      "start": 348.437,
+      "duration": 2.312,
+      "text": "hinter der 3 D-Umgebung, die"
+    },
+    {
+      "start": 349.796,
+      "duration": 2.499,
+      "text": "Charakterbewegung und die Physik"
+    },
+    {
+      "start": 351.342,
+      "duration": 2.734,
+      "text": "übernommen–schaut euch einfach die"
+    },
+    {
+      "start": 353.122,
+      "duration": 3.041,
+      "text": "Qualität an, Leute. Das ist wirklich"
+    },
+    {
+      "start": 355.212,
+      "duration": 2.766,
+      "text": "absolut verrückt, und es gibt sogar"
+    },
+    {
+      "start": 357.027,
+      "duration": 2.472,
+      "text": "verschiedene Arten von Levels."
+    },
+    {
+      "start": 358.819,
+      "duration": 3.372,
+      "text": "Natürlich gibt es ein paar Dinge, die"
+    },
+    {
+      "start": 361.253,
+      "duration": 3.06,
+      "text": "im Moment noch nicht ganz perfekt"
+    },
+    {
+      "start": 363.376,
+      "duration": 3.31,
+      "text": "aussehen, aber abgesehen davon wurden"
+    },
+    {
+      "start": 365.748,
+      "duration": 3.372,
+      "text": "das Kamerasystem, das Leveldesign, die"
+    },
+    {
+      "start": 368.183,
+      "duration": 3.06,
+      "text": "Hindernisse und die Spielmechanik"
+    },
+    {
+      "start": 370.305,
+      "duration": 3.435,
+      "text": "gründlich generiert, und es konnte all"
+    },
+    {
+      "start": 372.802,
+      "duration": 3.435,
+      "text": "diese Funktionen stimmig zusammenfügen"
+    },
+    {
+      "start": 375.237,
+      "duration": 3.265,
+      "text": ". Es ist also einfach wahnsinnig, dass"
+    },
+    {
+      "start": 377.552,
+      "duration": 2.852,
+      "text": "es in der Lage war, eine vollständig"
+    },
+    {
+      "start": 379.454,
+      "duration": 2.953,
+      "text": "spielbare Erfahrung auszugeben, die das"
+    },
+    {
+      "start": 381.457,
+      "duration": 2.803,
+      "text": "ursprüngliche Sonic-Spiel nachahmt."
+    },
+    {
+      "start": 384.92,
+      "duration": 3.278,
+      "text": "Nun haben wir endlich ein chinesisches"
+    },
+    {
+      "start": 387.258,
+      "duration": 2.798,
+      "text": "KI-Modell, das nicht denselben"
+    },
+    {
+      "start": 389.116,
+      "duration": 3.218,
+      "text": "Designstil kopiert wie die führenden"
+    },
+    {
+      "start": 391.394,
+      "duration": 3.338,
+      "text": "Modelle von Anthropic oder OpenAI, denn"
+    },
+    {
+      "start": 393.792,
+      "duration": 3.278,
+      "text": "das Xiaomi Mi Moji Version 2.6 Pro und"
+    },
+    {
+      "start": 396.13,
+      "duration": 2.858,
+      "text": "auch die Flash-Variante können"
+    },
+    {
+      "start": 398.048,
+      "duration": 3.278,
+      "text": "ziemlich großartige Designs ausgeben,"
+    },
+    {
+      "start": 400.386,
+      "duration": 2.619,
+      "text": "die eindeutig ihren eigenen"
+    },
+    {
+      "start": 402.065,
+      "duration": 3.278,
+      "text": "Designgeschmack widerspiegeln, was man"
+    },
+    {
+      "start": 404.403,
+      "duration": 3.158,
+      "text": "an den verschiedenen Frontends sehen"
+    },
+    {
+      "start": 406.621,
+      "duration": 3.038,
+      "text": "kann, die sie in ihrem Blogbeitrag"
+    },
+    {
+      "start": 408.719,
+      "duration": 4.314,
+      "text": "vorgestellt haben. Ich werde auch meine"
+    },
+    {
+      "start": 412.074,
+      "duration": 2.548,
+      "text": "eigenen Generierungen zeigen, aber das"
+    },
+    {
+      "start": 413.663,
+      "duration": 2.059,
+      "text": "ist etwas, das ich einfach"
+    },
+    {
+      "start": 414.762,
+      "duration": 3.416,
+      "text": "unterstreichen wollte. Es verdeutlicht"
+    },
+    {
+      "start": 417.238,
+      "duration": 3.097,
+      "text": "den eigenen Designgeschmack mit ein"
+    },
+    {
+      "start": 419.395,
+      "duration": 3.157,
+      "text": "paar der verschiedenen Landingpages,"
+    },
+    {
+      "start": 421.612,
+      "duration": 3.157,
+      "text": "die von Version 2.5 oder 6 generiert"
+    },
+    {
+      "start": 423.829,
+      "duration": 3.336,
+      "text": "wurden, und insgesamt zeigt es einfach,"
+    },
+    {
+      "start": 426.225,
+      "duration": 3.097,
+      "text": "wie gut das Modell darin ist, diese"
+    },
+    {
+      "start": 428.382,
+      "duration": 2.857,
+      "text": "unterschiedlichen Ergebnisse zu"
+    },
+    {
+      "start": 430.299,
+      "duration": 4.918,
+      "text": "erzeugen. Hier hatte ich es gebeten,"
+    },
+    {
+      "start": 434.266,
+      "duration": 2.524,
+      "text": "eine Landingpage für Nvidia zu"
+    },
+    {
+      "start": 435.84,
+      "duration": 2.721,
+      "text": "erstellen, und natürlich konnte es"
+    },
+    {
+      "start": 437.61,
+      "duration": 2.721,
+      "text": "nicht jeden Aspekt wie das Logo und"
+    },
+    {
+      "start": 439.38,
+      "duration": 2.721,
+      "text": "alles andere exakt klonen, aber die"
+    },
+    {
+      "start": 441.15,
+      "duration": 2.18,
+      "text": "Tatsache, dass es diesen"
+    },
+    {
+      "start": 442.38,
+      "duration": 2.77,
+      "text": "Grafikprozessor mit einem 3 D-Modell"
+    },
+    {
+      "start": 444.199,
+      "duration": 2.868,
+      "text": "vollständig ausprogrammiert und viele"
+    },
+    {
+      "start": 446.117,
+      "duration": 2.868,
+      "text": "dieser interaktiven Elemente zur Seite"
+    },
+    {
+      "start": 448.034,
+      "duration": 2.426,
+      "text": "hinzugefügt hat, ist einfach"
+    },
+    {
+      "start": 449.509,
+      "duration": 3.943,
+      "text": "unglaublich. Hier sieht man sehr gut,"
+    },
+    {
+      "start": 452.496,
+      "duration": 2.493,
+      "text": "dass das Modell bei der Erstellung"
+    },
+    {
+      "start": 454.033,
+      "duration": 2.493,
+      "text": "dieses 3 D-Modells der Grafikkarte"
+    },
+    {
+      "start": 455.57,
+      "duration": 2.625,
+      "text": "großartige Arbeit geleistet hat, was"
+    },
+    {
+      "start": 457.239,
+      "duration": 2.581,
+      "text": "bei den meisten anderen Modellen oft"
+    },
+    {
+      "start": 458.864,
+      "duration": 3.329,
+      "text": "nicht gelingt. Deshalb gilt es derzeit"
+    },
+    {
+      "start": 461.241,
+      "duration": 2.807,
+      "text": "auch als das beste Open-Source-Modell,"
+    },
+    {
+      "start": 463.096,
+      "duration": 3.418,
+      "text": "das aktuell verfügbar ist. Man erkennt"
+    },
+    {
+      "start": 465.569,
+      "duration": 3.004,
+      "text": "all die anderen Elemente, die mit der"
+    },
+    {
+      "start": 467.627,
+      "duration": 2.843,
+      "text": "Anmeldeseite generiert wurden, die"
+    },
+    {
+      "start": 469.524,
+      "duration": 2.95,
+      "text": "Scroll-Trigger und die verschiedenen"
+    },
+    {
+      "start": 471.528,
+      "duration": 2.897,
+      "text": "Design-Nuancen–insgesamt muss ich"
+    },
+    {
+      "start": 473.479,
+      "duration": 3.113,
+      "text": "sagen, dass ich begeistert bin, was das"
+    },
+    {
+      "start": 475.646,
+      "duration": 2.68,
+      "text": "Modell mit diesen verschiedenen"
+    },
+    {
+      "start": 477.38,
+      "duration": 3.059,
+      "text": "Front-End-Generierungen geschafft hat."
+    },
+    {
+      "start": 479.541,
+      "duration": 2.237,
+      "text": "Schauen Sie sich das einfach mal an."
+    },
+    {
+      "start": 480.972,
+      "duration": 2.996,
+      "text": "Dies ist eine Live-Darstellung der"
+    },
+    {
+      "start": 483.027,
+      "duration": 3.056,
+      "text": "Funktionsweise des Kühlsystems bei"
+    },
+    {
+      "start": 485.141,
+      "duration": 3.375,
+      "text": "dieser GPU. Natürlich wirken die 3"
+    },
+    {
+      "start": 487.584,
+      "duration": 3.378,
+      "text": "D-Dimensionen in dieser Darstellung"
+    },
+    {
+      "start": 490.03,
+      "duration": 3.514,
+      "text": "nicht ganz perfekt, aber es ist cool,"
+    },
+    {
+      "start": 492.612,
+      "duration": 3.446,
+      "text": "diese Draufsicht auf den Lufteinlass"
+    },
+    {
+      "start": 495.126,
+      "duration": 3.039,
+      "text": "und den Luftausstoß zu sehen."
+    },
+    {
+      "start": 497.559,
+      "duration": 2.806,
+      "text": "Insgesamt liebe ich diese Generierung"
+    },
+    {
+      "start": 499.414,
+      "duration": 2.855,
+      "text": "wirklich, und es ist toll, dass dieses"
+    },
+    {
+      "start": 501.317,
+      "duration": 3.078,
+      "text": "Modell so etwas ausgeben konnte. Wenn"
+    },
+    {
+      "start": 503.434,
+      "duration": 2.476,
+      "text": "Sie die besten KI-Tools, Workflows und"
+    },
+    {
+      "start": 504.949,
+      "duration": 2.399,
+      "text": "Neuheiten vor allen anderen erfahren"
+    },
+    {
+      "start": 506.387,
+      "duration": 2.205,
+      "text": "möchten, abonnieren Sie meinen"
+    },
+    {
+      "start": 507.63,
+      "duration": 2.438,
+      "text": "kostenlosen Newsletter über den Link"
+    },
+    {
+      "start": 509.107,
+      "duration": 2.399,
+      "text": "in der Videobeschreibung–das Ganze"
+    },
+    {
+      "start": 510.545,
+      "duration": 3.09,
+      "text": "ist komplett kostenlos. Als Nächstes"
+    },
+    {
+      "start": 512.688,
+      "duration": 2.875,
+      "text": "habe ich das Modell angewiesen, ein"
+    },
+    {
+      "start": 514.617,
+      "duration": 3.089,
+      "text": "Formel-Drift-Szenario zu generieren; es"
+    },
+    {
+      "start": 516.759,
+      "duration": 2.982,
+      "text": "handelt sich um eine 3 GS-Simulation,"
+    },
+    {
+      "start": 518.795,
+      "duration": 2.875,
+      "text": "in der ein F1-Wagen unendlich lange"
+    },
+    {
+      "start": 520.723,
+      "duration": 2.848,
+      "text": "Donuts dreht. Und das ist"
+    },
+    {
+      "start": 522.608,
+      "duration": 2.384,
+      "text": "wahrscheinlich die beste Generierung,"
+    },
+    {
+      "start": 524.029,
+      "duration": 2.347,
+      "text": "die ich jemals mit diesem speziellen"
+    },
+    {
+      "start": 525.413,
+      "duration": 3.588,
+      "text": "Prompt erhalten habe. Es wurden sogar,"
+    },
+    {
+      "start": 528.045,
+      "duration": 2.229,
+      "text": "wie man hört, die passenden"
+    },
+    {
+      "start": 529.318,
+      "duration": 2.601,
+      "text": "Soundeffekte hinzugefügt. Es gibt"
+    },
+    {
+      "start": 530.967,
+      "duration": 2.894,
+      "text": "verschiedene Kamerawinkel, aber schauen"
+    },
+    {
+      "start": 532.91,
+      "duration": 2.846,
+      "text": "Sie sich einfach die gesamte Szene an,"
+    },
+    {
+      "start": 534.804,
+      "duration": 3.145,
+      "text": "die hier generiert wurde. Lassen Sie"
+    },
+    {
+      "start": 536.994,
+      "duration": 2.752,
+      "text": "mich kurz den Ton ausschalten, weil das"
+    },
+    {
+      "start": 538.791,
+      "duration": 2.527,
+      "text": "wirklich nervig ist, aber alles an"
+    },
+    {
+      "start": 540.363,
+      "duration": 2.662,
+      "text": "dieser Szene ist einfach unglaublich,"
+    },
+    {
+      "start": 542.07,
+      "duration": 3.458,
+      "text": "Leute. Hier konnte es das 3 D-Modell"
+    },
+    {
+      "start": 544.591,
+      "duration": 3.06,
+      "text": "des F1-Wagens wirklich gründlich"
+    },
+    {
+      "start": 546.713,
+      "duration": 3.391,
+      "text": "generieren. Natürlich sieht es nicht"
+    },
+    {
+      "start": 549.157,
+      "duration": 3.066,
+      "text": "exakt wie ein echter F1-Wagen aus, aber"
+    },
+    {
+      "start": 551.276,
+      "duration": 2.801,
+      "text": "betrachten Sie einmal alle Details"
+    },
+    {
+      "start": 553.13,
+      "duration": 3.012,
+      "text": "dieser Szene. Man hat verschiedene"
+    },
+    {
+      "start": 555.2,
+      "duration": 3.093,
+      "text": "Kamerawinkel und den Rauch, der beim"
+    },
+    {
+      "start": 557.351,
+      "duration": 2.74,
+      "text": "Driften entsteht. Man sieht"
+    },
+    {
+      "start": 559.15,
+      "duration": 3.213,
+      "text": "Reifenspuren sowie den Wechsel in den"
+    },
+    {
+      "start": 561.422,
+      "duration": 3.213,
+      "text": "Rückwärtsgang und Zeitlupeneffekte."
+    },
+    {
+      "start": 563.735,
+      "duration": 2.808,
+      "text": "Es ist einfach unglaublich, dass wir"
+    },
+    {
+      "start": 565.593,
+      "duration": 2.708,
+      "text": "diese Art von Generierung erreicht"
+    },
+    {
+      "start": 567.352,
+      "duration": 2.808,
+      "text": "haben, Leute, denn so etwas habe ich"
+    },
+    {
+      "start": 569.21,
+      "duration": 2.608,
+      "text": "bisher bei keinem anderen Modell"
+    },
+    {
+      "start": 570.868,
+      "duration": 2.959,
+      "text": "gesehen, selbst beim Astra-Modell nicht"
+    },
+    {
+      "start": 572.827,
+      "duration": 3.104,
+      "text": ". Ich bin zu dem Schluss gekommen, dass"
+    },
+    {
+      "start": 574.971,
+      "duration": 2.255,
+      "text": "dieses Modell bei 3 D-Umgebungen"
+    },
+    {
+      "start": 576.265,
+      "duration": 2.998,
+      "text": "außergewöhnlich gut abschneidet. Es"
+    },
+    {
+      "start": 578.325,
+      "duration": 2.927,
+      "text": "ist in der Lage, verschiedene 3"
+    },
+    {
+      "start": 580.314,
+      "duration": 3.3,
+      "text": "D-Pakete basierend auf dem jeweiligen"
+    },
+    {
+      "start": 582.676,
+      "duration": 3.424,
+      "text": "Prompt wirklich gut zu imitieren und zu"
+    },
+    {
+      "start": 585.162,
+      "duration": 3.751,
+      "text": "morphen. Wie in diesem Fall, wo es"
+    },
+    {
+      "start": 587.982,
+      "duration": 3.705,
+      "text": "diesen isometrischen Raum basierend auf"
+    },
+    {
+      "start": 590.756,
+      "duration": 3.536,
+      "text": "meiner Anfrage erstellt hat. Sie haben"
+    },
+    {
+      "start": 593.334,
+      "duration": 2.543,
+      "text": "natürlich verschiedene Kamerawinkel."
+    },
+    {
+      "start": 594.977,
+      "duration": 3.098,
+      "text": "Sie haben sogar die Möglichkeit,"
+    },
+    {
+      "start": 597.139,
+      "duration": 3.162,
+      "text": "verschiedene Arten von Objekten in"
+    },
+    {
+      "start": 599.364,
+      "duration": 3.522,
+      "text": "diesem Raum hervorzuheben. Es erzeugt"
+    },
+    {
+      "start": 601.95,
+      "duration": 3.299,
+      "text": "diesen Effekt: Wenn Sie mit der Maus"
+    },
+    {
+      "start": 604.313,
+      "duration": 3.108,
+      "text": "darüberfahren, erhalten Sie eine"
+    },
+    {
+      "start": 606.485,
+      "duration": 3.427,
+      "text": "Bewegung und Animation, die Ihnen eine"
+    },
+    {
+      "start": 608.976,
+      "duration": 3.235,
+      "text": "bessere Visualisierung des Produkts"
+    },
+    {
+      "start": 611.275,
+      "duration": 3.363,
+      "text": "selbst bietet und sogar etwas Kontext"
+    },
+    {
+      "start": 613.702,
+      "duration": 3.427,
+      "text": "zur Umgebung hinzufügt, was ebenfalls"
+    },
+    {
+      "start": 616.193,
+      "duration": 4.395,
+      "text": "sehr cool ist. Als Nächstes haben wir"
+    },
+    {
+      "start": 619.638,
+      "duration": 2.778,
+      "text": "dieses SVG-Gemälde, und sowohl die"
+    },
+    {
+      "start": 621.466,
+      "duration": 2.879,
+      "text": "Funktionalität als auch die visuelle"
+    },
+    {
+      "start": 623.396,
+      "duration": 2.676,
+      "text": "Qualität dieses Ergebnisses sind"
+    },
+    {
+      "start": 625.123,
+      "duration": 2.922,
+      "text": "einfach unglaublich. Sie haben"
+    },
+    {
+      "start": 627.104,
+      "duration": 3.249,
+      "text": "natürlich die Möglichkeit, bestimmte"
+    },
+    {
+      "start": 629.412,
+      "duration": 3.13,
+      "text": "Dinge an diesem Gemälde anzupassen,"
+    },
+    {
+      "start": 631.601,
+      "duration": 3.071,
+      "text": "wie zum Beispiel die Animationen zu"
+    },
+    {
+      "start": 633.731,
+      "duration": 2.776,
+      "text": "ändern, etwa den sich langsam"
+    },
+    {
+      "start": 635.566,
+      "duration": 3.289,
+      "text": "bewegenden Baum. Es gibt sogar Wind,"
+    },
+    {
+      "start": 637.913,
+      "duration": 2.939,
+      "text": "Vögel und viele Elemente, die zu"
+    },
+    {
+      "start": 639.911,
+      "duration": 2.938,
+      "text": "funktionieren und sich zu bewegen"
+    },
+    {
+      "start": 641.908,
+      "duration": 2.879,
+      "text": "scheinen, was dieser Generierung"
+    },
+    {
+      "start": 643.846,
+      "duration": 3.788,
+      "text": "Lebendigkeit verleiht. Insgesamt liebe"
+    },
+    {
+      "start": 646.688,
+      "duration": 3.05,
+      "text": "ich einfach die Qualität, die mit dem"
+    },
+    {
+      "start": 648.792,
+      "duration": 2.996,
+      "text": "spezifischen SVG-Prompt sowie einigen"
+    },
+    {
+      "start": 650.842,
+      "duration": 3.05,
+      "text": "anderen Prompts, wie der Kunstleinwand"
+    },
+    {
+      "start": 652.946,
+      "duration": 2.942,
+      "text": "und der New Yorker Skyline, erreicht"
+    },
+    {
+      "start": 654.942,
+      "duration": 2.91,
+      "text": "wurde. Es hat einen ziemlich"
+    },
+    {
+      "start": 656.887,
+      "duration": 3.212,
+      "text": "ordentlichen Job gemacht. Insgesamt hat"
+    },
+    {
+      "start": 659.147,
+      "duration": 2.863,
+      "text": "es alles generiert, was wir angefordert"
+    },
+    {
+      "start": 661.057,
+      "duration": 2.863,
+      "text": "hatten, aber der einzige kleine Fehler,"
+    },
+    {
+      "start": 662.968,
+      "duration": 2.671,
+      "text": "den wir in dieser Darstellung sehen"
+    },
+    {
+      "start": 664.687,
+      "duration": 4.186,
+      "text": "können, sind die fliegenden Autos. An"
+    },
+    {
+      "start": 667.93,
+      "duration": 3.062,
+      "text": "dieser Stelle sollte eigentlich eine"
+    },
+    {
+      "start": 670.049,
+      "duration": 3.062,
+      "text": "Brücke die Stadt verbinden, aber in"
+    },
+    {
+      "start": 672.168,
+      "duration": 2.947,
+      "text": "diesem Fall nehme ich an, dass sie"
+    },
+    {
+      "start": 674.172,
+      "duration": 3.849,
+      "text": "über diese Gebäude gelegt wurde. Aber"
+    },
+    {
+      "start": 677.061,
+      "duration": 2.458,
+      "text": "abgesehen davon scheint alles andere"
+    },
+    {
+      "start": 678.56,
+      "duration": 2.539,
+      "text": "ziemlich gut generiert worden zu sein."
+    },
+    {
+      "start": 681.159,
+      "duration": 3.318,
+      "text": "Man kann sehen, dass die Autos sogar"
+    },
+    {
+      "start": 683.542,
+      "duration": 3.512,
+      "text": "Scheinwerfer haben, und natürlich gibt"
+    },
+    {
+      "start": 686.118,
+      "duration": 3.19,
+      "text": "es kleine Animationen sowie einige"
+    },
+    {
+      "start": 688.372,
+      "duration": 3.512,
+      "text": "Details, wie zum Beispiel einen kleinen"
+    },
+    {
+      "start": 690.949,
+      "duration": 4.086,
+      "text": "Gehweg. Sie haben einen Hubschrauber."
+    },
+    {
+      "start": 694.135,
+      "duration": 3.222,
+      "text": "Sie haben sogar den Mond, der dieses"
+    },
+    {
+      "start": 696.419,
+      "duration": 2.79,
+      "text": "kleine Licht, diesen Farbton,"
+    },
+    {
+      "start": 698.27,
+      "duration": 3.278,
+      "text": "ausstrahlt. Insgesamt liebe ich also"
+    },
+    {
+      "start": 700.604,
+      "duration": 3.022,
+      "text": "die Generierungsqualität mit diesem"
+    },
+    {
+      "start": 702.682,
+      "duration": 3.9,
+      "text": "speziellen Prompt wirklich. Nun,"
+    },
+    {
+      "start": 705.623,
+      "duration": 2.466,
+      "text": "normalerweise, oder besser gesagt in"
+    },
+    {
+      "start": 707.13,
+      "duration": 2.384,
+      "text": "letzter Zeit, habe ich aufgehört,"
+    },
+    {
+      "start": 708.555,
+      "duration": 2.059,
+      "text": "Klone zu machen, wie diese"
+    },
+    {
+      "start": 709.654,
+      "duration": 2.589,
+      "text": "OS-Klon-Demos, da wir alle wissen, dass"
+    },
+    {
+      "start": 711.283,
+      "duration": 2.507,
+      "text": "viele dieser Prompts mittlerweile von"
+    },
+    {
+      "start": 712.831,
+      "duration": 2.588,
+      "text": "vielen dieser Modelle kontaminiert sind"
+    },
+    {
+      "start": 714.419,
+      "duration": 4.934,
+      "text": ". Aber ich wollte diesen Windows 95-"
+    },
+    {
+      "start": 718.353,
+      "duration": 2.781,
+      "text": "Klon präsentieren, weil er ein"
+    },
+    {
+      "start": 720.191,
+      "duration": 2.666,
+      "text": "Detaillevel aufweist, das ich"
+    },
+    {
+      "start": 721.915,
+      "duration": 3.125,
+      "text": "eigentlich von Astra oder sogar Fable"
+    },
+    {
+      "start": 724.098,
+      "duration": 3.125,
+      "text": "erwarten würde, da er offensichtlich"
+    },
+    {
+      "start": 726.281,
+      "duration": 2.666,
+      "text": "viele der Kernkomponenten des"
+    },
+    {
+      "start": 728.004,
+      "duration": 2.781,
+      "text": "ursprünglichen Betriebssystems"
+    },
+    {
+      "start": 729.842,
+      "duration": 3.907,
+      "text": "enthält. Aber zu sehen, wie ein"
+    },
+    {
+      "start": 732.806,
+      "duration": 3.158,
+      "text": "Open-Weight-Modell so etwas generiert,"
+    },
+    {
+      "start": 735.021,
+      "duration": 2.987,
+      "text": "ist fantastisch, denn Sie haben die"
+    },
+    {
+      "start": 737.065,
+      "duration": 3.215,
+      "text": "Diskette, natürlich Ihren Hauptrechner"
+    },
+    {
+      "start": 739.337,
+      "duration": 3.101,
+      "text": "und viele dieser anderen Komponenten,"
+    },
+    {
+      "start": 741.495,
+      "duration": 3.101,
+      "text": "die die meisten Modelle normalerweise"
+    },
+    {
+      "start": 743.653,
+      "duration": 3.132,
+      "text": "nicht generieren. Sie haben die Tipps."
+    },
+    {
+      "start": 745.885,
+      "duration": 2.643,
+      "text": "Sie können dies natürlich schließen,"
+    },
+    {
+      "start": 747.57,
+      "duration": 2.306,
+      "text": "aber Sie haben zum Beispiel das"
+    },
+    {
+      "start": 748.918,
+      "duration": 2.095,
+      "text": "Internet, das ziemlich gut"
+    },
+    {
+      "start": 750.056,
+      "duration": 2.622,
+      "text": "ausprogrammiert wurde. Sie haben eine"
+    },
+    {
+      "start": 751.713,
+      "duration": 2.771,
+      "text": "Menge dieser anderen Elemente. Es ist"
+    },
+    {
+      "start": 753.531,
+      "duration": 2.705,
+      "text": "einfach wirklich cool zu sehen, dass"
+    },
+    {
+      "start": 755.283,
+      "duration": 2.705,
+      "text": "dies etwas ist, das vollständig von"
+    },
+    {
+      "start": 757.035,
+      "duration": 2.847,
+      "text": "diesem Modell selbst dargestellt wurde,"
+    },
+    {
+      "start": 758.929,
+      "duration": 1.994,
+      "text": "und man hat sogar die"
+    },
+    {
+      "start": 759.971,
+      "duration": 3.29,
+      "text": "DOS-Eingabeaufforderung selbst. Das ist"
+    },
+    {
+      "start": 762.296,
+      "duration": 2.312,
+      "text": "also etwas, von dem ich wirklich nicht"
+    },
+    {
+      "start": 763.642,
+      "duration": 2.313,
+      "text": "erwartet hätte, dass dieses Modell es"
+    },
+    {
+      "start": 764.989,
+      "duration": 2.567,
+      "text": "tatsächlich generieren würde. Wenn"
+    },
+    {
+      "start": 766.608,
+      "duration": 2.868,
+      "text": "dir dieses Video gefällt und du den"
+    },
+    {
+      "start": 768.528,
+      "duration": 2.92,
+      "text": "Kanal unterstützen möchtest, kannst"
+    },
+    {
+      "start": 770.5,
+      "duration": 2.972,
+      "text": "du über die „Super Thanks“-Option"
+    },
+    {
+      "start": 772.524,
+      "duration": 3.145,
+      "text": "unter dem Video spenden. Oder du kannst"
+    },
+    {
+      "start": 774.723,
+      "duration": 3.088,
+      "text": "unserem privaten Discord beitreten, wo"
+    },
+    {
+      "start": 776.866,
+      "duration": 2.977,
+      "text": "du monatlich kostenlosen Zugriff auf"
+    },
+    {
+      "start": 778.898,
+      "duration": 2.593,
+      "text": "verschiedene Abonnements für"
+    },
+    {
+      "start": 780.546,
+      "duration": 2.978,
+      "text": "unterschiedliche KI-Tools erhältst,"
+    },
+    {
+      "start": 782.579,
+      "duration": 2.867,
+      "text": "sowie tägliche KI-News, exklusive"
+    },
+    {
+      "start": 784.501,
+      "duration": 4.087,
+      "text": "Inhalte und vieles mehr. Und Leute,"
+    },
+    {
+      "start": 787.635,
+      "duration": 2.725,
+      "text": "wenn ihr möchtet, dass dieses Modell"
+    },
+    {
+      "start": 789.407,
+      "duration": 2.632,
+      "text": "Visualisierungen erstellt, die euch"
+    },
+    {
+      "start": 791.086,
+      "duration": 2.399,
+      "text": "helfen, verschiedene Arten von"
+    },
+    {
+      "start": 792.532,
+      "duration": 2.772,
+      "text": "Generierungen oder Konzepten besser zu"
+    },
+    {
+      "start": 794.351,
+      "duration": 2.819,
+      "text": "artikulieren, dann ist dies das Modell,"
+    },
+    {
+      "start": 796.217,
+      "duration": 2.399,
+      "text": "das ihr verwenden wollt, da es"
+    },
+    {
+      "start": 797.663,
+      "duration": 2.399,
+      "text": "offensichtlich wirklich gut im"
+    },
+    {
+      "start": 799.108,
+      "duration": 2.306,
+      "text": "Front-End mit seinem eigenen"
+    },
+    {
+      "start": 800.461,
+      "duration": 2.978,
+      "text": "Design-Geschmack ist. Die"
+    },
+    {
+      "start": 802.489,
+      "duration": 2.269,
+      "text": "Preisgestaltung ist zudem"
+    },
+    {
+      "start": 803.809,
+      "duration": 2.877,
+      "text": "außergewöhnlich, was man an einigen"
+    },
+    {
+      "start": 805.737,
+      "duration": 2.725,
+      "text": "dieser verschiedenen Generierungen"
+    },
+    {
+      "start": 807.513,
+      "duration": 2.522,
+      "text": "sehen kann, wie etwa bei einem"
+    },
+    {
+      "start": 809.086,
+      "duration": 2.522,
+      "text": "simulierten Grafikrechner, der"
+    },
+    {
+      "start": 810.659,
+      "duration": 2.37,
+      "text": "Benutzeroberfläche und den"
+    },
+    {
+      "start": 812.08,
+      "duration": 2.725,
+      "text": "verschiedenen Detailebenen, die es"
+    },
+    {
+      "start": 813.856,
+      "duration": 3.843,
+      "text": "zuweisen kann. Seht ihr das hier? Dies"
+    },
+    {
+      "start": 816.749,
+      "duration": 2.65,
+      "text": "ist ein Simulationsspiel, das das"
+    },
+    {
+      "start": 818.449,
+      "duration": 3.501,
+      "text": "Modell tatsächlich erstellt hat. Man"
+    },
+    {
+      "start": 821.008,
+      "duration": 3.061,
+      "text": "hat die Möglichkeit, die Simulation"
+    },
+    {
+      "start": 823.126,
+      "duration": 3.005,
+      "text": "offensichtlich weiter zu skalieren,"
+    },
+    {
+      "start": 825.188,
+      "duration": 3.233,
+      "text": "indem man diese verschiedenen Arten von"
+    },
+    {
+      "start": 827.479,
+      "duration": 3.233,
+      "text": "Mechaniken sowie Funktionen in die Welt"
+    },
+    {
+      "start": 829.769,
+      "duration": 3.119,
+      "text": "einbaut, wie etwa das Hinzufügen von"
+    },
+    {
+      "start": 831.945,
+      "duration": 3.234,
+      "text": "Parks, Landwirtschaft und Wohngebieten."
+    },
+    {
+      "start": 835.139,
+      "duration": 2.774,
+      "text": "Dies sind alles verschiedene Arten von"
+    },
+    {
+      "start": 836.96,
+      "duration": 2.728,
+      "text": "Funktionen, die vollständig in diese"
+    },
+    {
+      "start": 838.735,
+      "duration": 2.727,
+      "text": "Generierung hineincodiert wurden, und"
+    },
+    {
+      "start": 840.509,
+      "duration": 2.775,
+      "text": "ich liebe es wirklich, dass das Modell"
+    },
+    {
+      "start": 842.331,
+      "duration": 2.728,
+      "text": "diese Art von Qualität liefern kann."
+    },
+    {
+      "start": 844.816,
+      "duration": 3.365,
+      "text": "Man merkt, dass es wirklich gut mit 3"
+    },
+    {
+      "start": 847.245,
+      "duration": 3.494,
+      "text": "D-Umgebungen umgehen kann, da hier alle"
+    },
+    {
+      "start": 849.803,
+      "duration": 3.429,
+      "text": "diese Elemente vollständig vom Modell"
+    },
+    {
+      "start": 852.296,
+      "duration": 4.015,
+      "text": "codiert wurden. Wie ich bereits"
+    },
+    {
+      "start": 855.375,
+      "duration": 2.41,
+      "text": "erwähnt habe, ist das"
+    },
+    {
+      "start": 856.849,
+      "duration": 3.307,
+      "text": "Preis-Leistungs-Verhältnis das, was"
+    },
+    {
+      "start": 859.22,
+      "duration": 3.242,
+      "text": "einen dazu bewegt, dieses Modell zu"
+    },
+    {
+      "start": 861.526,
+      "duration": 3.307,
+      "text": "nutzen, da es offensichtlich schnell"
+    },
+    {
+      "start": 863.897,
+      "duration": 3.5,
+      "text": "ist und die Arbeit zu einem unglaublich"
+    },
+    {
+      "start": 866.461,
+      "duration": 3.242,
+      "text": "günstigeren Preis erledigt als die"
+    },
+    {
+      "start": 868.768,
+      "duration": 3.371,
+      "text": "anderen hochmodernen Modelle, weshalb"
+    },
+    {
+      "start": 871.203,
+      "duration": 3.307,
+      "text": "man dieses Modell verwenden möchte."
+    },
+    {
+      "start": 875.719,
+      "duration": 2.522,
+      "text": "Insgesamt bin ich wirklich begeistert"
+    },
+    {
+      "start": 877.282,
+      "duration": 2.605,
+      "text": "von diesem Modell und es ist verrückt,"
+    },
+    {
+      "start": 878.928,
+      "duration": 2.523,
+      "text": "dass dies nur ein kleines Upgrade von"
+    },
+    {
+      "start": 880.492,
+      "duration": 3.529,
+      "text": "der 2.5 er-Version ist. Wir könnten"
+    },
+    {
+      "start": 883.086,
+      "duration": 3.348,
+      "text": "größere Upgrades von Xiaomi sehen,"
+    },
+    {
+      "start": 885.499,
+      "duration": 3.413,
+      "text": "vielleicht sogar die 3.0-Version, die"
+    },
+    {
+      "start": 887.977,
+      "duration": 3.348,
+      "text": "es auf das gleiche Niveau wie UCPC 6"
+    },
+    {
+      "start": 890.39,
+      "duration": 3.776,
+      "text": "Astra bringen würde. Ich weiß es"
+    },
+    {
+      "start": 893.22,
+      "duration": 2.939,
+      "text": "nicht, ich vermute es nur, aber wenn"
+    },
+    {
+      "start": 895.213,
+      "duration": 2.886,
+      "text": "sie ein RSI-System entwickeln, eine"
+    },
+    {
+      "start": 897.153,
+      "duration": 2.724,
+      "text": "skalierende RL-Struktur oder ein"
+    },
+    {
+      "start": 898.931,
+      "duration": 2.939,
+      "text": "Framework, das ihnen beim Trainieren"
+    },
+    {
+      "start": 900.924,
+      "duration": 3.048,
+      "text": "von Modellen hilft, wäre das ziemlich"
+    },
+    {
+      "start": 903.026,
+      "duration": 2.939,
+      "text": "revolutionär, und wir würden recht"
+    },
+    {
+      "start": 905.019,
+      "duration": 2.993,
+      "text": "bald großartigere Modelle von Xiaomi"
+    },
+    {
+      "start": 907.066,
+      "duration": 2.617,
+      "text": "sehen, falls sie dieses System"
+    },
+    {
+      "start": 908.736,
+      "duration": 3.941,
+      "text": "etabliert haben. Aber insgesamt ist"
+    },
+    {
+      "start": 911.725,
+      "duration": 2.861,
+      "text": "dies ein Modell, das verschiedene Arten"
+    },
+    {
+      "start": 913.634,
+      "duration": 2.766,
+      "text": "von Aufgaben wie Frontend, komplexe 3"
+    },
+    {
+      "start": 915.447,
+      "duration": 2.623,
+      "text": "D-Umgebungen und sogar multimodale"
+    },
+    {
+      "start": 917.117,
+      "duration": 2.862,
+      "text": "Aufgaben ziemlich gut bewältigen kann."
+    },
+    {
+      "start": 919.9,
+      "duration": 2.661,
+      "text": "Es ist außerdem etwas, das sich bei"
+    },
+    {
+      "start": 921.607,
+      "duration": 2.523,
+      "text": "visuellen Aufgaben im Bereich der"
+    },
+    {
+      "start": 923.176,
+      "duration": 2.477,
+      "text": "Computernutzung und sogar in der"
+    },
+    {
+      "start": 924.699,
+      "duration": 3.74,
+      "text": "Robotik sehr gut schlägt. Es ist also"
+    },
+    {
+      "start": 927.519,
+      "duration": 3.8,
+      "text": "ein Modell, das in vielen Bereichen"
+    },
+    {
+      "start": 930.399,
+      "duration": 3.88,
+      "text": "überzeugt und dabei kosteneffizient"
+    },
+    {
+      "start": 933.359,
+      "duration": 4.192,
+      "text": "sowie insgesamt sehr schnell ist. Das"
+    },
+    {
+      "start": 936.588,
+      "duration": 2.184,
+      "text": "ist etwas, das ich unbedingt zum"
+    },
+    {
+      "start": 937.809,
+      "duration": 2.322,
+      "text": "Ausprobieren empfehlen würde. Ich"
+    },
+    {
+      "start": 939.161,
+      "duration": 2.113,
+      "text": "werde alle Links, die ich im heutigen"
+    },
+    {
+      "start": 940.304,
+      "duration": 1.842,
+      "text": "Video verwende, unten in die"
+    },
+    {
+      "start": 941.176,
+      "duration": 2.162,
+      "text": "Beschreibung einfügen. Aber damit,"
+    },
+    {
+      "start": 942.372,
+      "duration": 2.178,
+      "text": "Leute, vielen herzlichen Dank fürs"
+    },
+    {
+      "start": 943.584,
+      "duration": 2.16,
+      "text": "Zuschauen. Ich hoffe, euch hat das"
+    },
+    {
+      "start": 944.775,
+      "duration": 2.645,
+      "text": "heutige Video gefallen. Schaut euch"
+    },
+    {
+      "start": 946.473,
+      "duration": 3.009,
+      "text": "unbedingt auch unsere School-Community"
+    },
+    {
+      "start": 948.535,
+      "duration": 3.009,
+      "text": "an, dort erhaltet ihr Zugang zu vielen"
+    },
+    {
+      "start": 950.596,
+      "duration": 2.533,
+      "text": "verschiedenen Vorteilen sowie"
+    },
+    {
+      "start": 952.182,
+      "duration": 3.009,
+      "text": "vorzeitigen Zugriff auf das Testen von"
+    },
+    {
+      "start": 954.244,
+      "duration": 3.095,
+      "text": "KI-Modellen. Werft unbedingt einen"
+    },
+    {
+      "start": 956.379,
+      "duration": 2.514,
+      "text": "Blick auf die Welt der AI Vibe Coding"
+    },
+    {
+      "start": 957.934,
+      "duration": 2.801,
+      "text": "Platform und den Benchmark. Schaut euch"
+    },
+    {
+      "start": 959.769,
+      "duration": 2.231,
+      "text": "auch gerne unseren zweiten Kanal an."
+    },
+    {
+      "start": 961.36,
+      "duration": 2.623,
+      "text": "Schließt euch unserem Newsletter und"
+    },
+    {
+      "start": 963.027,
+      "duration": 2.624,
+      "text": "Discord an, folgt mir auf Twitter und"
+    },
+    {
+      "start": 964.695,
+      "duration": 2.624,
+      "text": "abonniert schließlich unseren Kanal."
+    },
+    {
+      "start": 966.58,
+      "duration": 2.319,
+      "text": "Aktiviert die Glocke, gebt dem Video"
+    },
+    {
+      "start": 967.935,
+      "duration": 2.43,
+      "text": "ein Like und seht euch unsere früheren"
+    },
+    {
+      "start": 969.401,
+      "duration": 2.356,
+      "text": "Videos an, damit ihr bei den neuesten"
+    },
+    {
+      "start": 970.794,
+      "duration": 2.429,
+      "text": "KI-Nachrichten auf dem Laufenden bleibt"
+    },
+    {
+      "start": 972.223,
+      "duration": 2.273,
+      "text": ". Aber damit, Leute, habt einen"
+    },
+    {
+      "start": 973.535,
+      "duration": 2.117,
+      "text": "fantastischen Tag, verbreitet"
+    },
+    {
+      "start": 974.69,
+      "duration": 2.348,
+      "text": "Positivität und wir sehen uns ganz"
+    },
+    {
+      "start": 976.076,
+      "duration": 2.444,
+      "text": "bald wieder. Macht’s gut, Leute."
+    }
+  ]
+}

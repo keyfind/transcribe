@@ -1,0 +1,418 @@
+Wirklich ein unglaublicher Tag für
+KI-News, denn es gibt viele spannende
+Dinge zu besprechen. Beginnen wir mit
+Google: Sie haben intern ihren ersten
+neuen Gemini Pro-Checkpoint
+veröffentlicht, der möglicherweise
+Teil der kommenden Gemini 4.0
+Pro-Modellreihe sein könnte. Dies ist
+der erste neue Pro-Checkpoint seit
+geraumer Zeit, und die ersten Anzeichen
+sehen bisher extrem vielversprechend
+aus. Die Modell-ID ist öffentlich
+sichtbar, und nach dem, was wir bisher
+sehen, könnte dies ein wirklich
+leistungsstarkes neues Modell sein.
+Apropos Google: Berichten zufolge
+bereiten sie auch ein neues
+Nano-Banana-Modell vor, möglicherweise
+das Nano-Banana 2.5, und die ersten
+Ergebnisse sehen ziemlich beeindruckend
+aus. Kommen wir zu DeepSeek: Wie ich
+bereits in meinem ausführlichen
+Testvideo erwähnt habe, wurde
+offiziell DeepSeek Version 4.1 Flash
+veröffentlicht. Es ist intelligenter,
+schneller und effizienter und könnte
+eines der besten Open-Source-Modelle
+sein, die derzeit verfügbar sind. Wenn
+man sich die Benchmarks ansieht, ist
+die Leistung wirklich enorm. Es ist
+wahnsinnig schnell, und einige der
+Ergebnisse, die ich bisher getestet
+habe, sind absolut beeindruckend.
+Gestern haben wir auch darüber
+gesprochen, dass OpenAI und Anthropic
+angeblich an einem noch
+leistungsfähigeren Modell arbeiten.
+Wir haben sogar einen kleinen Einblick
+in das bekommen, was möglicherweise
+das OpenAI GPT-7-Modell sein könnte,
+das eventuell mit dem Bell-Checkpoint
+in Verbindung steht, über den wir
+bereits berichtet haben und der
+angeblich ein jahrzehntealtes
+mathematisches Problem in nur wenigen
+Tagen gelöst hat. Aber jetzt kommen
+sogar noch verrücktere Informationen
+ans Licht. Ich höre, dass OpenAI der
+Verifizierung der Hodge-Vermutung
+extrem nahekommen könnte. Nun,
+entweder OpenAI oder Anthropic könnten
+auch bei einem anderen Problem
+ernsthafte Fortschritte machen. Beides
+sind Probleme der Millennium-Preise.
+Das basiert natürlich noch auf
+Berichten und Gerüchten, also sollte
+man es mit Vorsicht genießen, aber es
+ist irgendwie wahnsinnig, denn dies
+sind Millennium-Probleme, die seit
+vielen Jahren ungelöst waren, nun aber
+tatsächlich innerhalb weniger Monate
+oder sogar Tage gelöst werden. Das ist
+absolut verrückt, und es gibt noch so
+viel mehr zu besprechen, also tauchen
+wir einfach direkt ein. Dein
+Coding-Agent hat 900 Zeilen geschrieben
+, während du zu Mittag gegessen hast.
+Sei ehrlich, hast du sie alle gelesen?
+Niemand tut das. Wir überfliegen sie,
+wir geben sie frei und wir hoffen das
+Beste. Das Problem ist nicht der Code,
+sondern dass die einzige Möglichkeit
+für deinen Agenten, sich zu erklären,
+eine weitere Textwüste ist. Scrimbas
+neues „Explain“-Feature bietet eine
+zweite Option. Du stellst eine Frage
+und erhältst innerhalb von 2 oder 3
+Sekunden ein Video als Antwort.
+Verknüpfen Sie es mit Cloud Code for
+Sir oder Codex mit deren MCP-Plugin und
+es liest Ihr tatsächliches Repository.
+Verweisen Sie auf einen Pull Request
+und Ihr gesamtes Team sieht sich
+endlich die Erklärung an, nicht nur
+den Code. Leute fragen es alles
+Mögliche, vom Lösen von Problemen bis
+zur Messung des Brennstoffs der Sonne.
+Sie können es auf der Website, in
+ChatGPT oder direkt über die
+Chrome-Erweiterung nutzen. Ein großes
+Dankeschön an Scrimba für das
+Sponsoring des heutigen Videos. Ich
+empfehle Ihnen daher sehr, es
+auszuprobieren–die Links finden Sie
+unten in der Beschreibung. Scrimba
+Explain, fragen Sie es einfach etwas.
+Beginnen wir mit der GPT-6 Soul, die
+offiziell in freier Wildbahn gesichtet
+wurde. Vor wenigen Tagen gab es
+Gerüchte, dass GPT-6 Soul bei OpenAI
+intern getestet wird. Und nun sehen wir
+erste Anzeichen dafür, dass das Modell
+öffentlich auftaucht. Nach den ersten
+vorliegenden Informationen scheint GPT-
+6 Soul extrem schnell zu sein und zudem
+eine deutliche Verbesserung gegenüber
+GPT-5.6 Soul darzustellen. Wir wissen
+noch nicht, wie groß dieser Sprung
+sein wird, aber die Tatsache, dass es
+bereits gesichtet wurde, bedeutet, dass
+OpenAI kurz vor der Veröffentlichung
+steht. Vielleicht sehen wir es sogar
+noch vor dem DevDay, der später im
+September stattfindet. Dies lässt mich
+vermuten, dass OpenAI das GPT-6-
+Rate-Limit-Problem schnell löst, indem
+eine neue, abgestufte Version
+veröffentlicht wird, die–natürlich
+–etwas schwächer als Astra ist, aber
+knapp darunter liegt, um die Rate
+Limits nicht vollständig
+auszuschöpfen. Als Nächstes: Google
+hat heute einen brandneuen Gemini
+Pro-Checkpoint veröffentlicht, der
+merklich besser aussieht als der
+vorherige. Ich muss sagen, dieser hier
+wirkt in Bezug auf seine Leistung
+ziemlich seriös. Einer der neuesten
+Tests zeigte, wie Gemini Pro diesen
+unglaublich detaillierten Pfau in SVG
+erzeugte, komplett im
+Zero-Shot-Verfahren. Es verbrauchte
+etwa 24.000 Token, dauerte bei hohem
+Reasoning-Aufwand etwa 6 Minuten und
+das Endergebnis ist definitiv
+beeindruckend. Auf jeden Fall besser
+als einige Ergebnisse, die ich sogar
+von Astra und Fable gesehen habe. Und
+genau diese Modell-ID ist jetzt
+öffentlich sichtbar. Wir wissen auch,
+dass der vorherige Projekt-Checkpoint
+Argon 160 hieß, was interessant ist,
+und er wurde in der Arena unter dem
+Namen Gemini 3.8 Flash getestet. Google
+arbeitet also eindeutig hinter den
+Kulissen an diesen Projekt-Checkpoints
+weiter, und ich gehe davon aus, dass
+dies geschieht, um zu trainieren und
+alles für die Gemini Pro 4.0-Serie
+vorzubereiten. Es gibt viele
+Entwicklungen im Bereich KI, die ich
+nicht direkt auf meinem YouTube-Kanal
+präsentiere, auf die ihr aber über
+meinen kostenlosen Newsletter zugreifen
+könnt. Der Link dazu steht in der
+Videobeschreibung, und ihr könnt ihn
+dort völlig gratis abonnieren. Als
+Nächstes: Wie ich euch in meinem
+letzten Video erzählt habe, in dem ich
+DeepSeek Version 4.1 Flash vorab
+getestet habe, wurde das Modell heute
+offiziell veröffentlicht. Dieses
+DeepSeek 4.1 Flash-Modell ist
+intelligenter, schneller und
+effizienter konzipiert und bietet zudem
+native Vision-Fähigkeiten. Was jedoch
+wirklich interessant ist, ist die neue
+Architektur, die DeepSeek verwendet. Es
+ist ein riesiges MoE-Modell mit 552
+Milliarden Parametern, aber dank seiner
+neuen
+Causal-Encoder-Decoder-Architektur
+aktiviert es nur etwa 8 Milliarden
+Parameter für die Eingabe und 16
+Milliarden für die Ausgabe–was
+eigentlich kaum zu glauben ist. Im
+Grunde versucht DeepSeek, mehr
+Intelligenz bei deutlich geringerem
+Rechenaufwand zu liefern. Sie haben
+zudem neue Vortrainingsmethoden sowie
+ein umfangreicheres Reinforcement
+Learning eingeführt. Laut DeepSeek
+übertreffen die Ergebnisse der Version
+4.1 Flash in vielen verschiedenen
+Benchmarks einige der
+Flaggschiff-Modelle, natürlich
+einschließlich der Version 4 Pro, und
+zwar in fast jedem Test. Wenn man sich
+die Benchmarks tatsächlich ansieht,
+zeigt dies deutlich, wie nah es an
+diese Flaggschiff-Modelle heranreicht.
+Auf der „World of AI“-Benchmark-und
+Viper-Coding-Plattform haben wir dieses
+Modell rigoros getestet, und dabei sind
+wir zu dem Schluss gekommen, dass es in
+der Gesamtwertung über alle unsere
+Benchmarks hinweg den siebten Platz
+belegt. Es überzeugt in fast allen
+Bereichen, und die Tatsache, dass es in
+der Lage ist, Kimi K3 zu übertreffen,
+ist schon verrückt. Leute, das hier
+ist eine Flash-Variante. DeepSeek hat
+mit diesem Modell wirklich ganze Arbeit
+geleistet; es ist ein Modell, das in
+vielen generativen Workflows glänzt.
+Ich kann nur jedem empfehlen, es sich
+anzusehen und auszuprobieren, um zu
+sehen, wie ihr es in euren eigenen
+Benchmarks nutzen könnt und um ein
+besseres Gefühl dafür zu bekommen,
+was damit möglich ist. Dies gewährt
+euch zudem kostenlosen Zugriff auf
+meine Prompt-Bibliothek, daher empfehle
+ich euch sehr, auch das einmal
+auszuprobieren. Hier ist nun ein
+Vergleich zwischen DeepSeek Version 4.1
+Flash und Gemini 3.8 Flash, bei dem
+beide anhand verschiedener 3
+D-Geometrie-Aufgaben gegenübergestellt
+werden. Dabei wurden beiden Modellen
+sechs verschiedene 3 D-Geometrietests
+vorgelegt, die sie im
+Zero-Shot-Verfahren lösen mussten,
+darunter auch ein Torusknoten. Dazu
+kommen ein Menger-Schwamm sowie ein
+paar andere komplexe Szenen. Dies wurde
+mithilfe von KI-und ML-APIs umgesetzt,
+und was die Effizienz betrifft, war
+Gemini der klare Sieger, da es weniger
+Token verbraucht und zudem
+kostengünstiger ist. Doch bei der
+Überprüfung der Ergebnisqualität
+übertraf DeepSeek Version 4.1 Flash in
+vielen Ausgaben sogar Gemini 3.8 Flash,
+was wirklich erfreulich ist. Über alle
+sechs Ergebnisse hinweg kostete es mit
+Gemini nur 11 Cent, während es bei
+DeepSeek etwa 27 Cent kostete. Ich
+betone das in meinem vollständigen
+Demovideo, dessen Anschauung ich sehr
+empfehle, aber hier wird DeepSeek
+Version 4.1 Flash bei Betrachtung der
+Preise erst richtig verrückt. Ich
+weiß, in diesem Vergleich sahen wir,
+dass das DeepSeek-Modell viel teurer
+war bzw. das Gemini-Modell viel
+günstiger als DeepSeek. Doch auf dem
+Terminal Bench 2.1 erreichte die
+Version 4.1 Flash angeblich 90,6 Punkte
+und liegt damit vor vielen anderen
+Modellen wie Opus 5, Gemini 1.5 Pro und
+sogar DeepSeeks eigener Version 4 Pro.
+Und wenn man dieses Modell mit diesen
+Giganten vergleicht, ergibt die
+Preisgestaltung absolut Sinn, denn
+DeepSeek berechnet nur 30 Cent pro
+Million Eingabe-Token und 1,20 Dollar
+pro Million Ausgabe-Token. Man erhält
+also auch in Nebenzeiten noch
+günstigere Preise, was dies zu einer
+deutlich preiswerteren Option im
+Vergleich zu diesen
+Flaggschiff-Modellen macht. Und denkt
+daran, Leute: Dies ist ein Modell, das
+unglaublich schnell ist. Man erreicht
+etwa 300 bis 400 Token pro Sekunde, was
+irgendwie irre ist. Das ist krass, denn
+es hat einen vollständigen FPS-Shooter
+erstellt. Das ist DeepSeek Version 4.1
+Flash, Leute. Das ist nicht Astra, das
+ist nicht Fable. Das wurde vollständig
+vom DeepSeek-Modell programmiert. Es
+gibt Animationen, Farbtöne und sogar
+dynamische Bewegungen wie in echten
+FPS-Shootern. Und das Modell konnte
+sogar alle Texturen sowie funktionale
+Komponenten wie verschiedene Waffen und
+Spielstile hinzufügen–es ist
+wirklich unglaublich, dass das
+DeepSeek-Modell dazu fähig ist. Ich
+hatte anfangs keine großen Erwartungen
+an DeepSeek, aber es sieht so aus, als
+würden sie ein wirklich starkes
+Comeback feiern. In Zukunft könnte es
+auch im Bereich KI und Mathematik
+absolut verrückt werden, ebenso wie
+bei diesem neuen Modell, das derzeit
+von OpenAI trainiert wird, dem
+GPT-Bell-Modell. Dieser Checkpoint wird
+wahrscheinlich GPT 6.5 oder sogar GPT 7
+sein. Anthropic hat zudem ein geheimes
+Modell, das weit überlegen gegenüber
+Fable ist. Beide Labore verfügen über
+dieses unglaubliche neue KI-System, das
+sie beide trainieren, und beide lösen
+damit einige unglaubliche Probleme, die
+seit vielen Jahren ungelöst sind.
+Einigen neuen Gerüchten zufolge kommt
+OpenAI dem Beweis der Hodge-Vermutung
+sehr nahe, was etwas ist, das seit
+vielen, vielen Jahren ungelöst
+geblieben ist. Und sie machen auch
+ernsthafte Fortschritte bei der Lösung
+der Birch-Vermutung. Dies sind zwei
+berühmte Millennium-Probleme, einige
+der schwierigsten ungelösten Probleme
+der Mathematik. Und anscheinend ist das
+Rennen, das hinter den Kulissen
+zwischen diesen Laboren stattfindet,
+mit nichts zu vergleichen, was wir
+jemals zuvor gesehen haben. Wenn diese
+Berichte tatsächlich wahr sind, was
+höchstwahrscheinlich der Fall ist, da
+OpenAI einen der Berichte bestätigt
+hat, könnten wir möglicherweise
+erleben, wie drei Millennium-Probleme
+innerhalb eines einzigen Monats gelöst
+werden, was absolut historisch wäre.
+Natürlich sind das noch unbestätigte
+Gerüchte, also nehmt es mit Vorsicht,
+aber das ist irgendwie verrückt, Leute
+. Wir erreichen einen Punkt, an dem die
+KI wahnsinnig schnell voranschreitet.
+Wenn euch dieses Video gefällt und ihr
+den Kanal unterstützen möchtet,
+könnt ihr eine Spende über die Super
+Thanks-Option unter dem Video in
+Betracht ziehen. Oder ihr könnt
+unserem privaten Discord beitreten, wo
+ihr monatlich kostenlosen Zugang zu
+mehreren Abonnements verschiedener
+KI-Tools sowie tägliche KI-News,
+exklusive Inhalte und vieles mehr
+erhaltet.
+Kommen wir zu Google: Ein mysteriöses
+neues Nano-Banana-Bildmodell namens
+Spicy Mayo–lustiger Name–ist in
+Eleonora aufgetaucht, und es ist noch
+unklar, was genau das ist. Es ist
+vielleicht nicht das Nano Banana 2.5,
+könnte aber ein Flash-oder
+Light-Update sein. Wir haben bereits
+das GPT-Bildmodell 2.5, das gerade von
+OpenAI veröffentlicht wurde. Es ergibt
+also Sinn, dass Google versucht, mit
+dieser neuen Variante Marktanteile zu
+gewinnen, und die Veröffentlichung
+könnte sehr bald erfolgen. Es gibt
+tatsächlich einen Vergleich zwischen
+dem GPT-Bildmodell 2.5 und dem
+Spicy-Mayo-Checkpoint, bei dem der
+gleiche Minecraft-Kamel-Prompt
+verwendet wurde, bei dem man die
+Benutzeroberfläche des Sandbox-Spiels
+nachbilden möchte. Das GPT-Bildmodell
+2.5 produzierte dabei die genauere
+Spieloberfläche, während Spicy Mayo
+ein optisch ansprechenderes Bild
+erzeugte. Es ist wirklich eine Frage
+der persönlichen Vorliebe, welches
+Modell bei der Generierung dieses
+Bildes bessere Arbeit geleistet hat,
+aber in Bezug auf die Genauigkeit hat
+GPT die bessere Arbeit geleistet. Was
+jedoch ein optisch ansprechenderes Bild
+angeht, denke ich, dass das
+Gemini-Modell das GPT-Modell
+übertroffen hat. Ein wirklich kleines
+Update, aber ChatGPT Voice kann jetzt
+GPT 5.6 Soul und GPT 6 Astra verwenden.
+Natürlich macht dies die
+Sprachintelligenz weitaus klüger, da
+sie diese neueren Modelle nutzt, die
+offensichtlich einen späteren
+Wissensstand haben. Und natürlich
+verfügen die Modelle selbst über mehr
+Intelligenz. OpenAI hört nicht auf,
+Neues zu veröffentlichen, denn sie
+haben gerade einen neuen Daten-Agenten
+für ChatGPT Work eingeführt, mit dem
+man bestehende Datenquellen des
+Unternehmens verbinden und einfach
+Fragen stellen kann, um Daten in
+Antworten, interaktive Dashboards und
+sogar Aktionen zu verwandeln. Man kann
+sogar das Daten-Plugin hinzufügen,
+seine Quellen verbinden und direkt mit
+den Daten des eigenen Unternehmens
+chatten. Aber das war es auch schon,
+Leute, für das heutige Video zu den
+aktuellen Entwicklungen in der Welt der
+KI. Falls ihr unseren World of AI
+Insider Club noch nicht kennt–unsere
+School-Community, in der ihr Zugang zu
+vielen coolen Vorteilen wie kostenlosen
+monatlichen KI-Abonnements, Vorabzugang
+zu KI-Modellen und vielem mehr erhaltet
+–, kann ich euch nur empfehlen, einen
+Blick auf die Links in der
+Videobeschreibung zu werfen. Außerdem
+erhaltet ihr kostenlosen Zugang zur
+World of AI Bot Camp-Plattform und zum
+Benchmark. Auch das solltet ihr euch
+über die Links in der Beschreibung
+ansehen. Schaut auf unserem zweiten
+Kanal vorbei, abonniert den Newsletter,
+tretet dem Discord bei, folgt mir auf
+Twitter und stellt zu guter Letzt
+sicher, dass ihr den Kanal abonniert,
+die Glocke aktiviert, das Video likt
+und euch unsere vorherigen Videos
+anseht, damit ihr über die neuesten
+KI-Nachrichten und Entwicklungen in
+diesem Bereich auf dem Laufenden bleibt
+. In diesem Sinne, Leute, habt einen
+großartigen Tag, verbreitet
+Positivität und wir sehen uns ganz
+bald wieder. Macht's gut, Leute.

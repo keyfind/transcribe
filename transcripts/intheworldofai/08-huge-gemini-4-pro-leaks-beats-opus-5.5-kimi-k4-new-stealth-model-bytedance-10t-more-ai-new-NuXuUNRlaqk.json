@@ -1,0 +1,3037 @@
+{
+  "video": {
+    "video_id": "NuXuUNRlaqk",
+    "title": "HUGE Gemini 4 Pro LEAKS BEATS Opus 5.5! Kimi K4, New Stealth Model, ByteDance 10T & More! AI NEWS",
+    "url": "https://www.youtube.com/watch?v=NuXuUNRlaqk",
+    "published_at": null,
+    "duration": 1247
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.1,
+      "duration": 3.033,
+      "text": "Wir haben heute riesige Neuigkeiten von"
+    },
+    {
+      "start": 2.185,
+      "duration": 2.877,
+      "text": "Google: Es sieht so aus, als könnte"
+    },
+    {
+      "start": 4.115,
+      "duration": 2.825,
+      "text": "Gemini 4 Pro schon bald erscheinen."
+    },
+    {
+      "start": 6.243,
+      "duration": 3.023,
+      "text": "Dieser neue Checkpoint namens Barium B,"
+    },
+    {
+      "start": 8.318,
+      "duration": 3.023,
+      "text": "der heute in der Arena aufgetaucht ist,"
+    },
+    {
+      "start": 10.393,
+      "duration": 2.971,
+      "text": "ist absolut beeindruckend und so etwas"
+    },
+    {
+      "start": 12.416,
+      "duration": 3.531,
+      "text": "haben wir bisher noch nicht gesehen. Er"
+    },
+    {
+      "start": 15.001,
+      "duration": 3.095,
+      "text": "scheint, wie frühere Test-Checkpoints,"
+    },
+    {
+      "start": 17.15,
+      "duration": 2.988,
+      "text": "als Gemini 3.8 Flash getarnt zu sein,"
+    },
+    {
+      "start": 19.191,
+      "duration": 3.042,
+      "text": "und ich bin wirklich überwältigt von"
+    },
+    {
+      "start": 21.287,
+      "duration": 2.827,
+      "text": "der Detailtiefe, die dieses Modell"
+    },
+    {
+      "start": 23.167,
+      "duration": 4.44,
+      "text": "erzeugen kann. In einer Demo erstellte"
+    },
+    {
+      "start": 26.663,
+      "duration": 2.848,
+      "text": "es ein wahnsinnig detailliertes 3"
+    },
+    {
+      "start": 28.567,
+      "duration": 2.96,
+      "text": "D-Formel-1-Auto, das ehrlich gesagt"
+    },
+    {
+      "start": 30.583,
+      "duration": 3.072,
+      "text": "deutlich besser aussieht als das, was"
+    },
+    {
+      "start": 32.711,
+      "duration": 3.184,
+      "text": "wir von Opus 5.5 und GPT-6 Astra kennen"
+    },
+    {
+      "start": 34.895,
+      "duration": 3.184,
+      "text": "–ein sehr vielversprechendes Zeichen."
+    },
+    {
+      "start": 39.019,
+      "duration": 2.297,
+      "text": "Es gibt außerdem ein neues,"
+    },
+    {
+      "start": 40.362,
+      "duration": 2.807,
+      "text": "mysteriöses Modell namens Pixel Canary"
+    },
+    {
+      "start": 42.169,
+      "duration": 2.576,
+      "text": ", das heute völlig unerwartet und"
+    },
+    {
+      "start": 43.791,
+      "duration": 2.669,
+      "text": "kostenlos im Client aufgetaucht ist."
+    },
+    {
+      "start": 46.479,
+      "duration": 2.917,
+      "text": "Völlig kostenlos, und das Verrückte"
+    },
+    {
+      "start": 48.448,
+      "duration": 2.918,
+      "text": "daran ist, dass es offenbar gleichauf"
+    },
+    {
+      "start": 50.418,
+      "duration": 3.136,
+      "text": "mit GPT-6 Astra liegt. Es schlägt"
+    },
+    {
+      "start": 52.609,
+      "duration": 1.894,
+      "text": "Kimmy K3 bei den"
+    },
+    {
+      "start": 53.558,
+      "duration": 3.178,
+      "text": "Next.js-Agenten-Evaluierungen im Client"
+    },
+    {
+      "start": 55.736,
+      "duration": 2.563,
+      "text": ", einem Benchmark für echte"
+    },
+    {
+      "start": 57.354,
+      "duration": 3.01,
+      "text": "Entwicklungsaufgaben, und einige der"
+    },
+    {
+      "start": 59.42,
+      "duration": 3.177,
+      "text": "Ergebnisse dieses Modells sind wirklich"
+    },
+    {
+      "start": 61.653,
+      "duration": 3.849,
+      "text": "der Wahnsinn. Es gibt neue Updates für"
+    },
+    {
+      "start": 64.559,
+      "duration": 3.163,
+      "text": "Claude Code: Anstatt bei Erreichen des"
+    },
+    {
+      "start": 66.779,
+      "duration": 3.106,
+      "text": "5-Stunden-Limits komplett gesperrt zu"
+    },
+    {
+      "start": 68.942,
+      "duration": 2.992,
+      "text": "werden, gewährt dir Claude nun ein"
+    },
+    {
+      "start": 70.991,
+      "duration": 2.651,
+      "text": "kleines Kontingent aus deinem"
+    },
+    {
+      "start": 72.699,
+      "duration": 3.22,
+      "text": "wöchentlichen Limit, um einen sauberen"
+    },
+    {
+      "start": 74.976,
+      "duration": 3.22,
+      "text": "Abschlusspunkt zu finden und die Arbeit"
+    },
+    {
+      "start": 77.253,
+      "duration": 4.435,
+      "text": "zu beenden. Wo wir gerade von neuen"
+    },
+    {
+      "start": 80.736,
+      "duration": 2.704,
+      "text": "Modellen sprechen: Genau wie damals,"
+    },
+    {
+      "start": 82.487,
+      "duration": 2.705,
+      "text": "als ich Spark 1.4 entdeckt und auf X"
+    },
+    {
+      "start": 84.239,
+      "duration": 2.562,
+      "text": "gepostet habe, ist mir etwas sehr"
+    },
+    {
+      "start": 85.849,
+      "duration": 4.136,
+      "text": "Interessantes aufgefallen. Im Katalog"
+    },
+    {
+      "start": 89.067,
+      "duration": 3.95,
+      "text": "von Open Codes befinden sich mehrere"
+    },
+    {
+      "start": 92.099,
+      "duration": 3.949,
+      "text": "Modelle in der Entwicklung, darunter"
+    },
+    {
+      "start": 95.13,
+      "duration": 3.786,
+      "text": "GLM 5.5 Flash, GLM 5.4, Kimik4 und"
+    },
+    {
+      "start": 97.998,
+      "duration": 4.763,
+      "text": "DeepSeek Version 4.1 Pro. Das bedeutet,"
+    },
+    {
+      "start": 101.825,
+      "duration": 2.989,
+      "text": "dass offizielle Modelle bereits"
+    },
+    {
+      "start": 103.879,
+      "duration": 2.861,
+      "text": "getestet werden und in Kürze"
+    },
+    {
+      "start": 105.804,
+      "duration": 4.097,
+      "text": "erscheinen dürften. Wir haben"
+    },
+    {
+      "start": 108.955,
+      "duration": 2.605,
+      "text": "außerdem wichtige Updates zum"
+    },
+    {
+      "start": 110.614,
+      "duration": 2.98,
+      "text": "Hugging-Face-Zwischenfall bei OpenAI:"
+    },
+    {
+      "start": 112.647,
+      "duration": 2.82,
+      "text": "Das Unternehmen gibt an, dass sein"
+    },
+    {
+      "start": 114.52,
+      "duration": 3.088,
+      "text": "Forschungsagent versehentlich Trainings"
+    },
+    {
+      "start": 116.608,
+      "duration": 2.337,
+      "text": "-und Evaluierungsdaten an"
+    },
+    {
+      "start": 117.999,
+      "duration": 3.989,
+      "text": "Drittanbieterdienste gesendet hat. Das"
+    },
+    {
+      "start": 121.038,
+      "duration": 2.943,
+      "text": "Verrückteste daran ist jedoch, dass es"
+    },
+    {
+      "start": 123.031,
+      "duration": 2.844,
+      "text": "in 53 Fällen um Bilder ging, die von"
+    },
+    {
+      "start": 124.925,
+      "duration": 2.644,
+      "text": "Nutzern hochgeladen und als nicht"
+    },
+    {
+      "start": 126.619,
+      "duration": 2.944,
+      "text": "gelistete Links auf Bild-Hosting-Seiten"
+    },
+    {
+      "start": 128.612,
+      "duration": 3.873,
+      "text": "veröffentlicht wurden. OpenAI gibt an,"
+    },
+    {
+      "start": 131.533,
+      "duration": 2.837,
+      "text": "dass der Großteil der Inhalte bereits"
+    },
+    {
+      "start": 133.418,
+      "duration": 2.112,
+      "text": "entfernt wurde und neue"
+    },
+    {
+      "start": 134.578,
+      "duration": 2.595,
+      "text": "Sicherheitsvorkehrungen getroffen"
+    },
+    {
+      "start": 136.221,
+      "duration": 2.655,
+      "text": "wurden. Dies ist jedoch ein neues,"
+    },
+    {
+      "start": 137.923,
+      "duration": 2.544,
+      "text": "brisantes Detail, das im Zuge des"
+    },
+    {
+      "start": 139.514,
+      "duration": 2.45,
+      "text": "Hugging-Face-Vorfalls ans Licht"
+    },
+    {
+      "start": 141.011,
+      "duration": 3.236,
+      "text": "gekommen ist. Zuletzt haben wir noch"
+    },
+    {
+      "start": 143.296,
+      "duration": 2.93,
+      "text": "ByteDance, die möglicherweise an etwas"
+    },
+    {
+      "start": 145.275,
+      "duration": 2.485,
+      "text": "absolut Gigantischem arbeiten."
+    },
+    {
+      "start": 147.279,
+      "duration": 2.62,
+      "text": "Berichten zufolge entwickeln sie ein"
+    },
+    {
+      "start": 148.944,
+      "duration": 3.421,
+      "text": "Modell mit 10 Billionen Parametern. Wir"
+    },
+    {
+      "start": 151.414,
+      "duration": 2.552,
+      "text": "haben endlich neue Informationen"
+    },
+    {
+      "start": 153.015,
+      "duration": 2.746,
+      "text": "darüber, was es leisten könnte und"
+    },
+    {
+      "start": 154.81,
+      "duration": 2.504,
+      "text": "wie es das Rennen um KI-Modelle"
+    },
+    {
+      "start": 156.362,
+      "duration": 3.486,
+      "text": "aufmischen wird. Es gibt noch so viel"
+    },
+    {
+      "start": 158.897,
+      "duration": 2.583,
+      "text": "mehr zu besprechen, darunter ein"
+    },
+    {
+      "start": 160.53,
+      "duration": 2.83,
+      "text": "möglicher Reset des Ratenlimits für"
+    },
+    {
+      "start": 162.41,
+      "duration": 2.731,
+      "text": "die kostenlose ChatGPT-Version, der"
+    },
+    {
+      "start": 164.19,
+      "duration": 2.633,
+      "text": "diese Woche ansteht, ein weiteres"
+    },
+    {
+      "start": 165.872,
+      "duration": 2.93,
+      "text": "riesiges Claude-Code-Feature und vieles"
+    },
+    {
+      "start": 167.851,
+      "duration": 3.058,
+      "text": "mehr. Bevor wir jedoch in alles"
+    },
+    {
+      "start": 169.961,
+      "duration": 2.677,
+      "text": "eintauchen, Leute, würde es mir"
+    },
+    {
+      "start": 171.69,
+      "duration": 2.834,
+      "text": "unglaublich viel bedeuten, wenn ihr"
+    },
+    {
+      "start": 173.577,
+      "duration": 2.676,
+      "text": "dieses Video liked und den Kanal"
+    },
+    {
+      "start": 175.306,
+      "duration": 2.886,
+      "text": "abonniert, da es mir wirklich hilft,"
+    },
+    {
+      "start": 177.245,
+      "duration": 2.834,
+      "text": "diese Videos weiter zu produzieren."
+    },
+    {
+      "start": 179.6,
+      "duration": 2.295,
+      "text": "Also, bitte tut das doch, falls ihr es"
+    },
+    {
+      "start": 180.929,
+      "duration": 2.452,
+      "text": "noch nicht getan habt. Aber mit diesem"
+    },
+    {
+      "start": 182.414,
+      "duration": 2.303,
+      "text": "Gedanken: Lassen Sie uns direkt mit dem"
+    },
+    {
+      "start": 183.751,
+      "duration": 2.988,
+      "text": "heutigen Upload weitermachen. Bevor wir"
+    },
+    {
+      "start": 185.786,
+      "duration": 2.538,
+      "text": "anfangen: Der heutige Sponsor ist"
+    },
+    {
+      "start": 187.371,
+      "duration": 2.771,
+      "text": "Arcade, und ich möchte euch von einer"
+    },
+    {
+      "start": 189.188,
+      "duration": 2.772,
+      "text": "Abkürzung erzählen, die ich genommen"
+    },
+    {
+      "start": 191.006,
+      "duration": 3.35,
+      "text": "habe. Du gibst deinem Agenten einen"
+    },
+    {
+      "start": 193.408,
+      "duration": 2.777,
+      "text": "API-Schlüssel, ein Service-Konto,"
+    },
+    {
+      "start": 195.238,
+      "duration": 2.882,
+      "text": "vollen Zugriff, und es funktioniert."
+    },
+    {
+      "start": 197.74,
+      "duration": 2.608,
+      "text": "Dann fängt er an, echte Arbeit zu"
+    },
+    {
+      "start": 199.395,
+      "duration": 2.655,
+      "text": "leisten: Datensätze aktualisieren,"
+    },
+    {
+      "start": 201.098,
+      "duration": 3.191,
+      "text": "Tickets schließen, Geld bewegen. Nun,"
+    },
+    {
+      "start": 203.347,
+      "duration": 3.192,
+      "text": "jede Aktion hat einen Wirkungsbereich."
+    },
+    {
+      "start": 206.18,
+      "duration": 3.35,
+      "text": "Also sperrst du dieses Konto. Jetzt"
+    },
+    {
+      "start": 208.58,
+      "duration": 2.962,
+      "text": "kann er kaum noch etwas tun, und nichts"
+    },
+    {
+      "start": 210.593,
+      "duration": 2.962,
+      "text": "davon lässt sich auf eine echte Person"
+    },
+    {
+      "start": 212.605,
+      "duration": 3.392,
+      "text": "zurückführen. Also lässt du ihn die"
+    },
+    {
+      "start": 215.046,
+      "duration": 2.714,
+      "text": "Berechtigungen des Benutzers erben."
+    },
+    {
+      "start": 217.18,
+      "duration": 2.792,
+      "text": "Jetzt kann er löschen, was auch immer"
+    },
+    {
+      "start": 219.019,
+      "duration": 2.745,
+      "text": "der Benutzer kann, und dein Audit-Log"
+    },
+    {
+      "start": 220.811,
+      "duration": 3.212,
+      "text": "kann sie nicht unterscheiden. Arcade"
+    },
+    {
+      "start": 223.084,
+      "duration": 3.365,
+      "text": "korrigiert die Grenze. Es ist die"
+    },
+    {
+      "start": 225.51,
+      "duration": 3.395,
+      "text": "Action-Runtime für KI-Agenten. Die"
+    },
+    {
+      "start": 227.954,
+      "duration": 2.761,
+      "text": "Agenten agieren als ihr Benutzer und"
+    },
+    {
+      "start": 229.763,
+      "duration": 2.908,
+      "text": "überschreiten nie ihren eigenen Rahmen"
+    },
+    {
+      "start": 231.671,
+      "duration": 3.088,
+      "text": ". Jede Aktion durchläuft zwei"
+    },
+    {
+      "start": 233.816,
+      "duration": 3.256,
+      "text": "Prüfungen: Was die Person tun kann und"
+    },
+    {
+      "start": 236.13,
+      "duration": 3.388,
+      "text": "was der Agent tun darf. Wird eine der"
+    },
+    {
+      "start": 238.559,
+      "duration": 2.618,
+      "text": "beiden Linien überschritten, stoppt es"
+    },
+    {
+      "start": 240.177,
+      "duration": 3.237,
+      "text": ". Jede Aktion hinterlässt einen"
+    },
+    {
+      "start": 242.473,
+      "duration": 3.163,
+      "text": "Datensatz: den Agenten, den Benutzer,"
+    },
+    {
+      "start": 244.694,
+      "duration": 3.286,
+      "text": "das System. 8.000 Tools, jedes"
+    },
+    {
+      "start": 247.054,
+      "duration": 3.485,
+      "text": "Framework. Probiert es also kostenlos"
+    },
+    {
+      "start": 249.589,
+      "duration": 2.68,
+      "text": "aus unter arcade. dev über die Links"
+    },
+    {
+      "start": 251.307,
+      "duration": 2.557,
+      "text": "in der Videobeschreibung unten. Aber"
+    },
+    {
+      "start": 252.895,
+      "duration": 2.144,
+      "text": "mit diesem Gedanken: Lasst uns direkt"
+    },
+    {
+      "start": 254.07,
+      "duration": 1.897,
+      "text": "wieder in den heutigen Upload"
+    },
+    {
+      "start": 254.997,
+      "duration": 3.248,
+      "text": "eintauchen. Beginnen wir mit diesem"
+    },
+    {
+      "start": 257.3,
+      "duration": 2.982,
+      "text": "neuen Gemini-Checkpoint, denn Google"
+    },
+    {
+      "start": 259.337,
+      "duration": 2.982,
+      "text": "könnte hier ernsthaft etwas Großes"
+    },
+    {
+      "start": 261.374,
+      "duration": 2.707,
+      "text": "planen, da dieser neue Gemini 4"
+    },
+    {
+      "start": 263.136,
+      "duration": 2.651,
+      "text": "Pro-Checkpoint namens Baryon B"
+    },
+    {
+      "start": 264.842,
+      "duration": 3.148,
+      "text": "Berichten zufolge in der Arena getestet"
+    },
+    {
+      "start": 267.045,
+      "duration": 3.092,
+      "text": "wird, wo er scheinbar unter dem Gemini"
+    },
+    {
+      "start": 269.192,
+      "duration": 3.67,
+      "text": "3.8 Flash-Modell verborgen ist. Und"
+    },
+    {
+      "start": 271.923,
+      "duration": 3.38,
+      "text": "Leute, ich bin wirklich beeindruckt von"
+    },
+    {
+      "start": 274.364,
+      "duration": 3.259,
+      "text": "der Qualität und dem Detailgrad, den"
+    },
+    {
+      "start": 276.684,
+      "duration": 2.821,
+      "text": "wir hier sehen. Einige der"
+    },
+    {
+      "start": 278.552,
+      "duration": 2.774,
+      "text": "Generierungen sehen absolut wahnsinnig"
+    },
+    {
+      "start": 280.373,
+      "duration": 4.551,
+      "text": "aus. Und wenn dies wirklich ein früher"
+    },
+    {
+      "start": 283.985,
+      "duration": 3.269,
+      "text": "Einblick in das ist, was Gemini 4 Pro"
+    },
+    {
+      "start": 286.315,
+      "duration": 3.33,
+      "text": "sein wird, ist Gemini ernsthaft wieder"
+    },
+    {
+      "start": 288.706,
+      "duration": 3.146,
+      "text": "im Spiel, da viele dieser Demos das"
+    },
+    {
+      "start": 290.913,
+      "duration": 3.207,
+      "text": "Astra-Modell sowie das neue Opus 5.5"
+    },
+    {
+      "start": 293.182,
+      "duration": 5.072,
+      "text": "möglicherweise übertreffen. Hier hat"
+    },
+    {
+      "start": 297.303,
+      "duration": 2.926,
+      "text": "es sich bei diesem SVG-Prompt besonders"
+    },
+    {
+      "start": 299.279,
+      "duration": 3.403,
+      "text": "gut geschlagen. Es hat den PS5-"
+    },
+    {
+      "start": 301.682,
+      "duration": 3.868,
+      "text": "Controller erstellt, und dies ist eine"
+    },
+    {
+      "start": 304.625,
+      "duration": 3.868,
+      "text": "wirklich akkurate Darstellung des PS5-"
+    },
+    {
+      "start": 307.493,
+      "duration": 3.744,
+      "text": "Controllers in SVG. Und das sieht man"
+    },
+    {
+      "start": 310.302,
+      "duration": 3.262,
+      "text": "an dem Detailgrad, den es bei jeder"
+    },
+    {
+      "start": 312.628,
+      "duration": 3.133,
+      "text": "Komponente dieses PS5-Controllers"
+    },
+    {
+      "start": 314.826,
+      "duration": 3.682,
+      "text": "ausgeben konnte. Man erkennt das an den"
+    },
+    {
+      "start": 317.56,
+      "duration": 3.039,
+      "text": "transparenten Tasten auf beiden Seiten."
+    },
+    {
+      "start": 320.34,
+      "duration": 3.219,
+      "text": "Sogar die verschiedenen Sticks sowie"
+    },
+    {
+      "start": 322.62,
+      "duration": 3.158,
+      "text": "das Logo werden präzise generiert,"
+    },
+    {
+      "start": 324.839,
+      "duration": 2.788,
+      "text": "wobei der LED-Farbton von der"
+    },
+    {
+      "start": 326.688,
+      "duration": 4.11,
+      "text": "Haupttaste ausgeht. Und dann gibt es"
+    },
+    {
+      "start": 329.86,
+      "duration": 3.249,
+      "text": "noch ein paar weitere Kleinigkeiten,"
+    },
+    {
+      "start": 332.172,
+      "duration": 3.186,
+      "text": "wie etwa PS5-Texturen, die Teil des"
+    },
+    {
+      "start": 334.42,
+      "duration": 3.568,
+      "text": "Controllers selbst sind. Und wenn du"
+    },
+    {
+      "start": 337.035,
+      "duration": 2.715,
+      "text": "dieses Modell testen möchtest, musst"
+    },
+    {
+      "start": 338.796,
+      "duration": 2.716,
+      "text": "du einfach zu Arena gehen, wo du dich"
+    },
+    {
+      "start": 340.558,
+      "duration": 2.762,
+      "text": "völlig kostenlos registrieren kannst."
+    },
+    {
+      "start": 343.52,
+      "duration": 2.804,
+      "text": "Geh in den Battle-Modus und wähle dann"
+    },
+    {
+      "start": 345.371,
+      "duration": 2.804,
+      "text": "die Code-Option oder was auch immer dir"
+    },
+    {
+      "start": 347.222,
+      "duration": 2.388,
+      "text": "zur Verfügung steht, aber die"
+    },
+    {
+      "start": 348.656,
+      "duration": 2.527,
+      "text": "Wahrscheinlichkeit, Gemini 3.8 zu"
+    },
+    {
+      "start": 350.23,
+      "duration": 2.573,
+      "text": "erhalten, ist höher, wenn du eine"
+    },
+    {
+      "start": 351.849,
+      "duration": 2.805,
+      "text": "Anfrage wie zum Beispiel zur Erstellung"
+    },
+    {
+      "start": 353.7,
+      "duration": 3.718,
+      "text": "einer Website sendest. Nachdem du eine"
+    },
+    {
+      "start": 356.47,
+      "duration": 2.819,
+      "text": "Anfrage gesendet hast, hast du zwei"
+    },
+    {
+      "start": 358.341,
+      "duration": 2.768,
+      "text": "verschiedene Optionen zur Auswahl,"
+    },
+    {
+      "start": 360.161,
+      "duration": 2.559,
+      "text": "sobald der Generierungsvorgang"
+    },
+    {
+      "start": 361.772,
+      "duration": 2.819,
+      "text": "abgeschlossen ist, und es wird dann"
+    },
+    {
+      "start": 363.643,
+      "duration": 2.976,
+      "text": "enthüllt, welches Modell sie erstellt"
+    },
+    {
+      "start": 365.671,
+      "duration": 3.408,
+      "text": "hat. Und wenn dort der Modell-Slug für"
+    },
+    {
+      "start": 368.125,
+      "duration": 2.377,
+      "text": "Gemini 3.8 steht, bedeutet das"
+    },
+    {
+      "start": 369.548,
+      "duration": 2.743,
+      "text": "höchstwahrscheinlich, dass es sich um"
+    },
+    {
+      "start": 371.337,
+      "duration": 2.744,
+      "text": "den neuen Gemini 4-Checkpunkt handelt."
+    },
+    {
+      "start": 373.424,
+      "duration": 2.763,
+      "text": "Es kann jedoch sein, dass Arena diesen"
+    },
+    {
+      "start": 375.234,
+      "duration": 2.114,
+      "text": "neuen Checkpunkt bis zur"
+    },
+    {
+      "start": 376.394,
+      "duration": 2.81,
+      "text": "Veröffentlichung meines Videos bereits"
+    },
+    {
+      "start": 378.251,
+      "duration": 2.717,
+      "text": "wieder entfernt hat, also behalte das"
+    },
+    {
+      "start": 380.015,
+      "duration": 3.033,
+      "text": "im Hinterkopf. Du kannst also"
+    },
+    {
+      "start": 382.093,
+      "duration": 2.707,
+      "text": "tatsächlich abstimmen, welches Modell"
+    },
+    {
+      "start": 383.845,
+      "duration": 2.908,
+      "text": "besser war. In diesem Fall siehst du,"
+    },
+    {
+      "start": 385.799,
+      "duration": 2.755,
+      "text": "dass zwei dieser Modelle zwei separate"
+    },
+    {
+      "start": 387.6,
+      "duration": 2.662,
+      "text": "Landingpages generiert haben, und du"
+    },
+    {
+      "start": 389.309,
+      "duration": 2.8,
+      "text": "kannst dann darüber abstimmen, welches"
+    },
+    {
+      "start": 391.156,
+      "duration": 3.355,
+      "text": "die bessere Arbeit geleistet hat. Schau"
+    },
+    {
+      "start": 393.573,
+      "duration": 2.929,
+      "text": "dir jetzt einmal diese kompakte"
+    },
+    {
+      "start": 395.564,
+      "duration": 4.709,
+      "text": "Voxel-Pagode an. Dies wurde Berichten"
+    },
+    {
+      "start": 399.338,
+      "duration": 3.159,
+      "text": "zufolge von dem zweiten Gemini 4-"
+    },
+    {
+      "start": 401.497,
+      "duration": 3.29,
+      "text": "Checkpunkt generiert, über den wir"
+    },
+    {
+      "start": 403.852,
+      "duration": 3.159,
+      "text": "sprechen, aber der Detailgrad ist"
+    },
+    {
+      "start": 406.077,
+      "duration": 3.42,
+      "text": "ehrlich gesagt unglaublich, besonders"
+    },
+    {
+      "start": 408.562,
+      "duration": 2.898,
+      "text": "wenn man bedenkt, dass solche"
+    },
+    {
+      "start": 410.525,
+      "duration": 3.355,
+      "text": "Ergebnisse in nur 5 Minuten erstellt"
+    },
+    {
+      "start": 412.946,
+      "duration": 4.796,
+      "text": "werden. Schau dir nur den Detailgrad"
+    },
+    {
+      "start": 416.801,
+      "duration": 2.901,
+      "text": "und die Atmosphäre des Gemini 4"
+    },
+    {
+      "start": 418.762,
+      "duration": 2.544,
+      "text": "Pro-Checkpunkts an; es ist"
+    },
+    {
+      "start": 420.366,
+      "duration": 3.138,
+      "text": "beeindruckend, wie viele Details der"
+    },
+    {
+      "start": 422.564,
+      "duration": 2.96,
+      "text": "spezifischen Pagode zugeschrieben"
+    },
+    {
+      "start": 424.584,
+      "duration": 4.487,
+      "text": "werden. Es scheint, als würde Google"
+    },
+    {
+      "start": 428.127,
+      "duration": 2.8,
+      "text": "bei diesem Modell auch stark auf"
+    },
+    {
+      "start": 429.983,
+      "duration": 2.857,
+      "text": "Geschwindigkeit setzen, da dieser"
+    },
+    {
+      "start": 431.896,
+      "duration": 2.912,
+      "text": "Checkpunkt die Ergebnisse deutlich"
+    },
+    {
+      "start": 433.865,
+      "duration": 2.743,
+      "text": "schneller ausgeben kann als die"
+    },
+    {
+      "start": 435.665,
+      "duration": 3.199,
+      "text": "vorherigen Pro-Modelle. Das ist also"
+    },
+    {
+      "start": 437.924,
+      "duration": 3.233,
+      "text": "ein weiterer Vorfall, den wir bemerkt"
+    },
+    {
+      "start": 440.217,
+      "duration": 3.513,
+      "text": "haben. Und ich bin mir jetzt ziemlich"
+    },
+    {
+      "start": 442.777,
+      "duration": 2.551,
+      "text": "sicher, dass Gemini 4 früher als"
+    },
+    {
+      "start": 444.375,
+      "duration": 3.246,
+      "text": "erwartet kommt. Das Modell befindet"
+    },
+    {
+      "start": 446.66,
+      "duration": 2.289,
+      "text": "sich Berichten zufolge bereits im"
+    },
+    {
+      "start": 447.988,
+      "duration": 2.367,
+      "text": "frühen Post-Training, und das Team"
+    },
+    {
+      "start": 449.394,
+      "duration": 2.328,
+      "text": "möchte anscheinend so schnell wie"
+    },
+    {
+      "start": 450.762,
+      "duration": 2.093,
+      "text": "möglich eine frühe Version"
+    },
+    {
+      "start": 451.894,
+      "duration": 3.832,
+      "text": "veröffentlichen. Es wurde in den"
+    },
+    {
+      "start": 454.773,
+      "duration": 2.746,
+      "text": "letzten Wochen auch mehrfach in Arena"
+    },
+    {
+      "start": 456.566,
+      "duration": 2.793,
+      "text": "getestet, und basierend auf den ersten"
+    },
+    {
+      "start": 458.407,
+      "duration": 2.604,
+      "text": "Ergebnissen, die wir heute gesehen"
+    },
+    {
+      "start": 460.058,
+      "duration": 2.699,
+      "text": "haben, scheint es ehrlich gesagt auf"
+    },
+    {
+      "start": 461.804,
+      "duration": 2.84,
+      "text": "Augenhöhe mit GPT-6 Astra zu sein, was"
+    },
+    {
+      "start": 463.691,
+      "duration": 2.84,
+      "text": "ein sehr vielversprechendes Zeichen ist"
+    },
+    {
+      "start": 465.531,
+      "duration": 3.515,
+      "text": ". Und ich hoffe wirklich, dass sie"
+    },
+    {
+      "start": 468.094,
+      "duration": 2.862,
+      "text": "diesen Checkpunkt auch veröffentlichen"
+    },
+    {
+      "start": 469.956,
+      "duration": 2.766,
+      "text": ", denn oft setzen sie das am Ende gar"
+    },
+    {
+      "start": 471.77,
+      "duration": 2.888,
+      "text": "nicht um. Sie veröffentlichen am Ende"
+    },
+    {
+      "start": 473.7,
+      "duration": 2.432,
+      "text": "eine abgeschwächte Version dieses"
+    },
+    {
+      "start": 475.174,
+      "duration": 3.307,
+      "text": "Checkpoints. Google scheint ebenfalls"
+    },
+    {
+      "start": 477.536,
+      "duration": 3.147,
+      "text": "zuversichtlich, dass dieser Checkpoint,"
+    },
+    {
+      "start": 479.738,
+      "duration": 2.927,
+      "text": "den sie derzeit getestet haben, sie"
+    },
+    {
+      "start": 481.72,
+      "duration": 2.762,
+      "text": "zurück ins Rennen an der Spitze"
+    },
+    {
+      "start": 483.537,
+      "duration": 2.927,
+      "text": "bringen kann, was von vielen Medien"
+    },
+    {
+      "start": 485.519,
+      "duration": 3.019,
+      "text": "berichtet wurde. Es gibt jedoch"
+    },
+    {
+      "start": 487.591,
+      "duration": 2.85,
+      "text": "natürlich keine Bestätigung, wann"
+    },
+    {
+      "start": 489.494,
+      "duration": 3.061,
+      "text": "Gemini 4 erscheinen wird, aber es sieht"
+    },
+    {
+      "start": 491.608,
+      "duration": 3.009,
+      "text": "so aus, als ob es ziemlich bald kommen"
+    },
+    {
+      "start": 493.67,
+      "duration": 3.266,
+      "text": "sollte. Es gibt viele Dinge im"
+    },
+    {
+      "start": 495.976,
+      "duration": 2.513,
+      "text": "KI-Bereich, die ich nicht wirklich auf"
+    },
+    {
+      "start": 497.529,
+      "duration": 2.554,
+      "text": "dem YouTube-Kanal zeige, und auf die du"
+    },
+    {
+      "start": 499.123,
+      "duration": 2.394,
+      "text": "über meinen kostenlosen Newsletter"
+    },
+    {
+      "start": 500.557,
+      "duration": 2.354,
+      "text": "zugreifen kannst, für den du dich"
+    },
+    {
+      "start": 501.951,
+      "duration": 2.354,
+      "text": "über den Link in der Beschreibung"
+    },
+    {
+      "start": 503.345,
+      "duration": 2.554,
+      "text": "unten völlig kostenlos anmelden kannst"
+    },
+    {
+      "start": 504.899,
+      "duration": 3.586,
+      "text": ". Dies ist etwas anderes, das von"
+    },
+    {
+      "start": 507.537,
+      "duration": 2.574,
+      "text": "diesem neuen Barium-Checkpoint"
+    },
+    {
+      "start": 509.163,
+      "duration": 3.045,
+      "text": "generiert wurde, nämlich Gemini 4 Pro,"
+    },
+    {
+      "start": 511.261,
+      "duration": 2.992,
+      "text": "und das ist eine ziemlich interessante"
+    },
+    {
+      "start": 513.306,
+      "duration": 2.835,
+      "text": "Simulation eines Kampfjets, der den"
+    },
+    {
+      "start": 515.193,
+      "duration": 2.94,
+      "text": "Hangar verlässt, und ich muss sagen,"
+    },
+    {
+      "start": 517.186,
+      "duration": 3.445,
+      "text": "das ist ziemlich cool. Nichts"
+    },
+    {
+      "start": 519.689,
+      "duration": 2.879,
+      "text": "Außergewöhnliches, aber es ist"
+    },
+    {
+      "start": 521.626,
+      "duration": 2.996,
+      "text": "einfach eine coole 3 GS-Simulation"
+    },
+    {
+      "start": 523.681,
+      "duration": 4.089,
+      "text": "dieses Kampfjets. Als Nächstes haben"
+    },
+    {
+      "start": 526.817,
+      "duration": 2.268,
+      "text": "wir ein mysteriöses, neues"
+    },
+    {
+      "start": 528.132,
+      "duration": 2.83,
+      "text": "Stealth-Modell namens Pixel Canary, das"
+    },
+    {
+      "start": 530.009,
+      "duration": 2.784,
+      "text": "vor ein paar Stunden einfach zufällig"
+    },
+    {
+      "start": 531.84,
+      "duration": 2.502,
+      "text": "aufgetaucht ist und derzeit für"
+    },
+    {
+      "start": 533.389,
+      "duration": 2.69,
+      "text": "begrenzte Zeit komplett kostenlos im"
+    },
+    {
+      "start": 535.126,
+      "duration": 4.512,
+      "text": "Client verfügbar ist. Dieses Modell"
+    },
+    {
+      "start": 538.705,
+      "duration": 3.567,
+      "text": "ist tatsächlich ziemlich interessant,"
+    },
+    {
+      "start": 541.34,
+      "duration": 1.81,
+      "text": "denn bei der"
+    },
+    {
+      "start": 542.218,
+      "duration": 3.161,
+      "text": "Next.js-Agenten-Evaluierung, die"
+    },
+    {
+      "start": 544.447,
+      "duration": 2.216,
+      "text": "Modelle bei realen"
+    },
+    {
+      "start": 545.73,
+      "duration": 3.432,
+      "text": "Next.js-Entwicklungsaufgaben testet,"
+    },
+    {
+      "start": 548.23,
+      "duration": 3.026,
+      "text": "erreichte dieses Canary-Modell"
+    },
+    {
+      "start": 550.324,
+      "duration": 3.432,
+      "text": "angeblich eine Erfolgsquote von 90%,"
+    },
+    {
+      "start": 552.823,
+      "duration": 3.635,
+      "text": "gleichauf mit GPT-6 Astra bei komplexem"
+    },
+    {
+      "start": 555.525,
+      "duration": 3.635,
+      "text": "Denken und besser als Kimmy K3 mit 84%."
+    },
+    {
+      "start": 559.84,
+      "duration": 3.563,
+      "text": "Und mit zusätzlicher Dokumentation"
+    },
+    {
+      "start": 562.476,
+      "duration": 3.783,
+      "text": "durch Agents MD springt der Wert sogar"
+    },
+    {
+      "start": 565.333,
+      "duration": 3.714,
+      "text": "auf 97%. Seine Hauptstärke scheint"
+    },
+    {
+      "start": 568.103,
+      "duration": 2.694,
+      "text": "bisher die Frontend-und mobile"
+    },
+    {
+      "start": 569.853,
+      "duration": 3.033,
+      "text": "Entwicklung zu sein, einschließlich"
+    },
+    {
+      "start": 571.943,
+      "duration": 2.976,
+      "text": "App-Router-Migrationen, Datenabruf,"
+    },
+    {
+      "start": 573.975,
+      "duration": 3.033,
+      "text": "Caching, Bild-und Schriftoptimierung"
+    },
+    {
+      "start": 576.064,
+      "duration": 4.194,
+      "text": "sowie View-Transitionen. Die Identität"
+    },
+    {
+      "start": 579.331,
+      "duration": 3.618,
+      "text": "dieses Modells ist noch ein Rätsel,"
+    },
+    {
+      "start": 582.022,
+      "duration": 3.401,
+      "text": "und es taucht scheinbar über das"
+    },
+    {
+      "start": 584.496,
+      "duration": 3.691,
+      "text": "Vercel AI-Gateway unter dem Codenamen"
+    },
+    {
+      "start": 587.26,
+      "duration": 3.759,
+      "text": "stealth pixel-canary auf. Die Namen"
+    },
+    {
+      "start": 590.068,
+      "duration": 2.664,
+      "text": "Pixel und Canary lassen natürlich"
+    },
+    {
+      "start": 591.781,
+      "duration": 2.615,
+      "text": "Vermutungen aufkommen, ob es eine"
+    },
+    {
+      "start": 593.445,
+      "duration": 2.713,
+      "text": "Verbindung zu Google geben könnte,"
+    },
+    {
+      "start": 595.207,
+      "duration": 2.566,
+      "text": "aber dafür gibt es bisher keine"
+    },
+    {
+      "start": 596.822,
+      "duration": 2.953,
+      "text": "Bestätigung. Du kannst es derzeit"
+    },
+    {
+      "start": 598.817,
+      "duration": 2.378,
+      "text": "komplett kostenlos direkt in Pine"
+    },
+    {
+      "start": 600.237,
+      "duration": 4.563,
+      "text": "ausprobieren. Ich muss jedoch sagen,"
+    },
+    {
+      "start": 603.87,
+      "duration": 3.695,
+      "text": "dass es bei meinem Test extrem langsam"
+    },
+    {
+      "start": 606.636,
+      "duration": 4.656,
+      "text": "war. Einige Leute sagen zwar, es sei"
+    },
+    {
+      "start": 610.351,
+      "duration": 3.163,
+      "text": "recht schnell gewesen, aber in meiner"
+    },
+    {
+      "start": 612.573,
+      "duration": 3.222,
+      "text": "VS Code-Sitzung war es mit dem von mir"
+    },
+    {
+      "start": 614.853,
+      "duration": 3.106,
+      "text": "generierten Prompt ziemlich langsam."
+    },
+    {
+      "start": 617.071,
+      "duration": 2.016,
+      "text": "Das solltest du also definitiv im"
+    },
+    {
+      "start": 618.118,
+      "duration": 2.618,
+      "text": "Hinterkopf behalten. Die Leistung sieht"
+    },
+    {
+      "start": 619.786,
+      "duration": 2.353,
+      "text": "beeindruckend aus, aber die"
+    },
+    {
+      "start": 621.189,
+      "duration": 2.904,
+      "text": "Geschwindigkeit ist momentan nicht die"
+    },
+    {
+      "start": 623.143,
+      "duration": 3.521,
+      "text": "größte Stärke. Als Nächstes gibt es"
+    },
+    {
+      "start": 625.718,
+      "duration": 3.072,
+      "text": "großartige Neuigkeiten für Codex-und"
+    },
+    {
+      "start": 627.844,
+      "duration": 3.072,
+      "text": "ChatGPT-Work-Nutzer, denn heute hatten"
+    },
+    {
+      "start": 629.971,
+      "duration": 2.799,
+      "text": "viele Leute, mich eingeschlossen,"
+    },
+    {
+      "start": 631.825,
+      "duration": 3.481,
+      "text": "einige Probleme und Ausfallzeiten. Und"
+    },
+    {
+      "start": 634.368,
+      "duration": 3.3,
+      "text": "hier sagt OpenAI, dass es bald wieder"
+    },
+    {
+      "start": 636.73,
+      "duration": 3.425,
+      "text": "verfügbar sein sollte. Ich glaube, es"
+    },
+    {
+      "start": 639.193,
+      "duration": 3.465,
+      "text": "ist jetzt bereits wieder online. Aber"
+    },
+    {
+      "start": 641.713,
+      "duration": 2.868,
+      "text": "das war ein Fall, bei dem das Team"
+    },
+    {
+      "start": 643.635,
+      "duration": 3.088,
+      "text": "angab, es habe Verbindungsprobleme mit"
+    },
+    {
+      "start": 645.777,
+      "duration": 3.143,
+      "text": "jeder Claude-und Codex-Instanz gegeben."
+    },
+    {
+      "start": 649.399,
+      "duration": 2.803,
+      "text": "Aufgrund dieser Störung kündigte"
+    },
+    {
+      "start": 651.255,
+      "duration": 2.963,
+      "text": "OpenAI an, für alle zahlenden Nutzer"
+    },
+    {
+      "start": 653.271,
+      "duration": 2.963,
+      "text": "sowohl bei Codex als auch bei ChatGPT"
+    },
+    {
+      "start": 655.287,
+      "duration": 4.232,
+      "text": "einen Reset durchzuführen. Wenn ihr"
+    },
+    {
+      "start": 658.562,
+      "duration": 2.28,
+      "text": "also eure Limits zuvor bereits"
+    },
+    {
+      "start": 659.885,
+      "duration": 2.536,
+      "text": "ausgeschöpft hattet, solltet ihr im"
+    },
+    {
+      "start": 661.464,
+      "duration": 2.366,
+      "text": "Grunde einen kompletten Neustart"
+    },
+    {
+      "start": 662.872,
+      "duration": 3.549,
+      "text": "erhalten. Das ist definitiv eine nette"
+    },
+    {
+      "start": 665.472,
+      "duration": 2.721,
+      "text": "Geste von OpenAI, und ich finde es"
+    },
+    {
+      "start": 667.244,
+      "duration": 2.822,
+      "text": "wirklich gut, was sie tun, besonders"
+    },
+    {
+      "start": 669.117,
+      "duration": 2.971,
+      "text": "wenn es einen Ausfall gibt. Als"
+    },
+    {
+      "start": 671.151,
+      "duration": 3.325,
+      "text": "Nächstes haben wir ein neues Modell,"
+    },
+    {
+      "start": 673.539,
+      "duration": 3.451,
+      "text": "die LongChat 2.5 Preview, die offiziell"
+    },
+    {
+      "start": 676.053,
+      "duration": 3.983,
+      "text": "live ist. Es verfügt über insgesamt"
+    },
+    {
+      "start": 679.104,
+      "duration": 3.614,
+      "text": "1,6 Billionen Parameter, davon etwa 48"
+    },
+    {
+      "start": 681.787,
+      "duration": 3.476,
+      "text": "Milliarden aktive Parameter, und ein"
+    },
+    {
+      "start": 684.332,
+      "duration": 4.061,
+      "text": "Kontextfenster von 1 Million Token. Es"
+    },
+    {
+      "start": 687.44,
+      "duration": 2.738,
+      "text": "ist nativ multimodal, was schön ist,"
+    },
+    {
+      "start": 689.225,
+      "duration": 2.691,
+      "text": "aber das Interessante ist eigentlich"
+    },
+    {
+      "start": 690.963,
+      "duration": 2.863,
+      "text": "nicht die Anzahl der Parameter. Es ist"
+    },
+    {
+      "start": 692.864,
+      "duration": 2.252,
+      "text": "das, wofür das Modell eigentlich"
+    },
+    {
+      "start": 694.154,
+      "duration": 3.116,
+      "text": "entwickelt wurde. Dies ist ein Modell,"
+    },
+    {
+      "start": 696.322,
+      "duration": 2.598,
+      "text": "das sich stark auf langfristige"
+    },
+    {
+      "start": 697.971,
+      "duration": 2.701,
+      "text": "Agentenaufgaben konzentriert, was"
+    },
+    {
+      "start": 699.724,
+      "duration": 2.597,
+      "text": "bedeutet, dass es in Terminals,"
+    },
+    {
+      "start": 701.373,
+      "duration": 2.907,
+      "text": "Browsern, GUIs, Tabellenkalkulationen"
+    },
+    {
+      "start": 703.332,
+      "duration": 2.855,
+      "text": "und sogar Designtools arbeiten kann,"
+    },
+    {
+      "start": 705.239,
+      "duration": 2.958,
+      "text": "während es gleichzeitig viel längere"
+    },
+    {
+      "start": 707.249,
+      "duration": 3.453,
+      "text": "Aufgaben bewältigt. Das Programmieren"
+    },
+    {
+      "start": 709.755,
+      "duration": 2.966,
+      "text": "wurde mit den LongChat-Modellen stark"
+    },
+    {
+      "start": 711.775,
+      "duration": 3.072,
+      "text": "verbessert, und es lässt sich in viele"
+    },
+    {
+      "start": 713.9,
+      "duration": 3.02,
+      "text": "andere Coding-Agenten integrieren, die"
+    },
+    {
+      "start": 715.973,
+      "duration": 2.754,
+      "text": "wir alle nutzen, wie Claude Code,"
+    },
+    {
+      "start": 717.78,
+      "duration": 2.753,
+      "text": "Hermes, Open Code, Kilo und viele"
+    },
+    {
+      "start": 719.587,
+      "duration": 3.657,
+      "text": "andere. Die Preisgestaltung fand ich"
+    },
+    {
+      "start": 722.307,
+      "duration": 3.168,
+      "text": "interessant, und was mir an diesen"
+    },
+    {
+      "start": 724.539,
+      "duration": 3.359,
+      "text": "Modellen wirklich gefällt, ist, dass"
+    },
+    {
+      "start": 726.962,
+      "duration": 2.976,
+      "text": "sie etwa 30 Cent für 1 Million"
+    },
+    {
+      "start": 729.002,
+      "duration": 3.168,
+      "text": "Input-Token und 1,20 Dollar für 1"
+    },
+    {
+      "start": 731.233,
+      "duration": 2.786,
+      "text": "Million Output-Token kostet."
+    },
+    {
+      "start": 733.739,
+      "duration": 3.008,
+      "text": "Zusätzlich erhalten bestehende Nutzer"
+    },
+    {
+      "start": 735.8,
+      "duration": 2.85,
+      "text": "5 Millionen kostenlose Credits bzw."
+    },
+    {
+      "start": 737.702,
+      "duration": 3.322,
+      "text": "Token. Und denkt daran, dies ist nur"
+    },
+    {
+      "start": 740.068,
+      "duration": 3.328,
+      "text": "eine Vorschau. Sie werden LongChat 2.5"
+    },
+    {
+      "start": 742.452,
+      "duration": 3.143,
+      "text": "bis zur offiziellen Veröffentlichung,"
+    },
+    {
+      "start": 744.652,
+      "duration": 3.087,
+      "text": "die noch aussteht, weiter verbessern."
+    },
+    {
+      "start": 746.986,
+      "duration": 2.302,
+      "text": "Dies ist also definitiv ein weiteres"
+    },
+    {
+      "start": 748.324,
+      "duration": 2.411,
+      "text": "Modell, das man im Auge behalten sollte"
+    },
+    {
+      "start": 749.735,
+      "duration": 2.743,
+      "text": ". Als Nächstes haben wir ein wirklich"
+    },
+    {
+      "start": 751.52,
+      "duration": 2.5,
+      "text": "nützliches Update für Claude Code."
+    },
+    {
+      "start": 753.199,
+      "duration": 2.978,
+      "text": "Früher war es so, dass wenn man mitten"
+    },
+    {
+      "start": 755.228,
+      "duration": 2.878,
+      "text": "in einer Aufgabe sein 5-Stunden-Limit"
+    },
+    {
+      "start": 757.156,
+      "duration": 2.726,
+      "text": "erreichte, Claude einfach anhielt,"
+    },
+    {
+      "start": 758.932,
+      "duration": 2.776,
+      "text": "selbst wenn es gerade mitten in der"
+    },
+    {
+      "start": 760.759,
+      "duration": 3.753,
+      "text": "Bearbeitung des Codes war. Jetzt"
+    },
+    {
+      "start": 763.563,
+      "duration": 2.821,
+      "text": "versucht Claude Code, einen sauberen"
+    },
+    {
+      "start": 765.435,
+      "duration": 2.771,
+      "text": "Haltepunkt zu finden, indem es eine"
+    },
+    {
+      "start": 767.257,
+      "duration": 2.416,
+      "text": "kleine feste Menge von eurem"
+    },
+    {
+      "start": 768.724,
+      "duration": 2.872,
+      "text": "Wochenlimit nutzt, um abzuschließen,"
+    },
+    {
+      "start": 770.646,
+      "duration": 2.872,
+      "text": "was möglich ist, anstatt euch abrupt"
+    },
+    {
+      "start": 772.569,
+      "duration": 4.419,
+      "text": "zu unterbrechen. Mit der Einführung"
+    },
+    {
+      "start": 776.044,
+      "duration": 2.968,
+      "text": "erhalten Pro-Nutzer dies einmal pro"
+    },
+    {
+      "start": 778.069,
+      "duration": 2.293,
+      "text": "Woche, während Max-und"
+    },
+    {
+      "start": 779.418,
+      "duration": 2.8,
+      "text": "Team-Premium-Nutzer es jedes Mal"
+    },
+    {
+      "start": 781.274,
+      "duration": 2.406,
+      "text": "bekommen, wenn sie ihr 5-"
+    },
+    {
+      "start": 782.68,
+      "duration": 3.793,
+      "text": "Stunden-Sitzungslimit erreichen. Und"
+    },
+    {
+      "start": 785.518,
+      "duration": 2.567,
+      "text": "wenn ihr danach noch möchtet, dass"
+    },
+    {
+      "start": 787.13,
+      "duration": 2.702,
+      "text": "Claude weiterarbeitet, könnt ihr dies"
+    },
+    {
+      "start": 788.877,
+      "duration": 2.702,
+      "text": "durch zusätzliche Nutzung fortsetzen."
+    },
+    {
+      "start": 791.12,
+      "duration": 2.67,
+      "text": "Es ist eine kleine Änderung, aber"
+    },
+    {
+      "start": 792.839,
+      "duration": 2.72,
+      "text": "ehrlich gesagt ein sehr nützliches"
+    },
+    {
+      "start": 794.608,
+      "duration": 2.523,
+      "text": "Komfort-Update, das Claude Code"
+    },
+    {
+      "start": 796.181,
+      "duration": 2.621,
+      "text": "eingeführt hat, und ich liebe es"
+    },
+    {
+      "start": 797.851,
+      "duration": 2.671,
+      "text": "wirklich, was sie mit diesen neuen"
+    },
+    {
+      "start": 799.571,
+      "duration": 3.408,
+      "text": "Updates erreichen wollen. Vor Kurzem"
+    },
+    {
+      "start": 802.021,
+      "duration": 2.384,
+      "text": "habe ich einen Weg gefunden, neue"
+    },
+    {
+      "start": 803.447,
+      "duration": 2.636,
+      "text": "Entwicklungsmodelle im Katalog von Open"
+    },
+    {
+      "start": 805.125,
+      "duration": 2.595,
+      "text": "Code tatsächlich ausfindig zu machen."
+    },
+    {
+      "start": 807.4,
+      "duration": 3.593,
+      "text": "Und seitdem sind mehrere neue,"
+    },
+    {
+      "start": 810.08,
+      "duration": 4.372,
+      "text": "unveröffentlichte Modelle aufgetaucht,"
+    },
+    {
+      "start": 813.538,
+      "duration": 4.372,
+      "text": "wie GLM 5.5 Flash, GLM 5.4, Kimi K4 und"
+    },
+    {
+      "start": 816.997,
+      "duration": 4.92,
+      "text": "DeepSeek Version 4.1 Pro. Wir wissen"
+    },
+    {
+      "start": 820.97,
+      "duration": 2.615,
+      "text": "zwar nicht, wann diese Modelle"
+    },
+    {
+      "start": 822.639,
+      "duration": 2.56,
+      "text": "offiziell erscheinen, und ihr"
+    },
+    {
+      "start": 824.253,
+      "duration": 2.991,
+      "text": "Erscheinen hier bestätigt natürlich"
+    },
+    {
+      "start": 826.298,
+      "duration": 2.991,
+      "text": "keine baldige Veröffentlichung, aber"
+    },
+    {
+      "start": 828.343,
+      "duration": 2.883,
+      "text": "dass alle vier bereits in Open Code"
+    },
+    {
+      "start": 830.28,
+      "duration": 2.991,
+      "text": "auftauchen, ist definitiv interessant"
+    },
+    {
+      "start": 832.325,
+      "duration": 2.991,
+      "text": "und zeigt, dass uns ein wilder Herbst"
+    },
+    {
+      "start": 834.369,
+      "duration": 2.884,
+      "text": "mit neuen Modellveröffentlichungen"
+    },
+    {
+      "start": 836.307,
+      "duration": 4.26,
+      "text": "bevorsteht. Ich weiß, dieser nächste"
+    },
+    {
+      "start": 839.612,
+      "duration": 2.633,
+      "text": "Abschnitt mag wie gesponsert klingen,"
+    },
+    {
+      "start": 841.289,
+      "duration": 2.546,
+      "text": "aber das ist tatsächlich nicht der"
+    },
+    {
+      "start": 842.879,
+      "duration": 2.255,
+      "text": "Fall. Ich wollte euch damit wirklich"
+    },
+    {
+      "start": 844.163,
+      "duration": 2.6,
+      "text": "nur weiterhelfen. Hier habe ich"
+    },
+    {
+      "start": 845.814,
+      "duration": 2.941,
+      "text": "herausgefunden, dass NVIDIA den Zugang"
+    },
+    {
+      "start": 847.806,
+      "duration": 2.839,
+      "text": "zu vier unglaublich leistungsstarken"
+    },
+    {
+      "start": 849.696,
+      "duration": 2.992,
+      "text": "KI-Modellen komplett kostenlos anbietet"
+    },
+    {
+      "start": 851.688,
+      "duration": 2.787,
+      "text": ", und man braucht nicht einmal eine"
+    },
+    {
+      "start": 853.527,
+      "duration": 3.956,
+      "text": "Kreditkarte. Denn hier bieten sie vier"
+    },
+    {
+      "start": 856.558,
+      "duration": 3.76,
+      "text": "Modelle an, wie etwa DeepSeek Version"
+    },
+    {
+      "start": 859.393,
+      "duration": 3.724,
+      "text": "4.1 Flash. Man erhält GLM 5.3 sowie"
+    },
+    {
+      "start": 862.181,
+      "duration": 3.396,
+      "text": "die Flash-Variante und Kimiko 3 über"
+    },
+    {
+      "start": 864.641,
+      "duration": 3.896,
+      "text": "die Plattform von NVIDIA. Und das ist"
+    },
+    {
+      "start": 867.584,
+      "duration": 2.601,
+      "text": "nicht nur ein Playground, denn man"
+    },
+    {
+      "start": 869.232,
+      "duration": 2.79,
+      "text": "erhält tatsächlich Zugriff auf diese"
+    },
+    {
+      "start": 871.069,
+      "duration": 2.696,
+      "text": "Modelle über eine OpenAI-kompatible"
+    },
+    {
+      "start": 872.812,
+      "duration": 2.46,
+      "text": "API, was bedeutet, dass man sie"
+    },
+    {
+      "start": 874.319,
+      "duration": 2.46,
+      "text": "ziemlich einfach in seine Apps,"
+    },
+    {
+      "start": 875.826,
+      "duration": 2.79,
+      "text": "Coding-Tools und Workflows integrieren"
+    },
+    {
+      "start": 877.663,
+      "duration": 3.756,
+      "text": "kann. Wenn ihr also mit diesen Modellen"
+    },
+    {
+      "start": 880.454,
+      "duration": 2.3,
+      "text": "experimentieren wollt, findet ihr die"
+    },
+    {
+      "start": 881.789,
+      "duration": 2.3,
+      "text": "Links dazu unten in der Beschreibung;"
+    },
+    {
+      "start": 883.124,
+      "duration": 2.336,
+      "text": "ein Blick darauf lohnt sich definitiv."
+    },
+    {
+      "start": 885.4,
+      "duration": 2.546,
+      "text": "Es gibt jedoch eine ziemlich wichtige"
+    },
+    {
+      "start": 886.987,
+      "duration": 2.546,
+      "text": "Sache, die man beachten sollte, bevor"
+    },
+    {
+      "start": 888.575,
+      "duration": 2.505,
+      "text": "man diese kostenlosen Modelle nutzt."
+    },
+    {
+      "start": 890.52,
+      "duration": 2.582,
+      "text": "NVIDIA stellt klar, dass während der"
+    },
+    {
+      "start": 892.144,
+      "duration": 2.454,
+      "text": "kostenlosen Testphase eure Ein-und"
+    },
+    {
+      "start": 893.641,
+      "duration": 2.582,
+      "text": "Ausgaben aufgezeichnet werden, um den"
+    },
+    {
+      "start": 895.266,
+      "duration": 2.582,
+      "text": "Dienst bereitzustellen und NVIDIA bei"
+    },
+    {
+      "start": 896.891,
+      "duration": 2.539,
+      "text": "der Verbesserung seiner Produkte und"
+    },
+    {
+      "start": 898.473,
+      "duration": 2.624,
+      "text": "Dienste, einschließlich des Trainings"
+    },
+    {
+      "start": 900.14,
+      "duration": 2.54,
+      "text": "seiner KI-Modelle, zu unterstützen."
+    },
+    {
+      "start": 902.159,
+      "duration": 2.519,
+      "text": "Sie warnen ausdrücklich davor,"
+    },
+    {
+      "start": 903.727,
+      "duration": 2.568,
+      "text": "Zugangsdaten, Informationen oder"
+    },
+    {
+      "start": 905.344,
+      "duration": 2.862,
+      "text": "persönliche Daten hochzuladen, sofern"
+    },
+    {
+      "start": 907.255,
+      "duration": 3.137,
+      "text": "dies nicht gestattet ist. Also ja, ihr"
+    },
+    {
+      "start": 909.441,
+      "duration": 2.728,
+      "text": "erhaltet kostenlos Zugang zu extrem"
+    },
+    {
+      "start": 911.218,
+      "duration": 2.728,
+      "text": "leistungsstarken Modellen, aber ich"
+    },
+    {
+      "start": 912.995,
+      "duration": 2.876,
+      "text": "würde definitiv keinen privaten Code,"
+    },
+    {
+      "start": 914.92,
+      "duration": 2.876,
+      "text": "sensible Firmendaten oder persönliche"
+    },
+    {
+      "start": 916.845,
+      "duration": 2.58,
+      "text": "Informationen in diese Endpunkte"
+    },
+    {
+      "start": 918.474,
+      "duration": 2.773,
+      "text": "eingeben. Wenn euch dieses Video"
+    },
+    {
+      "start": 920.292,
+      "duration": 2.192,
+      "text": "gefällt und ihr den Kanal"
+    },
+    {
+      "start": 921.53,
+      "duration": 2.558,
+      "text": "unterstützen möchtet, könnt ihr"
+    },
+    {
+      "start": 923.133,
+      "duration": 2.604,
+      "text": "über die „Super Thanks“-Option"
+    },
+    {
+      "start": 924.783,
+      "duration": 2.696,
+      "text": "unten eine Spende in Betracht ziehen."
+    },
+    {
+      "start": 926.74,
+      "duration": 2.872,
+      "text": "Oder ihr könnt unserem privaten"
+    },
+    {
+      "start": 928.671,
+      "duration": 3.048,
+      "text": "Discord beitreten, wo ihr monatlich"
+    },
+    {
+      "start": 930.777,
+      "duration": 2.814,
+      "text": "kostenlosen Zugriff auf mehrere"
+    },
+    {
+      "start": 932.65,
+      "duration": 3.282,
+      "text": "Abonnements für verschiedene KI-Tools,"
+    },
+    {
+      "start": 934.99,
+      "duration": 3.107,
+      "text": "tägliche KI-News, exklusive Inhalte"
+    },
+    {
+      "start": 937.156,
+      "duration": 4.388,
+      "text": "und vieles mehr erhaltet. Als Nächstes"
+    },
+    {
+      "start": 940.596,
+      "duration": 2.946,
+      "text": "eine Geschichte, die noch wilder wird,"
+    },
+    {
+      "start": 942.594,
+      "duration": 2.588,
+      "text": "denn OpenAI hat enthüllt, dass"
+    },
+    {
+      "start": 944.233,
+      "duration": 2.947,
+      "text": "während des Hugging-Face-Vorfalls ein"
+    },
+    {
+      "start": 946.231,
+      "duration": 2.896,
+      "text": "KI-Agent in seiner Forschungsumgebung"
+    },
+    {
+      "start": 948.178,
+      "duration": 2.793,
+      "text": "tatsächlich Wege gefunden hat, die"
+    },
+    {
+      "start": 950.022,
+      "duration": 2.691,
+      "text": "beabsichtigten Beschränkungen zu"
+    },
+    {
+      "start": 951.764,
+      "duration": 2.947,
+      "text": "umgehen, auf das Internet zuzugreifen,"
+    },
+    {
+      "start": 953.762,
+      "duration": 2.844,
+      "text": "mit anderen Agenten zu kommunizieren"
+    },
+    {
+      "start": 955.657,
+      "duration": 2.947,
+      "text": "und mit Drittsystemen zu interagieren,"
+    },
+    {
+      "start": 957.655,
+      "duration": 4.174,
+      "text": "obwohl er das nicht sollte. Und nun hat"
+    },
+    {
+      "start": 960.88,
+      "duration": 2.814,
+      "text": "OpenAI enthüllt, dass tatsächlich"
+    },
+    {
+      "start": 962.746,
+      "duration": 2.503,
+      "text": "einige Daten unsachgemäß an"
+    },
+    {
+      "start": 964.301,
+      "duration": 2.918,
+      "text": "Drittanbieterdienste gesendet wurden."
+    },
+    {
+      "start": 966.72,
+      "duration": 3.064,
+      "text": "Das meiste davon stammte anscheinend"
+    },
+    {
+      "start": 968.841,
+      "duration": 3.179,
+      "text": "nicht von Nutzern, aber sie entdeckten"
+    },
+    {
+      "start": 971.077,
+      "duration": 2.777,
+      "text": "53 Fälle, in denen von Nutzern"
+    },
+    {
+      "start": 972.912,
+      "duration": 3.236,
+      "text": "hochgeladene Bilder als nicht gelistete"
+    },
+    {
+      "start": 975.205,
+      "duration": 3.179,
+      "text": "Links auf externen Bild-Hosting-Seiten"
+    },
+    {
+      "start": 977.441,
+      "duration": 3.592,
+      "text": "veröffentlicht wurden. OpenAI gibt an,"
+    },
+    {
+      "start": 980.09,
+      "duration": 3.222,
+      "text": "dass diese von Konten stammten, die der"
+    },
+    {
+      "start": 982.369,
+      "duration": 3.108,
+      "text": "Modellverbesserung zugestimmt hatten,"
+    },
+    {
+      "start": 984.534,
+      "duration": 2.88,
+      "text": "und die Bilder bereits von diesen"
+    },
+    {
+      "start": 986.471,
+      "duration": 2.88,
+      "text": "Konten entkoppelt und durch einen"
+    },
+    {
+      "start": 988.408,
+      "duration": 3.051,
+      "text": "Privatsphärenfilter gelaufen waren."
+    },
+    {
+      "start": 991.26,
+      "duration": 2.495,
+      "text": "Aber was das Ganze noch viel"
+    },
+    {
+      "start": 992.808,
+      "duration": 2.762,
+      "text": "verrückter und diesen Vorfall so"
+    },
+    {
+      "start": 994.624,
+      "duration": 2.815,
+      "text": "interessant macht, ist, dass diese"
+    },
+    {
+      "start": 996.493,
+      "duration": 3.029,
+      "text": "Agenten im Grunde unbeabsichtigte Wege"
+    },
+    {
+      "start": 998.575,
+      "duration": 2.869,
+      "text": "aus der Umgebung fanden, in die sie"
+    },
+    {
+      "start": 1000.498,
+      "duration": 3.839,
+      "text": "gesetzt wurden. Sie wollten im Grunde"
+    },
+    {
+      "start": 1003.394,
+      "duration": 2.565,
+      "text": "Wege finden, aus all diesen"
+    },
+    {
+      "start": 1005.017,
+      "duration": 3.202,
+      "text": "verschiedenen Umgebungen auszubrechen,"
+    },
+    {
+      "start": 1007.277,
+      "duration": 3.203,
+      "text": "damit sie tun können, was sie wollen."
+    },
+    {
+      "start": 1009.859,
+      "duration": 2.357,
+      "text": "Sie hatten ihren eigenen Kopf, kann man"
+    },
+    {
+      "start": 1011.251,
+      "duration": 3.618,
+      "text": "sagen. OpenAI sagt, dass die Agenten"
+    },
+    {
+      "start": 1013.923,
+      "duration": 2.657,
+      "text": "Wege entdeckten, miteinander zu"
+    },
+    {
+      "start": 1015.633,
+      "duration": 2.871,
+      "text": "kommunizieren und Internetzugang zu"
+    },
+    {
+      "start": 1017.557,
+      "duration": 2.443,
+      "text": "erlangen, was wild ist, und"
+    },
+    {
+      "start": 1019.053,
+      "duration": 2.818,
+      "text": "schließlich Schwachstellen in der"
+    },
+    {
+      "start": 1020.924,
+      "duration": 3.084,
+      "text": "eigenen Forschungsinfrastruktur und dem"
+    },
+    {
+      "start": 1023.062,
+      "duration": 3.712,
+      "text": "Hugging-Face-System ausnutzten. OpenAI"
+    },
+    {
+      "start": 1025.827,
+      "duration": 2.889,
+      "text": "sagt, dass dies etwas ist, woran sie"
+    },
+    {
+      "start": 1027.769,
+      "duration": 2.942,
+      "text": "seit diesem Vorfall gearbeitet haben,"
+    },
+    {
+      "start": 1029.763,
+      "duration": 2.26,
+      "text": "und sie arbeiten mit den"
+    },
+    {
+      "start": 1031.075,
+      "duration": 2.785,
+      "text": "Hosting-Anbietern zusammen, um den"
+    },
+    {
+      "start": 1032.912,
+      "duration": 2.995,
+      "text": "größten Teil der betroffenen Inhalte"
+    },
+    {
+      "start": 1034.959,
+      "duration": 2.942,
+      "text": "zu entfernen, und arbeiten daran, den"
+    },
+    {
+      "start": 1036.954,
+      "duration": 3.411,
+      "text": "Rest zu entfernen. Und jetzt werden sie"
+    },
+    {
+      "start": 1039.43,
+      "duration": 2.893,
+      "text": "natürlich deutlich stärkere"
+    },
+    {
+      "start": 1041.388,
+      "duration": 3.48,
+      "text": "Sicherheitsvorkehrungen, Überwachung,"
+    },
+    {
+      "start": 1043.933,
+      "duration": 1.914,
+      "text": "Sandboxing und"
+    },
+    {
+      "start": 1044.912,
+      "duration": 3.023,
+      "text": "Alignment-Sicherheitsmaßnahmen"
+    },
+    {
+      "start": 1047.001,
+      "duration": 3.003,
+      "text": "implementieren. Aber die ganze"
+    },
+    {
+      "start": 1049.053,
+      "duration": 2.825,
+      "text": "Situation, die wir gesehen haben, ist"
+    },
+    {
+      "start": 1050.927,
+      "duration": 2.825,
+      "text": "ehrlich gesagt einfach wild, weil wir"
+    },
+    {
+      "start": 1052.801,
+      "duration": 2.775,
+      "text": "jetzt abtrünnige Agenten haben, die"
+    },
+    {
+      "start": 1054.626,
+      "duration": 2.528,
+      "text": "tun, was sie wollen, und es ist"
+    },
+    {
+      "start": 1056.204,
+      "duration": 2.923,
+      "text": "verrückt, wenn man sich vorstellt, wie"
+    },
+    {
+      "start": 1058.176,
+      "duration": 2.282,
+      "text": "es wird, wenn KI noch viel"
+    },
+    {
+      "start": 1059.508,
+      "duration": 2.91,
+      "text": "intelligenter wird. Wir werden diese"
+    },
+    {
+      "start": 1061.464,
+      "duration": 2.663,
+      "text": "abtrünnigen Agenten haben, die tun,"
+    },
+    {
+      "start": 1063.173,
+      "duration": 2.478,
+      "text": "was sie wollen, es sei denn, wir"
+    },
+    {
+      "start": 1064.698,
+      "duration": 2.57,
+      "text": "ergreifen geeignete Maßnahmen und"
+    },
+    {
+      "start": 1066.314,
+      "duration": 1.786,
+      "text": "stellen genügend"
+    },
+    {
+      "start": 1067.146,
+      "duration": 3.102,
+      "text": "Sicherheitsvorkehrungen auf. Als"
+    },
+    {
+      "start": 1069.304,
+      "duration": 2.917,
+      "text": "Nächstes müssen wir über Chinas"
+    },
+    {
+      "start": 1071.278,
+      "duration": 3.142,
+      "text": "absolut massiven KI-Infrastruktur-Boom"
+    },
+    {
+      "start": 1073.477,
+      "duration": 2.973,
+      "text": "sprechen, denn wie ich schon sagte,"
+    },
+    {
+      "start": 1075.506,
+      "duration": 3.03,
+      "text": "glaube ich ernsthaft, dass die Leute"
+    },
+    {
+      "start": 1077.593,
+      "duration": 2.973,
+      "text": "den nächsten Schritt von ByteDance"
+    },
+    {
+      "start": 1079.623,
+      "duration": 2.522,
+      "text": "unterschätzen, der aus der"
+    },
+    {
+      "start": 1081.201,
+      "duration": 3.582,
+      "text": "chinesischen KI-Szene kommen wird. Und"
+    },
+    {
+      "start": 1083.844,
+      "duration": 3.385,
+      "text": "das liegt daran, dass es neue Daten von"
+    },
+    {
+      "start": 1086.291,
+      "duration": 3.202,
+      "text": "SemiAnalysis gibt, die über tausend"
+    },
+    {
+      "start": 1088.554,
+      "duration": 3.202,
+      "text": "Rechenzentrumseinrichtungen bei mehr"
+    },
+    {
+      "start": 1090.817,
+      "duration": 3.018,
+      "text": "als 60 Betreibern allein in China"
+    },
+    {
+      "start": 1092.896,
+      "duration": 3.263,
+      "text": "kartieren und zeigen, wie schnell das"
+    },
+    {
+      "start": 1095.22,
+      "duration": 2.652,
+      "text": "Land die für KI benötigte"
+    },
+    {
+      "start": 1096.933,
+      "duration": 3.812,
+      "text": "Infrastruktur aufbaut. Und einige"
+    },
+    {
+      "start": 1099.803,
+      "duration": 3.223,
+      "text": "dieser Zahlen sind ziemlich verrückt,"
+    },
+    {
+      "start": 1102.085,
+      "duration": 2.931,
+      "text": "denn Chinas größter Hyperscaler"
+    },
+    {
+      "start": 1104.074,
+      "duration": 3.165,
+      "text": "mietet Berichten zufolge etwa 1/5 der"
+    },
+    {
+      "start": 1106.298,
+      "duration": 2.813,
+      "text": "gesamten Kapazität des Landes,"
+    },
+    {
+      "start": 1108.17,
+      "duration": 2.228,
+      "text": "während massive 100-"
+    },
+    {
+      "start": 1109.398,
+      "duration": 3.165,
+      "text": "Megawatt-Implementierungen in etwa 12"
+    },
+    {
+      "start": 1111.622,
+      "duration": 3.639,
+      "text": "Monaten online gehen können. Dies"
+    },
+    {
+      "start": 1114.317,
+      "duration": 2.895,
+      "text": "alles geschieht parallel zu Chinas"
+    },
+    {
+      "start": 1116.267,
+      "duration": 3.118,
+      "text": "umfassender Strategie, östliche Daten"
+    },
+    {
+      "start": 1118.441,
+      "duration": 2.839,
+      "text": "im Westen zu verarbeiten, bei der"
+    },
+    {
+      "start": 1120.335,
+      "duration": 3.174,
+      "text": "enorme Mengen an Recheninfrastruktur in"
+    },
+    {
+      "start": 1122.564,
+      "duration": 2.951,
+      "text": "Regionen verlagert werden, in denen"
+    },
+    {
+      "start": 1124.571,
+      "duration": 3.173,
+      "text": "Strom und Land leichter verfügbar sind"
+    },
+    {
+      "start": 1126.744,
+      "duration": 3.098,
+      "text": ". Und genau deshalb spreche ich immer"
+    },
+    {
+      "start": 1128.885,
+      "duration": 2.93,
+      "text": "wieder von ByteDance. Alle"
+    },
+    {
+      "start": 1130.859,
+      "duration": 2.147,
+      "text": "konzentrieren sich auf die"
+    },
+    {
+      "start": 1132.05,
+      "duration": 2.676,
+      "text": "Modellveröffentlichungen selbst, doch"
+    },
+    {
+      "start": 1133.77,
+      "duration": 2.588,
+      "text": "im Hintergrund findet ein gewaltiges"
+    },
+    {
+      "start": 1135.402,
+      "duration": 2.677,
+      "text": "Wettrennen um die Infrastruktur statt."
+    },
+    {
+      "start": 1138.26,
+      "duration": 3.282,
+      "text": "Wenn ByteDance tatsächlich an diesem"
+    },
+    {
+      "start": 1140.603,
+      "duration": 2.789,
+      "text": "neuen Modell mit 10 Billionen"
+    },
+    {
+      "start": 1142.454,
+      "duration": 2.912,
+      "text": "Parametern arbeitet, baut China"
+    },
+    {
+      "start": 1144.427,
+      "duration": 3.344,
+      "text": "eindeutig die Recheninfrastruktur auf,"
+    },
+    {
+      "start": 1146.833,
+      "duration": 3.282,
+      "text": "um diesen Ehrgeiz zu unterstützen–"
+    },
+    {
+      "start": 1149.115,
+      "duration": 3.159,
+      "text": "und deshalb könnten wir das Modell"
+    },
+    {
+      "start": 1151.336,
+      "duration": 3.343,
+      "text": "laut früherer Berichte noch in diesem"
+    },
+    {
+      "start": 1153.741,
+      "duration": 4.351,
+      "text": "Jahr sehen. Zuletzt haben wir Agent"
+    },
+    {
+      "start": 1157.154,
+      "duration": 2.992,
+      "text": "Ultra, was einen ziemlich coolen"
+    },
+    {
+      "start": 1159.209,
+      "duration": 3.366,
+      "text": "Fortschritt für Deep-Research-Agenten"
+    },
+    {
+      "start": 1161.637,
+      "duration": 3.526,
+      "text": "darstellt. Ich habe das heute auf X"
+    },
+    {
+      "start": 1164.228,
+      "duration": 3.41,
+      "text": "gesehen und fand es sehr interessant,"
+    },
+    {
+      "start": 1166.703,
+      "duration": 3.54,
+      "text": "da viele Leute hier im Kanal nach neuen"
+    },
+    {
+      "start": 1169.308,
+      "duration": 3.41,
+      "text": "Strategien für Deep-Research-Agenten"
+    },
+    {
+      "start": 1171.784,
+      "duration": 3.817,
+      "text": "suchen. Ich glaube, dieser"
+    },
+    {
+      "start": 1174.666,
+      "duration": 2.871,
+      "text": "Deep-Research-Agent wird euch"
+    },
+    {
+      "start": 1176.602,
+      "duration": 3.259,
+      "text": "weiterhelfen, denn Agent Ultra kann"
+    },
+    {
+      "start": 1178.925,
+      "duration": 2.743,
+      "text": "ganze Schwärme von Agenten"
+    },
+    {
+      "start": 1180.733,
+      "duration": 3.452,
+      "text": "koordinieren, um ein Thema parallel zu"
+    },
+    {
+      "start": 1183.25,
+      "duration": 5.198,
+      "text": "erforschen. Es wurde von X für massive"
+    },
+    {
+      "start": 1187.5,
+      "duration": 2.775,
+      "text": "Forschungsaufgaben entwickelt, bei"
+    },
+    {
+      "start": 1189.327,
+      "duration": 2.88,
+      "text": "denen man Hunderte oder Tausende von"
+    },
+    {
+      "start": 1191.259,
+      "duration": 2.931,
+      "text": "Quellen durchgehen, umfassende Listen"
+    },
+    {
+      "start": 1193.243,
+      "duration": 2.879,
+      "text": "erstellen, Informationen vergleichen"
+    },
+    {
+      "start": 1195.174,
+      "duration": 3.036,
+      "text": "und schließlich alles zu einer Antwort"
+    },
+    {
+      "start": 1197.262,
+      "duration": 4.24,
+      "text": "zusammenführen muss. Interessant ist"
+    },
+    {
+      "start": 1200.547,
+      "duration": 2.41,
+      "text": "dabei, dass Agent Ultra bei der"
+    },
+    {
+      "start": 1202.002,
+      "duration": 2.637,
+      "text": "Web-Recherche auf dem neuesten Stand"
+    },
+    {
+      "start": 1203.685,
+      "duration": 2.637,
+      "text": "der Technik ist und gleichzeitig ein"
+    },
+    {
+      "start": 1205.367,
+      "duration": 2.683,
+      "text": "optimales Verhältnis zwischen Kosten"
+    },
+    {
+      "start": 1207.095,
+      "duration": 3.326,
+      "text": "und Recherchequalität bietet. Es ist"
+    },
+    {
+      "start": 1209.468,
+      "duration": 2.602,
+      "text": "also definitiv ein ziemlich cooler"
+    },
+    {
+      "start": 1211.117,
+      "duration": 2.46,
+      "text": "Fortschritt, und ich wollte das"
+    },
+    {
+      "start": 1212.624,
+      "duration": 3.283,
+      "text": "unbedingt in diesem Video zeigen. Aber"
+    },
+    {
+      "start": 1214.943,
+      "duration": 2.398,
+      "text": "das war es auch schon für das heutige"
+    },
+    {
+      "start": 1216.378,
+      "duration": 2.57,
+      "text": "Video. Falls ihr es noch nicht getan"
+    },
+    {
+      "start": 1217.989,
+      "duration": 2.436,
+      "text": "habt, schaut euch unbedingt die „"
+    },
+    {
+      "start": 1219.425,
+      "duration": 2.313,
+      "text": "World of AI“ innerhalb unserer"
+    },
+    {
+      "start": 1220.779,
+      "duration": 2.769,
+      "text": "School-Community an. Werft einen Blick"
+    },
+    {
+      "start": 1222.592,
+      "duration": 2.72,
+      "text": "auf das „World of AI“-Benchmark und"
+    },
+    {
+      "start": 1224.356,
+      "duration": 2.854,
+      "text": "die Viper-Plattform. Schaut euch auch"
+    },
+    {
+      "start": 1226.243,
+      "duration": 2.388,
+      "text": "meinen zweiten Kanal an. Dort könnt"
+    },
+    {
+      "start": 1227.663,
+      "duration": 1.864,
+      "text": "ihr euch über die neuesten"
+    },
+    {
+      "start": 1228.559,
+      "duration": 2.248,
+      "text": "KI-Nachrichten auf dem Laufenden halten"
+    },
+    {
+      "start": 1229.807,
+      "duration": 2.519,
+      "text": ". Abonniert den Newsletter, tretet dem"
+    },
+    {
+      "start": 1231.361,
+      "duration": 2.336,
+      "text": "Discord bei und folgt mir auf Twitter."
+    },
+    {
+      "start": 1232.917,
+      "duration": 2.251,
+      "text": "Und vergesst nicht, den Kanal zu"
+    },
+    {
+      "start": 1234.208,
+      "duration": 2.447,
+      "text": "abonnieren, die Glocke zu aktivieren,"
+    },
+    {
+      "start": 1235.694,
+      "duration": 2.33,
+      "text": "das Video zu liken und euch unsere"
+    },
+    {
+      "start": 1237.064,
+      "duration": 2.447,
+      "text": "früheren Videos anzusehen, damit ihr"
+    },
+    {
+      "start": 1238.55,
+      "duration": 2.252,
+      "text": "bei den neuesten KI-News auf dem"
+    },
+    {
+      "start": 1239.841,
+      "duration": 2.544,
+      "text": "Laufenden bleibt. Damit wünsche ich"
+    },
+    {
+      "start": 1241.429,
+      "duration": 2.255,
+      "text": "euch einen fantastischen Tag."
+    },
+    {
+      "start": 1242.784,
+      "duration": 2.618,
+      "text": "Verbreitet Positivität, und wir sehen"
+    },
+    {
+      "start": 1244.444,
+      "duration": 2.602,
+      "text": "uns in Kürze wieder. Macht’s gut,"
+    },
+    {
+      "start": 1246.082,
+      "duration": 1.218,
+      "text": "Leute."
+    }
+  ]
+}

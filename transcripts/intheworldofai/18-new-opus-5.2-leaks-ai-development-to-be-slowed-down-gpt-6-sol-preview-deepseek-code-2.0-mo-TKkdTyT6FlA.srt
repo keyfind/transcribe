@@ -1,0 +1,1383 @@
+1
+00:00:01,040 --> 00:00:03,512
+Wir haben heute einen ziemlich
+
+2
+00:00:02,561 --> 00:00:05,427
+interessanten Tag für KI-Nachrichten,
+
+3
+00:00:04,476 --> 00:00:07,390
+denn wir haben einige neue Erkenntnisse
+
+4
+00:00:06,440 --> 00:00:09,354
+zu Anthropics neuem Modell, Claude Opus
+
+5
+00:00:08,403 --> 00:00:10,925
+5.2, das anscheinend schon bald
+
+6
+00:00:09,974 --> 00:00:14,338
+erscheinen wird. Es wird erwartet, dass
+
+7
+00:00:13,383 --> 00:00:16,029
+dies Fähigkeiten auf Fabel-Niveau in
+
+8
+00:00:15,074 --> 00:00:17,765
+die Opus-Familie bringt, was bedeutet,
+
+9
+00:00:16,809 --> 00:00:19,367
+dass es wahrscheinlich extrem teuer
+
+10
+00:00:18,411 --> 00:00:21,058
+sein wird, aber möglicherweise eines
+
+11
+00:00:20,102 --> 00:00:22,660
+der leistungsfähigsten Modelle von
+
+12
+00:00:21,704 --> 00:00:25,048
+Anthropic bisher ist. Aber Anthropic
+
+13
+00:00:24,103 --> 00:00:27,192
+ist nicht das einzige Unternehmen, das
+
+14
+00:00:26,247 --> 00:00:29,007
+etwas plant, denn OpenAI scheint
+
+15
+00:00:28,062 --> 00:00:31,206
+ebenfalls bereit zu sein, mit GPT-6 die
+
+16
+00:00:30,261 --> 00:00:33,405
+nächste Modellgeneration auf den Markt
+
+17
+00:00:32,460 --> 00:00:35,439
+zu bringen, wobei Soul und Luna Teil
+
+18
+00:00:34,494 --> 00:00:37,919
+dieser Modellreihe sein werden. Wir
+
+19
+00:00:36,972 --> 00:00:39,988
+sind uns noch nicht sicher, was es mit
+
+20
+00:00:39,041 --> 00:00:42,004
+Hera als Teil von GPT-6 auf sich hat,
+
+21
+00:00:41,057 --> 00:00:44,127
+aber wir haben endlich erste Vorschauen
+
+22
+00:00:43,180 --> 00:00:46,037
+auf diese Modelle erhalten, und die
+
+23
+00:00:45,090 --> 00:00:48,160
+Ergebnisse sind momentan ziemlich wild.
+
+24
+00:00:48,320 --> 00:00:51,139
+Obwohl Soul im Vergleich zu Astra als
+
+25
+00:00:50,188 --> 00:00:52,811
+Modell leicht verkleinert zu sein
+
+26
+00:00:51,860 --> 00:00:54,777
+scheint, liefert es bereits Ergebnisse,
+
+27
+00:00:53,827 --> 00:00:56,646
+die überraschend nah an die Leistung
+
+28
+00:00:55,695 --> 00:00:58,514
+von Asher heranreichen, und das alles
+
+29
+00:00:57,563 --> 00:01:02,325
+zu deutlich geringeren Kosten. Und die
+
+30
+00:01:01,374 --> 00:01:04,007
+Dinge werden noch seltsamer, denn
+
+31
+00:01:03,057 --> 00:01:05,937
+gestern haben wir darüber gesprochen,
+
+32
+00:01:04,986 --> 00:01:07,718
+wie Anthropic-CEO Dario Amodei dazu
+
+33
+00:01:06,768 --> 00:01:09,697
+aufrief, den Prozess der KI-Entwicklung
+
+34
+00:01:08,747 --> 00:01:12,945
+zu verlangsamen. Und das hat plötzlich
+
+35
+00:01:12,002 --> 00:01:15,189
+dazu geführt, dass andere KI-Größen
+
+36
+00:01:14,247 --> 00:01:17,492
+wie Elon Musk sowie Sam Altman die Idee
+
+37
+00:01:16,549 --> 00:01:19,276
+zu unterstützen schienen, die
+
+38
+00:01:18,333 --> 00:01:21,521
+Entwicklung von Spitzen-KI-Modellen zu
+
+39
+00:01:20,578 --> 00:01:24,020
+bremsen. Warum sprechen so viele
+
+40
+00:01:23,079 --> 00:01:26,268
+führende KI-Köpfe zur gleichen Zeit
+
+41
+00:01:25,327 --> 00:01:28,923
+darüber? Man fragt sich, ob sie intern
+
+42
+00:01:27,979 --> 00:01:31,190
+etwas gesehen haben? Haben sie die AGI
+
+43
+00:01:30,239 --> 00:01:33,741
+erreicht? Haben sie tatsächlich etwas
+
+44
+00:01:32,793 --> 00:01:35,595
+getan, das der Gesellschaft schaden
+
+45
+00:01:34,647 --> 00:01:37,968
+könnte? Wir haben natürlich keine
+
+46
+00:01:37,012 --> 00:01:39,645
+Ahnung, aber das Timing ist definitiv
+
+47
+00:01:38,690 --> 00:01:42,562
+interessant. Dann schaltete sich Donald
+
+48
+00:01:41,625 --> 00:01:44,962
+Trump in die Unterhaltung ein, lehnte
+
+49
+00:01:44,025 --> 00:01:47,299
+die Idee ab, dass die KI-Entwicklung
+
+50
+00:01:46,362 --> 00:01:49,257
+verlangsamt werden sollte, und
+
+51
+00:01:48,320 --> 00:01:51,531
+argumentierte, dass die Vereinigten
+
+52
+00:01:50,594 --> 00:01:53,678
+Staaten weiterhin auf dieses neue
+
+53
+00:01:52,741 --> 00:01:55,889
+KI-Tempo drängen sollten, was uns
+
+54
+00:01:54,952 --> 00:01:58,352
+wahrscheinlich innerhalb weniger Jahre
+
+55
+00:01:57,415 --> 00:02:00,879
+in die AGI-Diskussionen führen würde.
+
+56
+00:02:00,379 --> 00:02:03,163
+Also hat sich die KI-Skalierung
+
+57
+00:02:02,220 --> 00:02:05,178
+irgendwie zu einer noch größeren
+
+58
+00:02:04,235 --> 00:02:07,020
+politischen Debatte entwickelt.
+
+59
+00:02:06,559 --> 00:02:09,313
+Unterdessen arbeitet DeepSeek Berichten
+
+60
+00:02:08,358 --> 00:02:11,067
+zufolge an DeepSeek Coder 2.0, bei dem
+
+61
+00:02:10,112 --> 00:02:12,596
+es sich Gerüchten zufolge um ein
+
+62
+00:02:11,641 --> 00:02:14,350
+massives Coding-Modell mit 3 Billionen
+
+63
+00:02:13,395 --> 00:02:15,835
+Parametern und offenen Gewichten
+
+64
+00:02:14,880 --> 00:02:18,558
+handelt. Das Ziel scheint zu sein, die
+
+65
+00:02:17,621 --> 00:02:20,566
+Fähigkeiten auf Spitzen-Niveau
+
+66
+00:02:19,629 --> 00:02:22,951
+vollständig darauf auszurichten, mit
+
+67
+00:02:22,013 --> 00:02:25,398
+GPT-Coding-Modellen gleichzuziehen und
+
+68
+00:02:24,460 --> 00:02:27,594
+gleichzeitig die Gewichte offen zu
+
+69
+00:02:26,657 --> 00:02:29,978
+halten, was eine enorme Leistung für
+
+70
+00:02:29,041 --> 00:02:32,300
+die Serie sowie für das Unternehmen
+
+71
+00:02:31,363 --> 00:02:34,451
+selbst wäre. Nun gibt es natürlich
+
+72
+00:02:33,486 --> 00:02:35,680
+noch viel mehr zu besprechen, also
+
+73
+00:02:34,715 --> 00:02:37,084
+tauchen wir einfach direkt in alles ein
+
+74
+00:02:36,084 --> 00:02:38,673
+. Es gibt eine Menge Dinge im
+
+75
+00:02:37,710 --> 00:02:40,109
+KI-Bereich, die ich nicht wirklich auf
+
+76
+00:02:39,146 --> 00:02:41,508
+den YouTube-Kanal bringe, und auf die
+
+77
+00:02:40,545 --> 00:02:42,981
+Sie über meinen kostenlosen Newsletter
+
+78
+00:02:42,018 --> 00:02:44,232
+zugreifen können–den Link dazu
+
+79
+00:02:43,269 --> 00:02:45,631
+finden Sie unten in der Beschreibung,
+
+80
+00:02:44,668 --> 00:02:47,067
+wo Sie sich völlig kostenlos anmelden
+
+81
+00:02:46,104 --> 00:02:49,710
+können. Beginnen wir mit Claude Opus
+
+82
+00:02:48,777 --> 00:02:51,715
+5.2, denn dieses Modell wurde
+
+83
+00:02:50,782 --> 00:02:54,187
+anscheinend bei Anthropic gesichtet,
+
+84
+00:02:53,254 --> 00:02:56,259
+was darauf hindeutet, dass ein
+
+85
+00:02:55,326 --> 00:02:58,932
+größeres Claude-Upgrade näher rückt
+
+86
+00:02:57,932 --> 00:03:01,839
+. Es gibt zwar noch sehr wenige
+
+87
+00:03:00,899 --> 00:03:04,059
+Informationen über Claude Opus 5.2,
+
+88
+00:03:03,119 --> 00:03:06,039
+daher sollte man diese Leaks mit
+
+89
+00:03:05,099 --> 00:03:08,259
+Vorsicht genießen, aber wir wissen,
+
+90
+00:03:07,319 --> 00:03:10,659
+dass dieses Modell intern gesehen wurde
+
+91
+00:03:09,659 --> 00:03:12,999
+, was bedeutet, dass Anthropic kurz vor
+
+92
+00:03:12,059 --> 00:03:17,122
+der Veröffentlichung steht. Opus wird
+
+93
+00:03:16,180 --> 00:03:18,984
+definitiv ein riesiges Upgrade,
+
+94
+00:03:18,042 --> 00:03:21,311
+besonders mit der 5.2-Version, aber man
+
+95
+00:03:20,369 --> 00:03:23,057
+fragt sich, warum sie die 5.1
+
+96
+00:03:22,115 --> 00:03:26,991
+eigentlich übersprungen haben. Ich bin
+
+97
+00:03:26,042 --> 00:03:28,802
+mir nicht sicher warum, aber dieses
+
+98
+00:03:27,852 --> 00:03:30,813
+Opus-Upgrade wäre ziemlich interessant
+
+99
+00:03:29,813 --> 00:03:32,623
+, da Opus 5 bereits darauf ausgelegt
+
+100
+00:03:31,673 --> 00:03:34,182
+war, der Intelligenz von Fable
+
+101
+00:03:33,232 --> 00:03:35,941
+erstaunlich nahezukommen und dabei
+
+102
+00:03:34,992 --> 00:03:39,614
+deutlich günstiger zu sein. Die große
+
+103
+00:03:38,677 --> 00:03:42,066
+Frage ist also, wie weit Anthropic mit
+
+104
+00:03:41,128 --> 00:03:46,055
+Opus 5.2 gehen will. Da Stable 5.1 und
+
+105
+00:03:45,123 --> 00:03:48,158
+Mythos 5.1 die Entwicklung von
+
+106
+00:03:47,225 --> 00:03:50,870
+Anthropic bereits vorantreiben, könnte
+
+107
+00:03:49,938 --> 00:03:53,312
+ein verbessertes Opus-Modell einige
+
+108
+00:03:52,379 --> 00:03:55,278
+dieser Verbesserungen erben,
+
+109
+00:03:54,346 --> 00:03:57,516
+insbesondere bei Coding-Agenten,
+
+110
+00:03:56,584 --> 00:04:00,161
+langfristigen Aufgaben sowie logischem
+
+111
+00:03:59,229 --> 00:04:04,409
+Denken. Letzteres ist vorerst
+
+112
+00:04:03,474 --> 00:04:06,887
+Spekulation, aber wenn Anthropic mehr
+
+113
+00:04:05,952 --> 00:04:09,104
+seiner Spitzenfähigkeiten in die
+
+114
+00:04:08,169 --> 00:04:11,582
+Opus-Familie einbringen kann, könnte
+
+115
+00:04:10,647 --> 00:04:14,125
+Opus 5.2 eines der praktischen Modelle
+
+116
+00:04:13,190 --> 00:04:16,733
+werden, die man täglich nutzen möchte
+
+117
+00:04:15,733 --> 00:04:20,287
+. Und wenn sie das Preisproblem bei
+
+118
+00:04:19,337 --> 00:04:22,015
+diesem Opus-Modell lösen können,
+
+119
+00:04:21,064 --> 00:04:23,890
+würde das die Sicht vieler Leute auf
+
+120
+00:04:22,940 --> 00:04:25,667
+die Modelle von Anthropic definitiv
+
+121
+00:04:24,717 --> 00:04:28,451
+verändern. Aber das ist nicht das
+
+122
+00:04:27,498 --> 00:04:30,251
+Einzige, das bald erscheinen könnte,
+
+123
+00:04:29,298 --> 00:04:32,051
+denn OpenAI scheint sich auch auf die
+
+124
+00:04:31,098 --> 00:04:33,803
+Veröffentlichung von GPT-6 Soul und
+
+125
+00:04:32,851 --> 00:04:36,147
+Luna vorzubereiten. Wir sehen nun die
+
+126
+00:04:35,208 --> 00:04:38,565
+ersten Vorab-Einblicke darauf, was GPT-
+
+127
+00:04:37,565 --> 00:04:42,011
+6 Soul tatsächlich leisten kann. Ich
+
+128
+00:04:41,055 --> 00:04:43,775
+vermute, dass sie es möglicherweise am
+
+129
+00:04:42,819 --> 00:04:45,407
+Dev Day veröffentlichen werden, der
+
+130
+00:04:44,451 --> 00:04:47,039
+später in diesem Monat stattfindet.
+
+131
+00:04:47,280 --> 00:04:50,260
+Das wäre definitiv ein riesiges
+
+132
+00:04:49,322 --> 00:04:52,611
+Upgrade und ein neues Modell, das sie
+
+133
+00:04:51,673 --> 00:04:54,901
+veröffentlichen würden–im Grunde
+
+134
+00:04:53,963 --> 00:04:57,377
+eine kosteneffiziente Version von Astra
+
+135
+00:04:56,377 --> 00:05:00,683
+. Eines der verrücktesten Beispiele
+
+136
+00:04:59,740 --> 00:05:02,382
+bisher ist die Erstellung des
+
+137
+00:05:01,439 --> 00:05:04,307
+Todessterns, wobei GPT-6 Soul die
+
+138
+00:05:03,364 --> 00:05:05,779
+Aufgabe erhielt, in einer
+
+139
+00:05:04,836 --> 00:05:07,478
+vollständigen Simulation des
+
+140
+00:05:06,534 --> 00:05:09,742
+Todessterns aus Star Wars mit maximalem
+
+141
+00:05:08,799 --> 00:05:10,931
+logischem Aufwand im
+
+142
+00:05:09,988 --> 00:05:14,107
+Zero-Shot-Verfahren zu arbeiten. Das
+
+143
+00:05:13,169 --> 00:05:16,414
+Modell arbeitete etwa 9 Minuten lang
+
+144
+00:05:15,476 --> 00:05:18,908
+daran und generierte rund 72.000 Token,
+
+145
+00:05:17,970 --> 00:05:20,903
+was für einen einzigen Versuch
+
+146
+00:05:19,966 --> 00:05:23,210
+natürlich eine wahnsinnige Menge an
+
+147
+00:05:22,273 --> 00:05:25,441
+Output ist. Was dies besonders
+
+148
+00:05:24,496 --> 00:05:27,626
+interessant macht, ist, dass Soul nicht
+
+149
+00:05:26,680 --> 00:05:29,646
+als das absolute High-End-Modell von
+
+150
+00:05:28,701 --> 00:05:32,653
+OpenAI gedacht ist. Das ist etwas, das
+
+151
+00:05:31,735 --> 00:05:36,059
+Astra übertreffen wird. Dies ist eine
+
+152
+00:05:35,112 --> 00:05:38,154
+Stufe unter Astra, die versucht, dessen
+
+153
+00:05:37,207 --> 00:05:40,145
+Fähigkeiten zu imitieren, dabei aber
+
+154
+00:05:39,197 --> 00:05:42,187
+offensichtlich weitaus effizienter und
+
+155
+00:05:41,240 --> 00:05:45,299
+kostengünstiger ist. Wenn wir also
+
+156
+00:05:44,347 --> 00:05:47,160
+eine bessere Preisstruktur für dieses
+
+157
+00:05:46,207 --> 00:05:48,400
+Modell bekommen, wäre es
+
+158
+00:05:47,448 --> 00:05:50,261
+offensichtlich ein großartiges Modell
+
+159
+00:05:49,309 --> 00:05:52,074
+für den täglichen Gebrauch, das man
+
+160
+00:05:51,122 --> 00:05:53,649
+möglicherweise jeden Tag nutzen
+
+161
+00:05:52,697 --> 00:05:56,895
+könnte. Aber sie arbeiten auch an der
+
+162
+00:05:55,956 --> 00:05:58,592
+Veröffentlichung des GPT-6
+
+163
+00:05:57,652 --> 00:06:01,015
+Luna-Modells, das als kosteneffizientes
+
+164
+00:06:00,075 --> 00:06:03,438
+Modell Teil der GPT-6-Familie sein soll
+
+165
+00:06:02,438 --> 00:06:08,723
+. Hier ist eine weitere Demo des GPT-6
+
+166
+00:06:07,794 --> 00:06:11,538
+Soul-Modells. Die Programmierung und
+
+167
+00:06:10,584 --> 00:06:13,129
+die Frontend-Arbeit sind definitiv
+
+168
+00:06:12,174 --> 00:06:14,674
+beeindruckend, besonders wenn man
+
+169
+00:06:13,719 --> 00:06:16,492
+bedenkt, dass dies das günstigere GPT-
+
+170
+00:06:15,492 --> 00:06:18,173
+6-Modell sein soll, das unterhalb von
+
+171
+00:06:17,219 --> 00:06:20,953
+Astra angesiedelt ist. Und genau das
+
+172
+00:06:20,011 --> 00:06:23,213
+könnte Soul so bedeutend machen, denn
+
+173
+00:06:22,271 --> 00:06:25,474
+wenn die ersten Preisberichte stimmen,
+
+174
+00:06:24,532 --> 00:06:26,865
+könnten wir potenziell
+
+175
+00:06:25,923 --> 00:06:28,488
+Programmierfähigkeiten auf
+
+176
+00:06:27,546 --> 00:06:30,574
+Astra-Niveau zu deutlich geringeren
+
+177
+00:06:29,632 --> 00:06:32,998
+Kosten erhalten. Wir wissen, dass das
+
+178
+00:06:32,054 --> 00:06:35,595
+Astra-Modell recht teuer ist. Wenn wir
+
+179
+00:06:34,649 --> 00:06:37,734
+also eine reduzierte Preisstruktur für
+
+180
+00:06:36,788 --> 00:06:39,766
+das Soul-Modell aus derselben Familie
+
+181
+00:06:38,820 --> 00:06:41,745
+bekommen, wäre es für alltägliche
+
+182
+00:06:40,798 --> 00:06:43,616
+Programmieraufgaben und agentische
+
+183
+00:06:42,670 --> 00:06:46,905
+Workflows deutlich praktischer. Als
+
+184
+00:06:45,954 --> 00:06:48,758
+Nächstes haben wir Dario Amodei, den
+
+185
+00:06:47,807 --> 00:06:50,367
+CEO von Anthropic, über den wir
+
+186
+00:06:49,416 --> 00:06:51,977
+gestern bereits berichtet haben,
+
+187
+00:06:51,025 --> 00:06:53,488
+nachdem er einen neuen Artikel
+
+188
+00:06:52,537 --> 00:06:55,341
+veröffentlichte, in dem er über das
+
+189
+00:06:54,390 --> 00:06:57,732
+Tempo an der KI-Front diskutiert. Der
+
+190
+00:06:56,790 --> 00:06:59,804
+Zeitpunkt ist ziemlich interessant,
+
+191
+00:06:58,862 --> 00:07:01,819
+denn obwohl Dario davor warnt, wie
+
+192
+00:07:00,876 --> 00:07:03,661
+schnell sich die KI-Entwicklung
+
+193
+00:07:02,718 --> 00:07:05,272
+beschleunigt, gibt es keine
+
+194
+00:07:04,330 --> 00:07:07,402
+öffentlichen Anzeichen dafür, dass
+
+195
+00:07:06,459 --> 00:07:09,704
+Anthropic selbst die Entwicklung seiner
+
+196
+00:07:08,762 --> 00:07:12,378
+kommenden Spitzenmodelle pausiert. Wie
+
+197
+00:07:11,457 --> 00:07:14,682
+wir gerade besprochen haben,
+
+198
+00:07:13,761 --> 00:07:17,860
+konzentrieren sie sich auf Opus 5.2 und
+
+199
+00:07:16,939 --> 00:07:20,640
+auf ein neues Modell, das nach der
+
+200
+00:07:19,720 --> 00:07:23,580
+Fable-oder Mythos-Serie kommen wird.
+
+201
+00:07:23,260 --> 00:07:26,190
+Der wichtigere Punkt, den Dario
+
+202
+00:07:25,252 --> 00:07:28,618
+anspricht, ist jedoch, wohin das alles
+
+203
+00:07:27,681 --> 00:07:31,806
+letztendlich führen wird. Er glaubt,
+
+204
+00:07:30,855 --> 00:07:33,707
+dass wir an einen Punkt kommen, an dem
+
+205
+00:07:32,755 --> 00:07:35,510
+KI-Systeme selbst maßgeblich an der
+
+206
+00:07:34,559 --> 00:07:37,460
+Entwicklung der nächsten KI-Generation
+
+207
+00:07:36,508 --> 00:07:40,738
+beteiligt sind. Er sagt in seinem
+
+208
+00:07:39,793 --> 00:07:42,780
+Artikel ausdrücklich, dass sich der
+
+209
+00:07:41,835 --> 00:07:44,933
+KI-Fortschritt seit etwa diesem Sommer
+
+210
+00:07:43,988 --> 00:07:47,493
+drastisch beschleunigt hat. Und das
+
+211
+00:07:46,524 --> 00:07:48,890
+haben Sie ja auch gesehen. Ich habe
+
+212
+00:07:47,944 --> 00:07:51,417
+ständig vom KI-Sommer gesprochen. Wir
+
+213
+00:07:50,463 --> 00:07:53,119
+haben so viele neue Modelle gesehen.
+
+214
+00:07:52,560 --> 00:07:55,534
+Ich bin momentan unterwegs und habe
+
+215
+00:07:54,591 --> 00:07:56,832
+Schwierigkeiten, diese
+
+216
+00:07:55,888 --> 00:07:58,920
+Modell-Review-Videos zu produzieren.
+
+217
+00:07:58,519 --> 00:08:01,370
+Und man merkt deutlich, dass die
+
+218
+00:08:00,428 --> 00:08:03,048
+Videoqualität nicht mit dem
+
+219
+00:08:02,106 --> 00:08:05,189
+vergleichbar ist, was wir vor meiner
+
+220
+00:08:04,246 --> 00:08:07,913
+Reise hatten. Trotzdem mache ich so
+
+221
+00:08:06,977 --> 00:08:10,170
+viele KI-Review-Videos, und es ist
+
+222
+00:08:09,235 --> 00:08:12,363
+einfach verrückt, weil wir jeden
+
+223
+00:08:11,428 --> 00:08:14,879
+zweiten Tag ein neues Modell bekommen.
+
+224
+00:08:14,420 --> 00:08:18,257
+Und genau das treibt die KI-Entwicklung
+
+225
+00:08:17,330 --> 00:08:20,659
+bei Anthropic maßgeblich voran.
+
+226
+00:08:20,720 --> 00:08:23,902
+Natürlich wird es dabei helfen, neue
+
+227
+00:08:22,961 --> 00:08:26,026
+Nachfolger und KI-Modelle zu bauen,
+
+228
+00:08:25,085 --> 00:08:28,091
+aber es beschleunigt definitiv das
+
+229
+00:08:27,150 --> 00:08:31,489
+Rennen an der KI-Front rasant. Und
+
+230
+00:08:30,539 --> 00:08:33,187
+sobald Modelle maßgeblich an der
+
+231
+00:08:32,237 --> 00:08:34,835
+Entwicklung zukünftiger Modelle
+
+232
+00:08:33,885 --> 00:08:36,733
+beteiligt sind, argumentiert Dario im
+
+233
+00:08:35,783 --> 00:08:38,481
+Grunde, dass die Verbesserungsrate
+
+234
+00:08:37,531 --> 00:08:40,379
+atemberaubend schnell werden könnte.
+
+235
+00:08:40,279 --> 00:08:43,077
+Dies ist im Wesentlichen die Idee
+
+236
+00:08:42,132 --> 00:08:45,094
+hinter rekursiver Selbstverbesserung
+
+237
+00:08:44,148 --> 00:08:48,277
+oder RSI. Da KI zunehmend bei der
+
+238
+00:08:47,338 --> 00:08:50,102
+KI-Forschung hilft, entstehen
+
+239
+00:08:49,163 --> 00:08:52,474
+offensichtlich bessere KI-Systeme, was
+
+240
+00:08:51,535 --> 00:08:54,542
+den Forschungsprozess noch weiter
+
+241
+00:08:53,603 --> 00:08:58,635
+beschleunigen kann. Dario erwähnte
+
+242
+00:08:57,707 --> 00:09:01,074
+daraufhin einige ziemlich extreme
+
+243
+00:09:00,146 --> 00:09:03,872
+potenzielle Risiken durch RSI, was bei
+
+244
+00:09:02,943 --> 00:09:07,693
+vielen Leuten für Angst sorgte. Denn
+
+245
+00:09:06,742 --> 00:09:09,298
+wenn wir diesen Punkt erreichen,
+
+246
+00:09:08,347 --> 00:09:10,904
+könnte dies im Grunde zu vielen
+
+247
+00:09:09,953 --> 00:09:12,607
+Cyberangriffen führen; eine Menge
+
+248
+00:09:11,655 --> 00:09:14,407
+schädlicher Dinge könnten aufgrund
+
+249
+00:09:13,455 --> 00:09:16,207
+von KI-Anwendungsfällen und anderen
+
+250
+00:09:15,255 --> 00:09:19,415
+Faktoren entstehen. Und kurz nachdem
+
+251
+00:09:18,483 --> 00:09:21,812
+Dario diese Aussage gemacht hatte,
+
+252
+00:09:20,881 --> 00:09:24,141
+schienen Elon Musk und Sam Altman
+
+253
+00:09:23,210 --> 00:09:26,470
+plötzlich eine Verlangsamung des
+
+254
+00:09:25,539 --> 00:09:28,868
+KI-Wettlaufs zu unterstützen, was
+
+255
+00:09:27,937 --> 00:09:31,608
+einen fragen lässt, was sie eigentlich
+
+256
+00:09:30,677 --> 00:09:34,074
+erschreckt hat, da sie alle aus dem
+
+257
+00:09:33,143 --> 00:09:36,534
+Nichts dasselbe sagten. Es gibt
+
+258
+00:09:35,573 --> 00:09:37,791
+natürlich eine ganze Reihe von
+
+259
+00:09:36,830 --> 00:09:40,111
+Möglichkeiten. Vielleicht sehen diese
+
+260
+00:09:39,165 --> 00:09:42,278
+Labore intern Fähigkeiten, die weitaus
+
+261
+00:09:41,332 --> 00:09:44,336
+näher an AGI liegen als das, was wir
+
+262
+00:09:43,390 --> 00:09:47,133
+öffentlich gesehen haben. Oder ganz im
+
+263
+00:09:46,189 --> 00:09:49,267
+Gegenteil: Vielleicht befürchten die
+
+264
+00:09:48,323 --> 00:09:50,896
+führenden Labore, dass ihre
+
+265
+00:09:49,952 --> 00:09:53,143
+Wettbewerbsvorteile schwinden, und eine
+
+266
+00:09:52,199 --> 00:09:55,221
+allgemeine Verlangsamung hilft, ihre
+
+267
+00:09:54,277 --> 00:09:57,300
+Position und Bewertung zu schützen.
+
+268
+00:09:56,920 --> 00:09:59,980
+Das ist natürlich alles Spekulation,
+
+269
+00:09:59,036 --> 00:10:01,651
+aber das Timing der aktuellen
+
+270
+00:10:00,707 --> 00:10:03,879
+Ereignisse lässt einen schon grübeln.
+
+271
+00:10:04,660 --> 00:10:07,396
+Und das Lustige ist, dass Donald Trump,
+
+272
+00:10:06,440 --> 00:10:09,176
+der Präsident der Vereinigten Staaten,
+
+273
+00:10:08,221 --> 00:10:10,957
+praktisch aus dem Nichts auftauchte und
+
+274
+00:10:10,002 --> 00:10:12,515
+sich zufällig in dieses Gespräch
+
+275
+00:10:11,560 --> 00:10:14,074
+einmischte, um sich gegen die Idee
+
+276
+00:10:13,118 --> 00:10:15,810
+einer Verlangsamung der KI-Entwicklung
+
+277
+00:10:14,854 --> 00:10:19,153
+zu wehren. Seine Position ist im Grunde
+
+278
+00:10:18,207 --> 00:10:21,314
+das Gegenteil: Amerika sollte nicht vom
+
+279
+00:10:20,368 --> 00:10:23,314
+Gas gehen, besonders während es mit
+
+280
+00:10:22,368 --> 00:10:25,097
+Ländern wie China im Bereich KI
+
+281
+00:10:24,151 --> 00:10:27,996
+konkurriert. Wir haben also einige der
+
+282
+00:10:27,048 --> 00:10:29,864
+größten Namen der KI-Branche, die
+
+283
+00:10:28,916 --> 00:10:31,473
+plötzlich davon sprechen, den
+
+284
+00:10:30,525 --> 00:10:34,252
+Fortschritt zu verlangsamen. Hier sagt
+
+285
+00:10:33,307 --> 00:10:36,445
+Trump im Grunde das Gegenteil und meint
+
+286
+00:10:35,445 --> 00:10:38,584
+, dass sie einfach weitermachen sollten
+
+287
+00:10:37,584 --> 00:10:40,437
+. Es ist auf jeden Fall wirklich
+
+288
+00:10:39,475 --> 00:10:42,645
+interessant und amüsant. Wenn dir
+
+289
+00:10:41,690 --> 00:10:44,424
+dieses Video gefällt und du den Kanal
+
+290
+00:10:43,470 --> 00:10:46,250
+unterstützen möchtest, kannst du eine
+
+291
+00:10:45,295 --> 00:10:47,938
+Spende über die „Super Thanks“-
+
+292
+00:10:46,938 --> 00:10:49,965
+Option unten in Betracht ziehen. Oder
+
+293
+00:10:49,032 --> 00:10:52,632
+du trittst unserem privaten Discord bei
+
+294
+00:10:51,632 --> 00:10:55,099
+, wo du monatlich kostenlosen Zugriff
+
+295
+00:10:54,166 --> 00:10:57,232
+auf verschiedene KI-Tools sowie
+
+296
+00:10:56,299 --> 00:10:59,633
+tägliche KI-Nachrichten, exklusive
+
+297
+00:10:58,699 --> 00:11:02,502
+Inhalte und mehr erhältst. Zuletzt
+
+298
+00:11:01,562 --> 00:11:04,739
+gibt es einige ziemlich massive neue
+
+299
+00:11:03,799 --> 00:11:07,096
+Updates von DeepSeek mit DeepSeek Code
+
+300
+00:11:06,157 --> 00:11:09,474
+2.0. Dies ist ein Modell, dessen
+
+301
+00:11:08,524 --> 00:11:11,130
+Veröffentlichung für September
+
+302
+00:11:10,180 --> 00:11:12,936
+geplant ist, und Gerüchten zufolge
+
+303
+00:11:11,987 --> 00:11:14,642
+könnte es ein Modell mit über 3
+
+304
+00:11:13,692 --> 00:11:16,348
+Billionen Parametern und einem 1-
+
+305
+00:11:15,348 --> 00:11:18,255
+Million-Token-Kontextfenster sein, das
+
+306
+00:11:17,305 --> 00:11:20,827
+zudem Open-Weight bleibt. Sie verfügen
+
+307
+00:11:19,892 --> 00:11:21,869
+außerdem über
+
+308
+00:11:20,935 --> 00:11:24,411
+Computer-Nutzungsfähigkeiten, und der
+
+309
+00:11:23,476 --> 00:11:26,627
+Fokus liegt diesmal angeblich auf
+
+310
+00:11:25,692 --> 00:11:28,973
+Effizienz sowie der Fähigkeit, den
+
+311
+00:11:28,038 --> 00:11:31,830
+Bildschirm präzise zu steuern. Die
+
+312
+00:11:30,888 --> 00:11:33,836
+verrückteste Behauptung ist, dass
+
+313
+00:11:32,893 --> 00:11:35,669
+DeepSeek anscheinend Leistungen
+
+314
+00:11:34,727 --> 00:11:37,847
+anstrebt, die mit den besten Modellen
+
+315
+00:11:36,904 --> 00:11:40,024
+wie Fable oder sogar GPT konkurrieren
+
+316
+00:11:39,081 --> 00:11:42,087
+oder diese grundlegend übertreffen
+
+317
+00:11:41,144 --> 00:11:45,594
+könnten. Natürlich sollte man das mit
+
+318
+00:11:44,656 --> 00:11:48,072
+Vorsicht genießen, da ich glaube, dass
+
+319
+00:11:47,134 --> 00:11:50,301
+das nur Hype ist, aber letztendlich
+
+320
+00:11:49,363 --> 00:11:52,654
+wäre dies ein wirklich cooles Modell
+
+321
+00:11:51,716 --> 00:11:54,884
+aus China von DeepSeek, das mit dem
+
+322
+00:11:53,946 --> 00:11:56,618
+aktuellen Stand der Technik
+
+323
+00:11:55,680 --> 00:11:59,830
+konkurrieren würde. Aber das war es
+
+324
+00:11:58,866 --> 00:12:01,140
+auch schon, Leute, mit allem, was in
+
+325
+00:12:00,175 --> 00:12:03,276
+der Welt der KI passiert. Falls ihr es
+
+326
+00:12:02,324 --> 00:12:04,956
+noch nicht getan habt, schaut euch
+
+327
+00:12:04,004 --> 00:12:06,876
+unbedingt die Welt der KI in der School
+
+328
+00:12:05,924 --> 00:12:08,364
+Community an, wo ihr Zugang zu
+
+329
+00:12:07,412 --> 00:12:10,284
+Vorab-Modellen sowie kostenlosen Zugang
+
+330
+00:12:09,332 --> 00:12:13,042
+zu KI-Tools erhaltet. Werft unbedingt
+
+331
+00:12:12,084 --> 00:12:14,540
+einen Blick auf die Welt der KI-5-
+
+332
+00:12:13,540 --> 00:12:16,039
+Coding-Plattform und das Benchmark.
+
+333
+00:12:15,320 --> 00:12:17,600
+Schaut euch den zweiten Kanal an.
+
+334
+00:12:17,132 --> 00:12:19,584
+Stellt außerdem sicher, dass ihr euch
+
+335
+00:12:18,623 --> 00:12:21,061
+für den Newsletter anmeldet. Tretet
+
+336
+00:12:20,099 --> 00:12:22,433
+unserem Discord bei. Folgt mir auf
+
+337
+00:12:21,469 --> 00:12:23,861
+Twitter. Und zu guter Letzt: Abonniert
+
+338
+00:12:22,895 --> 00:12:24,726
+den Kanal, aktiviert die
+
+339
+00:12:23,761 --> 00:12:26,042
+Benachrichtigungsglocke, liked dieses
+
+340
+00:12:25,077 --> 00:12:27,393
+Video und schaut euch unsere früheren
+
+341
+00:12:26,427 --> 00:12:28,709
+Videos an, damit ihr bei den neuesten
+
+342
+00:12:27,743 --> 00:12:30,094
+KI-Nachrichten auf dem Laufenden bleibt
+
+343
+00:12:29,094 --> 00:12:31,319
+. Aber mit diesem Gedanken, Leute, habt
+
+344
+00:12:30,349 --> 00:12:32,564
+einen fantastischen Tag. Wir sind
+
+345
+00:12:31,599 --> 00:12:33,822
+durchweg positiv, und ich sehe euch
+
+346
+00:12:32,857 --> 00:12:35,455
+sehr bald wieder. Macht's gut, Leute.

@@ -1,0 +1,1747 @@
+{
+  "video": {
+    "video_id": "TKkdTyT6FlA",
+    "title": "NEW Opus 5.2 LEAKS, AI Development To Be Slowed Down, GPT-6 Sol Preview, DeepSeek Code 2.0, & More!",
+    "url": "https://www.youtube.com/watch?v=TKkdTyT6FlA",
+    "published_at": null,
+    "duration": 755
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 1.04,
+      "duration": 2.472,
+      "text": "Wir haben heute einen ziemlich"
+    },
+    {
+      "start": 2.561,
+      "duration": 2.866,
+      "text": "interessanten Tag für KI-Nachrichten,"
+    },
+    {
+      "start": 4.476,
+      "duration": 2.914,
+      "text": "denn wir haben einige neue Erkenntnisse"
+    },
+    {
+      "start": 6.44,
+      "duration": 2.914,
+      "text": "zu Anthropics neuem Modell, Claude Opus"
+    },
+    {
+      "start": 8.403,
+      "duration": 2.522,
+      "text": "5.2, das anscheinend schon bald"
+    },
+    {
+      "start": 9.974,
+      "duration": 4.364,
+      "text": "erscheinen wird. Es wird erwartet, dass"
+    },
+    {
+      "start": 13.383,
+      "duration": 2.646,
+      "text": "dies Fähigkeiten auf Fabel-Niveau in"
+    },
+    {
+      "start": 15.074,
+      "duration": 2.691,
+      "text": "die Opus-Familie bringt, was bedeutet,"
+    },
+    {
+      "start": 16.809,
+      "duration": 2.558,
+      "text": "dass es wahrscheinlich extrem teuer"
+    },
+    {
+      "start": 18.411,
+      "duration": 2.647,
+      "text": "sein wird, aber möglicherweise eines"
+    },
+    {
+      "start": 20.102,
+      "duration": 2.558,
+      "text": "der leistungsfähigsten Modelle von"
+    },
+    {
+      "start": 21.704,
+      "duration": 3.344,
+      "text": "Anthropic bisher ist. Aber Anthropic"
+    },
+    {
+      "start": 24.103,
+      "duration": 3.089,
+      "text": "ist nicht das einzige Unternehmen, das"
+    },
+    {
+      "start": 26.247,
+      "duration": 2.76,
+      "text": "etwas plant, denn OpenAI scheint"
+    },
+    {
+      "start": 28.062,
+      "duration": 3.144,
+      "text": "ebenfalls bereit zu sein, mit GPT-6 die"
+    },
+    {
+      "start": 30.261,
+      "duration": 3.144,
+      "text": "nächste Modellgeneration auf den Markt"
+    },
+    {
+      "start": 32.46,
+      "duration": 2.979,
+      "text": "zu bringen, wobei Soul und Luna Teil"
+    },
+    {
+      "start": 34.494,
+      "duration": 3.425,
+      "text": "dieser Modellreihe sein werden. Wir"
+    },
+    {
+      "start": 36.972,
+      "duration": 3.016,
+      "text": "sind uns noch nicht sicher, was es mit"
+    },
+    {
+      "start": 39.041,
+      "duration": 2.963,
+      "text": "Hera als Teil von GPT-6 auf sich hat,"
+    },
+    {
+      "start": 41.057,
+      "duration": 3.07,
+      "text": "aber wir haben endlich erste Vorschauen"
+    },
+    {
+      "start": 43.18,
+      "duration": 2.857,
+      "text": "auf diese Modelle erhalten, und die"
+    },
+    {
+      "start": 45.09,
+      "duration": 3.07,
+      "text": "Ergebnisse sind momentan ziemlich wild."
+    },
+    {
+      "start": 48.32,
+      "duration": 2.819,
+      "text": "Obwohl Soul im Vergleich zu Astra als"
+    },
+    {
+      "start": 50.188,
+      "duration": 2.623,
+      "text": "Modell leicht verkleinert zu sein"
+    },
+    {
+      "start": 51.86,
+      "duration": 2.917,
+      "text": "scheint, liefert es bereits Ergebnisse,"
+    },
+    {
+      "start": 53.827,
+      "duration": 2.819,
+      "text": "die überraschend nah an die Leistung"
+    },
+    {
+      "start": 55.695,
+      "duration": 2.819,
+      "text": "von Asher heranreichen, und das alles"
+    },
+    {
+      "start": 57.563,
+      "duration": 4.762,
+      "text": "zu deutlich geringeren Kosten. Und die"
+    },
+    {
+      "start": 61.374,
+      "duration": 2.633,
+      "text": "Dinge werden noch seltsamer, denn"
+    },
+    {
+      "start": 63.057,
+      "duration": 2.88,
+      "text": "gestern haben wir darüber gesprochen,"
+    },
+    {
+      "start": 64.986,
+      "duration": 2.732,
+      "text": "wie Anthropic-CEO Dario Amodei dazu"
+    },
+    {
+      "start": 66.768,
+      "duration": 2.929,
+      "text": "aufrief, den Prozess der KI-Entwicklung"
+    },
+    {
+      "start": 68.747,
+      "duration": 4.198,
+      "text": "zu verlangsamen. Und das hat plötzlich"
+    },
+    {
+      "start": 72.002,
+      "duration": 3.187,
+      "text": "dazu geführt, dass andere KI-Größen"
+    },
+    {
+      "start": 74.247,
+      "duration": 3.245,
+      "text": "wie Elon Musk sowie Sam Altman die Idee"
+    },
+    {
+      "start": 76.549,
+      "duration": 2.727,
+      "text": "zu unterstützen schienen, die"
+    },
+    {
+      "start": 78.333,
+      "duration": 3.188,
+      "text": "Entwicklung von Spitzen-KI-Modellen zu"
+    },
+    {
+      "start": 80.578,
+      "duration": 3.442,
+      "text": "bremsen. Warum sprechen so viele"
+    },
+    {
+      "start": 83.079,
+      "duration": 3.189,
+      "text": "führende KI-Köpfe zur gleichen Zeit"
+    },
+    {
+      "start": 85.327,
+      "duration": 3.596,
+      "text": "darüber? Man fragt sich, ob sie intern"
+    },
+    {
+      "start": 87.979,
+      "duration": 3.211,
+      "text": "etwas gesehen haben? Haben sie die AGI"
+    },
+    {
+      "start": 90.239,
+      "duration": 3.502,
+      "text": "erreicht? Haben sie tatsächlich etwas"
+    },
+    {
+      "start": 92.793,
+      "duration": 2.802,
+      "text": "getan, das der Gesellschaft schaden"
+    },
+    {
+      "start": 94.647,
+      "duration": 3.321,
+      "text": "könnte? Wir haben natürlich keine"
+    },
+    {
+      "start": 97.012,
+      "duration": 2.633,
+      "text": "Ahnung, aber das Timing ist definitiv"
+    },
+    {
+      "start": 98.69,
+      "duration": 3.872,
+      "text": "interessant. Dann schaltete sich Donald"
+    },
+    {
+      "start": 101.625,
+      "duration": 3.337,
+      "text": "Trump in die Unterhaltung ein, lehnte"
+    },
+    {
+      "start": 104.025,
+      "duration": 3.274,
+      "text": "die Idee ab, dass die KI-Entwicklung"
+    },
+    {
+      "start": 106.362,
+      "duration": 2.895,
+      "text": "verlangsamt werden sollte, und"
+    },
+    {
+      "start": 108.32,
+      "duration": 3.211,
+      "text": "argumentierte, dass die Vereinigten"
+    },
+    {
+      "start": 110.594,
+      "duration": 3.084,
+      "text": "Staaten weiterhin auf dieses neue"
+    },
+    {
+      "start": 112.741,
+      "duration": 3.148,
+      "text": "KI-Tempo drängen sollten, was uns"
+    },
+    {
+      "start": 114.952,
+      "duration": 3.4,
+      "text": "wahrscheinlich innerhalb weniger Jahre"
+    },
+    {
+      "start": 117.415,
+      "duration": 3.464,
+      "text": "in die AGI-Diskussionen führen würde."
+    },
+    {
+      "start": 120.379,
+      "duration": 2.784,
+      "text": "Also hat sich die KI-Skalierung"
+    },
+    {
+      "start": 122.22,
+      "duration": 2.958,
+      "text": "irgendwie zu einer noch größeren"
+    },
+    {
+      "start": 124.235,
+      "duration": 2.785,
+      "text": "politischen Debatte entwickelt."
+    },
+    {
+      "start": 126.559,
+      "duration": 2.754,
+      "text": "Unterdessen arbeitet DeepSeek Berichten"
+    },
+    {
+      "start": 128.358,
+      "duration": 2.709,
+      "text": "zufolge an DeepSeek Coder 2.0, bei dem"
+    },
+    {
+      "start": 130.112,
+      "duration": 2.484,
+      "text": "es sich Gerüchten zufolge um ein"
+    },
+    {
+      "start": 131.641,
+      "duration": 2.709,
+      "text": "massives Coding-Modell mit 3 Billionen"
+    },
+    {
+      "start": 133.395,
+      "duration": 2.44,
+      "text": "Parametern und offenen Gewichten"
+    },
+    {
+      "start": 134.88,
+      "duration": 3.678,
+      "text": "handelt. Das Ziel scheint zu sein, die"
+    },
+    {
+      "start": 137.621,
+      "duration": 2.945,
+      "text": "Fähigkeiten auf Spitzen-Niveau"
+    },
+    {
+      "start": 139.629,
+      "duration": 3.322,
+      "text": "vollständig darauf auszurichten, mit"
+    },
+    {
+      "start": 142.013,
+      "duration": 3.385,
+      "text": "GPT-Coding-Modellen gleichzuziehen und"
+    },
+    {
+      "start": 144.46,
+      "duration": 3.134,
+      "text": "gleichzeitig die Gewichte offen zu"
+    },
+    {
+      "start": 146.657,
+      "duration": 3.321,
+      "text": "halten, was eine enorme Leistung für"
+    },
+    {
+      "start": 149.041,
+      "duration": 3.259,
+      "text": "die Serie sowie für das Unternehmen"
+    },
+    {
+      "start": 151.363,
+      "duration": 3.088,
+      "text": "selbst wäre. Nun gibt es natürlich"
+    },
+    {
+      "start": 153.486,
+      "duration": 2.194,
+      "text": "noch viel mehr zu besprechen, also"
+    },
+    {
+      "start": 154.715,
+      "duration": 2.369,
+      "text": "tauchen wir einfach direkt in alles ein"
+    },
+    {
+      "start": 156.084,
+      "duration": 2.589,
+      "text": ". Es gibt eine Menge Dinge im"
+    },
+    {
+      "start": 157.71,
+      "duration": 2.399,
+      "text": "KI-Bereich, die ich nicht wirklich auf"
+    },
+    {
+      "start": 159.146,
+      "duration": 2.362,
+      "text": "den YouTube-Kanal bringe, und auf die"
+    },
+    {
+      "start": 160.545,
+      "duration": 2.436,
+      "text": "Sie über meinen kostenlosen Newsletter"
+    },
+    {
+      "start": 162.018,
+      "duration": 2.214,
+      "text": "zugreifen können–den Link dazu"
+    },
+    {
+      "start": 163.269,
+      "duration": 2.362,
+      "text": "finden Sie unten in der Beschreibung,"
+    },
+    {
+      "start": 164.668,
+      "duration": 2.399,
+      "text": "wo Sie sich völlig kostenlos anmelden"
+    },
+    {
+      "start": 166.104,
+      "duration": 3.606,
+      "text": "können. Beginnen wir mit Claude Opus"
+    },
+    {
+      "start": 168.777,
+      "duration": 2.938,
+      "text": "5.2, denn dieses Modell wurde"
+    },
+    {
+      "start": 170.782,
+      "duration": 3.405,
+      "text": "anscheinend bei Anthropic gesichtet,"
+    },
+    {
+      "start": 173.254,
+      "duration": 3.005,
+      "text": "was darauf hindeutet, dass ein"
+    },
+    {
+      "start": 175.326,
+      "duration": 3.606,
+      "text": "größeres Claude-Upgrade näher rückt"
+    },
+    {
+      "start": 177.932,
+      "duration": 3.907,
+      "text": ". Es gibt zwar noch sehr wenige"
+    },
+    {
+      "start": 180.899,
+      "duration": 3.16,
+      "text": "Informationen über Claude Opus 5.2,"
+    },
+    {
+      "start": 183.119,
+      "duration": 2.92,
+      "text": "daher sollte man diese Leaks mit"
+    },
+    {
+      "start": 185.099,
+      "duration": 3.16,
+      "text": "Vorsicht genießen, aber wir wissen,"
+    },
+    {
+      "start": 187.319,
+      "duration": 3.34,
+      "text": "dass dieses Modell intern gesehen wurde"
+    },
+    {
+      "start": 189.659,
+      "duration": 3.34,
+      "text": ", was bedeutet, dass Anthropic kurz vor"
+    },
+    {
+      "start": 192.059,
+      "duration": 5.063,
+      "text": "der Veröffentlichung steht. Opus wird"
+    },
+    {
+      "start": 196.18,
+      "duration": 2.804,
+      "text": "definitiv ein riesiges Upgrade,"
+    },
+    {
+      "start": 198.042,
+      "duration": 3.269,
+      "text": "besonders mit der 5.2-Version, aber man"
+    },
+    {
+      "start": 200.369,
+      "duration": 2.688,
+      "text": "fragt sich, warum sie die 5.1"
+    },
+    {
+      "start": 202.115,
+      "duration": 4.876,
+      "text": "eigentlich übersprungen haben. Ich bin"
+    },
+    {
+      "start": 206.042,
+      "duration": 2.76,
+      "text": "mir nicht sicher warum, aber dieses"
+    },
+    {
+      "start": 207.852,
+      "duration": 2.961,
+      "text": "Opus-Upgrade wäre ziemlich interessant"
+    },
+    {
+      "start": 209.813,
+      "duration": 2.81,
+      "text": ", da Opus 5 bereits darauf ausgelegt"
+    },
+    {
+      "start": 211.673,
+      "duration": 2.509,
+      "text": "war, der Intelligenz von Fable"
+    },
+    {
+      "start": 213.232,
+      "duration": 2.709,
+      "text": "erstaunlich nahezukommen und dabei"
+    },
+    {
+      "start": 214.992,
+      "duration": 4.622,
+      "text": "deutlich günstiger zu sein. Die große"
+    },
+    {
+      "start": 218.677,
+      "duration": 3.389,
+      "text": "Frage ist also, wie weit Anthropic mit"
+    },
+    {
+      "start": 221.128,
+      "duration": 4.927,
+      "text": "Opus 5.2 gehen will. Da Stable 5.1 und"
+    },
+    {
+      "start": 225.123,
+      "duration": 3.035,
+      "text": "Mythos 5.1 die Entwicklung von"
+    },
+    {
+      "start": 227.225,
+      "duration": 3.645,
+      "text": "Anthropic bereits vorantreiben, könnte"
+    },
+    {
+      "start": 229.938,
+      "duration": 3.374,
+      "text": "ein verbessertes Opus-Modell einige"
+    },
+    {
+      "start": 232.379,
+      "duration": 2.899,
+      "text": "dieser Verbesserungen erben,"
+    },
+    {
+      "start": 234.346,
+      "duration": 3.17,
+      "text": "insbesondere bei Coding-Agenten,"
+    },
+    {
+      "start": 236.584,
+      "duration": 3.577,
+      "text": "langfristigen Aufgaben sowie logischem"
+    },
+    {
+      "start": 239.229,
+      "duration": 5.18,
+      "text": "Denken. Letzteres ist vorerst"
+    },
+    {
+      "start": 243.474,
+      "duration": 3.413,
+      "text": "Spekulation, aber wenn Anthropic mehr"
+    },
+    {
+      "start": 245.952,
+      "duration": 3.152,
+      "text": "seiner Spitzenfähigkeiten in die"
+    },
+    {
+      "start": 248.169,
+      "duration": 3.413,
+      "text": "Opus-Familie einbringen kann, könnte"
+    },
+    {
+      "start": 250.647,
+      "duration": 3.478,
+      "text": "Opus 5.2 eines der praktischen Modelle"
+    },
+    {
+      "start": 253.19,
+      "duration": 3.543,
+      "text": "werden, die man täglich nutzen möchte"
+    },
+    {
+      "start": 255.733,
+      "duration": 4.554,
+      "text": ". Und wenn sie das Preisproblem bei"
+    },
+    {
+      "start": 259.337,
+      "duration": 2.678,
+      "text": "diesem Opus-Modell lösen können,"
+    },
+    {
+      "start": 261.064,
+      "duration": 2.826,
+      "text": "würde das die Sicht vieler Leute auf"
+    },
+    {
+      "start": 262.94,
+      "duration": 2.727,
+      "text": "die Modelle von Anthropic definitiv"
+    },
+    {
+      "start": 264.717,
+      "duration": 3.734,
+      "text": "verändern. Aber das ist nicht das"
+    },
+    {
+      "start": 267.498,
+      "duration": 2.753,
+      "text": "Einzige, das bald erscheinen könnte,"
+    },
+    {
+      "start": 269.298,
+      "duration": 2.753,
+      "text": "denn OpenAI scheint sich auch auf die"
+    },
+    {
+      "start": 271.098,
+      "duration": 2.705,
+      "text": "Veröffentlichung von GPT-6 Soul und"
+    },
+    {
+      "start": 272.851,
+      "duration": 3.296,
+      "text": "Luna vorzubereiten. Wir sehen nun die"
+    },
+    {
+      "start": 275.208,
+      "duration": 3.357,
+      "text": "ersten Vorab-Einblicke darauf, was GPT-"
+    },
+    {
+      "start": 277.565,
+      "duration": 4.446,
+      "text": "6 Soul tatsächlich leisten kann. Ich"
+    },
+    {
+      "start": 281.055,
+      "duration": 2.72,
+      "text": "vermute, dass sie es möglicherweise am"
+    },
+    {
+      "start": 282.819,
+      "duration": 2.588,
+      "text": "Dev Day veröffentlichen werden, der"
+    },
+    {
+      "start": 284.451,
+      "duration": 2.588,
+      "text": "später in diesem Monat stattfindet."
+    },
+    {
+      "start": 287.28,
+      "duration": 2.98,
+      "text": "Das wäre definitiv ein riesiges"
+    },
+    {
+      "start": 289.322,
+      "duration": 3.289,
+      "text": "Upgrade und ein neues Modell, das sie"
+    },
+    {
+      "start": 291.673,
+      "duration": 3.228,
+      "text": "veröffentlichen würden–im Grunde"
+    },
+    {
+      "start": 293.963,
+      "duration": 3.414,
+      "text": "eine kosteneffiziente Version von Astra"
+    },
+    {
+      "start": 296.377,
+      "duration": 4.306,
+      "text": ". Eines der verrücktesten Beispiele"
+    },
+    {
+      "start": 299.74,
+      "duration": 2.642,
+      "text": "bisher ist die Erstellung des"
+    },
+    {
+      "start": 301.439,
+      "duration": 2.868,
+      "text": "Todessterns, wobei GPT-6 Soul die"
+    },
+    {
+      "start": 303.364,
+      "duration": 2.415,
+      "text": "Aufgabe erhielt, in einer"
+    },
+    {
+      "start": 304.836,
+      "duration": 2.642,
+      "text": "vollständigen Simulation des"
+    },
+    {
+      "start": 306.534,
+      "duration": 3.208,
+      "text": "Todessterns aus Star Wars mit maximalem"
+    },
+    {
+      "start": 308.799,
+      "duration": 2.132,
+      "text": "logischem Aufwand im"
+    },
+    {
+      "start": 309.988,
+      "duration": 4.119,
+      "text": "Zero-Shot-Verfahren zu arbeiten. Das"
+    },
+    {
+      "start": 313.169,
+      "duration": 3.245,
+      "text": "Modell arbeitete etwa 9 Minuten lang"
+    },
+    {
+      "start": 315.476,
+      "duration": 3.432,
+      "text": "daran und generierte rund 72.000 Token,"
+    },
+    {
+      "start": 317.97,
+      "duration": 2.933,
+      "text": "was für einen einzigen Versuch"
+    },
+    {
+      "start": 319.966,
+      "duration": 3.244,
+      "text": "natürlich eine wahnsinnige Menge an"
+    },
+    {
+      "start": 322.273,
+      "duration": 3.168,
+      "text": "Output ist. Was dies besonders"
+    },
+    {
+      "start": 324.496,
+      "duration": 3.13,
+      "text": "interessant macht, ist, dass Soul nicht"
+    },
+    {
+      "start": 326.68,
+      "duration": 2.966,
+      "text": "als das absolute High-End-Modell von"
+    },
+    {
+      "start": 328.701,
+      "duration": 3.952,
+      "text": "OpenAI gedacht ist. Das ist etwas, das"
+    },
+    {
+      "start": 331.735,
+      "duration": 4.324,
+      "text": "Astra übertreffen wird. Dies ist eine"
+    },
+    {
+      "start": 335.112,
+      "duration": 3.042,
+      "text": "Stufe unter Astra, die versucht, dessen"
+    },
+    {
+      "start": 337.207,
+      "duration": 2.938,
+      "text": "Fähigkeiten zu imitieren, dabei aber"
+    },
+    {
+      "start": 339.197,
+      "duration": 2.99,
+      "text": "offensichtlich weitaus effizienter und"
+    },
+    {
+      "start": 341.24,
+      "duration": 4.059,
+      "text": "kostengünstiger ist. Wenn wir also"
+    },
+    {
+      "start": 344.347,
+      "duration": 2.813,
+      "text": "eine bessere Preisstruktur für dieses"
+    },
+    {
+      "start": 346.207,
+      "duration": 2.193,
+      "text": "Modell bekommen, wäre es"
+    },
+    {
+      "start": 347.448,
+      "duration": 2.813,
+      "text": "offensichtlich ein großartiges Modell"
+    },
+    {
+      "start": 349.309,
+      "duration": 2.765,
+      "text": "für den täglichen Gebrauch, das man"
+    },
+    {
+      "start": 351.122,
+      "duration": 2.527,
+      "text": "möglicherweise jeden Tag nutzen"
+    },
+    {
+      "start": 352.697,
+      "duration": 4.198,
+      "text": "könnte. Aber sie arbeiten auch an der"
+    },
+    {
+      "start": 355.956,
+      "duration": 2.636,
+      "text": "Veröffentlichung des GPT-6"
+    },
+    {
+      "start": 357.652,
+      "duration": 3.363,
+      "text": "Luna-Modells, das als kosteneffizientes"
+    },
+    {
+      "start": 360.075,
+      "duration": 3.363,
+      "text": "Modell Teil der GPT-6-Familie sein soll"
+    },
+    {
+      "start": 362.438,
+      "duration": 6.285,
+      "text": ". Hier ist eine weitere Demo des GPT-6"
+    },
+    {
+      "start": 367.794,
+      "duration": 3.744,
+      "text": "Soul-Modells. Die Programmierung und"
+    },
+    {
+      "start": 370.584,
+      "duration": 2.545,
+      "text": "die Frontend-Arbeit sind definitiv"
+    },
+    {
+      "start": 372.174,
+      "duration": 2.5,
+      "text": "beeindruckend, besonders wenn man"
+    },
+    {
+      "start": 373.719,
+      "duration": 2.773,
+      "text": "bedenkt, dass dies das günstigere GPT-"
+    },
+    {
+      "start": 375.492,
+      "duration": 2.681,
+      "text": "6-Modell sein soll, das unterhalb von"
+    },
+    {
+      "start": 377.219,
+      "duration": 3.734,
+      "text": "Astra angesiedelt ist. Und genau das"
+    },
+    {
+      "start": 380.011,
+      "duration": 3.202,
+      "text": "könnte Soul so bedeutend machen, denn"
+    },
+    {
+      "start": 382.271,
+      "duration": 3.203,
+      "text": "wenn die ersten Preisberichte stimmen,"
+    },
+    {
+      "start": 384.532,
+      "duration": 2.333,
+      "text": "könnten wir potenziell"
+    },
+    {
+      "start": 385.923,
+      "duration": 2.565,
+      "text": "Programmierfähigkeiten auf"
+    },
+    {
+      "start": 387.546,
+      "duration": 3.028,
+      "text": "Astra-Niveau zu deutlich geringeren"
+    },
+    {
+      "start": 389.632,
+      "duration": 3.366,
+      "text": "Kosten erhalten. Wir wissen, dass das"
+    },
+    {
+      "start": 392.054,
+      "duration": 3.541,
+      "text": "Astra-Modell recht teuer ist. Wenn wir"
+    },
+    {
+      "start": 394.649,
+      "duration": 3.085,
+      "text": "also eine reduzierte Preisstruktur für"
+    },
+    {
+      "start": 396.788,
+      "duration": 2.978,
+      "text": "das Soul-Modell aus derselben Familie"
+    },
+    {
+      "start": 398.82,
+      "duration": 2.925,
+      "text": "bekommen, wäre es für alltägliche"
+    },
+    {
+      "start": 400.798,
+      "duration": 2.818,
+      "text": "Programmieraufgaben und agentische"
+    },
+    {
+      "start": 402.67,
+      "duration": 4.235,
+      "text": "Workflows deutlich praktischer. Als"
+    },
+    {
+      "start": 405.954,
+      "duration": 2.804,
+      "text": "Nächstes haben wir Dario Amodei, den"
+    },
+    {
+      "start": 407.807,
+      "duration": 2.56,
+      "text": "CEO von Anthropic, über den wir"
+    },
+    {
+      "start": 409.416,
+      "duration": 2.561,
+      "text": "gestern bereits berichtet haben,"
+    },
+    {
+      "start": 411.025,
+      "duration": 2.463,
+      "text": "nachdem er einen neuen Artikel"
+    },
+    {
+      "start": 412.537,
+      "duration": 2.804,
+      "text": "veröffentlichte, in dem er über das"
+    },
+    {
+      "start": 414.39,
+      "duration": 3.342,
+      "text": "Tempo an der KI-Front diskutiert. Der"
+    },
+    {
+      "start": 416.79,
+      "duration": 3.014,
+      "text": "Zeitpunkt ist ziemlich interessant,"
+    },
+    {
+      "start": 418.862,
+      "duration": 2.957,
+      "text": "denn obwohl Dario davor warnt, wie"
+    },
+    {
+      "start": 420.876,
+      "duration": 2.785,
+      "text": "schnell sich die KI-Entwicklung"
+    },
+    {
+      "start": 422.718,
+      "duration": 2.554,
+      "text": "beschleunigt, gibt es keine"
+    },
+    {
+      "start": 424.33,
+      "duration": 3.072,
+      "text": "öffentlichen Anzeichen dafür, dass"
+    },
+    {
+      "start": 426.459,
+      "duration": 3.245,
+      "text": "Anthropic selbst die Entwicklung seiner"
+    },
+    {
+      "start": 428.762,
+      "duration": 3.616,
+      "text": "kommenden Spitzenmodelle pausiert. Wie"
+    },
+    {
+      "start": 431.457,
+      "duration": 3.225,
+      "text": "wir gerade besprochen haben,"
+    },
+    {
+      "start": 433.761,
+      "duration": 4.099,
+      "text": "konzentrieren sie sich auf Opus 5.2 und"
+    },
+    {
+      "start": 436.939,
+      "duration": 3.701,
+      "text": "auf ein neues Modell, das nach der"
+    },
+    {
+      "start": 439.72,
+      "duration": 3.86,
+      "text": "Fable-oder Mythos-Serie kommen wird."
+    },
+    {
+      "start": 443.26,
+      "duration": 2.93,
+      "text": "Der wichtigere Punkt, den Dario"
+    },
+    {
+      "start": 445.252,
+      "duration": 3.366,
+      "text": "anspricht, ist jedoch, wohin das alles"
+    },
+    {
+      "start": 447.681,
+      "duration": 4.125,
+      "text": "letztendlich führen wird. Er glaubt,"
+    },
+    {
+      "start": 450.855,
+      "duration": 2.852,
+      "text": "dass wir an einen Punkt kommen, an dem"
+    },
+    {
+      "start": 452.755,
+      "duration": 2.755,
+      "text": "KI-Systeme selbst maßgeblich an der"
+    },
+    {
+      "start": 454.559,
+      "duration": 2.901,
+      "text": "Entwicklung der nächsten KI-Generation"
+    },
+    {
+      "start": 456.508,
+      "duration": 4.23,
+      "text": "beteiligt sind. Er sagt in seinem"
+    },
+    {
+      "start": 459.793,
+      "duration": 2.987,
+      "text": "Artikel ausdrücklich, dass sich der"
+    },
+    {
+      "start": 461.835,
+      "duration": 3.098,
+      "text": "KI-Fortschritt seit etwa diesem Sommer"
+    },
+    {
+      "start": 463.988,
+      "duration": 3.505,
+      "text": "drastisch beschleunigt hat. Und das"
+    },
+    {
+      "start": 466.524,
+      "duration": 2.366,
+      "text": "haben Sie ja auch gesehen. Ich habe"
+    },
+    {
+      "start": 467.944,
+      "duration": 3.473,
+      "text": "ständig vom KI-Sommer gesprochen. Wir"
+    },
+    {
+      "start": 470.463,
+      "duration": 2.656,
+      "text": "haben so viele neue Modelle gesehen."
+    },
+    {
+      "start": 472.56,
+      "duration": 2.974,
+      "text": "Ich bin momentan unterwegs und habe"
+    },
+    {
+      "start": 474.591,
+      "duration": 2.241,
+      "text": "Schwierigkeiten, diese"
+    },
+    {
+      "start": 475.888,
+      "duration": 3.032,
+      "text": "Modell-Review-Videos zu produzieren."
+    },
+    {
+      "start": 478.519,
+      "duration": 2.851,
+      "text": "Und man merkt deutlich, dass die"
+    },
+    {
+      "start": 480.428,
+      "duration": 2.62,
+      "text": "Videoqualität nicht mit dem"
+    },
+    {
+      "start": 482.106,
+      "duration": 3.083,
+      "text": "vergleichbar ist, was wir vor meiner"
+    },
+    {
+      "start": 484.246,
+      "duration": 3.667,
+      "text": "Reise hatten. Trotzdem mache ich so"
+    },
+    {
+      "start": 486.977,
+      "duration": 3.193,
+      "text": "viele KI-Review-Videos, und es ist"
+    },
+    {
+      "start": 489.235,
+      "duration": 3.128,
+      "text": "einfach verrückt, weil wir jeden"
+    },
+    {
+      "start": 491.428,
+      "duration": 3.451,
+      "text": "zweiten Tag ein neues Modell bekommen."
+    },
+    {
+      "start": 494.42,
+      "duration": 3.837,
+      "text": "Und genau das treibt die KI-Entwicklung"
+    },
+    {
+      "start": 497.33,
+      "duration": 3.329,
+      "text": "bei Anthropic maßgeblich voran."
+    },
+    {
+      "start": 500.72,
+      "duration": 3.182,
+      "text": "Natürlich wird es dabei helfen, neue"
+    },
+    {
+      "start": 502.961,
+      "duration": 3.065,
+      "text": "Nachfolger und KI-Modelle zu bauen,"
+    },
+    {
+      "start": 505.085,
+      "duration": 3.006,
+      "text": "aber es beschleunigt definitiv das"
+    },
+    {
+      "start": 507.15,
+      "duration": 4.339,
+      "text": "Rennen an der KI-Front rasant. Und"
+    },
+    {
+      "start": 510.539,
+      "duration": 2.648,
+      "text": "sobald Modelle maßgeblich an der"
+    },
+    {
+      "start": 512.237,
+      "duration": 2.598,
+      "text": "Entwicklung zukünftiger Modelle"
+    },
+    {
+      "start": 513.885,
+      "duration": 2.848,
+      "text": "beteiligt sind, argumentiert Dario im"
+    },
+    {
+      "start": 515.783,
+      "duration": 2.698,
+      "text": "Grunde, dass die Verbesserungsrate"
+    },
+    {
+      "start": 517.531,
+      "duration": 2.848,
+      "text": "atemberaubend schnell werden könnte."
+    },
+    {
+      "start": 520.279,
+      "duration": 2.798,
+      "text": "Dies ist im Wesentlichen die Idee"
+    },
+    {
+      "start": 522.132,
+      "duration": 2.962,
+      "text": "hinter rekursiver Selbstverbesserung"
+    },
+    {
+      "start": 524.148,
+      "duration": 4.129,
+      "text": "oder RSI. Da KI zunehmend bei der"
+    },
+    {
+      "start": 527.338,
+      "duration": 2.764,
+      "text": "KI-Forschung hilft, entstehen"
+    },
+    {
+      "start": 529.163,
+      "duration": 3.311,
+      "text": "offensichtlich bessere KI-Systeme, was"
+    },
+    {
+      "start": 531.535,
+      "duration": 3.007,
+      "text": "den Forschungsprozess noch weiter"
+    },
+    {
+      "start": 533.603,
+      "duration": 5.032,
+      "text": "beschleunigen kann. Dario erwähnte"
+    },
+    {
+      "start": 537.707,
+      "duration": 3.367,
+      "text": "daraufhin einige ziemlich extreme"
+    },
+    {
+      "start": 540.146,
+      "duration": 3.726,
+      "text": "potenzielle Risiken durch RSI, was bei"
+    },
+    {
+      "start": 542.943,
+      "duration": 4.75,
+      "text": "vielen Leuten für Angst sorgte. Denn"
+    },
+    {
+      "start": 546.742,
+      "duration": 2.556,
+      "text": "wenn wir diesen Punkt erreichen,"
+    },
+    {
+      "start": 548.347,
+      "duration": 2.557,
+      "text": "könnte dies im Grunde zu vielen"
+    },
+    {
+      "start": 549.953,
+      "duration": 2.654,
+      "text": "Cyberangriffen führen; eine Menge"
+    },
+    {
+      "start": 551.655,
+      "duration": 2.752,
+      "text": "schädlicher Dinge könnten aufgrund"
+    },
+    {
+      "start": 553.455,
+      "duration": 2.752,
+      "text": "von KI-Anwendungsfällen und anderen"
+    },
+    {
+      "start": 555.255,
+      "duration": 4.16,
+      "text": "Faktoren entstehen. Und kurz nachdem"
+    },
+    {
+      "start": 558.483,
+      "duration": 3.329,
+      "text": "Dario diese Aussage gemacht hatte,"
+    },
+    {
+      "start": 560.881,
+      "duration": 3.26,
+      "text": "schienen Elon Musk und Sam Altman"
+    },
+    {
+      "start": 563.21,
+      "duration": 3.26,
+      "text": "plötzlich eine Verlangsamung des"
+    },
+    {
+      "start": 565.539,
+      "duration": 3.329,
+      "text": "KI-Wettlaufs zu unterstützen, was"
+    },
+    {
+      "start": 567.937,
+      "duration": 3.671,
+      "text": "einen fragen lässt, was sie eigentlich"
+    },
+    {
+      "start": 570.677,
+      "duration": 3.397,
+      "text": "erschreckt hat, da sie alle aus dem"
+    },
+    {
+      "start": 573.143,
+      "duration": 3.391,
+      "text": "Nichts dasselbe sagten. Es gibt"
+    },
+    {
+      "start": 575.573,
+      "duration": 2.218,
+      "text": "natürlich eine ganze Reihe von"
+    },
+    {
+      "start": 576.83,
+      "duration": 3.281,
+      "text": "Möglichkeiten. Vielleicht sehen diese"
+    },
+    {
+      "start": 579.165,
+      "duration": 3.113,
+      "text": "Labore intern Fähigkeiten, die weitaus"
+    },
+    {
+      "start": 581.332,
+      "duration": 3.004,
+      "text": "näher an AGI liegen als das, was wir"
+    },
+    {
+      "start": 583.39,
+      "duration": 3.743,
+      "text": "öffentlich gesehen haben. Oder ganz im"
+    },
+    {
+      "start": 586.189,
+      "duration": 3.078,
+      "text": "Gegenteil: Vielleicht befürchten die"
+    },
+    {
+      "start": 588.323,
+      "duration": 2.573,
+      "text": "führenden Labore, dass ihre"
+    },
+    {
+      "start": 589.952,
+      "duration": 3.191,
+      "text": "Wettbewerbsvorteile schwinden, und eine"
+    },
+    {
+      "start": 592.199,
+      "duration": 3.022,
+      "text": "allgemeine Verlangsamung hilft, ihre"
+    },
+    {
+      "start": 594.277,
+      "duration": 3.023,
+      "text": "Position und Bewertung zu schützen."
+    },
+    {
+      "start": 596.92,
+      "duration": 3.06,
+      "text": "Das ist natürlich alles Spekulation,"
+    },
+    {
+      "start": 599.036,
+      "duration": 2.615,
+      "text": "aber das Timing der aktuellen"
+    },
+    {
+      "start": 600.707,
+      "duration": 3.172,
+      "text": "Ereignisse lässt einen schon grübeln."
+    },
+    {
+      "start": 604.66,
+      "duration": 2.736,
+      "text": "Und das Lustige ist, dass Donald Trump,"
+    },
+    {
+      "start": 606.44,
+      "duration": 2.736,
+      "text": "der Präsident der Vereinigten Staaten,"
+    },
+    {
+      "start": 608.221,
+      "duration": 2.736,
+      "text": "praktisch aus dem Nichts auftauchte und"
+    },
+    {
+      "start": 610.002,
+      "duration": 2.513,
+      "text": "sich zufällig in dieses Gespräch"
+    },
+    {
+      "start": 611.56,
+      "duration": 2.514,
+      "text": "einmischte, um sich gegen die Idee"
+    },
+    {
+      "start": 613.118,
+      "duration": 2.692,
+      "text": "einer Verlangsamung der KI-Entwicklung"
+    },
+    {
+      "start": 614.854,
+      "duration": 4.299,
+      "text": "zu wehren. Seine Position ist im Grunde"
+    },
+    {
+      "start": 618.207,
+      "duration": 3.107,
+      "text": "das Gegenteil: Amerika sollte nicht vom"
+    },
+    {
+      "start": 620.368,
+      "duration": 2.946,
+      "text": "Gas gehen, besonders während es mit"
+    },
+    {
+      "start": 622.368,
+      "duration": 2.729,
+      "text": "Ländern wie China im Bereich KI"
+    },
+    {
+      "start": 624.151,
+      "duration": 3.845,
+      "text": "konkurriert. Wir haben also einige der"
+    },
+    {
+      "start": 627.048,
+      "duration": 2.816,
+      "text": "größten Namen der KI-Branche, die"
+    },
+    {
+      "start": 628.916,
+      "duration": 2.557,
+      "text": "plötzlich davon sprechen, den"
+    },
+    {
+      "start": 630.525,
+      "duration": 3.727,
+      "text": "Fortschritt zu verlangsamen. Hier sagt"
+    },
+    {
+      "start": 633.307,
+      "duration": 3.138,
+      "text": "Trump im Grunde das Gegenteil und meint"
+    },
+    {
+      "start": 635.445,
+      "duration": 3.139,
+      "text": ", dass sie einfach weitermachen sollten"
+    },
+    {
+      "start": 637.584,
+      "duration": 2.853,
+      "text": ". Es ist auf jeden Fall wirklich"
+    },
+    {
+      "start": 639.475,
+      "duration": 3.17,
+      "text": "interessant und amüsant. Wenn dir"
+    },
+    {
+      "start": 641.69,
+      "duration": 2.734,
+      "text": "dieses Video gefällt und du den Kanal"
+    },
+    {
+      "start": 643.47,
+      "duration": 2.78,
+      "text": "unterstützen möchtest, kannst du eine"
+    },
+    {
+      "start": 645.295,
+      "duration": 2.643,
+      "text": "Spende über die „Super Thanks“-"
+    },
+    {
+      "start": 646.938,
+      "duration": 3.027,
+      "text": "Option unten in Betracht ziehen. Oder"
+    },
+    {
+      "start": 649.032,
+      "duration": 3.6,
+      "text": "du trittst unserem privaten Discord bei"
+    },
+    {
+      "start": 651.632,
+      "duration": 3.467,
+      "text": ", wo du monatlich kostenlosen Zugriff"
+    },
+    {
+      "start": 654.166,
+      "duration": 3.066,
+      "text": "auf verschiedene KI-Tools sowie"
+    },
+    {
+      "start": 656.299,
+      "duration": 3.334,
+      "text": "tägliche KI-Nachrichten, exklusive"
+    },
+    {
+      "start": 658.699,
+      "duration": 3.803,
+      "text": "Inhalte und mehr erhältst. Zuletzt"
+    },
+    {
+      "start": 661.562,
+      "duration": 3.177,
+      "text": "gibt es einige ziemlich massive neue"
+    },
+    {
+      "start": 663.799,
+      "duration": 3.297,
+      "text": "Updates von DeepSeek mit DeepSeek Code"
+    },
+    {
+      "start": 666.157,
+      "duration": 3.317,
+      "text": "2.0. Dies ist ein Modell, dessen"
+    },
+    {
+      "start": 668.524,
+      "duration": 2.606,
+      "text": "Veröffentlichung für September"
+    },
+    {
+      "start": 670.18,
+      "duration": 2.756,
+      "text": "geplant ist, und Gerüchten zufolge"
+    },
+    {
+      "start": 671.987,
+      "duration": 2.655,
+      "text": "könnte es ein Modell mit über 3"
+    },
+    {
+      "start": 673.692,
+      "duration": 2.656,
+      "text": "Billionen Parametern und einem 1-"
+    },
+    {
+      "start": 675.348,
+      "duration": 2.907,
+      "text": "Million-Token-Kontextfenster sein, das"
+    },
+    {
+      "start": 677.305,
+      "duration": 3.522,
+      "text": "zudem Open-Weight bleibt. Sie verfügen"
+    },
+    {
+      "start": 679.892,
+      "duration": 1.977,
+      "text": "außerdem über"
+    },
+    {
+      "start": 680.935,
+      "duration": 3.476,
+      "text": "Computer-Nutzungsfähigkeiten, und der"
+    },
+    {
+      "start": 683.476,
+      "duration": 3.151,
+      "text": "Fokus liegt diesmal angeblich auf"
+    },
+    {
+      "start": 685.692,
+      "duration": 3.281,
+      "text": "Effizienz sowie der Fähigkeit, den"
+    },
+    {
+      "start": 688.038,
+      "duration": 3.792,
+      "text": "Bildschirm präzise zu steuern. Die"
+    },
+    {
+      "start": 690.888,
+      "duration": 2.948,
+      "text": "verrückteste Behauptung ist, dass"
+    },
+    {
+      "start": 692.893,
+      "duration": 2.776,
+      "text": "DeepSeek anscheinend Leistungen"
+    },
+    {
+      "start": 694.727,
+      "duration": 3.12,
+      "text": "anstrebt, die mit den besten Modellen"
+    },
+    {
+      "start": 696.904,
+      "duration": 3.12,
+      "text": "wie Fable oder sogar GPT konkurrieren"
+    },
+    {
+      "start": 699.081,
+      "duration": 3.006,
+      "text": "oder diese grundlegend übertreffen"
+    },
+    {
+      "start": 701.144,
+      "duration": 4.45,
+      "text": "könnten. Natürlich sollte man das mit"
+    },
+    {
+      "start": 704.656,
+      "duration": 3.416,
+      "text": "Vorsicht genießen, da ich glaube, dass"
+    },
+    {
+      "start": 707.134,
+      "duration": 3.167,
+      "text": "das nur Hype ist, aber letztendlich"
+    },
+    {
+      "start": 709.363,
+      "duration": 3.291,
+      "text": "wäre dies ein wirklich cooles Modell"
+    },
+    {
+      "start": 711.716,
+      "duration": 3.168,
+      "text": "aus China von DeepSeek, das mit dem"
+    },
+    {
+      "start": 713.946,
+      "duration": 2.672,
+      "text": "aktuellen Stand der Technik"
+    },
+    {
+      "start": 715.68,
+      "duration": 4.15,
+      "text": "konkurrieren würde. Aber das war es"
+    },
+    {
+      "start": 718.866,
+      "duration": 2.274,
+      "text": "auch schon, Leute, mit allem, was in"
+    },
+    {
+      "start": 720.175,
+      "duration": 3.101,
+      "text": "der Welt der KI passiert. Falls ihr es"
+    },
+    {
+      "start": 722.324,
+      "duration": 2.632,
+      "text": "noch nicht getan habt, schaut euch"
+    },
+    {
+      "start": 724.004,
+      "duration": 2.872,
+      "text": "unbedingt die Welt der KI in der School"
+    },
+    {
+      "start": 725.924,
+      "duration": 2.44,
+      "text": "Community an, wo ihr Zugang zu"
+    },
+    {
+      "start": 727.412,
+      "duration": 2.872,
+      "text": "Vorab-Modellen sowie kostenlosen Zugang"
+    },
+    {
+      "start": 729.332,
+      "duration": 3.71,
+      "text": "zu KI-Tools erhaltet. Werft unbedingt"
+    },
+    {
+      "start": 732.084,
+      "duration": 2.456,
+      "text": "einen Blick auf die Welt der KI-5-"
+    },
+    {
+      "start": 733.54,
+      "duration": 2.499,
+      "text": "Coding-Plattform und das Benchmark."
+    },
+    {
+      "start": 735.32,
+      "duration": 2.28,
+      "text": "Schaut euch den zweiten Kanal an."
+    },
+    {
+      "start": 737.132,
+      "duration": 2.452,
+      "text": "Stellt außerdem sicher, dass ihr euch"
+    },
+    {
+      "start": 738.623,
+      "duration": 2.438,
+      "text": "für den Newsletter anmeldet. Tretet"
+    },
+    {
+      "start": 740.099,
+      "duration": 2.334,
+      "text": "unserem Discord bei. Folgt mir auf"
+    },
+    {
+      "start": 741.469,
+      "duration": 2.392,
+      "text": "Twitter. Und zu guter Letzt: Abonniert"
+    },
+    {
+      "start": 742.895,
+      "duration": 1.831,
+      "text": "den Kanal, aktiviert die"
+    },
+    {
+      "start": 743.761,
+      "duration": 2.281,
+      "text": "Benachrichtigungsglocke, liked dieses"
+    },
+    {
+      "start": 745.077,
+      "duration": 2.316,
+      "text": "Video und schaut euch unsere früheren"
+    },
+    {
+      "start": 746.427,
+      "duration": 2.282,
+      "text": "Videos an, damit ihr bei den neuesten"
+    },
+    {
+      "start": 747.743,
+      "duration": 2.351,
+      "text": "KI-Nachrichten auf dem Laufenden bleibt"
+    },
+    {
+      "start": 749.094,
+      "duration": 2.225,
+      "text": ". Aber mit diesem Gedanken, Leute, habt"
+    },
+    {
+      "start": 750.349,
+      "duration": 2.215,
+      "text": "einen fantastischen Tag. Wir sind"
+    },
+    {
+      "start": 751.599,
+      "duration": 2.223,
+      "text": "durchweg positiv, und ich sehe euch"
+    },
+    {
+      "start": 752.857,
+      "duration": 2.598,
+      "text": "sehr bald wieder. Macht's gut, Leute."
+    }
+  ]
+}

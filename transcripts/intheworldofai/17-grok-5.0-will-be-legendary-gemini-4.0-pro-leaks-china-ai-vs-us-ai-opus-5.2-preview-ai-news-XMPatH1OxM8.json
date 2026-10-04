@@ -1,0 +1,1772 @@
+{
+  "video": {
+    "video_id": "XMPatH1OxM8",
+    "title": "Grok 5.0 Will Be LEGENDARY, Gemini 4.0 Pro Leaks, China AI vs US AI, & Opus 5.2 Preview! AI NEWS",
+    "url": "https://www.youtube.com/watch?v=XMPatH1OxM8",
+    "published_at": null,
+    "duration": 744
+  },
+  "status": "completed",
+  "language": "de-DE",
+  "language_code": "de-DE",
+  "is_generated": null,
+  "provider": "freetranscriptapi",
+  "error": null,
+  "segments": [
+    {
+      "start": 0.18,
+      "duration": 2.802,
+      "text": "Wenn ich sage, dass es im KI-Bereich"
+    },
+    {
+      "start": 2.032,
+      "duration": 2.952,
+      "text": "nie langweilig wird, dann meine ich das"
+    },
+    {
+      "start": 4.034,
+      "duration": 2.702,
+      "text": "wirklich so, denn wir haben einige"
+    },
+    {
+      "start": 5.786,
+      "duration": 2.652,
+      "text": "wahnsinnige neue Einblicke in die"
+    },
+    {
+      "start": 7.488,
+      "duration": 3.583,
+      "text": "Zukunft von Grok. Und wenn Elons"
+    },
+    {
+      "start": 10.136,
+      "duration": 3.347,
+      "text": "Behauptung zutrifft, könnten einige"
+    },
+    {
+      "start": 12.548,
+      "duration": 3.346,
+      "text": "der kommenden Grok-Modelle Fable und"
+    },
+    {
+      "start": 14.96,
+      "duration": 3.97,
+      "text": "Astra weit überlegen sein. Elon"
+    },
+    {
+      "start": 17.987,
+      "duration": 3.243,
+      "text": "enthüllte zunächst, dass Grok 4.8 ein"
+    },
+    {
+      "start": 20.287,
+      "duration": 3.013,
+      "text": "gewaltiges Modell mit 2,5 Billionen"
+    },
+    {
+      "start": 22.358,
+      "duration": 3.128,
+      "text": "Parametern ist, das mit ihrem neuen C"
+    },
+    {
+      "start": 24.543,
+      "duration": 3.128,
+      "text": "++-Software-Stack trainiert wird, und"
+    },
+    {
+      "start": 26.729,
+      "duration": 2.782,
+      "text": "es soll noch diese Woche fertig"
+    },
+    {
+      "start": 28.569,
+      "duration": 2.783,
+      "text": "trainiert sein, bevor es in das"
+    },
+    {
+      "start": 30.409,
+      "duration": 3.855,
+      "text": "Reinforcement Learning geht. Aber davor"
+    },
+    {
+      "start": 33.321,
+      "duration": 3.035,
+      "text": "kommt noch Grok 4.7, das anscheinend"
+    },
+    {
+      "start": 35.413,
+      "duration": 3.036,
+      "text": "unmittelbar bevorsteht und jeden Tag"
+    },
+    {
+      "start": 37.505,
+      "duration": 3.348,
+      "text": "veröffentlicht werden könnte. Doch"
+    },
+    {
+      "start": 39.897,
+      "duration": 3.398,
+      "text": "Elon beließ es nicht dabei. Er legte"
+    },
+    {
+      "start": 42.357,
+      "duration": 3.359,
+      "text": "im Grunde dar, was er von der gesamten"
+    },
+    {
+      "start": 44.778,
+      "duration": 3.234,
+      "text": "kommenden Grok-Familie erwartet, und"
+    },
+    {
+      "start": 47.074,
+      "duration": 3.359,
+      "text": "behauptete, dass Grok 4.7 die Leistung"
+    },
+    {
+      "start": 49.495,
+      "duration": 3.359,
+      "text": "von Opus 5 erreichen könnte, während"
+    },
+    {
+      "start": 51.916,
+      "duration": 3.296,
+      "text": "Grok 5 und die Modelle darüber sowie"
+    },
+    {
+      "start": 54.274,
+      "duration": 3.359,
+      "text": "darunter in ihren Fähigkeiten völlig"
+    },
+    {
+      "start": 56.695,
+      "duration": 3.746,
+      "text": "anders sein könnten. Hier gibt es"
+    },
+    {
+      "start": 59.478,
+      "duration": 2.401,
+      "text": "tatsächlich eine Menge zu besprechen."
+    },
+    {
+      "start": 61.46,
+      "duration": 2.691,
+      "text": "Unterdessen scheint Google an einem"
+    },
+    {
+      "start": 63.2,
+      "duration": 2.74,
+      "text": "neuen Programmiermodell zu arbeiten."
+    },
+    {
+      "start": 65.66,
+      "duration": 3.194,
+      "text": "Ein geheimnisvoller Prüfpunkt namens"
+    },
+    {
+      "start": 67.914,
+      "duration": 2.957,
+      "text": "„Antigravity Preview“ tauchte"
+    },
+    {
+      "start": 69.931,
+      "duration": 3.194,
+      "text": "kürzlich rund um die Gemini-API auf,"
+    },
+    {
+      "start": 72.185,
+      "duration": 3.195,
+      "text": "versehen mit dem Datum 26. September."
+    },
+    {
+      "start": 75.099,
+      "duration": 2.623,
+      "text": "Dies könnte potenziell ein auf"
+    },
+    {
+      "start": 76.774,
+      "duration": 3.043,
+      "text": "Programmierung fokussiertes Modell für"
+    },
+    {
+      "start": 78.869,
+      "duration": 2.623,
+      "text": "Antigravity sein oder sogar ein"
+    },
+    {
+      "start": 80.545,
+      "duration": 3.042,
+      "text": "separater Checkpoint aus der Gemini 4.0"
+    },
+    {
+      "start": 82.587,
+      "duration": 3.399,
+      "text": "-Familie. Was auch immer es ist, es ist"
+    },
+    {
+      "start": 85.033,
+      "duration": 2.649,
+      "text": "definitiv interessant und wir haben"
+    },
+    {
+      "start": 86.729,
+      "duration": 2.65,
+      "text": "bereits ein paar Vorschauen darauf."
+    },
+    {
+      "start": 88.839,
+      "duration": 2.833,
+      "text": "Dann haben wir eine massive Debatte"
+    },
+    {
+      "start": 90.724,
+      "duration": 2.414,
+      "text": "über die Verlangsamung der"
+    },
+    {
+      "start": 92.191,
+      "duration": 2.885,
+      "text": "KI-Entwicklung, ein Thema, über das"
+    },
+    {
+      "start": 94.128,
+      "duration": 2.729,
+      "text": "wir in den letzten Videos bereits"
+    },
+    {
+      "start": 95.909,
+      "duration": 3.387,
+      "text": "gesprochen haben. Nachdem Dario Amodei"
+    },
+    {
+      "start": 98.357,
+      "duration": 3.19,
+      "text": "Bedenken hinsichtlich des Tempos des"
+    },
+    {
+      "start": 100.608,
+      "duration": 3.008,
+      "text": "KI-Fortschritts geäußert hatte,"
+    },
+    {
+      "start": 102.677,
+      "duration": 3.313,
+      "text": "explodierte die Diskussion. Trump"
+    },
+    {
+      "start": 105.048,
+      "duration": 3.097,
+      "text": "sprach sich heute gegen zusätzliche"
+    },
+    {
+      "start": 107.204,
+      "duration": 3.155,
+      "text": "KI-Leitplanken aus, und nun hat China"
+    },
+    {
+      "start": 109.417,
+      "duration": 3.098,
+      "text": "auf die Debatte um die Verlangsamung"
+    },
+    {
+      "start": 111.573,
+      "duration": 3.214,
+      "text": "reagiert und gewarnt, dass Panikmache,"
+    },
+    {
+      "start": 113.845,
+      "duration": 2.689,
+      "text": "Konfrontation und bösartiger"
+    },
+    {
+      "start": 115.593,
+      "duration": 3.097,
+      "text": "Wettbewerb die globale KI-Governance"
+    },
+    {
+      "start": 117.748,
+      "duration": 3.596,
+      "text": "stören könnten. Jetzt sprechen also"
+    },
+    {
+      "start": 120.396,
+      "duration": 2.92,
+      "text": "wichtige Persönlichkeiten in Amerika"
+    },
+    {
+      "start": 122.368,
+      "duration": 2.971,
+      "text": "davon, das Tempo zu drosseln, während"
+    },
+    {
+      "start": 124.391,
+      "duration": 2.816,
+      "text": "China im Grunde sagt, man solle den"
+    },
+    {
+      "start": 126.259,
+      "duration": 3.659,
+      "text": "Fortschritt weiter vorantreiben. Diese"
+    },
+    {
+      "start": 128.974,
+      "duration": 3.008,
+      "text": "wachsende Kluft könnte zu einer der"
+    },
+    {
+      "start": 131.038,
+      "duration": 3.064,
+      "text": "wichtigsten Dynamiken werden, die die"
+    },
+    {
+      "start": 133.158,
+      "duration": 3.602,
+      "text": "Zukunft des KI-Wettlaufs prägen. Und"
+    },
+    {
+      "start": 135.814,
+      "duration": 2.997,
+      "text": "schließlich hatten wir gestern über"
+    },
+    {
+      "start": 137.865,
+      "duration": 2.295,
+      "text": "Opus 5.2 gesprochen, das"
+    },
+    {
+      "start": 139.214,
+      "duration": 2.943,
+      "text": "möglicherweise bald kommt, aber wir"
+    },
+    {
+      "start": 141.211,
+      "duration": 2.943,
+      "text": "hatten tatsächlich nichts, um Ihnen"
+    },
+    {
+      "start": 143.207,
+      "duration": 3.552,
+      "text": "diesen Checkpoint zu zeigen. Nun, heute"
+    },
+    {
+      "start": 145.809,
+      "duration": 2.75,
+      "text": "haben wir unsere erste Vorschau auf"
+    },
+    {
+      "start": 147.609,
+      "duration": 2.95,
+      "text": "dieses Modell, und es ist geradezu irre"
+    },
+    {
+      "start": 149.559,
+      "duration": 3.188,
+      "text": ", was man damit alles machen kann. Es"
+    },
+    {
+      "start": 151.78,
+      "duration": 2.276,
+      "text": "gibt noch viel mehr zu behandeln, also"
+    },
+    {
+      "start": 153.089,
+      "duration": 2.31,
+      "text": "stürzen wir uns einfach direkt darauf."
+    },
+    {
+      "start": 154.579,
+      "duration": 2.405,
+      "text": "Es gibt viele Dinge im KI-Bereich, die"
+    },
+    {
+      "start": 156.021,
+      "duration": 1.962,
+      "text": "ich nicht wirklich auf dem"
+    },
+    {
+      "start": 157.02,
+      "duration": 2.443,
+      "text": "YouTube-Kanal präsentiere, auf die Sie"
+    },
+    {
+      "start": 158.5,
+      "duration": 2.073,
+      "text": "aber über meinen kostenlosen"
+    },
+    {
+      "start": 159.61,
+      "duration": 2.443,
+      "text": "Newsletter zugreifen können–den Link"
+    },
+    {
+      "start": 161.09,
+      "duration": 2.036,
+      "text": "dazu finden Sie unten in der"
+    },
+    {
+      "start": 162.163,
+      "duration": 2.221,
+      "text": "Beschreibung, wo Sie sich völlig"
+    },
+    {
+      "start": 163.421,
+      "duration": 3.079,
+      "text": "kostenlos anmelden können. Wir"
+    },
+    {
+      "start": 165.553,
+      "duration": 2.444,
+      "text": "beginnen mit Elon Musk, der"
+    },
+    {
+      "start": 167.05,
+      "duration": 2.872,
+      "text": "überraschenderweise über Grok 4.8"
+    },
+    {
+      "start": 168.975,
+      "duration": 2.818,
+      "text": "sprach, obwohl Grok 4.7 noch nicht"
+    },
+    {
+      "start": 170.846,
+      "duration": 3.032,
+      "text": "einmal veröffentlicht ist, was jedoch"
+    },
+    {
+      "start": 172.931,
+      "duration": 2.925,
+      "text": "in Kürze, wahrscheinlich jeden Tag,"
+    },
+    {
+      "start": 174.91,
+      "duration": 4.997,
+      "text": "passieren sollte. Im Grunde fing alles"
+    },
+    {
+      "start": 178.974,
+      "duration": 3.458,
+      "text": "auf X an, wo Elon gefragt wurde, wann"
+    },
+    {
+      "start": 181.499,
+      "duration": 3.525,
+      "text": "wir neben Grok 4.7 etwas von SpaceX AI"
+    },
+    {
+      "start": 184.09,
+      "duration": 3.392,
+      "text": "erwarten können, woraufhin Elon mit"
+    },
+    {
+      "start": 186.549,
+      "duration": 2.993,
+      "text": "einem ziemlich massiven Update"
+    },
+    {
+      "start": 188.609,
+      "duration": 4.18,
+      "text": "antwortete. Er begann über Grok 4.8 zu"
+    },
+    {
+      "start": 191.855,
+      "duration": 3.532,
+      "text": "sprechen, ein Modell mit 2,5 Billionen"
+    },
+    {
+      "start": 194.454,
+      "duration": 3.532,
+      "text": "Parametern, das bereits dort trainiert"
+    },
+    {
+      "start": 197.053,
+      "duration": 3.265,
+      "text": "wurde oder dessen Training mit dem"
+    },
+    {
+      "start": 199.385,
+      "duration": 2.999,
+      "text": "neuen C ++ Software-Stack bald"
+    },
+    {
+      "start": 201.45,
+      "duration": 3.603,
+      "text": "abgeschlossen sein wird. Und das ist"
+    },
+    {
+      "start": 204.111,
+      "duration": 2.961,
+      "text": "etwas, das wahrscheinlich nächste"
+    },
+    {
+      "start": 206.13,
+      "duration": 3.25,
+      "text": "Woche mit dem Training beginnen sollte."
+    },
+    {
+      "start": 209.22,
+      "duration": 2.794,
+      "text": "Aber wir sprechen hier von einem 2,5"
+    },
+    {
+      "start": 211.064,
+      "duration": 2.545,
+      "text": "Billionen Parameter umfassenden"
+    },
+    {
+      "start": 212.659,
+      "duration": 2.147,
+      "text": "Grok-Modell, das seinen"
+    },
+    {
+      "start": 213.855,
+      "duration": 2.496,
+      "text": "Haupttrainingslauf diese Woche"
+    },
+    {
+      "start": 215.401,
+      "duration": 2.844,
+      "text": "abschließen sollte, bevor es in eine"
+    },
+    {
+      "start": 217.295,
+      "duration": 2.845,
+      "text": "Phase des bestärkenden Lernens geht."
+    },
+    {
+      "start": 220.279,
+      "duration": 2.885,
+      "text": "Dass Elon bereits öffentlich über"
+    },
+    {
+      "start": 222.218,
+      "duration": 3.101,
+      "text": "Grok 4.8 spricht, während wir noch auf"
+    },
+    {
+      "start": 224.373,
+      "duration": 2.885,
+      "text": "Grok 4.7 warten, deutet darauf hin,"
+    },
+    {
+      "start": 226.312,
+      "duration": 2.994,
+      "text": "dass die Grok-Pipeline derzeit extrem"
+    },
+    {
+      "start": 228.359,
+      "duration": 3.723,
+      "text": "schnell voranschreitet. Und es ist"
+    },
+    {
+      "start": 231.126,
+      "duration": 3.14,
+      "text": "irgendwie lustig. Es ist wirklich"
+    },
+    {
+      "start": 233.315,
+      "duration": 2.94,
+      "text": "ironisch, dass dieser Typ davon sprach,"
+    },
+    {
+      "start": 235.305,
+      "duration": 2.939,
+      "text": "KI zu verlangsamen, und Dario zustimmte"
+    },
+    {
+      "start": 237.244,
+      "duration": 2.791,
+      "text": ", während er gleichzeitig über all"
+    },
+    {
+      "start": 239.085,
+      "duration": 2.84,
+      "text": "diese neuen Grok-Modelle spricht, die"
+    },
+    {
+      "start": 240.975,
+      "duration": 3.948,
+      "text": "veröffentlicht werden. Doch dann ging"
+    },
+    {
+      "start": 243.971,
+      "duration": 2.615,
+      "text": "Elon noch einen Schritt weiter und"
+    },
+    {
+      "start": 245.633,
+      "duration": 2.662,
+      "text": "lieferte uns im Grunde eine Roadmap"
+    },
+    {
+      "start": 247.343,
+      "duration": 2.804,
+      "text": "für die nächsten Grok-Modelle und wo"
+    },
+    {
+      "start": 249.195,
+      "duration": 2.567,
+      "text": "er erwartet, dass jedes von ihnen"
+    },
+    {
+      "start": 250.81,
+      "duration": 3.674,
+      "text": "landen wird. Laut Elon sollte Grok 4.7"
+    },
+    {
+      "start": 253.552,
+      "duration": 3.387,
+      "text": "in etwa auf Augenhöhe mit Opus 5.0"
+    },
+    {
+      "start": 256.007,
+      "duration": 3.523,
+      "text": "sein, in einigen Bereichen besser und"
+    },
+    {
+      "start": 258.598,
+      "duration": 3.945,
+      "text": "in anderen schlechter. Obwohl er zugibt"
+    },
+    {
+      "start": 261.543,
+      "duration": 2.935,
+      "text": ", dass sie die multimodale Leistung"
+    },
+    {
+      "start": 263.533,
+      "duration": 3.402,
+      "text": "noch verbessern müssen. Dann sollte"
+    },
+    {
+      "start": 265.997,
+      "duration": 3.211,
+      "text": "Grok 4.8 eine spürbare Verbesserung"
+    },
+    {
+      "start": 268.27,
+      "duration": 3.886,
+      "text": "gegenüber 4.7 sein. Aber mit Grok 4.9"
+    },
+    {
+      "start": 271.217,
+      "duration": 3.195,
+      "text": "wurde es noch interessanter, da Elon"
+    },
+    {
+      "start": 273.473,
+      "duration": 2.525,
+      "text": "glaubt, dass es Astra-und"
+    },
+    {
+      "start": 275.059,
+      "duration": 2.951,
+      "text": "Fable-Leistungsniveaus erreichen"
+    },
+    {
+      "start": 277.071,
+      "duration": 3.723,
+      "text": "könnte. Und dann gibt es noch Grok 5,"
+    },
+    {
+      "start": 279.847,
+      "duration": 3.011,
+      "text": "wozu Elon einfach sagt, dass es besser"
+    },
+    {
+      "start": 281.911,
+      "duration": 2.589,
+      "text": "als alles andere sein könnte."
+    },
+    {
+      "start": 284.74,
+      "duration": 2.505,
+      "text": "Natürlich sind das Elons eigene"
+    },
+    {
+      "start": 286.292,
+      "duration": 2.459,
+      "text": "Einschätzungen, und wir werden"
+    },
+    {
+      "start": 287.798,
+      "duration": 2.835,
+      "text": "unabhängige Benchmarks und Praxistests"
+    },
+    {
+      "start": 289.68,
+      "duration": 2.553,
+      "text": "brauchen, bevor wir sie für bare"
+    },
+    {
+      "start": 291.28,
+      "duration": 5.295,
+      "text": "Münze nehmen. Aber wenn diese Roadmap"
+    },
+    {
+      "start": 295.647,
+      "duration": 3.738,
+      "text": "auch nur annähernd genau ist, könnte"
+    },
+    {
+      "start": 298.457,
+      "duration": 2.729,
+      "text": "SpaceX AI in nur wenigen"
+    },
+    {
+      "start": 300.258,
+      "duration": 3.449,
+      "text": "Modelliterationen von der Leistung"
+    },
+    {
+      "start": 302.779,
+      "duration": 3.738,
+      "text": "eines Opus 5 zu unglaublich günstigen"
+    },
+    {
+      "start": 305.589,
+      "duration": 3.161,
+      "text": "Preisen in Richtung führender"
+    },
+    {
+      "start": 307.822,
+      "duration": 3.738,
+      "text": "Spitzenleistung mit Grok 5 vorstoßen."
+    },
+    {
+      "start": 313.08,
+      "duration": 2.601,
+      "text": "In den letzten Tagen haben wir über"
+    },
+    {
+      "start": 314.725,
+      "duration": 2.735,
+      "text": "diese massive Debatte berichtet, ob die"
+    },
+    {
+      "start": 316.505,
+      "duration": 2.735,
+      "text": "KI-Entwicklung verlangsamt werden muss."
+    },
+    {
+      "start": 320.34,
+      "duration": 2.781,
+      "text": "Sie kam richtig in Gang, nachdem"
+    },
+    {
+      "start": 322.176,
+      "duration": 2.781,
+      "text": "Anthropic-CEO Dario einen langen"
+    },
+    {
+      "start": 324.013,
+      "duration": 2.948,
+      "text": "Aufsatz veröffentlichte, in dem er"
+    },
+    {
+      "start": 326.017,
+      "duration": 3.115,
+      "text": "argumentierte, dass die KI-Entwicklung"
+    },
+    {
+      "start": 328.188,
+      "duration": 2.391,
+      "text": "an der Grenze schnell mit"
+    },
+    {
+      "start": 329.635,
+      "duration": 2.837,
+      "text": "Sicherheitsmaßnahmen verlangsamt"
+    },
+    {
+      "start": 331.527,
+      "duration": 2.837,
+      "text": "werden sollte, damit sie in einer"
+    },
+    {
+      "start": 333.42,
+      "duration": 3.17,
+      "text": "angemessenen Umgebung gehalten wird und"
+    },
+    {
+      "start": 335.646,
+      "duration": 4.587,
+      "text": "der Menschheit nicht schaden kann. Was"
+    },
+    {
+      "start": 339.292,
+      "duration": 3.155,
+      "text": "dies besonders bedeutsam machte, war,"
+    },
+    {
+      "start": 341.506,
+      "duration": 2.981,
+      "text": "dass Sam Altman und Elon Teile von"
+    },
+    {
+      "start": 343.545,
+      "duration": 2.864,
+      "text": "Darios Argumentation öffentlich"
+    },
+    {
+      "start": 345.468,
+      "duration": 2.981,
+      "text": "unterstützten, wobei Musk einfach"
+    },
+    {
+      "start": 347.507,
+      "duration": 3.672,
+      "text": "sagte, dass Dario Recht hat. Plötzlich"
+    },
+    {
+      "start": 350.233,
+      "duration": 2.944,
+      "text": "stimmten die Leiter mehrerer großer"
+    },
+    {
+      "start": 352.231,
+      "duration": 2.999,
+      "text": "amerikanischer KI-Labore zu, dass wir"
+    },
+    {
+      "start": 354.284,
+      "duration": 2.782,
+      "text": "das Tempo womöglich tatsächlich"
+    },
+    {
+      "start": 356.12,
+      "duration": 3.658,
+      "text": "drosseln müssen. Doch heute schaltete"
+    },
+    {
+      "start": 358.837,
+      "duration": 2.711,
+      "text": "sich Präsident Trump völlig"
+    },
+    {
+      "start": 360.607,
+      "duration": 3.301,
+      "text": "überraschend direkt in die Debatte ein"
+    },
+    {
+      "start": 362.967,
+      "duration": 3.242,
+      "text": "und vertrat im Grunde die gegenteilige"
+    },
+    {
+      "start": 365.268,
+      "duration": 3.325,
+      "text": "Position. Trump argumentierte, dass KI"
+    },
+    {
+      "start": 367.642,
+      "duration": 2.74,
+      "text": "keine zusätzlichen Schutzmaßnahmen"
+    },
+    {
+      "start": 369.431,
+      "duration": 2.741,
+      "text": "brauche, da die US-Regierung bereits"
+    },
+    {
+      "start": 371.22,
+      "duration": 2.547,
+      "text": "über enorme strafrechtliche und"
+    },
+    {
+      "start": 372.816,
+      "duration": 2.74,
+      "text": "regulatorische Befugnisse gegenüber"
+    },
+    {
+      "start": 374.605,
+      "duration": 3.25,
+      "text": "diesen Unternehmen verfüge. Er ging"
+    },
+    {
+      "start": 376.911,
+      "duration": 2.812,
+      "text": "dann gezielt gegen Dario vor und"
+    },
+    {
+      "start": 378.78,
+      "duration": 2.811,
+      "text": "behauptete, seine Regierung habe"
+    },
+    {
+      "start": 380.648,
+      "duration": 3.038,
+      "text": "KI-Größen wie ihn daran gehindert,"
+    },
+    {
+      "start": 382.742,
+      "duration": 3.208,
+      "text": "das zu tun, was Trump als schlecht oder"
+    },
+    {
+      "start": 385.007,
+      "duration": 3.603,
+      "text": "potenziell schädlich beschrieb. Und"
+    },
+    {
+      "start": 387.667,
+      "duration": 3.447,
+      "text": "Trump beließ es nicht dabei. Er machte"
+    },
+    {
+      "start": 390.155,
+      "duration": 3.135,
+      "text": "einfach weiter. Er behauptete, es gäbe"
+    },
+    {
+      "start": 392.341,
+      "duration": 2.935,
+      "text": "eine kranke Verschwörung gegen KI und"
+    },
+    {
+      "start": 394.327,
+      "duration": 2.936,
+      "text": "Rechenzentren, und argumentierte, dass"
+    },
+    {
+      "start": 396.314,
+      "duration": 2.884,
+      "text": "eine Verlangsamung der amerikanischen"
+    },
+    {
+      "start": 398.249,
+      "duration": 2.528,
+      "text": "KI-Entwicklung letztlich China"
+    },
+    {
+      "start": 399.828,
+      "duration": 3.341,
+      "text": "zugutekäme. Seine Kernbotschaft war"
+    },
+    {
+      "start": 402.219,
+      "duration": 3.614,
+      "text": "denkbar einfach. Wer bei der KI gewinnt"
+    },
+    {
+      "start": 404.833,
+      "duration": 3.544,
+      "text": ", gewinnt alles. Trump glaubt, dass die"
+    },
+    {
+      "start": 407.428,
+      "duration": 2.926,
+      "text": "USA China bei der KI derzeit anführen"
+    },
+    {
+      "start": 409.354,
+      "duration": 2.875,
+      "text": "–womit er nicht ganz unrecht hat–"
+    },
+    {
+      "start": 411.229,
+      "duration": 2.926,
+      "text": "und er will offensichtlich nicht, dass"
+    },
+    {
+      "start": 413.206,
+      "duration": 2.774,
+      "text": "zusätzliche Beschränkungen diesen"
+    },
+    {
+      "start": 415.03,
+      "duration": 2.962,
+      "text": "Vorsprung gefährden. Diese Debatte"
+    },
+    {
+      "start": 417.052,
+      "duration": 3.293,
+      "text": "geht inzwischen weit über KI-Forscher"
+    },
+    {
+      "start": 419.406,
+      "duration": 3.37,
+      "text": "hinaus, die sich auf X streiten. Einige"
+    },
+    {
+      "start": 421.833,
+      "duration": 3.096,
+      "text": "der größten KI-CEOs Amerikas sagen,"
+    },
+    {
+      "start": 423.986,
+      "duration": 2.926,
+      "text": "wir müssten das Wettrennen an der"
+    },
+    {
+      "start": 425.969,
+      "duration": 2.869,
+      "text": "technologischen Grenze vielleicht"
+    },
+    {
+      "start": 427.895,
+      "duration": 3.209,
+      "text": "tatsächlich verlangsamen, während der"
+    },
+    {
+      "start": 430.161,
+      "duration": 2.926,
+      "text": "Präsident und andere Nationen das"
+    },
+    {
+      "start": 432.143,
+      "duration": 3.407,
+      "text": "Gegenteil behaupten. Das Kuriose ist,"
+    },
+    {
+      "start": 434.6,
+      "duration": 2.874,
+      "text": "dass China tatsächlich offiziell auf"
+    },
+    {
+      "start": 436.524,
+      "duration": 2.975,
+      "text": "diese Forderungen zur Verlangsamung der"
+    },
+    {
+      "start": 438.55,
+      "duration": 2.823,
+      "text": "KI-Entwicklung reagiert hat, was die"
+    },
+    {
+      "start": 440.423,
+      "duration": 2.722,
+      "text": "ganze Situation noch interessanter"
+    },
+    {
+      "start": 442.196,
+      "duration": 4.444,
+      "text": "macht. Im Wesentlichen erklärten sie,"
+    },
+    {
+      "start": 445.697,
+      "duration": 2.933,
+      "text": "dass Panikmache, Konfrontation und"
+    },
+    {
+      "start": 447.687,
+      "duration": 3.159,
+      "text": "erbitterter Wettbewerb nur den Prozess"
+    },
+    {
+      "start": 449.903,
+      "duration": 2.933,
+      "text": "der globalen KI-Governance stören"
+    },
+    {
+      "start": 451.892,
+      "duration": 2.99,
+      "text": "würden, was in niemandes Interesse"
+    },
+    {
+      "start": 453.938,
+      "duration": 4.058,
+      "text": "liegt. Und genau hier wird die"
+    },
+    {
+      "start": 457.057,
+      "duration": 3.46,
+      "text": "Situation richtig wichtig. Einige der"
+    },
+    {
+      "start": 459.567,
+      "duration": 2.84,
+      "text": "größten amerikanischen KI-CEOs, wie"
+    },
+    {
+      "start": 461.456,
+      "duration": 2.94,
+      "text": "ich bereits erwähnte, warnen, dass die"
+    },
+    {
+      "start": 463.445,
+      "duration": 2.691,
+      "text": "Entwicklung an der technologischen"
+    },
+    {
+      "start": 465.186,
+      "duration": 2.591,
+      "text": "Grenze zu schnell voranschreiten"
+    },
+    {
+      "start": 466.827,
+      "duration": 4.226,
+      "text": "könnte und gefährlich sei. Doch jetzt"
+    },
+    {
+      "start": 470.108,
+      "duration": 3.158,
+      "text": "stellt sich China gegen angstgetriebene"
+    },
+    {
+      "start": 472.322,
+      "duration": 3.103,
+      "text": "Beschränkungen und betont stattdessen"
+    },
+    {
+      "start": 474.48,
+      "duration": 2.494,
+      "text": "die kontinuierliche globale"
+    },
+    {
+      "start": 476.029,
+      "duration": 3.796,
+      "text": "KI-Entwicklung. Und dann ist da noch"
+    },
+    {
+      "start": 478.87,
+      "duration": 2.729,
+      "text": "Trump, der argumentiert, dass derjenige"
+    },
+    {
+      "start": 480.599,
+      "duration": 2.551,
+      "text": ", der bei der KI gewinnt, das ganze"
+    },
+    {
+      "start": 482.195,
+      "duration": 3.605,
+      "text": "Rennen gewinnt. Wir beobachten also im"
+    },
+    {
+      "start": 484.865,
+      "duration": 3.294,
+      "text": "Grunde drei konkurrierende Kräfte."
+    },
+    {
+      "start": 487.779,
+      "duration": 2.931,
+      "text": "KI-Labore, die sich um Sicherheit"
+    },
+    {
+      "start": 489.768,
+      "duration": 2.99,
+      "text": "sorgen, die US-Regierung, die sich"
+    },
+    {
+      "start": 491.817,
+      "duration": 3.048,
+      "text": "darum sorgt, wer das Rennen gewinnt"
+    },
+    {
+      "start": 493.924,
+      "duration": 3.282,
+      "text": "oder verliert, und China, das vor Angst"
+    },
+    {
+      "start": 496.206,
+      "duration": 3.107,
+      "text": ", Konfrontation und der Störung des"
+    },
+    {
+      "start": 498.372,
+      "duration": 3.489,
+      "text": "KI-Fortschritts warnt. Als Nächstes"
+    },
+    {
+      "start": 500.917,
+      "duration": 3.054,
+      "text": "gibt es etwas Geheimnisvolles, das in"
+    },
+    {
+      "start": 503.026,
+      "duration": 2.888,
+      "text": "der Gemini-API unter dem Namen „"
+    },
+    {
+      "start": 504.914,
+      "duration": 2.721,
+      "text": "anti-gravity preview 09 2026“"
+    },
+    {
+      "start": 506.69,
+      "duration": 4.085,
+      "text": "aufgetaucht ist. Berichten zufolge mit"
+    },
+    {
+      "start": 509.849,
+      "duration": 3.743,
+      "text": "131.000 Input-und 65.000 Output-Token"
+    },
+    {
+      "start": 512.666,
+      "duration": 3.52,
+      "text": "Kontext. Zuerst fragten sich die Leute,"
+    },
+    {
+      "start": 515.232,
+      "duration": 2.434,
+      "text": "ob dies mit Googles kürzlichem"
+    },
+    {
+      "start": 516.712,
+      "duration": 2.804,
+      "text": "RSI-Teasing oder vielleicht einem neuen"
+    },
+    {
+      "start": 518.562,
+      "duration": 2.758,
+      "text": "Coding-Modell zusammenhängen könnte."
+    },
+    {
+      "start": 520.86,
+      "duration": 2.55,
+      "text": "Doch ein Google-Entwickler bestätigte"
+    },
+    {
+      "start": 522.45,
+      "duration": 2.591,
+      "text": "tatsächlich, dass es sich nicht um ein"
+    },
+    {
+      "start": 524.082,
+      "duration": 2.852,
+      "text": "neues Modell handelt. Es hängt mit"
+    },
+    {
+      "start": 525.987,
+      "duration": 2.977,
+      "text": "Googles „Anti-Gravity Agent Harness"
+    },
+    {
+      "start": 527.964,
+      "duration": 2.87,
+      "text": "“ zusammen, worüber sie im Laufe"
+    },
+    {
+      "start": 529.887,
+      "duration": 2.817,
+      "text": "dieser Woche weitere Informationen"
+    },
+    {
+      "start": 531.757,
+      "duration": 3.307,
+      "text": "veröffentlichen werden. Es handelt"
+    },
+    {
+      "start": 534.115,
+      "duration": 2.665,
+      "text": "sich also wahrscheinlich nicht um"
+    },
+    {
+      "start": 535.831,
+      "duration": 2.716,
+      "text": "Gemini 4.0, das sich hinter diesem"
+    },
+    {
+      "start": 537.598,
+      "duration": 2.665,
+      "text": "neuen Namen verbirgt, der hier in"
+    },
+    {
+      "start": 539.314,
+      "duration": 3.21,
+      "text": "diesem Checkpoint gelistet ist. Aber"
+    },
+    {
+      "start": 541.581,
+      "duration": 3.033,
+      "text": "wir haben einige Informationen über"
+    },
+    {
+      "start": 543.671,
+      "duration": 3.79,
+      "text": "den Gemini 4.0-Checkpoint. Hier haben"
+    },
+    {
+      "start": 546.533,
+      "duration": 3.235,
+      "text": "wir endlich unser erstes echtes"
+    },
+    {
+      "start": 548.84,
+      "duration": 4.109,
+      "text": "Anzeichen für Gemini 4 Pro. Es gibt"
+    },
+    {
+      "start": 552.008,
+      "duration": 3.111,
+      "text": "einen neuen internen Checkpoint, der"
+    },
+    {
+      "start": 554.178,
+      "duration": 3.17,
+      "text": "Berichten zufolge unter dem Codenamen"
+    },
+    {
+      "start": 556.406,
+      "duration": 3.112,
+      "text": "Argon aufgetaucht ist, und wir haben"
+    },
+    {
+      "start": 558.576,
+      "duration": 2.994,
+      "text": "nun das, was als erster Output des"
+    },
+    {
+      "start": 560.629,
+      "duration": 2.583,
+      "text": "Modells gilt, der bei hoher"
+    },
+    {
+      "start": 562.271,
+      "duration": 3.229,
+      "text": "Denkleistung etwa 2,4 Minuten dauerte."
+    },
+    {
+      "start": 565.239,
+      "duration": 3.349,
+      "text": "Das größte bisher bemerkbare Upgrade"
+    },
+    {
+      "start": 567.649,
+      "duration": 4.262,
+      "text": "ist der Kontext. Berichten zufolge hat"
+    },
+    {
+      "start": 570.965,
+      "duration": 3.05,
+      "text": "es ein massives Ausgabelimit von 256K,"
+    },
+    {
+      "start": 573.069,
+      "duration": 3.05,
+      "text": "ein Anstieg von 64K bei der vorherigen"
+    },
+    {
+      "start": 575.173,
+      "duration": 2.943,
+      "text": "Gemini-Modellreihe, bei der es sich,"
+    },
+    {
+      "start": 577.169,
+      "duration": 3.051,
+      "text": "glaube ich, um die Pro-Serie handelte."
+    },
+    {
+      "start": 580.619,
+      "duration": 2.42,
+      "text": "Und dazu ein potenzielles"
+    },
+    {
+      "start": 582.096,
+      "duration": 3.103,
+      "text": "Kontextfenster von 2 Millionen Token,"
+    },
+    {
+      "start": 584.255,
+      "duration": 2.876,
+      "text": "obwohl das anscheinend noch nicht"
+    },
+    {
+      "start": 586.187,
+      "duration": 4.476,
+      "text": "endgültig festgelegt wurde. Gemini 4"
+    },
+    {
+      "start": 589.708,
+      "duration": 2.635,
+      "text": "Pro sieht also definitiv so aus, als"
+    },
+    {
+      "start": 591.388,
+      "duration": 2.726,
+      "text": "würde es mit dieser Veröffentlichung"
+    },
+    {
+      "start": 593.159,
+      "duration": 3.744,
+      "text": "endlich an Fahrt gewinnen. Und die"
+    },
+    {
+      "start": 595.958,
+      "duration": 2.645,
+      "text": "Generierung scheint mit diesem"
+    },
+    {
+      "start": 597.658,
+      "duration": 3.084,
+      "text": "Checkpoint bisher ziemlich unglaublich"
+    },
+    {
+      "start": 599.796,
+      "duration": 3.212,
+      "text": "auszusehen. Wenn Ihnen dieses Video"
+    },
+    {
+      "start": 602.053,
+      "duration": 2.163,
+      "text": "gefällt und Sie den Kanal"
+    },
+    {
+      "start": 603.26,
+      "duration": 2.565,
+      "text": "unterstützen möchten, können Sie"
+    },
+    {
+      "start": 604.87,
+      "duration": 2.655,
+      "text": "eine Spende über die „Super Thanks"
+    },
+    {
+      "start": 606.525,
+      "duration": 2.655,
+      "text": "“-Option unten in Erwägung ziehen."
+    },
+    {
+      "start": 608.72,
+      "duration": 3.058,
+      "text": "Oder Sie treten unserem privaten"
+    },
+    {
+      "start": 610.842,
+      "duration": 2.865,
+      "text": "Discord bei, wo Sie monatlich"
+    },
+    {
+      "start": 612.771,
+      "duration": 3.315,
+      "text": "kostenlosen Zugriff auf verschiedene"
+    },
+    {
+      "start": 615.151,
+      "duration": 3.058,
+      "text": "KI-Tool-Abos, tägliche KI-News,"
+    },
+    {
+      "start": 617.273,
+      "duration": 3.122,
+      "text": "exklusive Inhalte und vieles mehr"
+    },
+    {
+      "start": 619.46,
+      "duration": 4.217,
+      "text": "erhalten. Zuletzt werfen wir einen"
+    },
+    {
+      "start": 622.735,
+      "duration": 3.068,
+      "text": "Blick auf einige neue Vorschauen von"
+    },
+    {
+      "start": 624.86,
+      "duration": 5.023,
+      "text": "Claude Opus 5.2. Wir haben kürzlich im"
+    },
+    {
+      "start": 628.938,
+      "duration": 2.89,
+      "text": "letzten Video über das 5.2-Modell"
+    },
+    {
+      "start": 630.884,
+      "duration": 2.834,
+      "text": "gesprochen, und basierend auf dem"
+    },
+    {
+      "start": 632.774,
+      "duration": 3.001,
+      "text": "aktuellen 5.2-Slug scheint Anthropic"
+    },
+    {
+      "start": 634.831,
+      "duration": 2.501,
+      "text": "möglicherweise Opus 5.1 zu"
+    },
+    {
+      "start": 636.387,
+      "duration": 2.835,
+      "text": "überspringen und Opus 5.2 direkt"
+    },
+    {
+      "start": 638.277,
+      "duration": 2.613,
+      "text": "innerhalb von Claude Code per"
+    },
+    {
+      "start": 639.945,
+      "duration": 3.057,
+      "text": "Grayscale-Test zu testen, während es"
+    },
+    {
+      "start": 642.058,
+      "duration": 3.112,
+      "text": "weiterhin als reguläres Opus 5-Modell"
+    },
+    {
+      "start": 644.226,
+      "duration": 4.385,
+      "text": "angezeigt wird. Die frühen Vergleiche"
+    },
+    {
+      "start": 647.66,
+      "duration": 2.805,
+      "text": "zeigen bisher einen ziemlich massiven"
+    },
+    {
+      "start": 649.513,
+      "duration": 3.3,
+      "text": "Unterschied. Das vermutete geroutete"
+    },
+    {
+      "start": 651.874,
+      "duration": 3.305,
+      "text": "Modell scheint viel schneller zu sein,"
+    },
+    {
+      "start": 654.24,
+      "duration": 3.183,
+      "text": "liefert sauberere Ergebnisse und ist"
+    },
+    {
+      "start": 656.484,
+      "duration": 3.365,
+      "text": "weitaus eher bereit, größere Aufgaben"
+    },
+    {
+      "start": 658.91,
+      "duration": 2.98,
+      "text": "zu übernehmen. Es gibt sogar einen"
+    },
+    {
+      "start": 660.921,
+      "duration": 2.12,
+      "text": "einfachen Test, der gerade die Runde"
+    },
+    {
+      "start": 662.072,
+      "duration": 3.642,
+      "text": "macht. Fragen Sie Claude Code: Kennst"
+    },
+    {
+      "start": 664.782,
+      "duration": 3.642,
+      "text": "du Tibo, den Reset-Typen? Suchen Sie"
+    },
+    {
+      "start": 667.475,
+      "duration": 2.968,
+      "text": "nicht, und wenn es ihn erkennt, besteht"
+    },
+    {
+      "start": 669.493,
+      "duration": 2.867,
+      "text": "die Chance, dass Ihre Anfragen an den"
+    },
+    {
+      "start": 671.411,
+      "duration": 2.665,
+      "text": "neueren Checkpoint weitergeleitet"
+    },
+    {
+      "start": 673.126,
+      "duration": 3.422,
+      "text": "werden. Natürlich ist das noch keine"
+    },
+    {
+      "start": 675.593,
+      "duration": 2.491,
+      "text": "offizielle Bestätigung, aber die"
+    },
+    {
+      "start": 677.129,
+      "duration": 2.49,
+      "text": "bisherige Ausgabequalität dieses"
+    },
+    {
+      "start": 678.664,
+      "duration": 3.263,
+      "text": "Modells ist definitiv unglaublich. Was"
+    },
+    {
+      "start": 680.97,
+      "duration": 2.583,
+      "text": "mir bisher aufgefallen ist, ist, dass"
+    },
+    {
+      "start": 682.596,
+      "duration": 2.326,
+      "text": "es sich bei der SVG-Generierung"
+    },
+    {
+      "start": 683.965,
+      "duration": 3.166,
+      "text": "auszeichnet. Man kann sehen, dass es"
+    },
+    {
+      "start": 686.183,
+      "duration": 3.156,
+      "text": "sehr qualitativ ist. Das sieht man"
+    },
+    {
+      "start": 688.391,
+      "duration": 3.782,
+      "text": "sogar bei diesem Pelikan. Im Schnabel"
+    },
+    {
+      "start": 691.223,
+      "duration": 2.71,
+      "text": "ist dieser Fisch zu sehen, was ein"
+    },
+    {
+      "start": 692.983,
+      "duration": 2.71,
+      "text": "wirklich cooles Detail ist, das es"
+    },
+    {
+      "start": 694.743,
+      "duration": 3.836,
+      "text": "sogar hinzugefügt hat. Es hat sogar"
+    },
+    {
+      "start": 697.645,
+      "duration": 3.267,
+      "text": "den Text auf dem Fahrrad koloriert"
+    },
+    {
+      "start": 699.979,
+      "duration": 3.667,
+      "text": "sowie alles animiert. Das ist also eine"
+    },
+    {
+      "start": 702.702,
+      "duration": 3.119,
+      "text": "ziemlich elegante Generierung von Opus"
+    },
+    {
+      "start": 704.876,
+      "duration": 3.121,
+      "text": "5.2. Das war es dann soweit von mir"
+    },
+    {
+      "start": 707.029,
+      "duration": 2.174,
+      "text": "für das heutige Video. Ich hoffe, es"
+    },
+    {
+      "start": 708.228,
+      "duration": 1.972,
+      "text": "hat euch gefallen und ihr konntet einen"
+    },
+    {
+      "start": 709.225,
+      "duration": 2.92,
+      "text": "Mehrwert daraus ziehen. Falls noch"
+    },
+    {
+      "start": 711.189,
+      "duration": 2.691,
+      "text": "nicht geschehen, schaut euch unbedingt"
+    },
+    {
+      "start": 712.925,
+      "duration": 2.735,
+      "text": "den World of AI Insider Club an, unsere"
+    },
+    {
+      "start": 714.705,
+      "duration": 2.602,
+      "text": "neu gestartete Community, in der ihr"
+    },
+    {
+      "start": 716.351,
+      "duration": 2.513,
+      "text": "Zugang zu all diesen fantastischen"
+    },
+    {
+      "start": 717.909,
+      "duration": 2.735,
+      "text": "Vorteilen erhaltet, die euch im Bereich"
+    },
+    {
+      "start": 719.689,
+      "duration": 3.636,
+      "text": "KI enorm weiterhelfen werden. Schaut"
+    },
+    {
+      "start": 722.369,
+      "duration": 2.608,
+      "text": "euch auf jeden Fall auch die World of"
+    },
+    {
+      "start": 724.021,
+      "duration": 2.304,
+      "text": "AI 5 Current-Plattform und das"
+    },
+    {
+      "start": 725.368,
+      "duration": 2.453,
+      "text": "Benchmark an. Werft einen Blick auf"
+    },
+    {
+      "start": 726.855,
+      "duration": 2.269,
+      "text": "unseren zweiten Kanal. Abonniert den"
+    },
+    {
+      "start": 728.156,
+      "duration": 2.32,
+      "text": "Newsletter. Kommt auf unseren Discord."
+    },
+    {
+      "start": 729.576,
+      "duration": 2.548,
+      "text": "Folgt mir auf Twitter. Und zu guter"
+    },
+    {
+      "start": 731.16,
+      "duration": 2.313,
+      "text": "Letzt: Abonniert den Kanal, aktiviert"
+    },
+    {
+      "start": 732.509,
+      "duration": 2.384,
+      "text": "die Glocke, gebt dem Video ein Like und"
+    },
+    {
+      "start": 733.929,
+      "duration": 2.384,
+      "text": "schaut euch unsere früheren Videos an,"
+    },
+    {
+      "start": 735.348,
+      "duration": 1.923,
+      "text": "damit ihr bei den neuesten"
+    },
+    {
+      "start": 736.307,
+      "duration": 2.349,
+      "text": "KI-Nachrichten immer auf dem Laufenden"
+    },
+    {
+      "start": 737.691,
+      "duration": 2.369,
+      "text": "bleibt. Aber mit diesen Gedanken, Leute"
+    },
+    {
+      "start": 739.06,
+      "duration": 1.999,
+      "text": ", habt einen fantastischen Tag."
+    },
+    {
+      "start": 740.159,
+      "duration": 2.52,
+      "text": "Verbreitet Positivität, und wir sehen"
+    },
+    {
+      "start": 741.719,
+      "duration": 2.546,
+      "text": "uns schon bald wieder. Macht’s gut,"
+    },
+    {
+      "start": 743.301,
+      "duration": 1.218,
+      "text": "Leute."
+    }
+  ]
+}

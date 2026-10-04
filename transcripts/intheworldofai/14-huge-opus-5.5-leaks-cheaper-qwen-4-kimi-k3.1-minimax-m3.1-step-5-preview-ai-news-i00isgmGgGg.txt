@@ -1,0 +1,391 @@
+Ehrlich gesagt war das Wochenende
+ziemlich interessant, da wir einige
+neue Informationen zu Anthropics
+nächstem Modell erhalten haben, das
+bereits am kommenden Dienstag
+erscheinen könnte. Anthropic testet
+derzeit im Geheimen Opus 5.5 unter dem
+Modell-Slug Claude Opus 5-5 mit dem
+Codenamen Claude Wafer EAP.
+Interessanterweise wird es nicht mehr
+als Opus 5.2 bezeichnet, worüber wir
+vor Kurzem berichtet hatten. Dieser
+neue Prüfpunkt soll angeblich auf dem
+Niveau von GPT-6 Astra arbeiten, was
+bemerkenswert wäre, wenn man bedenkt,
+dass Opus 5.5 auch ein günstigeres
+Preismodell haben soll, worauf wir
+später noch eingehen werden. Wir haben
+außerdem wichtige Modell-Neuigkeiten
+von einem chinesischen KI-Labor
+erhalten: StepFun hat die Step 5
+Vorschau vorgestellt, ihr neues
+Flaggschiff-Modell für die Arbeit der
+Gen Z, Softwareentwicklung,
+professionelle Wissensarbeit und
+insbesondere das Finanzwesen. Das
+Verrückte daran ist, dass die Step 5
+Vorschau ein MoE-Modell mit 600
+Milliarden Parametern ist, von denen
+nur 27 Milliarden aktiv sind. Und laut
+StepFuns eigener Grafik liegt es etwa
+auf dem gleichen Niveau wie GLM 5.3 und
+Qwen K3, während es pro Aufgabe
+angeblich etwa 65%weniger kostet. Es
+sieht auch so aus, als ob MiniMax kurz
+vor der Veröffentlichung von M 3.1
+steht, und ich habe tatsächlich einige
+Insider-Informationen dazu erhalten.
+Nach dem, was ich gehört und gesehen
+habe, sieht es so aus, als würden sie
+das Modell langsam vorbereiten, und es
+wird schon bald erscheinen. Vonseiten
+Alibabas scheint man die Qwen 4-Familie
+vorzubereiten, die möglicherweise auf
+der kommenden Aspara-Konferenz
+enthüllt werden könnte. Das Timing
+würde Sinn ergeben, wenn man bedenkt,
+dass frühere Generationen der
+Qwen-Modelle im Rahmen von
+Aspara-Veranstaltungen vorgestellt
+wurden. Und nun wurde auch Coin Image
+2.1 veröffentlicht, ein
+Open-Weight-Bildmodell mit nur 7
+Milliarden Parametern, das für seine
+Größe bemerkenswert wettbewerbsfähig
+erscheint. Und selbst im Vergleich zu
+Modellen wie Google Nano Banana 2
+scheint es diese trotz der nur 7
+Milliarden aktiven Parameter zu
+übertreffen. Und schließlich bereitet
+sich ein weiteres chinesisches Labor
+auf eine wichtige
+Modellveröffentlichung vor, nämlich
+Moonshot AI mit dem Start von Kimi Kate
+3.1, das möglicherweise bald
+erscheinen wird. Wenn die ersten
+Informationen zutreffen, könnte dies
+ein weiteres leistungsstarkes Modell
+werden. Es gibt noch viel mehr zu
+besprechen, also lassen Sie uns einfach
+direkt einsteigen. Außerdem Leute, ich
+habe gelesen, dass 70%von euch
+Zuschauern den World of AI
+YouTube-Kanal nicht abonniert haben,
+und ich weiß, das klingt etwas
+kitschig, aber es würde mir wirklich
+viel bedeuten, wenn ihr den Kanal
+abonnieren würdet. Denn das würde den
+Kanal wirklich unterstützen und mir
+helfen, jeden Tag Videos zu produzieren
+. Aktivieren Sie unbedingt die
+Benachrichtigungsglocke, damit Sie
+immer auf dem Laufenden bleiben, was in
+der Welt der KI passiert. Wenn Sie die
+besten KI-Tools, Workflows und
+Neuerscheinungen vor allen anderen
+haben wollen, abonnieren Sie meinen
+völlig kostenlosen Newsletter über
+den Link in der Beschreibung unten.
+Fangen wir mit Anthropic an, denn es
+sieht so aus, als würden sie gerade
+einen brandneuen Opus 5.5 Checkpoint
+testen. Aktuellen Informationen zufolge
+testet Anthropic im Geheimen Opus 5.5,
+was bedeutet, dass sie das vorherige
+Opus 5.2 EAP-Modell verworfen haben.
+Dies ist ein neues Opus 5.5-Modell, das
+mit einem neuen Kürzel im Backlog
+aufgetaucht ist und unter dem Codenamen
+Claude Wafer EAP läuft. Dieser
+Checkpoint wird aktiv getestet und soll
+Berichten zufolge bereits am Dienstag
+veröffentlicht werden. Ich weiß nicht
+, ob sie alle Anthropic-Modelle auf
+einmal veröffentlichen werden, was wir
+uns zuvor erhofft hatten, indem sie im
+Grunde ein aktualisiertes Sonnet-Modell
+, dieses neue Opus-Modell sowie ein
+aktualisiertes Fable-Modell
+herausbringen würden. Ich bin mir
+nicht sicher, ob sie diesen Plan
+verfolgen, aber wir sind uns ziemlich
+sicher, dass es höchstwahrscheinlich
+Opus ist, das am Dienstag erscheinen
+wird. Aber was wir auch über dieses
+Modell wissen, ist, dass es eine
+unglaubliche Preisstruktur hat, die es
+besonders wettbewerbsfähig gegenüber
+Astra machen könnte. Denn laut den
+durchgesickerten Preisen könnte Opus
+5.5 4 Dollar pro 1 Million Input-Tokens
+und 20 Dollar pro 1 Million
+Output-Tokens kosten, bei 20 Cent für
+Cache-Reads und 5 Dollar pro Million
+Tokens für Cache-Writes. Sollte dies
+zutreffen, könnte diese
+Preisgestaltung Opus 5.5 zu einer sehr
+interessanten Option machen,
+insbesondere wenn seine Leistung
+tatsächlich auf dem Niveau von Astra
+liegt. Es gibt jedoch eine interessante
+Änderung. Das angegebene
+Kontextfenster ist tatsächlich kleiner
+geworden, und zwar nicht um einen
+erheblichen Betrag, sondern nur um eine
+geringfügige Verringerung der
+Gesamtzahl der Tokens beim neuesten
+Checkpoint. Während der Kontext also
+etwas kleiner ist, konzentriert sich
+Anthropic möglicherweise mehr auf die
+Verbesserung der Leistung und die
+Senkung der Gesamtkosten. Aber schauen
+Sie sich nur den Detailgrad dieses
+Modells an. Hier ist es in der Lage,
+verschiedene Arten von Objekten in 3
+D-Umgebungen ziemlich gründlich zu
+verformen und darzustellen. Nun, nicht
+alle Funktionen scheinen perfekt zu
+funktionieren, wie zum Beispiel die
+Räder, aber insgesamt hat es diese
+wahnsinnige Simulation oder Demo
+generiert, die zeigt, wie das BMW M5-
+Modell in einer 3 D-Umgebung aussehen
+kann, was irgendwie verrückt ist. Hier
+ist nun ein direkter Vergleich mit dem
+Opus 5.2. Dies ist ein früherer
+Checkpoint von Opus 5.5, aber man sieht
+, dass er im direkten Vergleich bei
+diesen individuellen Prompts mit GPT-6
+Astra mithalten kann, was zeigt, wie
+gut die Modelle verschiedene Szenen
+darstellen können. Hier sieht man,
+dass es aufgefordert wurde, eine
+vollständige Simulation in SVG mit ein
+paar verschiedenen prozeduralen Szenen
+zu erstellen. Und das ist nicht das
+Einzige, was es geschafft hat. Es gibt
+noch ein paar andere Dinge, wie zum
+Beispiel die Darstellung einer
+Kaffeemaschine. Das Verrückte ist,
+dass der Opus 5.5 Checkpoint sogar
+besser ist als der Opus 5.2. Ich bin
+mir nicht sicher, ob sie diese Version
+veröffentlichen werden, aber es ist
+verrückt zu sehen, dass Anthropic
+diese unentdeckten, stillen Modelle hat
+, die sie letztendlich gar nicht
+herausbringen. Vielleicht tun sie es
+bei der 5.5, aber es zeigt deutlich,
+wie viel große Kraft derzeit hinter
+diesen Bemühungen zurückgehalten wird
+, Leute. Aber schauen wir weiter zu
+StepFun, denn sie haben gerade erst die
+Step 5 Preview vorgestellt. Das sieht
+nach einem ernsthaften Konkurrenten aus
+, denn dieses neue Modell, das sie
+veröffentlicht haben, ist bei der
+Preisgestaltung sowie bei den
+Benchmarks extrem wettbewerbsfähig.
+Step 5 Preview ist ihr nächstes
+Flaggschiff-Modell, das stark auf
+agentische Arbeit, Softwareentwicklung
+und professionelle Wissensaufgaben
+ausgerichtet ist. Das ist es, was
+StepFun besonders hervorhebt, wenn es
+um ihre Stärken im Finanzbereich geht.
+Aber dieses Modell, das wir uns gerade
+ansehen, ist ein riesiges MoE-Modell
+mit 600 Milliarden Parametern, von
+denen jedoch nur 27 Milliarden
+gleichzeitig aktiv sind. Es bietet
+zudem Vision-Support und ein
+Kontextfenster von 1 Million Token. Was
+jedoch wirklich heraussticht, ist das
+Preis-Leistungs-Verhältnis, denn laut
+den eigenen Daten von StepFun
+konkurriert Step 5 Preview auf dem
+Niveau von Modellen wie GLM 5.3 und
+Qwen 1.5 3, während es potenziell 65%
+weniger pro Aufgabe kostet. Sie betonen
+außerdem die Ausführung über lange
+Zeiträume, was bedeutet, dass das
+Modell darauf ausgelegt ist, wesentlich
+längere und komplexere
+Softwareentwicklungsaufgaben zu
+bewältigen. Und während man die
+Vorschau bereits über StepFun selbst
+testen kann, ist der 15. Oktober das
+große Datum, auf das man achten sollte
+, da sie an diesem Tag die Gewichte
+veröffentlichen wollen. Der einzige
+Haken ist die Größe, denn ein Modell
+mit 600 Milliarden Parametern lokal
+ausführen zu wollen, erfordert
+natürlich einige ernsthafte Hardware.
+Und selbst mit Quantisierung wird es
+praktisch unmöglich sein, dies lokal
+auszuführen, weil es einfach ein
+massives Modell ist. Aber sobald diese
+Gewichte verfügbar sind, werden wir
+definitiv sehen, was die Community aus
+diesem Ding herausholen kann. Ich werde
+euch definitiv auf dem Laufenden halten
+, was sie am Ende mit diesem Modell
+veröffentlichen und was ihr
+tatsächlich lokal damit anstellen
+könnt. Als nächstes sieht es so aus,
+als ob die Veröffentlichung von
+MiniMax M 3.1 kurz bevorstehen könnte.
+Hinweise auf MiniMax M 3.1 sind nun in
+Testdateien eines geheimen Commits
+aufgetaucht, der im
+MiniMax-Code-Repository gefunden wurde,
+welches ebenfalls gerade
+veröffentlicht wurde und Open Source
+ist. Natürlich bestätigt dies noch
+kein Veröffentlichungsdatum oder
+ähnliches, aber es ist ein starker
+Hinweis darauf, dass MiniMax an ihrem
+nächsten Modell arbeitet, dem M 3.1.
+Nach dem, was ich gehört habe, scheint
+es derzeit vorbereitet zu werden. Wir
+sind also sehr nah dran, dass sie die
+letzten Handgriffe für diese
+Veröffentlichung vornehmen, und
+vielleicht sehen wir das Modell noch
+Ende diesen Monats oder Anfang
+nächsten Monats. Während der
+Zwischenergebnis-Konferenz von MiniMax
+am 26. August erklärte der CEO, dass
+mehrere kommende Modelle, darunter
+MiniMax M 3.1, M3 Pro und H 3.1, kurz
+vor der Fertigstellung stünden. Dieses
+M 3.1-Modell scheint sich weniger auf
+die reine Skalierung zu konzentrieren,
+sondern mehr darauf, es für reale
+Anwendungsfälle extrem zuverlässig zu
+machen. MiniMax gibt an, dass sie
+Stabilität, Ausgabequalität,
+Inferenz-Effizienz sowie die
+Verallgemeinerungsfähigkeit von
+Agenten optimieren. Im Grunde versuchen
+sie, ein Modell zu bauen, das ihre
+breitere Infrastruktur zuverlässig im
+großen Maßstab betreiben kann. Aber
+bei M3 Pro wird es richtig verrückt,
+denn MiniMax sagt, dass dieses Modell
+fast 3 Billionen Parameter umfasst und
+ein großes Architektur-Upgrade
+enthält, das Bereiche wie
+Pre-Training-Skalierung,
+Trainingseffizienz und Aufgaben mit
+extrem langen Zeithorizonten
+voranbringen wird. Wenn dir dieses
+Video gefällt und du den Kanal
+unterstützen möchtest, kannst du eine
+Spende über die Super Thanks-Option
+unten in Betracht ziehen. Oder du
+kannst unserem privaten Discord
+beitreten, wo du monatlich kostenlosen
+Zugriff auf verschiedene Abonnements
+für KI-Tools erhältst. Dazu gibt es
+tägliche KI-News, exklusive Inhalte
+und vieles mehr. Und das ist nicht die
+einzige KI aus China, an der gearbeitet
+wird, denn Alibaba arbeitet an Qwen-4,
+und es könnte schon bald erscheinen,
+vielleicht schon nächste Woche, da
+Alibabas kommende Aspara-Konferenz
+nächste Woche stattfindet. Dahinter
+steckt tatsächlich eine gewisse
+Geschichte, denn Alibaba hat frühere
+Aspara-Konferenzen genutzt, um wichtige
+Qwen-Generationen vorzustellen,
+darunter ihr 2.0-Modell aus der
+Tongyi-Modellserie sowie Qwen 2.5 und
+Qwen 3. Es besteht also eine reale
+Möglichkeit, dass wir dort auch die
+nächste Generation sehen werden. Die
+Konferenzagenda macht das Ganze noch
+interessanter, da es eine komplette
+Session namens „Advancing Qwen
+towards agentic AI“ gibt, in der
+Alibaba das neueste Flaggschiff-Modell
+mit großen Verbesserungen bei Coding-
+und Büro-Funktionen vorstellen will,
+neben einem neuen Omni-Modell und einem
+Echtzeit-Übersetzungsmodell für
+mehrere Sprachen. Interessant ist
+jedoch, dass für die Aspera-Konferenz
+noch weitere kommende Modelle
+angekündigt wurden, wie zum Beispiel
+die Vorschau auf Happy Oyster 2, ihr
+World-Modell. Sie veröffentlichen
+außerdem einige verschiedene
+Audio-Modelle, wie ASR, TTS und
+Echtzeit-Funktionen. Und dann haben wir
+noch ein neues Bildmodell, das
+tatsächlich schon vor dieser
+Aspera-Konferenz veröffentlicht wurde.
+Das ist Qwen Image 2.1. Dies ist ein
+neues Open-Weight-Bildmodell mit 7
+Milliarden Parametern für die
+Generierung und Bearbeitung. Und das
+Verrückte daran ist, dass es nur 7
+Milliarden Parameter hat. Wir haben
+viele verschiedene Rückmeldungen von
+Nutzern gehört, die dieses Modell
+getestet haben und sagen, dass es im
+Grunde auf Augenhöhe mit Nanao Nana 2
+ist. Und das finde ich einfach
+unglaublich. Trotz seiner extremen
+Leichtigkeit hat sogar Midjourney
+erklärt, dass es mit vielen ähnlichen
+Modellen konkurrieren kann. Es ist ein
+Modell, das bis zu 10 Referenzbilder,
+High-Fidelity-Bearbeitung und sogar
+native RGBA-Transparenz für Bilder mit
+transparentem Hintergrund unterstützt.
+Und das Beste ist, dass die Weights ab
+sofort verfügbar sind, was es zu einem
+ziemlich leistungsstarken Modell macht,
+das man selbst ausführen kann. Und zu
+guter Letzt sieht es so aus, als
+könnte Kimi Cat 3.1 bald erscheinen,
+da der offizielle Kimi-Account von
+Moonshot AI wahllos eine lange
+Zahlenfolge gepostet hat, die im Grunde
+keine Erklärung hat, aber die Leute
+haben schnell erkannt, dass die Zahlen
+perfekt zu Pi passen, wenn man die
+anfängliche 3.1 weglässt. Im Grunde
+scheint der gesamte Teaser also nur auf
+eines hinzuweisen: Kimi Cat 3.1.
+Natürlich wurde noch nichts offiziell
+veröffentlicht, aber eine
+Veröffentlichung steht kurz bevor, da
+sie sich nun auf das Marketing und die
+Vorschau der Highlights dieses neuen
+Feature-Modells konzentrieren, das sie
+bald herausbringen werden. Aber das war
+es auch schon, Leute. Ich hoffe, euch
+hat das heutige Video gefallen. Werft
+einen Blick auf den World of AI
+Insiders School Club. Schaut euch den
+World of AI Benchmark und die Vibe
+Coding Plattform an. Schaut euch
+unseren zweiten Kanal an. Abonniert den
+Newsletter. Kommt auf den Discord.
+Folgt mir auf Twitter. Und zu guter
+Letzt: Abonniert unbedingt den Kanal.
+Aktiviert die Glocke für
+Benachrichtigungen. Gebt diesem Video
+ein Like. Und schaut euch bitte unsere
+früheren Videos an, damit ihr bei den
+neuesten KI-Nachrichten auf dem
+Laufenden bleibt. Aber mit diesem
+Gedanken, Leute, habt einen
+großartigen Tag. Verbreitet
+Positivität, und ich sehe euch bald
+wieder. Macht’s gut, Leute.

@@ -1,0 +1,1563 @@
+1
+00:00:00,199 --> 00:00:02,547
+Ehrlich gesagt war das Wochenende
+
+2
+00:00:01,587 --> 00:00:04,017
+ziemlich interessant, da wir einige
+
+3
+00:00:03,058 --> 00:00:05,365
+neue Informationen zu Anthropics
+
+4
+00:00:04,406 --> 00:00:06,877
+nächstem Modell erhalten haben, das
+
+5
+00:00:05,918 --> 00:00:08,102
+bereits am kommenden Dienstag
+
+6
+00:00:07,143 --> 00:00:10,992
+erscheinen könnte. Anthropic testet
+
+7
+00:00:10,080 --> 00:00:14,388
+derzeit im Geheimen Opus 5.5 unter dem
+
+8
+00:00:13,475 --> 00:00:17,522
+Modell-Slug Claude Opus 5-5 mit dem
+
+9
+00:00:16,609 --> 00:00:19,960
+Codenamen Claude Wafer EAP.
+
+10
+00:00:19,535 --> 00:00:22,701
+Interessanterweise wird es nicht mehr
+
+11
+00:00:21,759 --> 00:00:24,926
+als Opus 5.2 bezeichnet, worüber wir
+
+12
+00:00:23,984 --> 00:00:28,040
+vor Kurzem berichtet hatten. Dieser
+
+13
+00:00:27,097 --> 00:00:30,261
+neue Prüfpunkt soll angeblich auf dem
+
+14
+00:00:29,318 --> 00:00:32,368
+Niveau von GPT-6 Astra arbeiten, was
+
+15
+00:00:31,425 --> 00:00:34,588
+bemerkenswert wäre, wenn man bedenkt,
+
+16
+00:00:33,645 --> 00:00:36,638
+dass Opus 5.5 auch ein günstigeres
+
+17
+00:00:35,695 --> 00:00:38,631
+Preismodell haben soll, worauf wir
+
+18
+00:00:37,688 --> 00:00:42,417
+später noch eingehen werden. Wir haben
+
+19
+00:00:41,477 --> 00:00:44,686
+außerdem wichtige Modell-Neuigkeiten
+
+20
+00:00:43,745 --> 00:00:46,596
+von einem chinesischen KI-Labor
+
+21
+00:00:45,656 --> 00:00:48,567
+erhalten: StepFun hat die Step 5
+
+22
+00:00:47,627 --> 00:00:50,477
+Vorschau vorgestellt, ihr neues
+
+23
+00:00:49,537 --> 00:00:52,806
+Flaggschiff-Modell für die Arbeit der
+
+24
+00:00:51,866 --> 00:00:54,478
+Gen Z, Softwareentwicklung,
+
+25
+00:00:53,538 --> 00:00:56,448
+professionelle Wissensarbeit und
+
+26
+00:00:55,508 --> 00:00:59,176
+insbesondere das Finanzwesen. Das
+
+27
+00:00:58,235 --> 00:01:01,413
+Verrückte daran ist, dass die Step 5
+
+28
+00:01:00,472 --> 00:01:03,296
+Vorschau ein MoE-Modell mit 600
+
+29
+00:01:02,355 --> 00:01:05,474
+Milliarden Parametern ist, von denen
+
+30
+00:01:04,533 --> 00:01:08,495
+nur 27 Milliarden aktiv sind. Und laut
+
+31
+00:01:07,567 --> 00:01:11,227
+StepFuns eigener Grafik liegt es etwa
+
+32
+00:01:10,299 --> 00:01:14,103
+auf dem gleichen Niveau wie GLM 5.3 und
+
+33
+00:01:13,174 --> 00:01:16,475
+Qwen K3, während es pro Aufgabe
+
+34
+00:01:15,547 --> 00:01:19,770
+angeblich etwa 65%weniger kostet. Es
+
+35
+00:01:18,816 --> 00:01:21,543
+sieht auch so aus, als ob MiniMax kurz
+
+36
+00:01:20,588 --> 00:01:23,179
+vor der Veröffentlichung von M 3.1
+
+37
+00:01:22,224 --> 00:01:24,997
+steht, und ich habe tatsächlich einige
+
+38
+00:01:24,042 --> 00:01:26,679
+Insider-Informationen dazu erhalten.
+
+39
+00:01:26,200 --> 00:01:29,114
+Nach dem, was ich gehört und gesehen
+
+40
+00:01:28,166 --> 00:01:31,132
+habe, sieht es so aus, als würden sie
+
+41
+00:01:30,184 --> 00:01:33,151
+das Modell langsam vorbereiten, und es
+
+42
+00:01:32,202 --> 00:01:36,443
+wird schon bald erscheinen. Vonseiten
+
+43
+00:01:35,499 --> 00:01:38,683
+Alibabas scheint man die Qwen 4-Familie
+
+44
+00:01:37,739 --> 00:01:40,867
+vorzubereiten, die möglicherweise auf
+
+45
+00:01:39,923 --> 00:01:42,603
+der kommenden Aspara-Konferenz
+
+46
+00:01:41,659 --> 00:01:45,920
+enthüllt werden könnte. Das Timing
+
+47
+00:01:44,964 --> 00:01:47,636
+würde Sinn ergeben, wenn man bedenkt,
+
+48
+00:01:46,680 --> 00:01:49,000
+dass frühere Generationen der
+
+49
+00:01:48,044 --> 00:01:50,188
+Qwen-Modelle im Rahmen von
+
+50
+00:01:49,232 --> 00:01:51,728
+Aspara-Veranstaltungen vorgestellt
+
+51
+00:01:50,772 --> 00:01:54,874
+wurden. Und nun wurde auch Coin Image
+
+52
+00:01:53,930 --> 00:01:56,266
+2.1 veröffentlicht, ein
+
+53
+00:01:55,322 --> 00:01:58,103
+Open-Weight-Bildmodell mit nur 7
+
+54
+00:01:57,159 --> 00:02:00,219
+Milliarden Parametern, das für seine
+
+55
+00:01:59,275 --> 00:02:02,446
+Größe bemerkenswert wettbewerbsfähig
+
+56
+00:02:01,502 --> 00:02:05,980
+erscheint. Und selbst im Vergleich zu
+
+57
+00:02:05,041 --> 00:02:08,074
+Modellen wie Google Nano Banana 2
+
+58
+00:02:07,135 --> 00:02:10,106
+scheint es diese trotz der nur 7
+
+59
+00:02:09,168 --> 00:02:12,077
+Milliarden aktiven Parameter zu
+
+60
+00:02:11,139 --> 00:02:15,068
+übertreffen. Und schließlich bereitet
+
+61
+00:02:14,127 --> 00:02:17,250
+sich ein weiteres chinesisches Labor
+
+62
+00:02:16,309 --> 00:02:18,312
+auf eine wichtige
+
+63
+00:02:17,371 --> 00:02:20,553
+Modellveröffentlichung vor, nämlich
+
+64
+00:02:19,612 --> 00:02:22,912
+Moonshot AI mit dem Start von Kimi Kate
+
+65
+00:02:21,971 --> 00:02:24,682
+3.1, das möglicherweise bald
+
+66
+00:02:23,741 --> 00:02:26,932
+erscheinen wird. Wenn die ersten
+
+67
+00:02:25,988 --> 00:02:29,042
+Informationen zutreffen, könnte dies
+
+68
+00:02:28,097 --> 00:02:31,095
+ein weiteres leistungsstarkes Modell
+
+69
+00:02:30,151 --> 00:02:32,884
+werden. Es gibt noch viel mehr zu
+
+70
+00:02:31,920 --> 00:02:34,332
+besprechen, also lassen Sie uns einfach
+
+71
+00:02:33,368 --> 00:02:37,137
+direkt einsteigen. Außerdem Leute, ich
+
+72
+00:02:36,187 --> 00:02:38,683
+habe gelesen, dass 70%von euch
+
+73
+00:02:37,733 --> 00:02:40,029
+Zuschauern den World of AI
+
+74
+00:02:39,079 --> 00:02:41,875
+YouTube-Kanal nicht abonniert haben,
+
+75
+00:02:40,924 --> 00:02:43,470
+und ich weiß, das klingt etwas
+
+76
+00:02:42,520 --> 00:02:45,366
+kitschig, aber es würde mir wirklich
+
+77
+00:02:44,415 --> 00:02:47,061
+viel bedeuten, wenn ihr den Kanal
+
+78
+00:02:46,111 --> 00:02:50,010
+abonnieren würdet. Denn das würde den
+
+79
+00:02:49,052 --> 00:02:51,551
+Kanal wirklich unterstützen und mir
+
+80
+00:02:50,593 --> 00:02:53,218
+helfen, jeden Tag Videos zu produzieren
+
+81
+00:02:52,218 --> 00:02:55,070
+. Aktivieren Sie unbedingt die
+
+82
+00:02:54,117 --> 00:02:56,709
+Benachrichtigungsglocke, damit Sie
+
+83
+00:02:55,756 --> 00:02:58,581
+immer auf dem Laufenden bleiben, was in
+
+84
+00:02:57,628 --> 00:03:01,063
+der Welt der KI passiert. Wenn Sie die
+
+85
+00:03:00,107 --> 00:03:02,416
+besten KI-Tools, Workflows und
+
+86
+00:03:01,460 --> 00:03:03,943
+Neuerscheinungen vor allen anderen
+
+87
+00:03:02,987 --> 00:03:05,514
+haben wollen, abonnieren Sie meinen
+
+88
+00:03:04,558 --> 00:03:07,129
+völlig kostenlosen Newsletter über
+
+89
+00:03:06,172 --> 00:03:08,700
+den Link in der Beschreibung unten.
+
+90
+00:03:08,280 --> 00:03:11,159
+Fangen wir mit Anthropic an, denn es
+
+91
+00:03:10,211 --> 00:03:13,090
+sieht so aus, als würden sie gerade
+
+92
+00:03:12,142 --> 00:03:15,021
+einen brandneuen Opus 5.5 Checkpoint
+
+93
+00:03:14,073 --> 00:03:18,463
+testen. Aktuellen Informationen zufolge
+
+94
+00:03:17,524 --> 00:03:20,857
+testet Anthropic im Geheimen Opus 5.5,
+
+95
+00:03:19,918 --> 00:03:23,128
+was bedeutet, dass sie das vorherige
+
+96
+00:03:22,190 --> 00:03:25,400
+Opus 5.2 EAP-Modell verworfen haben.
+
+97
+00:03:25,440 --> 00:03:29,515
+Dies ist ein neues Opus 5.5-Modell, das
+
+98
+00:03:28,593 --> 00:03:32,274
+mit einem neuen Kürzel im Backlog
+
+99
+00:03:31,353 --> 00:03:35,428
+aufgetaucht ist und unter dem Codenamen
+
+100
+00:03:34,507 --> 00:03:38,310
+Claude Wafer EAP läuft. Dieser
+
+101
+00:03:37,365 --> 00:03:40,517
+Checkpoint wird aktiv getestet und soll
+
+102
+00:03:39,573 --> 00:03:42,615
+Berichten zufolge bereits am Dienstag
+
+103
+00:03:41,670 --> 00:03:45,867
+veröffentlicht werden. Ich weiß nicht
+
+104
+00:03:44,867 --> 00:03:47,936
+, ob sie alle Anthropic-Modelle auf
+
+105
+00:03:46,996 --> 00:03:50,302
+einmal veröffentlichen werden, was wir
+
+106
+00:03:49,361 --> 00:03:52,608
+uns zuvor erhofft hatten, indem sie im
+
+107
+00:03:51,667 --> 00:03:54,974
+Grunde ein aktualisiertes Sonnet-Modell
+
+108
+00:03:53,974 --> 00:03:57,044
+, dieses neue Opus-Modell sowie ein
+
+109
+00:03:56,103 --> 00:03:58,699
+aktualisiertes Fable-Modell
+
+110
+00:03:57,758 --> 00:04:01,694
+herausbringen würden. Ich bin mir
+
+111
+00:04:00,752 --> 00:04:03,597
+nicht sicher, ob sie diesen Plan
+
+112
+00:04:02,655 --> 00:04:05,788
+verfolgen, aber wir sind uns ziemlich
+
+113
+00:04:04,846 --> 00:04:07,980
+sicher, dass es höchstwahrscheinlich
+
+114
+00:04:07,037 --> 00:04:10,113
+Opus ist, das am Dienstag erscheinen
+
+115
+00:04:09,171 --> 00:04:13,260
+wird. Aber was wir auch über dieses
+
+116
+00:04:12,321 --> 00:04:15,285
+Modell wissen, ist, dass es eine
+
+117
+00:04:14,346 --> 00:04:17,677
+unglaubliche Preisstruktur hat, die es
+
+118
+00:04:16,739 --> 00:04:20,070
+besonders wettbewerbsfähig gegenüber
+
+119
+00:04:19,131 --> 00:04:23,463
+Astra machen könnte. Denn laut den
+
+120
+00:04:22,520 --> 00:04:25,636
+durchgesickerten Preisen könnte Opus
+
+121
+00:04:24,694 --> 00:04:27,924
+5.5 4 Dollar pro 1 Million Input-Tokens
+
+122
+00:04:26,981 --> 00:04:29,526
+und 20 Dollar pro 1 Million
+
+123
+00:04:28,583 --> 00:04:31,756
+Output-Tokens kosten, bei 20 Cent für
+
+124
+00:04:30,813 --> 00:04:33,872
+Cache-Reads und 5 Dollar pro Million
+
+125
+00:04:32,930 --> 00:04:37,131
+Tokens für Cache-Writes. Sollte dies
+
+126
+00:04:36,185 --> 00:04:38,477
+zutreffen, könnte diese
+
+127
+00:04:37,531 --> 00:04:40,577
+Preisgestaltung Opus 5.5 zu einer sehr
+
+128
+00:04:39,631 --> 00:04:42,139
+interessanten Option machen,
+
+129
+00:04:41,192 --> 00:04:43,915
+insbesondere wenn seine Leistung
+
+130
+00:04:42,969 --> 00:04:45,962
+tatsächlich auf dem Niveau von Astra
+
+131
+00:04:45,015 --> 00:04:48,368
+liegt. Es gibt jedoch eine interessante
+
+132
+00:04:47,414 --> 00:04:50,454
+Änderung. Das angegebene
+
+133
+00:04:49,507 --> 00:04:52,557
+Kontextfenster ist tatsächlich kleiner
+
+134
+00:04:51,610 --> 00:04:54,344
+geworden, und zwar nicht um einen
+
+135
+00:04:53,397 --> 00:04:56,447
+erheblichen Betrag, sondern nur um eine
+
+136
+00:04:55,499 --> 00:04:58,076
+geringfügige Verringerung der
+
+137
+00:04:57,129 --> 00:04:59,969
+Gesamtzahl der Tokens beim neuesten
+
+138
+00:04:59,021 --> 00:05:02,504
+Checkpoint. Während der Kontext also
+
+139
+00:05:01,553 --> 00:05:04,287
+etwas kleiner ist, konzentriert sich
+
+140
+00:05:03,336 --> 00:05:06,167
+Anthropic möglicherweise mehr auf die
+
+141
+00:05:05,215 --> 00:05:07,805
+Verbesserung der Leistung und die
+
+142
+00:05:06,854 --> 00:05:10,376
+Senkung der Gesamtkosten. Aber schauen
+
+143
+00:05:09,421 --> 00:05:11,943
+Sie sich nur den Detailgrad dieses
+
+144
+00:05:10,987 --> 00:05:14,403
+Modells an. Hier ist es in der Lage,
+
+145
+00:05:13,464 --> 00:05:16,629
+verschiedene Arten von Objekten in 3
+
+146
+00:05:15,689 --> 00:05:18,795
+D-Umgebungen ziemlich gründlich zu
+
+147
+00:05:17,855 --> 00:05:22,446
+verformen und darzustellen. Nun, nicht
+
+148
+00:05:21,509 --> 00:05:24,703
+alle Funktionen scheinen perfekt zu
+
+149
+00:05:23,766 --> 00:05:26,959
+funktionieren, wie zum Beispiel die
+
+150
+00:05:26,022 --> 00:05:29,216
+Räder, aber insgesamt hat es diese
+
+151
+00:05:28,279 --> 00:05:31,284
+wahnsinnige Simulation oder Demo
+
+152
+00:05:30,347 --> 00:05:33,666
+generiert, die zeigt, wie das BMW M5-
+
+153
+00:05:32,666 --> 00:05:35,986
+Modell in einer 3 D-Umgebung aussehen
+
+154
+00:05:35,048 --> 00:05:39,874
+kann, was irgendwie verrückt ist. Hier
+
+155
+00:05:38,948 --> 00:05:42,759
+ist nun ein direkter Vergleich mit dem
+
+156
+00:05:41,833 --> 00:05:46,057
+Opus 5.2. Dies ist ein früherer
+
+157
+00:05:45,134 --> 00:05:49,145
+Checkpoint von Opus 5.5, aber man sieht
+
+158
+00:05:48,145 --> 00:05:51,847
+, dass er im direkten Vergleich bei
+
+159
+00:05:50,925 --> 00:05:54,858
+diesen individuellen Prompts mit GPT-6
+
+160
+00:05:53,936 --> 00:05:57,715
+Astra mithalten kann, was zeigt, wie
+
+161
+00:05:56,792 --> 00:06:00,494
+gut die Modelle verschiedene Szenen
+
+162
+00:05:59,572 --> 00:06:03,927
+darstellen können. Hier sieht man,
+
+163
+00:06:02,985 --> 00:06:05,837
+dass es aufgefordert wurde, eine
+
+164
+00:06:04,895 --> 00:06:08,152
+vollständige Simulation in SVG mit ein
+
+165
+00:06:07,210 --> 00:06:10,408
+paar verschiedenen prozeduralen Szenen
+
+166
+00:06:09,466 --> 00:06:12,507
+zu erstellen. Und das ist nicht das
+
+167
+00:06:11,546 --> 00:06:14,239
+Einzige, was es geschafft hat. Es gibt
+
+168
+00:06:13,279 --> 00:06:15,679
+noch ein paar andere Dinge, wie zum
+
+169
+00:06:14,719 --> 00:06:16,919
+Beispiel die Darstellung einer
+
+170
+00:06:15,959 --> 00:06:18,935
+Kaffeemaschine. Das Verrückte ist,
+
+171
+00:06:17,994 --> 00:06:21,026
+dass der Opus 5.5 Checkpoint sogar
+
+172
+00:06:20,086 --> 00:06:23,195
+besser ist als der Opus 5.2. Ich bin
+
+173
+00:06:22,243 --> 00:06:25,067
+mir nicht sicher, ob sie diese Version
+
+174
+00:06:24,115 --> 00:06:26,843
+veröffentlichen werden, aber es ist
+
+175
+00:06:25,891 --> 00:06:28,523
+verrückt zu sehen, dass Anthropic
+
+176
+00:06:27,571 --> 00:06:30,443
+diese unentdeckten, stillen Modelle hat
+
+177
+00:06:29,443 --> 00:06:31,979
+, die sie letztendlich gar nicht
+
+178
+00:06:31,027 --> 00:06:35,174
+herausbringen. Vielleicht tun sie es
+
+179
+00:06:34,230 --> 00:06:37,244
+bei der 5.5, aber es zeigt deutlich,
+
+180
+00:06:36,300 --> 00:06:39,314
+wie viel große Kraft derzeit hinter
+
+181
+00:06:38,370 --> 00:06:41,552
+diesen Bemühungen zurückgehalten wird
+
+182
+00:06:40,552 --> 00:06:46,044
+, Leute. Aber schauen wir weiter zu
+
+183
+00:06:45,105 --> 00:06:48,512
+StepFun, denn sie haben gerade erst die
+
+184
+00:06:47,574 --> 00:06:52,133
+Step 5 Preview vorgestellt. Das sieht
+
+185
+00:06:51,192 --> 00:06:54,502
+nach einem ernsthaften Konkurrenten aus
+
+186
+00:06:53,502 --> 00:06:56,516
+, denn dieses neue Modell, das sie
+
+187
+00:06:55,575 --> 00:06:58,590
+veröffentlicht haben, ist bei der
+
+188
+00:06:57,649 --> 00:07:00,367
+Preisgestaltung sowie bei den
+
+189
+00:06:59,426 --> 00:07:02,559
+Benchmarks extrem wettbewerbsfähig.
+
+190
+00:07:02,720 --> 00:07:05,518
+Step 5 Preview ist ihr nächstes
+
+191
+00:07:04,574 --> 00:07:07,429
+Flaggschiff-Modell, das stark auf
+
+192
+00:07:06,485 --> 00:07:09,621
+agentische Arbeit, Softwareentwicklung
+
+193
+00:07:08,677 --> 00:07:11,588
+und professionelle Wissensaufgaben
+
+194
+00:07:10,644 --> 00:07:13,901
+ausgerichtet ist. Das ist es, was
+
+195
+00:07:12,951 --> 00:07:15,829
+StepFun besonders hervorhebt, wenn es
+
+196
+00:07:14,880 --> 00:07:17,859
+um ihre Stärken im Finanzbereich geht.
+
+197
+00:07:17,899 --> 00:07:21,463
+Aber dieses Modell, das wir uns gerade
+
+198
+00:07:20,530 --> 00:07:23,959
+ansehen, ist ein riesiges MoE-Modell
+
+199
+00:07:23,027 --> 00:07:26,321
+mit 600 Milliarden Parametern, von
+
+200
+00:07:25,388 --> 00:07:28,413
+denen jedoch nur 27 Milliarden
+
+201
+00:07:27,480 --> 00:07:31,567
+gleichzeitig aktiv sind. Es bietet
+
+202
+00:07:30,618 --> 00:07:33,071
+zudem Vision-Support und ein
+
+203
+00:07:32,123 --> 00:07:36,212
+Kontextfenster von 1 Million Token. Was
+
+204
+00:07:35,270 --> 00:07:38,416
+jedoch wirklich heraussticht, ist das
+
+205
+00:07:37,474 --> 00:07:40,677
+Preis-Leistungs-Verhältnis, denn laut
+
+206
+00:07:39,735 --> 00:07:42,416
+den eigenen Daten von StepFun
+
+207
+00:07:41,474 --> 00:07:44,446
+konkurriert Step 5 Preview auf dem
+
+208
+00:07:43,504 --> 00:07:46,533
+Niveau von Modellen wie GLM 5.3 und
+
+209
+00:07:45,591 --> 00:07:48,794
+Qwen 1.5 3, während es potenziell 65%
+
+210
+00:07:47,794 --> 00:07:51,964
+weniger pro Aufgabe kostet. Sie betonen
+
+211
+00:07:51,011 --> 00:07:53,775
+außerdem die Ausführung über lange
+
+212
+00:07:52,823 --> 00:07:55,443
+Zeiträume, was bedeutet, dass das
+
+213
+00:07:54,491 --> 00:07:57,350
+Modell darauf ausgelegt ist, wesentlich
+
+214
+00:07:56,397 --> 00:07:58,494
+längere und komplexere
+
+215
+00:07:57,541 --> 00:08:00,019
+Softwareentwicklungsaufgaben zu
+
+216
+00:07:59,067 --> 00:08:02,619
+bewältigen. Und während man die
+
+217
+00:08:01,675 --> 00:08:04,747
+Vorschau bereits über StepFun selbst
+
+218
+00:08:03,803 --> 00:08:06,819
+testen kann, ist der 15. Oktober das
+
+219
+00:08:05,875 --> 00:08:09,059
+große Datum, auf das man achten sollte
+
+220
+00:08:08,059 --> 00:08:11,019
+, da sie an diesem Tag die Gewichte
+
+221
+00:08:10,075 --> 00:08:13,700
+veröffentlichen wollen. Der einzige
+
+222
+00:08:12,764 --> 00:08:16,184
+Haken ist die Größe, denn ein Modell
+
+223
+00:08:15,248 --> 00:08:18,477
+mit 600 Milliarden Parametern lokal
+
+224
+00:08:17,541 --> 00:08:20,515
+ausführen zu wollen, erfordert
+
+225
+00:08:19,579 --> 00:08:23,000
+natürlich einige ernsthafte Hardware.
+
+226
+00:08:23,319 --> 00:08:26,250
+Und selbst mit Quantisierung wird es
+
+227
+00:08:25,303 --> 00:08:28,288
+praktisch unmöglich sein, dies lokal
+
+228
+00:08:27,342 --> 00:08:30,112
+auszuführen, weil es einfach ein
+
+229
+00:08:29,166 --> 00:08:33,393
+massives Modell ist. Aber sobald diese
+
+230
+00:08:32,435 --> 00:08:34,945
+Gewichte verfügbar sind, werden wir
+
+231
+00:08:33,987 --> 00:08:36,581
+definitiv sehen, was die Community aus
+
+232
+00:08:35,623 --> 00:08:39,159
+diesem Ding herausholen kann. Ich werde
+
+233
+00:08:38,212 --> 00:08:41,292
+euch definitiv auf dem Laufenden halten
+
+234
+00:08:40,292 --> 00:08:43,159
+, was sie am Ende mit diesem Modell
+
+235
+00:08:42,212 --> 00:08:44,705
+veröffentlichen und was ihr
+
+236
+00:08:43,759 --> 00:08:46,572
+tatsächlich lokal damit anstellen
+
+237
+00:08:45,625 --> 00:08:49,949
+könnt. Als nächstes sieht es so aus,
+
+238
+00:08:48,996 --> 00:08:51,500
+als ob die Veröffentlichung von
+
+239
+00:08:50,547 --> 00:08:53,380
+MiniMax M 3.1 kurz bevorstehen könnte.
+
+240
+00:08:53,279 --> 00:08:56,925
+Hinweise auf MiniMax M 3.1 sind nun in
+
+241
+00:08:55,995 --> 00:08:59,363
+Testdateien eines geheimen Commits
+
+242
+00:08:58,433 --> 00:09:00,757
+aufgetaucht, der im
+
+243
+00:08:59,826 --> 00:09:03,543
+MiniMax-Code-Repository gefunden wurde,
+
+244
+00:09:02,613 --> 00:09:05,284
+welches ebenfalls gerade
+
+245
+00:09:04,354 --> 00:09:07,931
+veröffentlicht wurde und Open Source
+
+246
+00:09:07,001 --> 00:09:11,284
+ist. Natürlich bestätigt dies noch
+
+247
+00:09:10,336 --> 00:09:13,043
+kein Veröffentlichungsdatum oder
+
+248
+00:09:12,095 --> 00:09:14,906
+ähnliches, aber es ist ein starker
+
+249
+00:09:13,958 --> 00:09:16,873
+Hinweis darauf, dass MiniMax an ihrem
+
+250
+00:09:15,925 --> 00:09:18,840
+nächsten Modell arbeitet, dem M 3.1.
+
+251
+00:09:19,022 --> 00:09:22,928
+Nach dem, was ich gehört habe, scheint
+
+252
+00:09:22,002 --> 00:09:26,429
+es derzeit vorbereitet zu werden. Wir
+
+253
+00:09:25,498 --> 00:09:29,077
+sind also sehr nah dran, dass sie die
+
+254
+00:09:28,146 --> 00:09:31,167
+letzten Handgriffe für diese
+
+255
+00:09:30,237 --> 00:09:33,467
+Veröffentlichung vornehmen, und
+
+256
+00:09:32,536 --> 00:09:36,045
+vielleicht sehen wir das Modell noch
+
+257
+00:09:35,115 --> 00:09:38,205
+Ende diesen Monats oder Anfang
+
+258
+00:09:37,275 --> 00:09:42,021
+nächsten Monats. Während der
+
+259
+00:09:41,087 --> 00:09:44,566
+Zwischenergebnis-Konferenz von MiniMax
+
+260
+00:09:43,631 --> 00:09:47,044
+am 26. August erklärte der CEO, dass
+
+261
+00:09:46,110 --> 00:09:49,328
+mehrere kommende Modelle, darunter
+
+262
+00:09:48,393 --> 00:09:51,807
+MiniMax M 3.1, M3 Pro und H 3.1, kurz
+
+263
+00:09:50,872 --> 00:09:56,032
+vor der Fertigstellung stünden. Dieses
+
+264
+00:09:55,084 --> 00:09:58,009
+M 3.1-Modell scheint sich weniger auf
+
+265
+00:09:57,061 --> 00:10:00,039
+die reine Skalierung zu konzentrieren,
+
+266
+00:09:59,091 --> 00:10:01,860
+sondern mehr darauf, es für reale
+
+267
+00:10:00,913 --> 00:10:03,942
+Anwendungsfälle extrem zuverlässig zu
+
+268
+00:10:02,994 --> 00:10:06,795
+machen. MiniMax gibt an, dass sie
+
+269
+00:10:05,849 --> 00:10:08,475
+Stabilität, Ausgabequalität,
+
+270
+00:10:07,529 --> 00:10:10,047
+Inferenz-Effizienz sowie die
+
+271
+00:10:09,101 --> 00:10:11,835
+Verallgemeinerungsfähigkeit von
+
+272
+00:10:10,890 --> 00:10:14,205
+Agenten optimieren. Im Grunde versuchen
+
+273
+00:10:13,245 --> 00:10:15,616
+sie, ein Modell zu bauen, das ihre
+
+274
+00:10:14,656 --> 00:10:17,188
+breitere Infrastruktur zuverlässig im
+
+275
+00:10:16,228 --> 00:10:20,115
+großen Maßstab betreiben kann. Aber
+
+276
+00:10:19,174 --> 00:10:22,360
+bei M3 Pro wird es richtig verrückt,
+
+277
+00:10:21,420 --> 00:10:24,606
+denn MiniMax sagt, dass dieses Modell
+
+278
+00:10:23,665 --> 00:10:26,911
+fast 3 Billionen Parameter umfasst und
+
+279
+00:10:25,970 --> 00:10:28,802
+ein großes Architektur-Upgrade
+
+280
+00:10:27,861 --> 00:10:30,397
+enthält, das Bereiche wie
+
+281
+00:10:29,456 --> 00:10:31,875
+Pre-Training-Skalierung,
+
+282
+00:10:30,934 --> 00:10:34,002
+Trainingseffizienz und Aufgaben mit
+
+283
+00:10:33,061 --> 00:10:35,716
+extrem langen Zeithorizonten
+
+284
+00:10:34,775 --> 00:10:38,723
+voranbringen wird. Wenn dir dieses
+
+285
+00:10:37,772 --> 00:10:40,268
+Video gefällt und du den Kanal
+
+286
+00:10:39,316 --> 00:10:42,198
+unterstützen möchtest, kannst du eine
+
+287
+00:10:41,246 --> 00:10:43,984
+Spende über die Super Thanks-Option
+
+288
+00:10:43,032 --> 00:10:46,423
+unten in Betracht ziehen. Oder du
+
+289
+00:10:45,469 --> 00:10:47,904
+kannst unserem privaten Discord
+
+290
+00:10:46,950 --> 00:10:49,709
+beitreten, wo du monatlich kostenlosen
+
+291
+00:10:48,756 --> 00:10:51,422
+Zugriff auf verschiedene Abonnements
+
+292
+00:10:50,468 --> 00:10:54,361
+für KI-Tools erhältst. Dazu gibt es
+
+293
+00:10:53,416 --> 00:10:56,402
+tägliche KI-News, exklusive Inhalte
+
+294
+00:10:55,457 --> 00:10:59,880
+und vieles mehr. Und das ist nicht die
+
+295
+00:10:58,942 --> 00:11:02,358
+einzige KI aus China, an der gearbeitet
+
+296
+00:11:01,420 --> 00:11:04,774
+wird, denn Alibaba arbeitet an Qwen-4,
+
+297
+00:11:03,836 --> 00:11:07,127
+und es könnte schon bald erscheinen,
+
+298
+00:11:06,189 --> 00:11:09,357
+vielleicht schon nächste Woche, da
+
+299
+00:11:08,419 --> 00:11:11,525
+Alibabas kommende Aspara-Konferenz
+
+300
+00:11:10,587 --> 00:11:15,544
+nächste Woche stattfindet. Dahinter
+
+301
+00:11:14,605 --> 00:11:17,544
+steckt tatsächlich eine gewisse
+
+302
+00:11:16,605 --> 00:11:19,847
+Geschichte, denn Alibaba hat frühere
+
+303
+00:11:18,908 --> 00:11:22,272
+Aspara-Konferenzen genutzt, um wichtige
+
+304
+00:11:21,332 --> 00:11:24,211
+Qwen-Generationen vorzustellen,
+
+305
+00:11:23,272 --> 00:11:26,151
+darunter ihr 2.0-Modell aus der
+
+306
+00:11:25,211 --> 00:11:28,454
+Tongyi-Modellserie sowie Qwen 2.5 und
+
+307
+00:11:27,514 --> 00:11:31,000
+Qwen 3. Es besteht also eine reale
+
+308
+00:11:30,047 --> 00:11:32,709
+Möglichkeit, dass wir dort auch die
+
+309
+00:11:31,755 --> 00:11:35,751
+nächste Generation sehen werden. Die
+
+310
+00:11:34,808 --> 00:11:37,863
+Konferenzagenda macht das Ganze noch
+
+311
+00:11:36,920 --> 00:11:39,918
+interessanter, da es eine komplette
+
+312
+00:11:38,976 --> 00:11:41,802
+Session namens „Advancing Qwen
+
+313
+00:11:40,860 --> 00:11:43,801
+towards agentic AI“ gibt, in der
+
+314
+00:11:42,858 --> 00:11:46,027
+Alibaba das neueste Flaggschiff-Modell
+
+315
+00:11:45,084 --> 00:11:48,254
+mit großen Verbesserungen bei Coding-
+
+316
+00:11:47,254 --> 00:11:50,366
+und Büro-Funktionen vorstellen will,
+
+317
+00:11:49,423 --> 00:11:52,650
+neben einem neuen Omni-Modell und einem
+
+318
+00:11:51,707 --> 00:11:54,591
+Echtzeit-Übersetzungsmodell für
+
+319
+00:11:53,648 --> 00:11:58,102
+mehrere Sprachen. Interessant ist
+
+320
+00:11:57,170 --> 00:12:00,762
+jedoch, dass für die Aspera-Konferenz
+
+321
+00:11:59,830 --> 00:12:02,808
+noch weitere kommende Modelle
+
+322
+00:12:01,876 --> 00:12:05,400
+angekündigt wurden, wie zum Beispiel
+
+323
+00:12:04,468 --> 00:12:07,924
+die Vorschau auf Happy Oyster 2, ihr
+
+324
+00:12:06,992 --> 00:12:10,621
+World-Modell. Sie veröffentlichen
+
+325
+00:12:09,672 --> 00:12:12,124
+außerdem einige verschiedene
+
+326
+00:12:11,174 --> 00:12:13,727
+Audio-Modelle, wie ASR, TTS und
+
+327
+00:12:12,778 --> 00:12:16,334
+Echtzeit-Funktionen. Und dann haben wir
+
+328
+00:12:15,388 --> 00:12:17,981
+noch ein neues Bildmodell, das
+
+329
+00:12:17,034 --> 00:12:19,574
+tatsächlich schon vor dieser
+
+330
+00:12:18,627 --> 00:12:21,699
+Aspera-Konferenz veröffentlicht wurde.
+
+331
+00:12:22,040 --> 00:12:26,110
+Das ist Qwen Image 2.1. Dies ist ein
+
+332
+00:12:25,164 --> 00:12:28,007
+neues Open-Weight-Bildmodell mit 7
+
+333
+00:12:27,061 --> 00:12:29,688
+Milliarden Parametern für die
+
+334
+00:12:28,742 --> 00:12:32,134
+Generierung und Bearbeitung. Und das
+
+335
+00:12:31,199 --> 00:12:34,471
+Verrückte daran ist, dass es nur 7
+
+336
+00:12:33,536 --> 00:12:37,995
+Milliarden Parameter hat. Wir haben
+
+337
+00:12:37,051 --> 00:12:40,094
+viele verschiedene Rückmeldungen von
+
+338
+00:12:39,149 --> 00:12:42,027
+Nutzern gehört, die dieses Modell
+
+339
+00:12:41,082 --> 00:12:44,070
+getestet haben und sagen, dass es im
+
+340
+00:12:43,125 --> 00:12:46,223
+Grunde auf Augenhöhe mit Nanao Nana 2
+
+341
+00:12:45,279 --> 00:12:48,809
+ist. Und das finde ich einfach
+
+342
+00:12:47,857 --> 00:12:51,477
+unglaublich. Trotz seiner extremen
+
+343
+00:12:50,539 --> 00:12:53,611
+Leichtigkeit hat sogar Midjourney
+
+344
+00:12:52,673 --> 00:12:56,121
+erklärt, dass es mit vielen ähnlichen
+
+345
+00:12:55,184 --> 00:12:59,326
+Modellen konkurrieren kann. Es ist ein
+
+346
+00:12:58,390 --> 00:13:01,782
+Modell, das bis zu 10 Referenzbilder,
+
+347
+00:13:00,847 --> 00:13:04,109
+High-Fidelity-Bearbeitung und sogar
+
+348
+00:13:03,173 --> 00:13:06,694
+native RGBA-Transparenz für Bilder mit
+
+349
+00:13:05,759 --> 00:13:09,280
+transparentem Hintergrund unterstützt.
+
+350
+00:13:09,119 --> 00:13:11,710
+Und das Beste ist, dass die Weights ab
+
+351
+00:13:10,752 --> 00:13:13,385
+sofort verfügbar sind, was es zu einem
+
+352
+00:13:12,426 --> 00:13:15,060
+ziemlich leistungsstarken Modell macht,
+
+353
+00:13:14,101 --> 00:13:18,412
+das man selbst ausführen kann. Und zu
+
+354
+00:13:17,468 --> 00:13:20,249
+guter Letzt sieht es so aus, als
+
+355
+00:13:19,305 --> 00:13:22,364
+könnte Kimi Cat 3.1 bald erscheinen,
+
+356
+00:13:21,419 --> 00:13:24,312
+da der offizielle Kimi-Account von
+
+357
+00:13:23,367 --> 00:13:26,037
+Moonshot AI wahllos eine lange
+
+358
+00:13:25,092 --> 00:13:28,263
+Zahlenfolge gepostet hat, die im Grunde
+
+359
+00:13:27,319 --> 00:13:30,322
+keine Erklärung hat, aber die Leute
+
+360
+00:13:29,378 --> 00:13:32,492
+haben schnell erkannt, dass die Zahlen
+
+361
+00:13:31,548 --> 00:13:34,440
+perfekt zu Pi passen, wenn man die
+
+362
+00:13:33,496 --> 00:13:38,822
+anfängliche 3.1 weglässt. Im Grunde
+
+363
+00:13:37,896 --> 00:13:41,769
+scheint der gesamte Teaser also nur auf
+
+364
+00:13:40,842 --> 00:13:44,200
+eines hinzuweisen: Kimi Cat 3.1.
+
+365
+00:13:44,960 --> 00:13:48,301
+Natürlich wurde noch nichts offiziell
+
+366
+00:13:47,363 --> 00:13:49,965
+veröffentlicht, aber eine
+
+367
+00:13:49,027 --> 00:13:52,369
+Veröffentlichung steht kurz bevor, da
+
+368
+00:13:51,430 --> 00:13:54,772
+sie sich nun auf das Marketing und die
+
+369
+00:13:53,834 --> 00:13:57,052
+Vorschau der Highlights dieses neuen
+
+370
+00:13:56,114 --> 00:13:59,456
+Feature-Modells konzentrieren, das sie
+
+371
+00:13:58,517 --> 00:14:03,534
+bald herausbringen werden. Aber das war
+
+372
+00:14:02,556 --> 00:14:04,644
+es auch schon, Leute. Ich hoffe, euch
+
+373
+00:14:03,678 --> 00:14:06,072
+hat das heutige Video gefallen. Werft
+
+374
+00:14:05,116 --> 00:14:07,482
+einen Blick auf den World of AI
+
+375
+00:14:06,526 --> 00:14:09,400
+Insiders School Club. Schaut euch den
+
+376
+00:14:08,446 --> 00:14:10,997
+World of AI Benchmark und die Vibe
+
+377
+00:14:10,043 --> 00:14:12,447
+Coding Plattform an. Schaut euch
+
+378
+00:14:11,483 --> 00:14:13,890
+unseren zweiten Kanal an. Abonniert den
+
+379
+00:14:12,922 --> 00:14:15,272
+Newsletter. Kommt auf den Discord.
+
+380
+00:14:14,372 --> 00:14:16,570
+Folgt mir auf Twitter. Und zu guter
+
+381
+00:14:15,599 --> 00:14:17,667
+Letzt: Abonniert unbedingt den Kanal.
+
+382
+00:14:16,767 --> 00:14:18,358
+Aktiviert die Glocke für
+
+383
+00:14:17,382 --> 00:14:19,498
+Benachrichtigungen. Gebt diesem Video
+
+384
+00:14:18,532 --> 00:14:20,850
+ein Like. Und schaut euch bitte unsere
+
+385
+00:14:19,883 --> 00:14:22,129
+früheren Videos an, damit ihr bei den
+
+386
+00:14:21,162 --> 00:14:23,179
+neuesten KI-Nachrichten auf dem
+
+387
+00:14:22,212 --> 00:14:24,494
+Laufenden bleibt. Aber mit diesem
+
+388
+00:14:23,525 --> 00:14:25,371
+Gedanken, Leute, habt einen
+
+389
+00:14:24,403 --> 00:14:26,612
+großartigen Tag. Verbreitet
+
+390
+00:14:25,652 --> 00:14:28,065
+Positivität, und ich sehe euch bald
+
+391
+00:14:27,105 --> 00:14:29,280
+wieder. Macht’s gut, Leute.
