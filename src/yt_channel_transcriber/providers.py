@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import base64
 import os
+import re
 import time
 from dataclasses import dataclass
 from typing import Any
@@ -57,6 +58,112 @@ class ProviderTranscript:
     language_code: str
     is_generated: bool | None
     provider: str
+
+
+class HostedPublicTranscriptProvider:
+    def __init__(self) -> None:
+        self.session = requests.Session()
+        self.session.headers.update({"User-Agent": "yt-channel-transcriber/0.1"})
+
+    def _freetranscriptapi(
+        self, video: Video, languages: list[str]
+    ) -> ProviderTranscript:
+        params = {
+            "video_url": video.video_id,
+            "lang": languages[0] if languages else "en",
+        }
+        response = self.session.get(
+            "https://api.freetranscriptapi.com/v1/transcript",
+            params=params,
+            timeout=(3, 20),
+        )
+        response.raise_for_status()
+        payload = response.json()
+        rows = payload.get("transcript") or []
+        segments = [
+            Segment(
+                start=float(row["start"]),
+                duration=max(0.001, float(row.get("duration") or 0.001)),
+                text=str(row.get("text") or "").strip(),
+            )
+            for row in rows
+            if str(row.get("text") or "").strip()
+        ]
+        if not segments:
+            raise TranscriptUnavailable("FreeTranscriptAPI returned no transcript rows")
+        code = str(payload.get("language") or "und")
+        return ProviderTranscript(
+            segments=segments,
+            language=code,
+            language_code=code,
+            is_generated=None,
+            provider="freetranscriptapi",
+        )
+
+    @staticmethod
+    def _timestamp_seconds(value: str) -> float:
+        parts = [int(part) for part in value.split(":")]
+        if len(parts) == 2:
+            return float(parts[0] * 60 + parts[1])
+        if len(parts) == 3:
+            return float(parts[0] * 3600 + parts[1] * 60 + parts[2])
+        raise ValueError(f"invalid transcript timestamp: {value}")
+
+    def _youtube_transcript_ai(
+        self, video: Video, languages: list[str]
+    ) -> ProviderTranscript:
+        params = {"lang": languages[0]} if languages else {}
+        response = self.session.get(
+            f"https://youtube-transcript.ai/transcript/{video.video_id}.txt",
+            params=params,
+            timeout=(3, 20),
+        )
+        response.raise_for_status()
+        text = response.text
+        matches = list(
+            re.finditer(
+                r"(?m)^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s+(.+?)(?=^\[\d{1,2}:\d{2}(?::\d{2})?\]\s+|\Z)",
+                text,
+                flags=re.DOTALL,
+            )
+        )
+        if not matches:
+            raise TranscriptUnavailable("youtube-transcript.ai returned no timestamped transcript")
+
+        starts = [self._timestamp_seconds(match.group(1)) for match in matches]
+        segments = []
+        for index, match in enumerate(matches):
+            start = starts[index]
+            end = starts[index + 1] if index + 1 < len(starts) else start + 5.0
+            body = " ".join(match.group(2).split())
+            if body:
+                segments.append(
+                    Segment(start=start, duration=max(0.001, end - start), text=body)
+                )
+
+        language_match = re.search(r"(?m)^Language:\s*([A-Za-z0-9_-]+)", text)
+        code = language_match.group(1) if language_match else (languages[0] if languages else "und")
+        return ProviderTranscript(
+            segments=segments,
+            language=code,
+            language_code=code,
+            is_generated=None,
+            provider="youtube-transcript.ai",
+        )
+
+    def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
+        errors: list[str] = []
+        try:
+            return self._freetranscriptapi(video, languages)
+        except (requests.RequestException, ValueError, KeyError, TypeError, TranscriptUnavailable) as exc:
+            errors.append(f"freetranscriptapi: {exc}")
+
+        try:
+            return self._youtube_transcript_ai(video, languages)
+        except (requests.RequestException, ValueError, TranscriptUnavailable) as exc:
+            errors.append(f"youtube-transcript.ai: {exc}")
+
+        raise TranscriptBlocked("; ".join(errors))
 
 
 class InnerTubeTranscriptPanelProvider:
@@ -655,6 +762,7 @@ class PipedCaptionProvider:
 
 class FallbackTranscriptProvider:
     def __init__(self) -> None:
+        self.hosted_public = HostedPublicTranscriptProvider()
         self.invidious_transcript = InvidiousDirectTranscriptProvider()
         self.piped = PipedCaptionProvider()
         self.transcript_panel = InnerTubeTranscriptPanelProvider()
@@ -666,6 +774,11 @@ class FallbackTranscriptProvider:
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
         errors: list[str] = []
+
+        try:
+            return self.hosted_public.fetch(video, languages)
+        except (TranscriptUnavailable, TranscriptBlocked) as exc:
+            errors.append(f"hosted-public: {exc}")
 
         try:
             return self.piped.fetch(video, languages)
