@@ -48,6 +48,124 @@ class ProviderTranscript:
     provider: str
 
 
+class InnerTubeCaptionProvider:
+    PLAYER_URL = "https://www.youtube.com/youtubei/v1/player"
+    CLIENT_NAME = "ANDROID"
+    CLIENT_ID = "3"
+    CLIENT_VERSION = "21.26.364"
+    USER_AGENT = "com.google.android.youtube/21.26.364 (Linux; U; Android 11) gzip"
+    PUBLIC_ANDROID_KEY = "AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w"
+
+    def __init__(self) -> None:
+        self.session = requests.Session()
+        self.session.headers.update(
+            {
+                "User-Agent": self.USER_AGENT,
+                "Content-Type": "application/json",
+                "X-YouTube-Client-Name": self.CLIENT_ID,
+                "X-YouTube-Client-Version": self.CLIENT_VERSION,
+            }
+        )
+
+    @staticmethod
+    def _json3_segments(payload: dict[str, Any]) -> list[Segment]:
+        segments: list[Segment] = []
+        for event in payload.get("events", []):
+            pieces = event.get("segs")
+            if not pieces:
+                continue
+            text = "".join(str(piece.get("utf8") or "") for piece in pieces).strip()
+            if not text:
+                continue
+            start = float(event.get("tStartMs") or 0) / 1000
+            duration = float(event.get("dDurationMs") or 0) / 1000
+            segments.append(Segment(start=start, duration=duration, text=text))
+        return segments
+
+    def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
+        body = {
+            "context": {
+                "client": {
+                    "clientName": self.CLIENT_NAME,
+                    "clientVersion": self.CLIENT_VERSION,
+                    "androidSdkVersion": 30,
+                    "userAgent": self.USER_AGENT,
+                    "osName": "Android",
+                    "osVersion": "11",
+                    "hl": "en",
+                    "gl": "US",
+                }
+            },
+            "videoId": video.video_id,
+            "contentCheckOk": True,
+            "racyCheckOk": True,
+        }
+        try:
+            response = self.session.post(
+                self.PLAYER_URL,
+                params={"key": self.PUBLIC_ANDROID_KEY, "prettyPrint": "false"},
+                json=body,
+                timeout=(5, 15),
+            )
+            response.raise_for_status()
+            data = response.json()
+        except (requests.RequestException, ValueError) as exc:
+            raise TranscriptBlocked(f"InnerTube player request failed: {exc}") from exc
+
+        playability = data.get("playabilityStatus") or {}
+        if playability.get("status") not in {None, "OK"}:
+            reason = playability.get("reason") or playability.get("status") or "unavailable"
+            raise TranscriptBlocked(f"InnerTube playability: {reason}")
+
+        renderer = (
+            data.get("captions", {})
+            .get("playerCaptionsTracklistRenderer", {})
+        )
+        tracks = renderer.get("captionTracks") or []
+        if not tracks:
+            raise TranscriptUnavailable("InnerTube found no public caption tracks")
+
+        chosen = None
+        for code in languages:
+            chosen = next(
+                (track for track in tracks if track.get("languageCode") == code),
+                None,
+            )
+            if chosen:
+                break
+        chosen = chosen or tracks[0]
+
+        base_url = str(chosen.get("baseUrl") or "")
+        if not base_url:
+            raise TranscriptUnavailable("InnerTube caption track has no base URL")
+        separator = "&" if "?" in base_url else "?"
+        caption_url = f"{base_url}{separator}fmt=json3"
+
+        try:
+            caption_response = self.session.get(caption_url, timeout=(5, 15))
+            caption_response.raise_for_status()
+            if not caption_response.content:
+                raise TranscriptUnavailable("InnerTube timedtext returned an empty body")
+            payload = caption_response.json()
+        except TranscriptUnavailable:
+            raise
+        except (requests.RequestException, ValueError) as exc:
+            raise TranscriptBlocked(f"InnerTube caption download failed: {exc}") from exc
+
+        segments = self._json3_segments(payload)
+        if not segments:
+            raise TranscriptUnavailable("InnerTube JSON3 contained no transcript segments")
+
+        language_code = str(chosen.get("languageCode") or "und")
+        return ProviderTranscript(
+            segments=segments,
+            language=language_code,
+            language_code=language_code,
+            is_generated=chosen.get("kind") == "asr",
+            provider="youtube-innertube",
+        )
+
+
 class YtDlpCaptionProvider:
     def __init__(self) -> None:
         self.session = requests.Session()
@@ -249,6 +367,7 @@ class InvidiousTranscriptProvider:
 
 class FallbackTranscriptProvider:
     def __init__(self) -> None:
+        self.innertube = InnerTubeCaptionProvider()
         self.ytdlp = YtDlpCaptionProvider()
         self.direct = YouTubeTranscriptProvider()
         self.invidious = InvidiousTranscriptProvider()
@@ -256,6 +375,11 @@ class FallbackTranscriptProvider:
 
     def fetch(self, video: Video, languages: list[str]) -> ProviderTranscript:
         errors: list[str] = []
+
+        try:
+            return self.innertube.fetch(video, languages)
+        except (TranscriptUnavailable, TranscriptBlocked) as exc:
+            errors.append(f"innertube: {exc}")
 
         try:
             return self.ytdlp.fetch(video, languages)
